@@ -1,0 +1,20 @@
+digraph "omc_CodegenSparseFMI_extFunDefArgs"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node87767 [label="omc_CodegenSparseFMI\l_extFunDefArgs",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node87767 -> Node87768 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87768 [label="omc_CodegenSparseFMI\l_extFunDefDynamic",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#a641d8521dd60974833c07104460fc137"];
+  Node87768 -> Node87769 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87769 [label="omc_CodegenSparseFMI\l_functionHeader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#a3a4e37a305f6a89faea6f0e9859281c1"];
+  Node87769 -> Node87770 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87770 [label="boxptr_CodegenSparseFMI\l_functionHeader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#a8dd455515189b777f47a814c26acdc09"];
+  Node87769 -> Node87771 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87771 [label="omc_CodegenSparseFMI\l_lm__211",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2e/_codegen_sparse_f_m_i_8c.html#af3a21502d3dd1fc1f64222894ba4070a"];
+  Node87771 -> Node87772 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87772 [label="omc_CodegenSparseFMI\l_functionHeaders",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#a4c201884efcfd68817a94996608d5f9b"];
+  Node87767 -> Node87773 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87773 [label="omc_CodegenSparseFMI\l_extFunDef",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#ae52f8130ed3305bf02e8d57497a7d6af"];
+  Node87773 -> Node87769 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

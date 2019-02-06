@@ -1,0 +1,7 @@
+<map id="omc_CodegenSparseFMI_switchIndex" name="omc_CodegenSparseFMI_switchIndex">
+<area shape="rect" id="node2" href="$d7/d52/_tpl_8c.html#a1038a57834f028b49f38adc4d5fcd049" title="omc_Tpl_writeTok" alt="" coords="255,5,384,32"/>
+<area shape="rect" id="node3" href="$d0/d09/_patternm_8c.html#a94a154e9b3b241fdd840aa65c6f6a27f" title="omc_Patternm_getValueCtor" alt="" coords="224,56,415,83"/>
+<area shape="rect" id="node4" href="$d7/d52/_tpl_8c.html#ada57037d1430be632aea182a946c3245" title="omc_Tpl_writeStr" alt="" coords="257,107,381,133"/>
+<area shape="rect" id="node5" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a751bf2360cb3df6de97811998890b7ea" title="intString" alt="" coords="284,157,355,184"/>
+<area shape="rect" id="node6" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a71a925de64a6f26ca5ef2903b616e73d" title="stringHashDjb2Mod" alt="" coords="251,208,388,235"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="boxptr_CodegenSparseFMI_varOutput" name="boxptr_CodegenSparseFMI_varOutput">
+<area shape="rect" id="node2" href="$d1/d2e/_codegen_sparse_f_m_i_8c.html#a6abc11e2e454bee52c848b7d3f6e8cd6" title="omc_CodegenSparseFMI\l_varOutput" alt="" coords="235,71,405,112"/>
+<area shape="rect" id="node3" href="$d1/d5c/_config_8c.html#abbb1ebde9dd1336640d4feb5ef557d9a" title="omc_Config_acceptMetaModelica\lGrammar" alt="" coords="453,5,672,47"/>
+<area shape="rect" id="node8" href="$d1/d2e/_codegen_sparse_f_m_i_8c.html#a222231981ce42a8a89ea2c15eaafa5d2" title="omc_CodegenSparseFMI\l_fun__378" alt="" coords="477,71,648,112"/>
+<area shape="rect" id="node11" href="$d7/d52/_tpl_8c.html#a79ae8e0232bfdb080d90e9f7890dc199" title="omc_Tpl_pushIter" alt="" coords="499,137,626,163"/>
+<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#add52ff282ca5df852c1905fabb4571c9" title="omc_Flags_getConfigEnum" alt="" coords="720,13,903,39"/>
+<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="951,13,1133,39"/>
+<area shape="rect" id="node6" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="1181,13,1331,39"/>
+<area shape="rect" id="node7" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1379,13,1481,39"/>
+<area shape="rect" id="node9" href="$d1/d2e/_codegen_sparse_f_m_i_8c.html#a41b68e3e9765b2d8afc8ce6102197450" title="omc_CodegenSparseFMI\l_tempDecl" alt="" coords="726,71,897,112"/>
+<area shape="rect" id="node10" href="$d7/d52/_tpl_8c.html#a1038a57834f028b49f38adc4d5fcd049" title="omc_Tpl_writeTok" alt="" coords="977,78,1107,105"/>
+</map>

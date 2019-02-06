@@ -1,0 +1,44 @@
+digraph "omc_CodegenSparseFMI_whenOperators"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node238057 [label="omc_CodegenSparseFMI\l_whenOperators",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node238057 -> Node238058 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238058 [label="omc_CodegenSparseFMI\l_equationElseWhen",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#a9252f94be6a8d4db5d542a2a30867d21"];
+  Node238058 -> Node238058 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238058 -> Node238059 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238059 [label="omc_CodegenSparseFMI\l_equationWhen",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#a182b50d619540de019adbeb9053f85d2"];
+  Node238059 -> Node238060 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238060 [label="omc_CodegenSparseFMI\l_equation__",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#a99f4c0cb745d02faf3615bcda104a18a"];
+  Node238060 -> Node238061 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238061 [label="omc_CodegenSparseFMI\l_equationMixed",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#ac29f9768bd0d77a3e1e85ee8d33113f2"];
+  Node238061 -> Node238060 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238060 -> Node238062 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238062 [label="omc_CodegenSparseFMI\l_fun__160",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2e/_codegen_sparse_f_m_i_8c.html#ae706b7e1daac9ecce083bb0f153c4537"];
+  Node238062 -> Node238063 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238063 [label="omc_CodegenSparseFMI\l_lm__161",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2e/_codegen_sparse_f_m_i_8c.html#afef10b15667b5fa348e2e5474100a059"];
+  Node238063 -> Node238064 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238064 [label="omc_CodegenSparseFMI\l_equationLinear",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#ae8ae758cee8e51f80c69f273ea2dead4"];
+  Node238064 -> Node238060 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238060 -> Node238065 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238065 [label="omc_CodegenSparseFMI\l_lm__145",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2e/_codegen_sparse_f_m_i_8c.html#a482b9fe4a2cf1170ba37c04cbeeba56b"];
+  Node238065 -> Node238066 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238066 [label="omc_CodegenSparseFMI\l_allEqns",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#a94fa0652e8d98e8869394cc988af391b"];
+  Node238060 -> Node238067 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238067 [label="omc_CodegenSparseFMI\l_lm__144",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2e/_codegen_sparse_f_m_i_8c.html#a53bc84287c3730b73c523380ca378dcf"];
+  Node238067 -> Node238066 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238060 -> Node238068 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238068 [label="omc_CodegenSparseFMI\l_equation__function",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#a3b6d78478d2920ade27380933feef664"];
+  Node238068 -> Node238069 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238069 [label="omc_CodegenSparseFMI\l_lm__49",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2e/_codegen_sparse_f_m_i_8c.html#afd950130e5951ce5d9b078504b8e5445"];
+  Node238069 -> Node238070 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238070 [label="omc_CodegenSparseFMI\l_generateEquations",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#a944e50c37aa93fa6e9c540a7d9a7f671"];
+  Node238070 -> Node238071 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238071 [label="omc_CodegenSparseFMI\l_fun__45",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2e/_codegen_sparse_f_m_i_8c.html#a33c397eee4567dbaf5269d88f9ea50f2"];
+  Node238071 -> Node238072 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238072 [label="omc_CodegenSparseFMI\l_fmumodel__identifierFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#a0d704247081fbb1f268bdd5ae5d7f3f3"];
+  Node238072 -> Node238073 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node238073 [label="omc_CodegenSparseFMI\l_translateModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#a6e115544fcae7968ab9fa00a0ea17b1d"];
+  Node238057 -> Node238059 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

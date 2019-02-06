@@ -1,0 +1,13 @@
+digraph "omc_CodegenSparseFMI_getIntegerFunction2"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node172378 [label="omc_CodegenSparseFMI\l_getIntegerFunction2",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node172378 -> Node172379 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node172379 [label="omc_CodegenSparseFMI\l_fun__45",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2e/_codegen_sparse_f_m_i_8c.html#a33c397eee4567dbaf5269d88f9ea50f2"];
+  Node172379 -> Node172380 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node172380 [label="omc_CodegenSparseFMI\l_fmumodel__identifierFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#a0d704247081fbb1f268bdd5ae5d7f3f3"];
+  Node172380 -> Node172381 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node172381 [label="omc_CodegenSparseFMI\l_translateModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d88/_codegen_sparse_f_m_i_8h.html#a6e115544fcae7968ab9fa00a0ea17b1d"];
+}
