@@ -1,0 +1,7 @@
+<map id="GC_set_all_interior_pointers" name="GC_set_all_interior_pointers">
+<area shape="rect" id="node2" href="$dd/d79/gc__priv_8h.html#abbd44583f2d985e9a2eb30303beb8f97" title="GC_initialize_offsets" alt="" coords="194,5,337,32"/>
+<area shape="rect" id="node3" href="$db/d5f/blacklst_8c.html#aa959cb7ecd954c5ce71a307a95e917b0" title="GC_bl_init_no_interiors" alt="" coords="187,56,344,83"/>
+<area shape="rect" id="node4" href="$d2/d22/headers_8c.html#ad4012dbe01b6c85c8c21b76e5d42b460" title="GC_scratch_alloc" alt="" coords="392,5,519,32"/>
+<area shape="rect" id="node5" href="$dd/d79/gc__priv_8h.html#a515817b1cc28538efe42e953361e6cb1" title="GC_err_printf" alt="" coords="405,56,505,83"/>
+<area shape="rect" id="node6" href="$db/d5f/blacklst_8c.html#abffd8217465e2a2af662066fae2c46b3" title="GC_clear_bl" alt="" coords="408,107,503,133"/>
+</map>

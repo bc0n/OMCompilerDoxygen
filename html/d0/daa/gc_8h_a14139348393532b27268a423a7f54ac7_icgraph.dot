@@ -1,0 +1,13 @@
+digraph "GC_register_finalizer_ignore_self"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node3181 [label="GC_register_finalizer\l_ignore_self",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3181 -> Node3182 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3182 [label="GC_debug_register_finalizer\l_ignore_self",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/daa/gc_8h.html#aaaf8fca2d5e1c6fead871ac23da61a93"];
+  Node3181 -> Node3183 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3183 [label="gc_cleanup::~gc_cleanup",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/df3/classgc__cleanup.html#afb3b5e57dc7248638d294ca848bcc6da"];
+  Node3181 -> Node3184 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3184 [label="gc_cleanup::gc_cleanup",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/df3/classgc__cleanup.html#aef0c8fe44e3ea2c2f731ab11f717741a"];
+}

@@ -1,0 +1,9 @@
+digraph "GC_debug_end_stubborn_change"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node530 [label="GC_debug_end_stubborn\l_change",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node530 -> Node531 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node531 [label="GC_debug_ptr_store\l_and_dirty",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/daa/gc_8h.html#a6bfbb76ce93eedfb9fc0a64659e26c71"];
+}

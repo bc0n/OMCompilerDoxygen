@@ -1,0 +1,11 @@
+digraph "GC_set_manual_vdb_allowed"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node3489 [label="GC_set_manual_vdb_allowed",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3489 -> Node3490 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3490 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d4d/disclaim__test_8c.html#a840291bc02cba5474a4cb46a9b9566fe"];
+  Node3489 -> Node3491 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3491 [label="libsrl_init",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d1f/staticrootstest_8c.html#a6c08b01ab84bb4fc83f50ca5202614c8"];
+}

@@ -1,0 +1,13 @@
+digraph "GC_register_displacement"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node3160 [label="GC_register_displacement",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3160 -> Node3161 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3161 [label="GC_register_displacement\l_inner",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d52/obj__map_8c.html#a2a2204a2386781556aa1d3d70eb9bd04"];
+  Node3161 -> Node3162 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3162 [label="GC_add_map_entry",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d79/gc__priv_8h.html#ac2326c77652399203efc82c6b971dc4e"];
+  Node3161 -> Node3163 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3163 [label="GC_scratch_alloc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d22/headers_8c.html#ad4012dbe01b6c85c8c21b76e5d42b460"];
+}

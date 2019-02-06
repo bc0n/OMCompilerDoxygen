@@ -1,0 +1,15 @@
+digraph "GC_register_finalizer"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node3171 [label="GC_register_finalizer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3171 -> Node3172 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3172 [label="GC_register_finalizer\l_inner",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d1e/finalize_8c.html#ab55c7b28e0047a802bf670c3240af122"];
+  Node3171 -> Node3173 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3173 [label="GC_normal_finalize\l_mark_proc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d1e/finalize_8c.html#ad08f29bfcd6a376a69cedd2f97586baa"];
+  Node3173 -> Node3174 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3174 [label="GC_push_obj",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d2e/gc__pmark_8h.html#a3bf1b3df20d6725c7b48570dc6334ae9"];
+  Node3174 -> Node3175 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3175 [label="GC_signal_mark_stack\l_overflow",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d2e/gc__pmark_8h.html#ac7235e2e6e7dee5b8d82acb48bbf7c47"];
+}

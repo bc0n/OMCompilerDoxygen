@@ -1,0 +1,15 @@
+digraph "GC_end_stubborn_change"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1082 [label="GC_end_stubborn_change",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1082 -> Node1083 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1083 [label="GC_debug_end_stubborn\l_change",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/daa/gc_8h.html#aa0189dde9c25705f111e8701a89ada46"];
+  Node1083 -> Node1084 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1084 [label="GC_debug_ptr_store\l_and_dirty",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/daa/gc_8h.html#a6bfbb76ce93eedfb9fc0a64659e26c71"];
+  Node1082 -> Node1085 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1085 [label="run_one_test",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a3b194f0711aa5c8878f77b3809918845"];
+  Node1085 -> Node1086 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1086 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a840291bc02cba5474a4cb46a9b9566fe"];
+}

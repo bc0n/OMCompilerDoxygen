@@ -1,0 +1,11 @@
+digraph "GC_collect_a_little"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node523 [label="GC_collect_a_little",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node523 -> Node524 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node524 [label="check_heap_stats",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a668cddfb86d2c85b386a9e873f0e7e3b"];
+  Node524 -> Node525 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node525 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a840291bc02cba5474a4cb46a9b9566fe"];
+}

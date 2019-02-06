@@ -1,0 +1,30 @@
+digraph "build/include/omc/c/sundials/sundials/sundials_spfgmr.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node2 [label="build/include/omc/c\l/sundials/sundials/sundials\l_spfgmr.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="3rdParty/sundials/build\l/include/arkode/arkode\l_spfgmr.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d42/3rd_party_2sundials_2build_2include_2arkode_2arkode__spfgmr_8h.html"];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="3rdParty/sundials/build\l/include/kinsol/kinsol\l_spfgmr.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d8b/3rd_party_2sundials_2build_2include_2kinsol_2kinsol__spfgmr_8h.html"];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="3rdParty/sundials/include\l/arkode/arkode_spfgmr.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/db1/3rd_party_2sundials_2include_2arkode_2arkode__spfgmr_8h.html"];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="3rdParty/sundials/include\l/kinsol/kinsol_spfgmr.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d65/3rd_party_2sundials_2include_2kinsol_2kinsol__spfgmr_8h.html"];
+  Node2 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="3rdParty/sundials/src\l/arkode/arkode_spfgmr.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d9b/arkode__spfgmr_8c.html"];
+  Node2 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="3rdParty/sundials/src\l/kinsol/kinsol_spfgmr.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d1b/kinsol__spfgmr_8c.html"];
+  Node2 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="3rdParty/sundials/src\l/sundials/sundials_spfgmr.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d63/sundials__spfgmr_8c.html"];
+  Node2 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="build/include/omc/c\l/sundials/arkode/arkode\l_spfgmr.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d02/build_2include_2omc_2c_2sundials_2arkode_2arkode__spfgmr_8h.html"];
+  Node10 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="3rdParty/sundials/src\l/arkode/fcmix/farkode.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d59/farkode_8c.html"];
+  Node2 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="build/include/omc/c\l/sundials/kinsol/kinsol\l_spfgmr.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d38/build_2include_2omc_2c_2sundials_2kinsol_2kinsol__spfgmr_8h.html"];
+  Node12 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="3rdParty/sundials/src\l/kinsol/fcmix/fkinsol.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/df9/fkinsol_8c.html"];
+  Node12 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

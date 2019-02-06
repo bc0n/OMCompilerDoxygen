@@ -1,0 +1,39 @@
+digraph "GC_dump_named"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node935 [label="GC_dump_named",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node935 -> Node936 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node936 [label="GC_printf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dd3/gc_2misc_8c.html#aebb4da69c820838a579a15be2dfb7fd9"];
+  Node936 -> Node937 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node937 [label="void",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/daa/gc_8h.html#a7e0f997409f0b1753e44b648fcd6fc39"];
+  Node936 -> Node938 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node938 [label="strlen",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d57/iregex_8c.html#a492442620ce65db20fe7297b43cbca65"];
+  Node935 -> Node939 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node939 [label="GC_print_static_roots",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d79/gc__priv_8h.html#a366d9b4fc9ef1133ce6393a6d75781b0"];
+  Node935 -> Node940 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node940 [label="GC_print_heap_sects",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d39/alloc_8c.html#a1530f4c0a47ef9c4697411bd616a4e30"];
+  Node940 -> Node941 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node941 [label="GC_printf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d79/gc__priv_8h.html#af88bfca208f01c5a5b986b6875d279c5"];
+  Node940 -> Node942 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node942 [label="GC_is_black_listed",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d5f/blacklst_8c.html#a09379695f0068b1fc486723c246b5652"];
+  Node935 -> Node943 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node943 [label="GC_print_hblkfreelist",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d86/allchblk_8c.html#abe429a18caae8a4d85d4ce6fdd32af87"];
+  Node943 -> Node941 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node943 -> Node942 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node943 -> Node944 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node944 [label="GC_compute_large_free\l_bytes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d86/allchblk_8c.html#ad73757d974e13b2c3d62ee4487714f6c"];
+  Node943 -> Node945 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node945 [label="GC_err_printf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d79/gc__priv_8h.html#a515817b1cc28538efe42e953361e6cb1"];
+  Node935 -> Node946 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node946 [label="GC_print_block_list",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d79/gc__priv_8h.html#a6af7c1476de5320028607f6ded366465"];
+  Node946 -> Node941 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node946 -> Node947 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node947 [label="GC_apply_to_all_blocks",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d22/headers_8c.html#a48a8aa76f61165c1116bb7a3a52d9ac5"];
+  Node946 -> Node948 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node948 [label="GC_print_block_descr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d0b/reclaim_8c.html#a1d39e7bf6b9c3e37a7fe7d1091dc355a"];
+  Node948 -> Node949 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node949 [label="GC_n_set_marks",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d0b/reclaim_8c.html#ac021d2e6c64ed2d7a6690a44e5b5bb01"];
+  Node948 -> Node941 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

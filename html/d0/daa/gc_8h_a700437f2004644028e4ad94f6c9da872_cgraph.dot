@@ -1,0 +1,9 @@
+digraph "GC_set_log_fd"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node3484 [label="GC_set_log_fd",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3484 -> Node3485 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3485 [label="void",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/daa/gc_8h.html#a7e0f997409f0b1753e44b648fcd6fc39"];
+}

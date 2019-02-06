@@ -1,0 +1,8 @@
+<map id="Socket_handlerequest" name="Socket_handlerequest">
+<area shape="rect" id="node2" href="$dc/d16/socketimpl_8c.html#a63ec5d1a0eb4972df47c5ef02d5d8be9" title="SocketImpl_handlerequest" alt="" coords="204,56,380,83"/>
+<area shape="rect" id="node4" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="442,107,486,133"/>
+<area shape="rect" id="node6" href="$d7/dcd/group__core_utils.html#gaeccaa0b46edead0608a6982dddb917ec" title="Allocate memory for a Modelica string which is used as return argument of an external Modelica functi..." alt="" coords="215,157,369,184"/>
+<area shape="rect" id="node7" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="265,208,319,235"/>
+<area shape="rect" id="node3" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="434,5,494,32"/>
+<area shape="rect" id="node5" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a9bb523029391a4525c52a8e90e877692" title="memcpy" alt="" coords="428,56,500,83"/>
+</map>
