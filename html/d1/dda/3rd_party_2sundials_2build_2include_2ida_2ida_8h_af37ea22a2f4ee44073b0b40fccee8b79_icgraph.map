@@ -1,0 +1,7 @@
+<map id="IDARootInit" name="IDARootInit">
+<area shape="rect" id="node2" href="$df/d5d/fidaroot_8h.html#a58f975236e8d2678aee0e001710b02be" title="FIDA_ROOTINIT" alt="" coords="149,5,273,32"/>
+<area shape="rect" id="node3" href="$df/d5d/fidaroot_8h.html#a69eda29d5241642918d64231c4f1576b" title="FIDA_ROOTFREE" alt="" coords="144,56,279,83"/>
+<area shape="rect" id="node4" href="$d1/d0d/class_ida.html#a076ebddc85a48c81623e205f2ca9874a" title="Spezielle Solvereinstellungen setzten (default oder user defined) " alt="" coords="164,107,259,133"/>
+<area shape="rect" id="node5" href="$d1/d0d/class_ida.html#a289cf95889af136a4bb11e4c537daa78" title="Berechung der numerischen Lösung innerhalb eines gegebenen Zeitintervalls. " alt="" coords="327,107,405,133"/>
+<area shape="rect" id="node6" href="$d1/d0d/class_ida.html#ad186bf83203716276cc87d63dcac2cec" title="Setzen der initialen Schrittweite (z.B. auch nach Nullstelle) " alt="" coords="453,107,591,133"/>
+</map>

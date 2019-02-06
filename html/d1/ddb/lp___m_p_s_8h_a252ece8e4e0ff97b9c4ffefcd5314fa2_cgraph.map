@@ -1,0 +1,26 @@
+<map id="MPS_readfile" name="MPS_readfile">
+<area shape="rect" id="node2" href="$db/db0/lp___m_p_s_8c.html#aa50322905617f743be6364b668892d57" title="MPS_readhandle" alt="" coords="153,411,275,437"/>
+<area shape="rect" id="node3" href="$db/db0/lp___m_p_s_8c.html#aea59712cb910942080d5bf45bdaba80b" title="MPS_readex" alt="" coords="323,411,420,437"/>
+<area shape="rect" id="node4" href="$db/db0/lp___m_p_s_8c.html#a91fe6177ace613debdb83c88e7735115" title="scan_lineFIXED" alt="" coords="468,208,585,235"/>
+<area shape="rect" id="node5" href="$d7/d57/iregex_8c.html#a492442620ce65db20fe7297b43cbca65" title="strlen" alt="" coords="663,157,718,184"/>
+<area shape="rect" id="node7" href="$db/db0/lp___m_p_s_8c.html#abed968fadbfc48216224122bf5c206fa" title="scan_lineFREE" alt="" coords="470,107,583,133"/>
+<area shape="rect" id="node10" href="$db/d13/_c_vode_get_8m.html#ab022bbe018438998408fda94a327a547" title="strcmp" alt="" coords="809,259,871,285"/>
+<area shape="rect" id="node11" href="$d9/d18/lp__utils_8c.html#a7b25e1f9aee74052b4b6df28443ebf48" title="allocREAL" alt="" coords="649,399,733,425"/>
+<area shape="rect" id="node12" href="$d9/d18/lp__utils_8c.html#a2081b8e14a0691b7e3931fa280ad9e63" title="allocINT" alt="" coords="655,449,726,476"/>
+<area shape="rect" id="node13" href="$db/db0/lp___m_p_s_8c.html#a9aef6aa404c00c741ffd39f57d2e568e" title="addmpscolumn" alt="" coords="471,588,582,615"/>
+<area shape="rect" id="node14" href="$db/db0/lp___m_p_s_8c.html#a5ca0276fe0bed9bb58bd52e02304cf44" title="appendmpsitem" alt="" coords="633,703,748,729"/>
+<area shape="rect" id="node17" href="$d9/d8a/lp___hash_8c.html#ad823b30e8d5693a5119c96693744da08" title="find_var" alt="" coords="493,360,561,387"/>
+<area shape="rect" id="node20" href="$d9/d8a/lp___hash_8c.html#af641364834ee86a40c668aee248633d7" title="find_row" alt="" coords="491,309,562,336"/>
+<area shape="rect" id="node21" href="$d4/d79/lp__lib_8c.html#a93ed2e8f778b6340d960f732e9c0f9f6" title="is_chsign" alt="" coords="488,689,565,716"/>
+<area shape="rect" id="node22" href="$d4/d79/lp__lib_8c.html#a6b52f2979542d3a29dc0eb78b5ecb30b" title="SOS_count" alt="" coords="482,740,571,767"/>
+<area shape="rect" id="node23" href="$d1/d43/lp___s_o_s_8c.html#ad14abeaf8e414e43c076fc3353b37c60" title="append_SOSrec" alt="" coords="468,512,585,539"/>
+<area shape="rect" id="node6" href="$db/db0/lp___m_p_s_8c.html#a72f155ca18b9839070c419cbe25247d5" title="namecpy" alt="" coords="653,208,728,235"/>
+<area shape="rect" id="node8" href="$db/db0/lp___m_p_s_8c.html#acea55dbea0713d5588d644118771bf7c" title="spaces" alt="" coords="659,5,723,32"/>
+<area shape="rect" id="node9" href="$db/db0/lp___m_p_s_8c.html#aab6d67c2535d93d8b462b1e57cc5860a" title="lenfield" alt="" coords="659,56,722,83"/>
+<area shape="rect" id="node15" href="$d9/d18/lp__utils_8c.html#a2c2ba6baa79af2ad08d08ca4baaec1b4" title="swapINT" alt="" coords="803,627,877,653"/>
+<area shape="rect" id="node16" href="$d9/d18/lp__utils_8c.html#ae10987e5e1ec631a2a1048c8941e4fc8" title="swapREAL" alt="" coords="796,689,884,716"/>
+<area shape="rect" id="node18" href="$d9/d8a/lp___hash_8c.html#abec9215783a6417ac6d2eaa8fb5455b6" title="findhash" alt="" coords="655,309,726,336"/>
+<area shape="rect" id="node19" href="$d9/d8a/lp___hash_8c.html#a4341c9502229f42a1d569e06476d6eec" title="hashval" alt="" coords="807,309,873,336"/>
+<area shape="rect" id="node24" href="$dd/dc0/commonlib_8c.html#a12c1208ce2c4064b0e3d1c0001cd9477" title="sortByREAL" alt="" coords="643,500,738,527"/>
+<area shape="rect" id="node25" href="$dd/dc0/commonlib_8c.html#a9d22aa7fead56453be021c785175ec44" title="sortByINT" alt="" coords="649,551,732,577"/>
+</map>

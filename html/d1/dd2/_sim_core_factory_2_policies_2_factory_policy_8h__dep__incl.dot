@@ -1,0 +1,34 @@
+digraph "SimulationRuntime/cpp/Include/SimCoreFactory/Policies/FactoryPolicy.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node2 [label="SimulationRuntime/cpp\l/Include/SimCoreFactory\l/Policies/FactoryPolicy.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="SimulationRuntime/cpp\l/Include/Core/SimController\l/Configuration.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dfb/_configuration_8h.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="SimulationRuntime/cpp\l/Core/SimController/Configuration.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddf/_configuration_8cpp.html"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="SimulationRuntime/cpp\l/Core/SimController/SimController.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d98/_sim_controller_8cpp.html"];
+  Node3 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="SimulationRuntime/cpp\l/Include/Core/SimController\l/SimManager.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d0b/_sim_manager_8h.html"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="SimulationRuntime/cpp\l/Core/SimController/SimManager.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d9a/_sim_manager_8cpp.html"];
+  Node6 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="SimulationRuntime/cpp\l/Include/Core/SimController\l/SimController.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d8d/_sim_controller_8h.html"];
+  Node8 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="SimulationRuntime/cpp\l/Include/Core/SimController\l/SimObjects.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/dc5/_sim_objects_8h.html"];
+  Node9 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="SimulationRuntime/cpp\l/Core/SimController/SimObjects.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/de0/_sim_objects_8cpp.html"];
+  Node2 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="SimulationRuntime/cpp\l/Include/Core/SimulationSettings\l/Factory.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/de6/_factory_8h.html"];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="SimulationRuntime/cpp\l/Core/SimulationSettings\l/Factory.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dc9/_simulation_runtime_2cpp_2_core_2_simulation_settings_2_factory_8cpp.html"];
+  Node2 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="SimulationRuntime/cpp\l/Include/Core/System\l/AlgLoopSolverFactory.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d61/_alg_loop_solver_factory_8h.html"];
+  Node13 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="SimulationRuntime/cpp\l/Core/System/AlgLoopSolverFactory.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/db4/_alg_loop_solver_factory_8cpp.html"];
+  Node13 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="SimulationRuntime/cpp\l/Core/System/SystemDefaultImplementation.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/dc7/_system_default_implementation_8cpp.html"];
+}

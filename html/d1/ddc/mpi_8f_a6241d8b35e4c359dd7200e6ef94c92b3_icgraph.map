@@ -1,0 +1,8 @@
+<map id="mumps_copy" name="mumps_copy">
+<area shape="rect" id="node2" href="$d1/ddc/mpi_8f.html#ab5ad594fa1ca069909204df9e26d5619" title="mpi_gather" alt="" coords="178,5,265,32"/>
+<area shape="rect" id="node3" href="$d1/ddc/mpi_8f.html#ae3cfc812c8cc76dfc49086c0848b04b7" title="mpi_gatherv" alt="" coords="175,56,268,83"/>
+<area shape="rect" id="node4" href="$d1/ddc/mpi_8f.html#a89ab4eddeea09c3f6c6777a6acc409ca" title="mpi_allreduce" alt="" coords="170,107,273,133"/>
+<area shape="rect" id="node5" href="$d1/ddc/mpi_8f.html#a9f19a7671dc276e9547df7c6831da638" title="mpi_reduce" alt="" coords="177,157,266,184"/>
+<area shape="rect" id="node6" href="$d1/ddc/mpi_8f.html#adf749fe338d48b51c18418745b22ac1a" title="mpi_reduce_scatter" alt="" coords="153,208,289,235"/>
+<area shape="rect" id="node7" href="$d1/ddc/mpi_8f.html#a96233a405dea0006c4938ba8f6ba7eda" title="mpi_alltoall" alt="" coords="178,259,265,285"/>
+</map>

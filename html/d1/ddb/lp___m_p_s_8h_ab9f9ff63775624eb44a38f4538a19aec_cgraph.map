@@ -1,0 +1,10 @@
+<map id="MPS_readBAS" name="MPS_readBAS">
+<area shape="rect" id="node2" href="$d4/d55/gun_8c.html#a43f04018566627e305440b8734deb9db" title="in" alt="" coords="203,5,242,32"/>
+<area shape="rect" id="node3" href="$db/db0/lp___m_p_s_8c.html#a91fe6177ace613debdb83c88e7735115" title="scan_lineFIXED" alt="" coords="164,56,281,83"/>
+<area shape="rect" id="node4" href="$d7/d57/iregex_8c.html#a492442620ce65db20fe7297b43cbca65" title="strlen" alt="" coords="339,81,394,108"/>
+<area shape="rect" id="node6" href="$db/db0/lp___m_p_s_8c.html#abed968fadbfc48216224122bf5c206fa" title="scan_lineFREE" alt="" coords="166,157,279,184"/>
+<area shape="rect" id="node9" href="$db/d13/_c_vode_get_8m.html#ab022bbe018438998408fda94a327a547" title="strcmp" alt="" coords="335,233,398,260"/>
+<area shape="rect" id="node5" href="$db/db0/lp___m_p_s_8c.html#a72f155ca18b9839070c419cbe25247d5" title="namecpy" alt="" coords="329,31,404,57"/>
+<area shape="rect" id="node7" href="$db/db0/lp___m_p_s_8c.html#acea55dbea0713d5588d644118771bf7c" title="spaces" alt="" coords="335,183,399,209"/>
+<area shape="rect" id="node8" href="$db/db0/lp___m_p_s_8c.html#aab6d67c2535d93d8b462b1e57cc5860a" title="lenfield" alt="" coords="335,132,398,159"/>
+</map>

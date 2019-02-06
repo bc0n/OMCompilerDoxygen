@@ -1,0 +1,13 @@
+<map id="omc_Mod_isRedeclareMod" name="omc_Mod_isRedeclareMod">
+<area shape="rect" id="node2" href="$d9/d5c/_inst_8h.html#a5d23f291076be33a4476ad7a5e16aeed" title="omc_Inst_redeclareType" alt="" coords="511,5,677,32"/>
+<area shape="rect" id="node4" href="$d1/dd5/_mod_8c.html#a4038d9102b7d51aa77140a99f9535256" title="omc_Mod_filterRedeclares\lSubMods" alt="" coords="240,46,417,87"/>
+<area shape="rect" id="node5" href="$d9/dd4/_mod_8h.html#a41616c44ca97193e816253cdb9bf19a1" title="boxptr_Mod_isRedeclareMod" alt="" coords="233,112,424,139"/>
+<area shape="rect" id="node6" href="$d9/dd4/_mod_8h.html#a97cdc706fc9d41835d40eb32addb17d4" title="omc_Mod_merge" alt="" coords="267,163,390,189"/>
+<area shape="rect" id="node3" href="$d9/d5c/_inst_8h.html#a5f34368247a7838413aa837c9a338b7d" title="boxptr_Inst_redeclareType" alt="" coords="764,5,940,32"/>
+<area shape="rect" id="node7" href="$d1/d38/_inst_extends_8c.html#a715c869d4b40f4bcb95488bfbf10cf9c" title="omc_InstExtends_updateComponents\lAndClassdefs2" alt="" coords="472,78,716,119"/>
+<area shape="rect" id="node8" href="$d6/d54/_inst_var_8c.html#a30c666d5e62e0e0cc36dc5041cc6c43d" title="omc_InstVar_instVar\l__dispatch" alt="" coords="522,143,666,185"/>
+<area shape="rect" id="node10" href="$d1/dd5/_mod_8c.html#ac982e2c0f4d0fe28aba92b52f0411423" title="omc_Mod_mergeSubs" alt="" coords="518,209,670,236"/>
+<area shape="rect" id="node12" href="$d9/dd4/_mod_8h.html#a459dcb5ac069f27590d3fdda36535773" title="boxptr_Mod_merge" alt="" coords="527,260,661,287"/>
+<area shape="rect" id="node9" href="$d6/d54/_inst_var_8c.html#a62e0a9b61bb9c632c69b95c7924d8311" title="boxptr_InstVar_instVar\l__dispatch" alt="" coords="775,143,929,185"/>
+<area shape="rect" id="node11" href="$d1/dd5/_mod_8c.html#af0805a7b54ba71c6aa7c502ac4274f6a" title="boxptr_Mod_mergeSubs" alt="" coords="771,209,933,236"/>
+</map>

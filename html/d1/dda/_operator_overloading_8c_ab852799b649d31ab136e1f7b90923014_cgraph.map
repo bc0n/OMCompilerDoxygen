@@ -1,0 +1,26 @@
+<map id="omc_OperatorOverloading_warnUnsafeRelations" name="omc_OperatorOverloading_warnUnsafeRelations">
+<area shape="rect" id="node2" href="$d8/de4/_f_graph_8c.html#ab7c2beacd34f753f1e9d7da2e7a29181" title="omc_FGraph_inFunctionScope" alt="" coords="227,193,428,220"/>
+<area shape="rect" id="node12" href="$d3/df6/_types_8c.html#a8863878a8868614f3c5ddce844baf884" title="omc_Types_isReal" alt="" coords="260,259,395,285"/>
+<area shape="rect" id="node17" href="$d1/dda/_operator_overloading_8c.html#a92ae995d9224b370f1cf6505039aeacb" title="omc_OperatorOverloading\l_verifyOp" alt="" coords="241,310,414,351"/>
+<area shape="rect" id="node18" href="$d8/d16/_expression_dump_8c.html#a4b6e5750d56eb387920f6defdd4f693f" title="omc_ExpressionDump\l_relopSymbol" alt="" coords="250,375,405,417"/>
+<area shape="rect" id="node19" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="278,441,377,468"/>
+<area shape="rect" id="node20" href="$d8/d16/_expression_dump_8c.html#ab1b14f2e6c847006a4235d1905bb2637" title="omc_ExpressionDump\l_printExpStr" alt="" coords="250,493,405,534"/>
+<area shape="rect" id="node3" href="$d8/de4/_f_graph_8c.html#a855fed1ec0c77382ad9d6153f380bfef" title="omc_FGraph_checkScopeType" alt="" coords="476,187,681,213"/>
+<area shape="rect" id="node4" href="$d2/d0f/_f_node_8c.html#afdbbdc365c4cabeaa2f87fe86ef746dc" title="omc_FNode_isRefClass" alt="" coords="758,5,923,32"/>
+<area shape="rect" id="node6" href="$d2/d0f/_f_node_8c.html#ab9dbc34a8a7187057b8c2533b409fae3" title="omc_FNode_fromRef" alt="" coords="1018,56,1165,83"/>
+<area shape="rect" id="node7" href="$d9/d9e/_s_code_8c.html#a59beac384e2d377adc0181efe2f48d2e" title="omc_SCode_getClassRestriction" alt="" coords="733,107,949,133"/>
+<area shape="rect" id="node8" href="$d2/d0f/_f_node_8c.html#a9e418e6991b53529be158196fff365ca" title="omc_FNode_getElement" alt="" coords="757,157,924,184"/>
+<area shape="rect" id="node9" href="$dc/dd0/build_2include_2omc_2c_2meta_2meta__modelica_8h.html#a053b78d26cb7fe728aa97ab1a575f7ad" title="valueEq" alt="" coords="806,208,875,235"/>
+<area shape="rect" id="node10" href="$d8/de4/_f_graph_8c.html#ac1708f0add3fe43f04d615841dd034ec" title="omc_FGraph_restrictionTo\lScopeType" alt="" coords="753,259,929,301"/>
+<area shape="rect" id="node11" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="817,325,864,352"/>
+<area shape="rect" id="node5" href="$d2/d0f/_f_node_8c.html#a2d36ac63aa9fb4f3e8a88a2b77e51a8d" title="omc_FNode_isClass" alt="" coords="1019,5,1163,32"/>
+<area shape="rect" id="node13" href="$d3/df6/_types_8c.html#a97792dc40061226870f719a038f04645" title="omc_Types_isScalarReal" alt="" coords="493,259,664,285"/>
+<area shape="rect" id="node14" href="$d3/df6/_types_8c.html#abc476314d8398ca475f3805b18615391" title="omc_Types_arrayElementType" alt="" coords="477,355,680,381"/>
+<area shape="rect" id="node15" href="$d3/df6/_types_8c.html#ac8028ec761d6bd51b7c11f2e37bd9c70" title="omc_Types_getDimensions" alt="" coords="749,400,933,427"/>
+<area shape="rect" id="node16" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a56b7e8a835b2d388f5984ca7378bc1ec" title="listAppend" alt="" coords="1050,400,1133,427"/>
+<area shape="rect" id="node21" href="$d7/d52/_tpl_8c.html#a19e668217f7d6c0b176843e40633cae2" title="omc_Tpl_tplString2" alt="" coords="511,500,646,527"/>
+<area shape="rect" id="node22" href="$db/da1/_compiler_2boot_2build_2error_8c.html#a6f9ff3d03e91883492e13af7fbc088ff" title="omc_Error_getNumErrorMessages" alt="" coords="729,479,952,505"/>
+<area shape="rect" id="node25" href="$d7/d52/_tpl_8c.html#af79df210cda1bb788fce4ef64cb58a0f" title="omc_Tpl_tplCallWithFailError2" alt="" coords="741,529,940,556"/>
+<area shape="rect" id="node23" href="$d4/dce/_error_ext_8c.html#a0195f83af0487b3e7bf35deb4225e582" title="omc_ErrorExt_getNumError\lMessages" alt="" coords="1000,471,1183,513"/>
+<area shape="rect" id="node24" href="$d1/d40/boot_2build_2_error_ext_8h.html#a1206137921767ad0e49abe96adf7b5e3" title="ErrorImpl__getNumErrorMessages" alt="" coords="1231,479,1453,505"/>
+</map>

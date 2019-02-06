@@ -1,0 +1,11 @@
+<map id="mpi_reduce" name="mpi_reduce">
+<area shape="rect" id="node2" href="$d1/ddc/mpi_8f.html#a6241d8b35e4c359dd7200e6ef94c92b3" title="mumps_copy" alt="" coords="143,183,243,209"/>
+<area shape="rect" id="node3" href="$d1/ddc/mpi_8f.html#aa21897e8a3048990142737ccc7e750a4" title="mumps_copy_integer" alt="" coords="319,5,466,32"/>
+<area shape="rect" id="node4" href="$d1/ddc/mpi_8f.html#ab301bd7920374540e1b29fe80031ea38" title="mumps_copy_logical" alt="" coords="321,56,465,83"/>
+<area shape="rect" id="node5" href="$d1/ddc/mpi_8f.html#a4b2d08d1ccb602968d8c0e98280ca433" title="mumps_copy_real" alt="" coords="329,107,457,133"/>
+<area shape="rect" id="node6" href="$d1/ddc/mpi_8f.html#a7d0444fc981c8c0d8f2d9d318b29fb6f" title="mumps_copy_double_precision" alt="" coords="291,157,495,184"/>
+<area shape="rect" id="node7" href="$d1/ddc/mpi_8f.html#ae2b22c5ab6bdaefbb9db129a8505837e" title="mumps_copy_complex" alt="" coords="315,208,471,235"/>
+<area shape="rect" id="node8" href="$d1/ddc/mpi_8f.html#adb61edc1bc94a3c37a1f9aa7eee1a769" title="mumps_copy_double_complex" alt="" coords="292,259,493,285"/>
+<area shape="rect" id="node9" href="$d1/ddc/mpi_8f.html#a4c466146a8bdf18e77c18bf4a6c19d95" title="mumps_copy_2double\l_precision" alt="" coords="317,310,469,351"/>
+<area shape="rect" id="node10" href="$d1/ddc/mpi_8f.html#a1e75cd244340aa1a3bfa9ac5c11ba7c4" title="mumps_copy_2integer" alt="" coords="316,376,469,403"/>
+</map>

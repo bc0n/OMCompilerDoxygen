@@ -1,0 +1,5 @@
+<map id="single_client_gc_alloc_template::ptr_free_deallocate" name="single_client_gc_alloc_template::ptr_free_deallocate">
+<area shape="rect" id="node2" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#aef11fb85e24d9cdb7da9ef9df26d45b3" title="GC_free" alt="" coords="267,5,337,32"/>
+<area shape="rect" id="node3" href="$d5/da7/new__gc__alloc_8h.html#a86d32d5224cc43e5f07d560dfc0386dc" title="GC_round_up" alt="" coords="251,56,353,83"/>
+<area shape="rect" id="node4" href="$d5/da7/new__gc__alloc_8h.html#a8cc53b4a6fe8e3b94b8de510a0a10131" title="GC_obj_link" alt="" coords="255,107,349,133"/>
+</map>
