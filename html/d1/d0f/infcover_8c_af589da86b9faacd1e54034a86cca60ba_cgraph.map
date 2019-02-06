@@ -1,5 +1,0 @@
-<map id="mem_setup" name="mem_setup">
-<area shape="rect" id="node2" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="157,5,217,32"/>
-<area shape="rect" id="node3" href="$d1/d0f/infcover_8c.html#ab93f6cc4d3046ad6ac014a441ea3448d" title="mem_alloc" alt="" coords="144,56,229,83"/>
-<area shape="rect" id="node4" href="$d1/d0f/infcover_8c.html#a33c826a3df42f52377fa549e839565df" title="mem_free" alt="" coords="147,107,227,133"/>
-</map>

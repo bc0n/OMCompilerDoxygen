@@ -1,7 +1,0 @@
-<map id="Ipopt::RestoIpoptNLP::HessianMatrixSpace" name="Ipopt::RestoIpoptNLP::HessianMatrixSpace">
-<area shape="rect" id="node2" href="$d7/db2/namespace_ipopt.html#a4ae001947e506b5b8f4f134b8a4ead23" title="Ipopt::GetRawPtr" alt="" coords="429,9,553,36"/>
-<area shape="rect" id="node3" href="$d1/da5/class_ipopt_1_1_resto_ipopt_n_l_p.html#a92b294e7236ea6fe5eed437a1b9d8cf0" title="Ipopt::RestoIpoptNLP\l::GetSpaces" alt="" coords="209,31,358,73"/>
-<area shape="rect" id="node4" href="$d1/da5/class_ipopt_1_1_resto_ipopt_n_l_p.html#aab0ef3caf93b30126b98f3d16d061db9" title="Ipopt::RestoIpoptNLP\l::AdjustVariableBounds" alt="" coords="204,97,363,138"/>
-<area shape="rect" id="node6" href="$d1/da5/class_ipopt_1_1_resto_ipopt_n_l_p.html#a0c2d0d657fc1e6cfd230aa5915e42407" title="Ipopt::RestoIpoptNLP\l::IntermediateCallBack" alt="" coords="206,162,361,203"/>
-<area shape="rect" id="node5" href="$d3/d37/class_ipopt_1_1_compound_vector.html#ac5b09b621ed9b1efbc21c60290d55221" title="Ipopt::CompoundVector\l::GetComp" alt="" coords="411,97,571,138"/>
-</map>

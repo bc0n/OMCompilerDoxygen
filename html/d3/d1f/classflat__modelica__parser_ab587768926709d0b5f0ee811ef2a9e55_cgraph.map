@@ -1,7 +1,0 @@
-<map id="flat_modelica_parser::equation" name="flat_modelica_parser::equation">
-<area shape="rect" id="node2" href="$d3/d1f/classflat__modelica__parser.html#a31818193bd0698f52704723d05bf0365" title="flat_modelica_parser\l::ANTLR_USE_NAMESPACE" alt="" coords="407,64,608,105"/>
-<area shape="rect" id="node4" href="$d3/d1f/classflat__modelica__parser.html#a940634fa9f96167b3b1f242c0dabd651" title="flat_modelica_parser\l::conditional_equation_e" alt="" coords="196,31,359,72"/>
-<area shape="rect" id="node5" href="$d3/d1f/classflat__modelica__parser.html#ad796e5867f12476d0a9d3e2379480fdb" title="flat_modelica_parser\l::for_clause_e" alt="" coords="206,96,349,137"/>
-<area shape="rect" id="node6" href="$d3/d1f/classflat__modelica__parser.html#a67435f229389aa62dcefd3889d89da69" title="flat_modelica_parser\l::when_clause_e" alt="" coords="206,161,349,203"/>
-<area shape="rect" id="node3" href="$db/d21/flat__modelica__parser_8hpp.html#a3cc67195fc4368e8020566f42e07dc13" title="ANTLR_USE_NAMESPACE" alt="" coords="656,71,849,98"/>
-</map>

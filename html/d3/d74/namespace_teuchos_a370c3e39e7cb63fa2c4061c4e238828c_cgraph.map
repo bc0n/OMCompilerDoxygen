@@ -1,9 +1,0 @@
-<map id="Teuchos::TEUCHOS_UNIT_TEST" name="Teuchos::TEUCHOS_UNIT_TEST">
-<area shape="rect" id="node2" href="$d4/de3/class_teuchos_1_1_string_indexed_ordered_value_object_container.html#ab95a41b71847a7555017309920f6d356" title="Set (or reset) object by value and return its ordinal index. " alt="" coords="311,5,517,47"/>
-<area shape="rect" id="node3" href="$d4/de3/class_teuchos_1_1_string_indexed_ordered_value_object_container.html#a29ea43120cf6ec7d4a910d58f8cd001a" title="Teuchos::StringIndexedOrdered\lValueObjectContainer::numObjects" alt="" coords="301,71,527,112"/>
-<area shape="rect" id="node4" href="$d4/de3/class_teuchos_1_1_string_indexed_ordered_value_object_container.html#a6f7bdd509b80fafedd1a614b11b966dd" title="Teuchos::StringIndexedOrdered\lValueObjectContainer::numStorage" alt="" coords="301,136,527,177"/>
-<area shape="rect" id="node5" href="$d4/de3/class_teuchos_1_1_string_indexed_ordered_value_object_container.html#a2127ead00268d48901490bd6a05dc2b8" title="Get the ordinal index given the string key. " alt="" coords="280,201,548,243"/>
-<area shape="rect" id="node6" href="$d3/d74/namespace_teuchos.html#a805a8ddf15a76f2e047b892652828967" title="Teuchos::TEST_EQUALITY" alt="" coords="321,267,507,294"/>
-<area shape="rect" id="node7" href="$d4/de3/class_teuchos_1_1_string_indexed_ordered_value_object_container.html#a9e10102f5c479445923a692489f46d5b" title="Get a nonconst semi&#45;persisting association with the stored object indexed by ordinal. " alt="" coords="299,318,529,374"/>
-<area shape="rect" id="node8" href="$d4/de3/class_teuchos_1_1_string_indexed_ordered_value_object_container.html#ae282a06699ac4f5950e0fc8e1f2d3b21" title="Get a const semi&#45;persisting association with the stored object indexed by ordinal. " alt="" coords="308,399,520,440"/>
-</map>

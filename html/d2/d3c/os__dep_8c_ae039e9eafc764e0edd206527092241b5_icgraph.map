@@ -1,5 +1,0 @@
-<map id="GC_fault_handler_openbsd" name="GC_fault_handler_openbsd">
-<area shape="rect" id="node2" href="$d2/d3c/os__dep_8c.html#aa6d7b4a55525af07d9bf41f51e2bad27" title="GC_find_limit_openbsd" alt="" coords="233,5,391,32"/>
-<area shape="rect" id="node4" href="$d2/d3c/os__dep_8c.html#a9650ec89c5263c94d5feb7501aa0586e" title="GC_skip_hole_openbsd" alt="" coords="232,56,392,83"/>
-<area shape="rect" id="node3" href="$d2/d3c/os__dep_8c.html#a91340395b546f981b76f893400389cfc" title="GC_FreeBSDGetDataStart" alt="" coords="440,31,620,57"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Teuchos::LAPACK&lt; OrdinalType, ScalarType &gt;" name="Teuchos::LAPACK&lt; OrdinalType, ScalarType &gt;">
-<area shape="rect" id="node2" href="$d8/d3e/class_teuchos_1_1_serial_band_dense_solver.html" title="A class for representing and solving banded dense linear systems. " alt="" coords="240,5,467,47"/>
-<area shape="rect" id="node3" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html" title="A class for solving dense linear problems. " alt="" coords="258,71,449,112"/>
-<area shape="rect" id="node4" href="$d5/d6d/class_teuchos_1_1_serial_q_r_dense_solver.html" title="A class for solving dense linear problems. " alt="" coords="249,136,457,177"/>
-<area shape="rect" id="node5" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html" title="A class for constructing and using Hermitian positive definite dense matrices. " alt="" coords="248,201,459,243"/>
-</map>

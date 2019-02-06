@@ -1,6 +1,0 @@
-<map id="Teuchos::getRequired&lt; std::string &gt;" name="Teuchos::getRequired&lt; std::string &gt;">
-<area shape="rect" id="node2" href="$d8/d6a/class_teuchos_1_1_x_m_l_object.html#a24bef32d1887d19f0932c0111b4fa126" title="Get an attribute, throwing an std::exception if it is not found. " alt="" coords="204,39,349,80"/>
-<area shape="rect" id="node3" href="$d8/d6a/class_teuchos_1_1_x_m_l_object.html#a91c0d6e609af047bfd50acdc6194ca44" title="Find out if the current node has an attribute of the specified name. " alt="" coords="397,5,543,47"/>
-<area shape="rect" id="node5" href="$d8/d6a/class_teuchos_1_1_x_m_l_object.html#a34f7ec38068cccd6050ff7959f6def1b" title="Return the value of the attribute with the specified name. " alt="" coords="397,71,543,112"/>
-<area shape="rect" id="node4" href="$d2/dc5/group___teuchos___r_c_p_std_shared_ptr_conversions__grp.html#gade66554b0078fdf9b134723ef5da551f" title="Returns true if p.get()==NULL. " alt="" coords="591,46,708,73"/>
-</map>

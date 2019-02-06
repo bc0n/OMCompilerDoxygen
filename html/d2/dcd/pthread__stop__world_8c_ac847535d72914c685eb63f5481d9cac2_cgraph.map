@@ -1,6 +1,0 @@
-<map id="GC_start_world" name="GC_start_world">
-<area shape="rect" id="node2" href="$dd/d79/gc__priv_8h.html#ada843fec7ffa10957a47951e0691f73b" title="GC_log_printf" alt="" coords="179,5,281,32"/>
-<area shape="rect" id="node3" href="$de/d97/generalize-small_8h.html#aad14639358d6651e05a92f9851182d3d" title="AO_store_release" alt="" coords="167,56,293,83"/>
-<area shape="rect" id="node5" href="$d2/dcd/pthread__stop__world_8c.html#a30c77affbe82b9057873d6c46b1db1aa" title="GC_restart_all" alt="" coords="177,107,283,133"/>
-<area shape="rect" id="node4" href="$d0/d4c/gc__atomic__ops_8h.html#a5867d924538138f58aab6d2e50ab55a8" title="AO_compare_and_swap\l_release" alt="" coords="341,49,505,90"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="zmq::gssapi_client_t::gssapi_client_t" name="zmq::gssapi_client_t::gssapi_client_t">
-<area shape="rect" id="node2" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="248,5,308,32"/>
-<area shape="rect" id="node3" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a9bb523029391a4525c52a8e90e877692" title="memcpy" alt="" coords="242,56,314,83"/>
-<area shape="rect" id="node4" href="$d6/de9/classzmq_1_1gssapi__mechanism__base__t.html#a5d328f3661196e2a9b0c4d365117df57" title="zmq::gssapi_mechanism\l_base_t::convert_nametype" alt="" coords="187,107,369,149"/>
-<area shape="rect" id="node5" href="$d6/de9/classzmq_1_1gssapi__mechanism__base__t.html#a06d60eca3964223dfd918eb1d67c321c" title="zmq::gssapi_mechanism\l_base_t::acquire_credentials" alt="" coords="184,173,372,214"/>
-<area shape="rect" id="node6" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="420,180,475,207"/>
-</map>

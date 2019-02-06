@@ -1,8 +1,0 @@
-<map id="3rdParty/trilinos&#45;nox/packages/teuchos/comm/src/Teuchos_SerializationTraits.hpp" name="3rdParty/trilinos&#45;nox/packages/teuchos/comm/src/Teuchos_SerializationTraits.hpp">
-<area shape="rect" id="node2" href="$d5/d3c/_teuchos___config_defs_8hpp.html" title="Teuchos header file which uses auto&#45;configuration information to include necessary C++ headers..." alt="" coords="221,333,391,360"/>
-<area shape="rect" id="node7" href="$d5/d6b/_teuchos___test_for_exception_8hpp.html" title="Standard test and throw macros. " alt="" coords="205,109,412,136"/>
-<area shape="rect" id="node6" href="$d2/dd7/_teuchos___d_l_l_export_macro_8h.html" title="Teuchos_DLLExportMacro.h" alt="" coords="427,408,615,435"/>
-<area shape="rect" id="node8" href="$dc/dc1/_teuchos___type_name_traits_8hpp.html" title="Defines basic traits returning the name of a type in a portable and readable way. ..." alt="" coords="207,184,408,211"/>
-<area shape="rect" id="node10" href="$dd/d97/_teuchos__stacktrace_8hpp.html" title="Functions for returning stacktrace info (GCC only initially). " alt="" coords="431,259,597,285"/>
-<area shape="rect" id="node9" href="$d1/db4/_teuchos___const_type_traits_8hpp.html" title="Teuchos_ConstTypeTraits.hpp" alt="" coords="205,259,407,285"/>
-</map>

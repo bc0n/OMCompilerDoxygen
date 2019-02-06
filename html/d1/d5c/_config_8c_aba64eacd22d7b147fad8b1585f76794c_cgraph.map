@@ -1,7 +1,0 @@
-<map id="boxptr_Config_getCheapMatchingAlgorithm" name="boxptr_Config_getCheapMatchingAlgorithm">
-<area shape="rect" id="node2" href="$d1/d5c/_config_8c.html#a8a24a445ade605e5e1ee1a648e1ec720" title="omc_Config_getCheapMatching\lAlgorithm" alt="" coords="272,5,480,47"/>
-<area shape="rect" id="node3" href="$d3/db3/_flags_8c.html#a1e76daf734b2146efc0e041e614f63d0" title="omc_Flags_getConfigInt" alt="" coords="528,13,692,39"/>
-<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="740,13,923,39"/>
-<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="971,13,1120,39"/>
-<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1168,13,1271,39"/>
-</map>

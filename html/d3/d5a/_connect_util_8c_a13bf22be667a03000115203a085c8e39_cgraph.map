@@ -1,7 +1,0 @@
-<map id="omc_ConnectUtil_sizeOfType" name="omc_ConnectUtil_sizeOfType">
-<area shape="rect" id="node2" href="$d1/d08/_expression_8c.html#a84a4a599617a28cbc59e20244ed382d4" title="omc_Expression_dimensionSize" alt="" coords="263,5,474,32"/>
-<area shape="rect" id="node3" href="$d3/d5a/_connect_util_8c.html#a17c1ac12dc0e315d88af7bb43cd1fa0f" title="omc_ConnectUtil_sizeOfVariableList" alt="" coords="251,56,487,83"/>
-<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a34e6591659b1578969141a635ff24042" title="omc_Flags_isSet" alt="" coords="307,107,430,133"/>
-<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="535,107,684,133"/>
-<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="732,107,835,133"/>
-</map>

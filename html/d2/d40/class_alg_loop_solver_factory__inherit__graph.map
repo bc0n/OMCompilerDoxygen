@@ -1,6 +1,0 @@
-<map id="AlgLoopSolverFactory" name="AlgLoopSolverFactory">
-<area shape="rect" id="node2" href="$d0/d07/class_i_alg_loop_solver_factory.html" title="IAlgLoopSolverFactory" alt="" coords="5,80,160,107"/>
-<area shape="rect" id="node3" href="$d1/d50/struct_non_lin_solver_vx_works_factory.html" title="NonLinSolverPolicy" alt="" coords="184,80,320,107"/>
-<area shape="rect" id="node4" href="$d2/d0a/struct_object_factory.html" title="ObjectFactory\&lt; CreationPolicy \&gt;" alt="" coords="219,5,432,32"/>
-<area shape="rect" id="node5" href="$d0/dfb/struct_lin_solver_vx_works_factory.html" title="LinSolverPolicy" alt="" coords="344,80,456,107"/>
-</map>

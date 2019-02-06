@@ -1,6 +1,0 @@
-<map id="zmq::put_uint16" name="zmq::put_uint16">
-<area shape="rect" id="node2" href="$d2/df4/classzmq_1_1pgm__sender__t.html#abbf17574c7f2c80e3d733e32f9270ba6" title="zmq::pgm_sender_t::\lout_event" alt="" coords="168,71,313,112"/>
-<area shape="rect" id="node3" href="$d2/df4/classzmq_1_1pgm__sender__t.html#a53fadaff65b57d305d41f6dcfafa1625" title="zmq::pgm_sender_t::\lrestart_output" alt="" coords="361,5,507,47"/>
-<area shape="rect" id="node4" href="$d2/df4/classzmq_1_1pgm__sender__t.html#ad0ea6c58b0cb8d3fdf7f49e0c0db7a8a" title="zmq::pgm_sender_t::\ltimer_event" alt="" coords="361,71,507,112"/>
-<area shape="rect" id="node5" href="$d2/df4/classzmq_1_1pgm__sender__t.html#acfb592e0ffbe71ba7c8174b5ef392613" title="zmq::pgm_sender_t::\lzap_msg_available" alt="" coords="555,100,700,141"/>
-</map>

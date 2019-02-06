@@ -1,8 +1,0 @@
-<map id="omc_ExpressionDump_dimensionsString" name="omc_ExpressionDump_dimensionsString">
-<area shape="rect" id="node2" href="$da/d34/_compiler_2boot_2build_2types_8h.html#a9bf0445ff036777b25451f0bffabdb6a" title="omc_Types_getTypeName" alt="" coords="208,35,387,61"/>
-<area shape="rect" id="node3" href="$da/d17/_inst_util_8h.html#a213f293459c5f48e709ec22c98ce6be3" title="omc_InstUtil_checkFunction\lVarType" alt="" coords="435,27,623,69"/>
-<area shape="rect" id="node4" href="$d6/d54/_inst_var_8c.html#a2e8c425dac89efe97c8c330d806b7492" title="omc_InstVar_instVar2" alt="" coords="671,35,821,61"/>
-<area shape="rect" id="node5" href="$d6/d54/_inst_var_8c.html#a103a4258c6a74e9e202f7223d944554b" title="boxptr_InstVar_instVar2" alt="" coords="869,5,1032,32"/>
-<area shape="rect" id="node6" href="$d6/d54/_inst_var_8c.html#a30c666d5e62e0e0cc36dc5041cc6c43d" title="omc_InstVar_instVar\l__dispatch" alt="" coords="879,57,1023,98"/>
-<area shape="rect" id="node7" href="$d6/d54/_inst_var_8c.html#a62e0a9b61bb9c632c69b95c7924d8311" title="boxptr_InstVar_instVar\l__dispatch" alt="" coords="1080,57,1235,98"/>
-</map>

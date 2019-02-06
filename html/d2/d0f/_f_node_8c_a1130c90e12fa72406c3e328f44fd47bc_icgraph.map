@@ -1,8 +1,0 @@
-<map id="omc_FNode_id" name="omc_FNode_id">
-<area shape="rect" id="node2" href="$db/dd1/_f_graph_stream_8h.html#a48aaa735e8c02fbc244bca5972a51c36" title="omc_FGraphStream_node" alt="" coords="164,5,339,32"/>
-<area shape="rect" id="node4" href="$d6/d9d/_f_node_8h.html#a0af8a1dc6a7c3b87531c664c365f6bbf" title="boxptr_FNode_id" alt="" coords="191,56,312,83"/>
-<area shape="rect" id="node5" href="$d0/dbc/_f_visit_8h.html#a841ffa790d7ecca84b5ce7d7f0e7b093" title="omc_FVisit_visit" alt="" coords="192,107,311,133"/>
-<area shape="rect" id="node6" href="$d0/dbc/_f_visit_8h.html#a5a588e421c0d695bb9d090bc95d0fded" title="omc_FVisit_visited" alt="" coords="185,157,318,184"/>
-<area shape="rect" id="node3" href="$d7/dfb/_f_graph_8h.html#aaf19e2de5e36e29eb5b9d44a6fde24b4" title="omc_FGraph_node" alt="" coords="393,5,525,32"/>
-<area shape="rect" id="node7" href="$d0/dbc/_f_visit_8h.html#a3d3877136a4eef566185ffc22cb9e12b" title="boxptr_FVisit_visited" alt="" coords="387,157,531,184"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="boxptr_ConnectUtil_sizeOfVariableList" name="boxptr_ConnectUtil_sizeOfVariableList">
-<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#a17c1ac12dc0e315d88af7bb43cd1fa0f" title="omc_ConnectUtil_sizeOfVariableList" alt="" coords="188,31,424,57"/>
-<area shape="rect" id="node3" href="$d3/d5a/_connect_util_8c.html#a13bf22be667a03000115203a085c8e39" title="omc_ConnectUtil_sizeOfType" alt="" coords="472,31,669,57"/>
-<area shape="rect" id="node4" href="$d1/d08/_expression_8c.html#a84a4a599617a28cbc59e20244ed382d4" title="omc_Expression_dimensionSize" alt="" coords="717,5,928,32"/>
-<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a34e6591659b1578969141a635ff24042" title="omc_Flags_isSet" alt="" coords="761,56,884,83"/>
-<area shape="rect" id="node6" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="976,56,1125,83"/>
-<area shape="rect" id="node7" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1173,56,1276,83"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="MLAPI::EpetraBaseOperator::ApplyInverse" name="MLAPI::EpetraBaseOperator::ApplyInverse">
-<area shape="rect" id="node2" href="$d2/da2/class_m_l_a_p_i_1_1_epetra_base_operator.html#ac06039f59d201c9ef96e90c6dc5d546d" title="Applies the operator to X, returns the results in Y. " alt="" coords="241,122,429,163"/>
-<area shape="rect" id="node3" href="$d8/dc5/namespace_m_l_a_p_i.html#a87e22df86365ec682bc1ebefd305bbe3" title="MLAPI::GetString" alt="" coords="506,5,631,32"/>
-<area shape="rect" id="node4" href="$db/de1/class_m_l_a_p_i_1_1_base_operator.html#a7ece6e211a0e513d892919d4cca471b9" title="Returns a copy of the domain space of this object. " alt="" coords="477,57,660,98"/>
-<area shape="rect" id="node5" href="$db/de1/class_m_l_a_p_i_1_1_base_operator.html#aa91af2dd30899bf451836cf3e8a12230" title="Returns a copy of the range space of this object. " alt="" coords="481,122,657,163"/>
-<area shape="rect" id="node6" href="$db/de1/class_m_l_a_p_i_1_1_base_operator.html#acaebd09b80d6ec504d9ba5f429e98451" title="Applies the operator to X, using Y as starting solution. Returns the solution in Y. " alt="" coords="493,187,644,229"/>
-<area shape="rect" id="node7" href="$d4/d2c/ml__lapack_8h.html#acdf4f23ecebd52b0f65f96a1b2ec8274" title="DCOPY_F77" alt="" coords="519,253,618,280"/>
-</map>

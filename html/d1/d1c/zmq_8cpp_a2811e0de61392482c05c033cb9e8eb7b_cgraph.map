@@ -1,8 +1,0 @@
-<map id="zmq_getsockopt" name="zmq_getsockopt">
-<area shape="rect" id="node2" href="$de/dbd/classzmq_1_1socket__base__t.html#a849259ba41eab552b53645a8dc9a2e1c" title="zmq::socket_base_t\l::getsockopt" alt="" coords="172,57,312,98"/>
-<area shape="rect" id="node3" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a362b656d9de3289b55b1035d14cb4b5d" title="memset" alt="" coords="395,5,465,32"/>
-<area shape="rect" id="node4" href="$de/dbd/classzmq_1_1socket__base__t.html#a4ae423756b7ad2c30a968170c45c513e" title="zmq::socket_base_t\l::has_out" alt="" coords="360,57,500,98"/>
-<area shape="rect" id="node6" href="$de/dbd/classzmq_1_1socket__base__t.html#ad640c08b8b66b9ab1d28c04bd20d765d" title="zmq::socket_base_t\l::has_in" alt="" coords="360,122,500,163"/>
-<area shape="rect" id="node5" href="$de/dbd/classzmq_1_1socket__base__t.html#a2bb5751d10379a2371fbe7e6ffe6bb17" title="zmq::socket_base_t\l::xhas_out" alt="" coords="548,57,688,98"/>
-<area shape="rect" id="node7" href="$de/dbd/classzmq_1_1socket__base__t.html#aa9a460ac7f7e854dcad3ee04f1923415" title="zmq::socket_base_t\l::xhas_in" alt="" coords="548,122,688,163"/>
-</map>

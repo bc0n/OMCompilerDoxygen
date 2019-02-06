@@ -1,7 +1,0 @@
-<map id="Belos::MinresIter::getCurrentUpdate" name="Belos::MinresIter::getCurrentUpdate">
-<area shape="rect" id="node2" href="$d0/de0/class_belos_1_1_minres_iter.html#ab5c0a0773bc3a1048be2c89f553b795b" title="Belos::MinresIter::\lsymOrtho" alt="" coords="183,71,312,112"/>
-<area shape="rect" id="node3" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a146d96d758b245a3ca2272680ebf52b4" title="Returns representation of one for this scalar type. " alt="" coords="375,5,526,47"/>
-<area shape="rect" id="node4" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a1d9fe4c2221fcd9df15a16cf525e0f24" title="Returns representation of zero for this scalar type. " alt="" coords="375,71,526,112"/>
-<area shape="rect" id="node5" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a09d4569fca3d1a965037a483dd86de56" title="Returns the magnitudeType of the scalar type a. " alt="" coords="361,136,541,177"/>
-<area shape="rect" id="node6" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#ac45885f032e1fb68eed6a25f5331beec" title="Returns a number of magnitudeType that is the square root of this scalar type x. " alt="" coords="360,201,541,243"/>
-</map>

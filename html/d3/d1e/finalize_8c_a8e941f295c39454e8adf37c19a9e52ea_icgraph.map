@@ -1,5 +1,0 @@
-<map id="GC_register_finalizer_ignore_self" name="GC_register_finalizer_ignore_self">
-<area shape="rect" id="node2" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#aaaf8fca2d5e1c6fead871ac23da61a93" title="GC_debug_register_finalizer\l_ignore_self" alt="" coords="197,5,384,47"/>
-<area shape="rect" id="node3" href="$d8/d35/classboehmgc_1_1gc__cleanup.html#abde11e0085d2dd3cc2b1e87f6746e8e7" title="boehmgc::gc_cleanup\l::~gc_cleanup" alt="" coords="216,71,365,112"/>
-<area shape="rect" id="node4" href="$d8/d35/classboehmgc_1_1gc__cleanup.html#ac6ff6c1fe68a3450816e8121fe7c0e7e" title="boehmgc::gc_cleanup\l::gc_cleanup" alt="" coords="216,136,365,177"/>
-</map>

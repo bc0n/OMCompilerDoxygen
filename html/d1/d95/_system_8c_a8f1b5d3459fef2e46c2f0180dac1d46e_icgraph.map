@@ -1,7 +1,0 @@
-<map id="omc_System_getPartialInstantiation" name="omc_System_getPartialInstantiation">
-<area shape="rect" id="node2" href="$d3/d18/_ceval_script_8h.html#abd5723e4cb28b5931eb4b76483e6b750" title="omc_CevalScript_isComplete\lFunction" alt="" coords="302,5,497,47"/>
-<area shape="rect" id="node4" href="$d1/de1/_interactive_8h.html#af2858f277876647dca3865ebc964d75f" title="omc_Interactive_getDocumentation\lAnnotationString" alt="" coords="285,71,513,112"/>
-<area shape="rect" id="node5" href="$d1/de1/_interactive_8h.html#a5a4f4f7a8d7639905aff9053faabdf16" title="omc_Interactive_evaluate2" alt="" coords="310,137,489,163"/>
-<area shape="rect" id="node6" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#aa94e68aaa2655d1ba23d9e7394b322b6" title="boxptr_System_getPartial\lInstantiation" alt="" coords="313,188,485,229"/>
-<area shape="rect" id="node3" href="$d3/d18/_ceval_script_8h.html#a79773aebc3d522dd5aa90cd1ef05b857" title="boxptr_CevalScript\l_isCompleteFunction" alt="" coords="561,5,707,47"/>
-</map>

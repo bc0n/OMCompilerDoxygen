@@ -1,5 +1,0 @@
-<map id="FIDASparseJac" name="FIDASparseJac">
-<area shape="rect" id="node2" href="$d5/d9d/3rd_party_2sundials_2include_2ida_2ida_8h.html#a832d8f2203c74a0e0e2513bd1f7d4f11" title="IDAGetLastStep" alt="" coords="179,5,298,32"/>
-<area shape="rect" id="node3" href="$dc/dc8/sundials__nvector_8h.html#ab14cd7d630355c66928718a744da72d6" title="N_VGetArrayPointer" alt="" coords="168,56,309,83"/>
-<area shape="rect" id="node4" href="$d2/dcf/fidasparse_8c.html#af1d7704a402341f167c3e05e2bc50865" title="FIDA_SPJAC" alt="" coords="187,107,291,133"/>
-</map>

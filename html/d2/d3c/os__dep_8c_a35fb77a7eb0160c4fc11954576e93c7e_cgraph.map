@@ -1,6 +1,0 @@
-<map id="GC_text_mapping" name="GC_text_mapping">
-<area shape="rect" id="node2" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="227,5,282,32"/>
-<area shape="rect" id="node3" href="$d2/d3c/os__dep_8c.html#af74252bdea0fbd52b36437d4086f235b" title="GC_get_maps" alt="" coords="201,56,308,83"/>
-<area shape="rect" id="node5" href="$d2/d3c/os__dep_8c.html#ab08a10a4ef5331b3be73063e481a25bd" title="GC_parse_map_entry" alt="" coords="180,107,329,133"/>
-<area shape="rect" id="node4" href="$d2/d3c/os__dep_8c.html#a9d8a95a1c9e1ca2e9c14d81e12041b1d" title="GC_get_maps_len" alt="" coords="377,56,508,83"/>
-</map>

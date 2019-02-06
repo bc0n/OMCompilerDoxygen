@@ -1,6 +1,0 @@
-<map id="omc_BackendDump_setIncidenceMatrix" name="omc_BackendDump_setIncidenceMatrix">
-<area shape="rect" id="node2" href="$df/df2/_backend_dump_8h.html#a9aec8632e789b8175264f79a3c0152e9" title="omc_BackendDump_graphviz\lIncidenceMatrix" alt="" coords="275,5,471,47"/>
-<area shape="rect" id="node5" href="$df/df2/_backend_dump_8h.html#acfb1543d61666b8a8949f58f5816b275" title="omc_BackendDump_graphviz\lBackendDAE" alt="" coords="275,71,471,112"/>
-<area shape="rect" id="node3" href="$de/d7d/_backend_d_a_e_util_8h.html#aafb77b43443d975f28a394ab1edb416d" title="omc_BackendDAEUtil\l_getSolvedSystem" alt="" coords="519,39,672,80"/>
-<area shape="rect" id="node4" href="$db/dd3/_open_t_u_r_n_s_8h.html#abed2ae4cf854648f70bcf2e01cf1e86f" title="omc_OpenTURNS_generateOpen\lTURNSInterface" alt="" coords="720,39,940,80"/>
-</map>

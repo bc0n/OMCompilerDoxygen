@@ -1,5 +1,0 @@
-<map id="Teuchos::StringValidator" name="Teuchos::StringValidator">
-<area shape="rect" id="node2" href="$db/d78/class_teuchos_1_1_parameter_entry_validator.html" title="Abstract interface for an object that can validate a ParameterEntry&#39;s value. " alt="" coords="5,155,228,181"/>
-<area shape="rect" id="node3" href="$de/d8a/class_teuchos_1_1_describable.html" title="Base class for all objects that can describe themselves. " alt="" coords="42,80,191,107"/>
-<area shape="rect" id="node4" href="$df/d61/class_teuchos_1_1_labeled_object.html" title="Base class for objects that contain a std::string label. " alt="" coords="35,5,198,32"/>
-</map>

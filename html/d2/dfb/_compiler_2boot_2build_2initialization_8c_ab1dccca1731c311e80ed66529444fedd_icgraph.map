@@ -1,6 +1,0 @@
-<map id="omc_Initialization_mapListIndices" name="omc_Initialization_mapListIndices">
-<area shape="rect" id="node2" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#ae12b037e82303886902b03c84961ea28" title="omc_Initialization\l_selectInitializationVariablesDAE" alt="" coords="176,5,391,47"/>
-<area shape="rect" id="node3" href="$d5/d74/_compiler_2boot_2build_2initialization_8h.html#a844b087118ebda6850a2d0a1a297d033" title="omc_Initialization\l_solveInitialSystem" alt="" coords="439,5,575,47"/>
-<area shape="rect" id="node4" href="$de/d7d/_backend_d_a_e_util_8h.html#aafb77b43443d975f28a394ab1edb416d" title="omc_BackendDAEUtil\l_getSolvedSystem" alt="" coords="623,5,776,47"/>
-<area shape="rect" id="node5" href="$db/dd3/_open_t_u_r_n_s_8h.html#abed2ae4cf854648f70bcf2e01cf1e86f" title="omc_OpenTURNS_generateOpen\lTURNSInterface" alt="" coords="824,5,1044,47"/>
-</map>

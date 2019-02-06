@@ -1,7 +1,0 @@
-<map id="ringBufferLength" name="ringBufferLength">
-<area shape="rect" id="node2" href="$dc/dbf/_simulation_runtime_2c_2simulation_2solver_2delay_8h.html#ab0fa3c9954fe08846cb4434049cd3140" title="delayImpl" alt="" coords="225,5,303,32"/>
-<area shape="rect" id="node3" href="$d3/dfb/_simulation_runtime_2c_2simulation_2solver_2model__help_8h.html#a651d2a9672747b3334f9242c5bd6a2d0" title="overwriteOldSimulationData" alt="" coords="172,56,356,83"/>
-<area shape="rect" id="node6" href="$d3/dfb/_simulation_runtime_2c_2simulation_2solver_2model__help_8h.html#a9102fc6d50b6a99f9000c1a03b01cc1a" title="restoreExtrapolationDataOld" alt="" coords="171,107,357,133"/>
-<area shape="rect" id="node4" href="$d3/dfb/_simulation_runtime_2c_2simulation_2solver_2model__help_8h.html#af32fe0740f6a477bdd896cad9038821c" title="copyStartValuestoInitValues" alt="" coords="405,56,592,83"/>
-<area shape="rect" id="node5" href="$d4/d93/_simulation_runtime_2c_2simulation_2solver_2solver__main_8h.html#a957d2cb4e4cf2f8a7838833a331420f0" title="initializeModel" alt="" coords="640,56,744,83"/>
-</map>

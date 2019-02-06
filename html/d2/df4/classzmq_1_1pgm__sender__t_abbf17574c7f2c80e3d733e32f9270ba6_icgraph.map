@@ -1,5 +1,0 @@
-<map id="zmq::pgm_sender_t::out_event" name="zmq::pgm_sender_t::out_event">
-<area shape="rect" id="node2" href="$d2/df4/classzmq_1_1pgm__sender__t.html#a53fadaff65b57d305d41f6dcfafa1625" title="zmq::pgm_sender_t::\lrestart_output" alt="" coords="199,5,344,47"/>
-<area shape="rect" id="node3" href="$d2/df4/classzmq_1_1pgm__sender__t.html#ad0ea6c58b0cb8d3fdf7f49e0c0db7a8a" title="zmq::pgm_sender_t::\ltimer_event" alt="" coords="199,71,344,112"/>
-<area shape="rect" id="node4" href="$d2/df4/classzmq_1_1pgm__sender__t.html#acfb592e0ffbe71ba7c8174b5ef392613" title="zmq::pgm_sender_t::\lzap_msg_available" alt="" coords="392,100,537,141"/>
-</map>

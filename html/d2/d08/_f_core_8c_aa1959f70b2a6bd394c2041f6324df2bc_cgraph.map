@@ -1,8 +1,0 @@
-<map id="omc_FCore_getRecordConstructorName" name="omc_FCore_getRecordConstructorName">
-<area shape="rect" id="node2" href="$d1/d5c/_config_8c.html#abbb1ebde9dd1336640d4feb5ef557d9a" title="omc_Config_acceptMetaModelica\lGrammar" alt="" coords="313,5,532,47"/>
-<area shape="rect" id="node7" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="373,71,472,98"/>
-<area shape="rect" id="node3" href="$d3/db3/_flags_8c.html#add52ff282ca5df852c1905fabb4571c9" title="omc_Flags_getConfigEnum" alt="" coords="580,13,763,39"/>
-<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="811,13,993,39"/>
-<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="1041,13,1191,39"/>
-<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1239,13,1341,39"/>
-</map>

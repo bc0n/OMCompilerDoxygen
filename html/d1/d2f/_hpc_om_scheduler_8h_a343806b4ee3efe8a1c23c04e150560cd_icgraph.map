@@ -1,7 +1,0 @@
-<map id="omc_HpcOmScheduler_quicksortWithOrder" name="omc_HpcOmScheduler_quicksortWithOrder">
-<area shape="rect" id="node2" href="$d8/dd0/_hpc_om_scheduler_8c.html#ae9e5ed4339c45aba4a0261568326daad" title="omc_HpcOmScheduler\l_TDS__SortCompactClusters" alt="" coords="211,5,407,47"/>
-<area shape="rect" id="node3" href="$d8/dd0/_hpc_om_scheduler_8c.html#ad33a53012163150a8ea41e273e1604b0" title="omc_HpcOmScheduler\l_TDS__CompactClusters" alt="" coords="223,71,395,112"/>
-<area shape="rect" id="node4" href="$d8/dd0/_hpc_om_scheduler_8c.html#a6e61fb8fe351da117a6e7ea20e91f9fe" title="boxptr_HpcOmScheduler\l_TDS__CompactClusters" alt="" coords="455,37,627,79"/>
-<area shape="rect" id="node5" href="$d8/dd0/_hpc_om_scheduler_8c.html#af23f0b5d30a0348c0cb29f74f74f1f12" title="omc_HpcOmScheduler\l_TDS__schedule1" alt="" coords="462,103,619,144"/>
-<area shape="rect" id="node6" href="$d8/dd0/_hpc_om_scheduler_8c.html#a3ce34c156d0db4557c1517f6123bc1ef" title="boxptr_HpcOmScheduler\l_TDS__schedule1" alt="" coords="675,103,843,144"/>
-</map>

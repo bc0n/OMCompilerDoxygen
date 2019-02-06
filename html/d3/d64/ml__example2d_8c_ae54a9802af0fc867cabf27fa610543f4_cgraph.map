@@ -1,6 +1,0 @@
-<map id="ml_find_global_row" name="ml_find_global_row">
-<area shape="rect" id="node2" href="$d3/d64/ml__example2d_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="211,56,261,83"/>
-<area shape="rect" id="node3" href="$d4/d44/include_2coin_2_third_party_2mpi_8h.html#a0f7635ae881c2946ed7ee9996448e7ac" title="MPI_Init" alt="" coords="367,5,438,32"/>
-<area shape="rect" id="node5" href="$d4/d44/include_2coin_2_third_party_2mpi_8h.html#a91a0cf5613b31a183a5453446191f1df" title="MPI_Finalize" alt="" coords="187,107,285,133"/>
-<area shape="rect" id="node4" href="$da/d6c/ml__aztec__utils_8c.html#a30dad8a8213c5f1c9c478d0903c5b4a9" title="AZ_set_proc_config" alt="" coords="333,56,472,83"/>
-</map>

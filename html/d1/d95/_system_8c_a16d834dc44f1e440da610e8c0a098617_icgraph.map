@@ -1,5 +1,0 @@
-<map id="omc_System_modelicaPlatform" name="omc_System_modelicaPlatform">
-<area shape="rect" id="node2" href="$d8/de6/_ceval_script_backend_8c.html#a226f6e044d220ceb5774ab51bde3771b" title="omc_CevalScriptBackend\l_configureFMU" alt="" coords="311,5,484,47"/>
-<area shape="rect" id="node4" href="$d4/d6b/_sim_code_function_util_8c.html#a3bb6506400e8cb4d72350b25ee7f0cba" title="omc_SimCodeFunctionUtil\l_generateExtFunctionLibraryDirectoryPaths" alt="" coords="260,71,535,112"/>
-<area shape="rect" id="node3" href="$d8/de6/_ceval_script_backend_8c.html#a9d70f34dfac800cb909b6a161e6d24b3" title="boxptr_CevalScriptBackend\l_configureFMU" alt="" coords="583,5,767,47"/>
-</map>

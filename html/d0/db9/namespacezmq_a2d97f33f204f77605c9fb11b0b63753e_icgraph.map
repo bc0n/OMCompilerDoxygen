@@ -1,7 +1,0 @@
-<map id="zmq::proxy" name="zmq::proxy">
-<area shape="rect" id="node2" href="$d1/d1c/zmq_8cpp.html#aee963009061c3f59d6befde10d47178c" title="zmq_proxy" alt="" coords="170,5,257,32"/>
-<area shape="rect" id="node3" href="$d1/d1c/zmq_8cpp.html#a93f9ac03d78b97cc192da74642682126" title="zmq_proxy_steerable" alt="" coords="140,56,287,83"/>
-<area shape="rect" id="node6" href="$d1/d1c/zmq_8cpp.html#a03b48afb80a321dbf3bfb93058b9f12c" title="zmq_device" alt="" coords="167,107,259,133"/>
-<area shape="rect" id="node4" href="$d5/db9/test__proxy__single__socket_8cpp.html#a84b30fc6a056459780231065612934bb" title="server_task" alt="" coords="335,56,425,83"/>
-<area shape="rect" id="node5" href="$d5/db9/test__proxy__single__socket_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="473,56,524,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="omc_NFComponent_Component_isFinal" name="omc_NFComponent_Component_isFinal">
-<area shape="rect" id="node2" href="$d4/de3/_n_f_component_8h.html#abe155230a8d6881e8664a63980930996" title="boxptr_NFComponent\l_Component_isFinal" alt="" coords="295,5,445,47"/>
-<area shape="rect" id="node3" href="$d4/d7c/_n_f_flatten_8c.html#a6242170ae0420abc874b400d34b9ccda" title="omc_NFFlatten_flattenComplex\lComponent" alt="" coords="267,71,473,112"/>
-<area shape="rect" id="node4" href="$d4/d7c/_n_f_flatten_8c.html#a25053bb2dc480a074fdc027adc5856b2" title="boxptr_NFFlatten_flatten\lComplexComponent" alt="" coords="549,41,716,83"/>
-<area shape="rect" id="node5" href="$d4/d7c/_n_f_flatten_8c.html#a596a1df6ec1a2c22dccda322cb26ee85" title="omc_NFFlatten_flattenComponent" alt="" coords="521,107,744,134"/>
-<area shape="rect" id="node6" href="$d4/d7c/_n_f_flatten_8c.html#a47590b7a6cb8b732f25418e9f96a8519" title="boxptr_NFFlatten_flatten\lComponent" alt="" coords="792,100,959,141"/>
-</map>

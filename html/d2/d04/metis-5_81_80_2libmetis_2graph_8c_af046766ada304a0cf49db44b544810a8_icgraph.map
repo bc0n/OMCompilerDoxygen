@@ -1,5 +1,0 @@
-<map id="InitGraph" name="InitGraph">
-<area shape="rect" id="node2" href="$dd/d06/libmetis_2proto_8h.html#a01903fa912de9fc7f01dace993a3fc85" title="CreateGraph" alt="" coords="128,31,224,57"/>
-<area shape="rect" id="node3" href="$dd/d06/libmetis_2proto_8h.html#a9192cba632de98d1759721a5676eaf05" title="SetupGraph" alt="" coords="285,5,376,32"/>
-<area shape="rect" id="node4" href="$dd/d06/libmetis_2proto_8h.html#ad1dfd83fc2dc5e9f855c2d86b960c809" title="SetupSplitGraph" alt="" coords="272,56,389,83"/>
-</map>

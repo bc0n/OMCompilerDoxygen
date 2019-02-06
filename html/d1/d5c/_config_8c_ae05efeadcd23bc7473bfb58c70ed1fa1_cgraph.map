@@ -1,6 +1,0 @@
-<map id="omc_Config_acceptOptimicaGrammar" name="omc_Config_acceptOptimicaGrammar">
-<area shape="rect" id="node2" href="$d3/db3/_flags_8c.html#add52ff282ca5df852c1905fabb4571c9" title="omc_Flags_getConfigEnum" alt="" coords="244,13,427,39"/>
-<area shape="rect" id="node3" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="475,13,657,39"/>
-<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="705,13,855,39"/>
-<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="903,13,1005,39"/>
-</map>

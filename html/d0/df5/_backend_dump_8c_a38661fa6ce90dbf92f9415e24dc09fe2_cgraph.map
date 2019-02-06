@@ -1,6 +1,0 @@
-<map id="boxptr_BackendDump_dumpSparsePattern2" name="boxptr_BackendDump_dumpSparsePattern2">
-<area shape="rect" id="node2" href="$d0/df5/_backend_dump_8c.html#ac254569d165ea945fc8ed2f400618216" title="omc_BackendDump_dumpSparse\lPattern2" alt="" coords="204,49,424,90"/>
-<area shape="rect" id="node3" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="486,5,585,32"/>
-<area shape="rect" id="node4" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a751bf2360cb3df6de97811998890b7ea" title="intString" alt="" coords="500,56,571,83"/>
-<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#ac6039d0bf54fda4c417fe289f1aa7d89" title="omc_List_toString" alt="" coords="472,107,599,133"/>
-</map>

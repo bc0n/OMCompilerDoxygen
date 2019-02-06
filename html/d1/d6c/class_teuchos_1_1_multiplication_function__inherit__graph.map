@@ -1,6 +1,0 @@
-<map id="Teuchos::MultiplicationFunction&lt; OperandType &gt;" name="Teuchos::MultiplicationFunction&lt; OperandType &gt;">
-<area shape="rect" id="node2" href="$db/df0/class_teuchos_1_1_simple_function_object.html" title="A simple function object that applies a given operand to a spcified arguement using a specific operat..." alt="" coords="5,229,213,271"/>
-<area shape="rect" id="node3" href="$d5/db7/class_teuchos_1_1_function_object.html" title="A function object represents an arbitrary function. " alt="" coords="25,155,193,181"/>
-<area shape="rect" id="node4" href="$de/d8a/class_teuchos_1_1_describable.html" title="Base class for all objects that can describe themselves. " alt="" coords="35,80,184,107"/>
-<area shape="rect" id="node5" href="$df/d61/class_teuchos_1_1_labeled_object.html" title="Base class for objects that contain a std::string label. " alt="" coords="28,5,191,32"/>
-</map>

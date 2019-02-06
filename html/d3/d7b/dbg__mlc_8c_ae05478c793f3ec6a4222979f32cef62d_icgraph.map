@@ -1,5 +1,0 @@
-<map id="GC_debug_print_heap_obj_proc" name="GC_debug_print_heap_obj_proc">
-<area shape="rect" id="node2" href="$dd/d79/gc__priv_8h.html#ada7eb69d77da8876f2964213a3114462" title="GC_start_debugging\l_inner" alt="" coords="204,39,345,80"/>
-<area shape="rect" id="node3" href="$dd/d79/gc__priv_8h.html#a04e9cdfb1971ea668215b2a54acac1b4" title="GC_debug_generic_malloc\l_inner" alt="" coords="393,5,572,47"/>
-<area shape="rect" id="node4" href="$dd/d79/gc__priv_8h.html#a42296dc4d2aa326365598f8d2c17fc9b" title="GC_debug_generic_malloc\l_inner_ignore_off_page" alt="" coords="393,71,572,112"/>
-</map>

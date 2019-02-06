@@ -1,7 +1,0 @@
-<map id="flat_modelica_parser::string_comment" name="flat_modelica_parser::string_comment">
-<area shape="rect" id="node2" href="$d3/d1f/classflat__modelica__parser.html#a3f84c213222246748b920c694e5901f5" title="flat_modelica_parser\l::class_specifier" alt="" coords="196,5,339,47"/>
-<area shape="rect" id="node3" href="$d3/d1f/classflat__modelica__parser.html#ad7b4db7f3f7b2f3980eeaa1a30002d62" title="flat_modelica_parser\l::comment" alt="" coords="196,71,339,112"/>
-<area shape="rect" id="node4" href="$d3/d1f/classflat__modelica__parser.html#aad1d8b0fdcb8be342d80102d6ef594d0" title="flat_modelica_parser\l::component_declaration" alt="" coords="387,71,551,112"/>
-<area shape="rect" id="node5" href="$d3/d1f/classflat__modelica__parser.html#a7df9b11d040b60e5b510771508747ad4" title="flat_modelica_parser\l::component_list" alt="" coords="601,37,743,79"/>
-<area shape="rect" id="node6" href="$d3/d1f/classflat__modelica__parser.html#af6c5c90546ea01baedddb1ab3cf85beb" title="flat_modelica_parser\l::component_clause1" alt="" coords="599,103,745,144"/>
-</map>

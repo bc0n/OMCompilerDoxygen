@@ -1,8 +1,0 @@
-<map id="omc_Initialization_flattenParamComp" name="omc_Initialization_flattenParamComp">
-<area shape="rect" id="node2" href="$d5/d74/_compiler_2boot_2build_2initialization_8h.html#a96fe2933bce5c9568b3ff65039cfe908" title="boxptr_Initialization\l_flattenParamComp" alt="" coords="230,5,369,47"/>
-<area shape="rect" id="node3" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#ae12b037e82303886902b03c84961ea28" title="omc_Initialization\l_selectInitializationVariablesDAE" alt="" coords="192,71,407,112"/>
-<area shape="rect" id="node7" href="$de/d7d/_backend_d_a_e_util_8h.html#a8007c9edeb56dbcdf702e2189bb39c77" title="omc_BackendDAEUtil\l_sortGlobalKnownVarsInDAE" alt="" coords="455,133,649,175"/>
-<area shape="rect" id="node4" href="$d5/d74/_compiler_2boot_2build_2initialization_8h.html#a844b087118ebda6850a2d0a1a297d033" title="omc_Initialization\l_solveInitialSystem" alt="" coords="484,68,620,109"/>
-<area shape="rect" id="node5" href="$de/d7d/_backend_d_a_e_util_8h.html#aafb77b43443d975f28a394ab1edb416d" title="omc_BackendDAEUtil\l_getSolvedSystem" alt="" coords="697,101,851,143"/>
-<area shape="rect" id="node6" href="$db/dd3/_open_t_u_r_n_s_8h.html#abed2ae4cf854648f70bcf2e01cf1e86f" title="omc_OpenTURNS_generateOpen\lTURNSInterface" alt="" coords="899,101,1119,143"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="IDASolve" name="IDASolve">
-<area shape="rect" id="node2" href="$d9/dde/fida_8h.html#ad930e44e579c19e4b0e821fd4ca367ad" title="FIDA_SOLVE" alt="" coords="132,5,236,32"/>
-<area shape="rect" id="node3" href="$d1/d0d/class_ida.html#a289cf95889af136a4bb11e4c537daa78" title="Berechung der numerischen Lösung innerhalb eines gegebenen Zeitintervalls. " alt="" coords="145,56,223,83"/>
-<area shape="rect" id="node4" href="$d1/d0d/class_ida.html#ad186bf83203716276cc87d63dcac2cec" title="Setzen der initialen Schrittweite (z.B. auch nach Nullstelle) " alt="" coords="284,56,421,83"/>
-</map>

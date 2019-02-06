@@ -1,7 +1,0 @@
-<map id="omc_DAEUtil_replaceCrefInVar" name="omc_DAEUtil_replaceCrefInVar">
-<area shape="rect" id="node2" href="$df/df0/_backend_d_a_e_create_8h.html#a452b94d7a8f6a028ce1284323002d047" title="omc_BackendDAECreate\l_lowerVars" alt="" coords="274,5,446,47"/>
-<area shape="rect" id="node5" href="$d1/dcb/_differentiate_8c.html#a5fdd159ee38ce0dab01199a04888d5df" title="omc_Differentiate_differentiate\lElementVars" alt="" coords="260,71,460,112"/>
-<area shape="rect" id="node3" href="$d1/dcb/_differentiate_8c.html#aa00aff8e48fc36d9574b75aabb7cb836" title="omc_Differentiate_lowerVars\lElementVars" alt="" coords="508,5,699,47"/>
-<area shape="rect" id="node4" href="$d1/dcb/_differentiate_8c.html#a7b40788d1a57acb3a4f675102a48fbcf" title="omc_Differentiate_addElement\lVars2Dep" alt="" coords="747,5,948,47"/>
-<area shape="rect" id="node6" href="$d1/dcb/_differentiate_8c.html#a4fc4f852217fb2129272bbb22b07aa47" title="boxptr_Differentiate\l_differentiateElementVars" alt="" coords="517,71,689,112"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="omc_Socket_sendreply" name="omc_Socket_sendreply">
-<area shape="rect" id="node2" href="$d9/d8a/_compiler_2boot_2build_2_socket_8h.html#a7855066f6e50322f132e53f799f5bf4c" title="Socket_sendreply" alt="" coords="212,56,339,83"/>
-<area shape="rect" id="node3" href="$d3/dc8/class_teuchos_1_1_comm.html#a4b4a833972f7b5ca681f0993f9ed7222" title="Send objects that use values semantics to another process. " alt="" coords="387,5,541,32"/>
-<area shape="rect" id="node4" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="437,56,491,83"/>
-<area shape="rect" id="node5" href="$dc/d16/socketimpl_8c.html#a9ba34c4ff72e21db486eedf77c2a18d0" title="fsync" alt="" coords="437,107,491,133"/>
-</map>

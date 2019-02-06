@@ -1,5 +1,0 @@
-<map id="omc_FCore_RefTree_isEmpty" name="omc_FCore_RefTree_isEmpty">
-<area shape="rect" id="node2" href="$db/dda/_f_core_8h.html#a8a32724859cc123ce78d53baf6a38305" title="boxptr_FCore_RefTree\l_isEmpty" alt="" coords="269,5,424,47"/>
-<area shape="rect" id="node3" href="$d7/dfb/_f_graph_8h.html#a6cbb8712b81c95104816fa63ca2f8006" title="omc_FGraph_isEmptyScope" alt="" coords="252,71,441,98"/>
-<area shape="rect" id="node4" href="$d7/dfb/_f_graph_8h.html#a2306d266e6292155fdafb0252f34e455" title="boxptr_FGraph_isEmptyScope" alt="" coords="489,71,689,98"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="GC_realloc" name="GC_realloc">
-<area shape="rect" id="node2" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#ac0fc85cd6aabd28cd9483c12d4e8514f" title="GC_debug_realloc" alt="" coords="140,31,269,57"/>
-<area shape="rect" id="node5" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#a92ede13477ebae25f456519e00cdbd79" title="GC_amiga_realloc" alt="" coords="140,81,269,108"/>
-<area shape="rect" id="node3" href="$d3/d7b/dbg__mlc_8c.html#a92bfe9ab938a109d9444b1f1a896b763" title="GC_debug_realloc_replacement" alt="" coords="317,5,524,32"/>
-<area shape="rect" id="node4" href="$da/d32/pcr__interface_8c.html#a728ae9b8f977bd2cf63c76c7d401df45" title="GC_DebugReallocProc" alt="" coords="341,56,500,83"/>
-</map>

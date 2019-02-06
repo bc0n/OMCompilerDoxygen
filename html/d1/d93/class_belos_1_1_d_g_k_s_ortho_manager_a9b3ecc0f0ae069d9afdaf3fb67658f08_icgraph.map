@@ -1,4 +1,0 @@
-<map id="Belos::DGKSOrthoManager::projectAndNormalizeWithMxImpl" name="Belos::DGKSOrthoManager::projectAndNormalizeWithMxImpl">
-<area shape="rect" id="node2" href="$d1/d93/class_belos_1_1_d_g_k_s_ortho_manager.html#abea4d08406eccf73e6a48f3228572a5c" title="This method calls normalize(X,Teuchos::null,B); see documentation for that function. " alt="" coords="275,5,457,47"/>
-<area shape="rect" id="node3" href="$d1/d93/class_belos_1_1_d_g_k_s_ortho_manager.html#a85dcb65ab4bbfc40ecc82239febaf23f" title="This method computes the error in orthogonality of two multivectors, measured as the Frobenius norm o..." alt="" coords="275,71,457,112"/>
-</map>

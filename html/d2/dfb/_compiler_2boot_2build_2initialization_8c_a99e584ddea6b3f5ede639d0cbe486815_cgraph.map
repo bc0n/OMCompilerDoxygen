@@ -1,5 +1,0 @@
-<map id="omc_Initialization_collectPreVariablesTraverseExp" name="omc_Initialization_collectPreVariablesTraverseExp">
-<area shape="rect" id="node2" href="$db/d13/_c_vode_get_8m.html#ab022bbe018438998408fda94a327a547" title="strcmp" alt="" coords="335,5,397,32"/>
-<area shape="rect" id="node3" href="$d1/d08/_expression_8c.html#aae2ed5a7c0c9b70b6c66638bc345357d" title="omc_Expression_traverseExp\lBottomUp" alt="" coords="268,57,464,98"/>
-<area shape="rect" id="node4" href="$d1/d08/_expression_8c.html#add3db321c96f54919494182b71eb10c7" title="omc_Expression_traverseExpClk" alt="" coords="512,64,728,91"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="omc_DAEDump_daeTypeStr" name="omc_DAEDump_daeTypeStr">
-<area shape="rect" id="node2" href="$dd/deb/_mid_code_8h.html#a48bdaf98aba63641bdf20bec4ff18270" title="omc_MidCode_varString" alt="" coords="270,5,435,32"/>
-<area shape="rect" id="node3" href="$d3/dcc/_sim_code_util_8h.html#a97b66100c63bf013265daba225410fd3" title="omc_SimCodeUtil_simEqSystem\lString" alt="" coords="244,57,461,98"/>
-<area shape="rect" id="node4" href="$d3/dcc/_sim_code_util_8h.html#a59e5b957945a1bb088d904f9697bef79" title="omc_SimCodeUtil_dumpSimEq\lSystem" alt="" coords="509,57,716,98"/>
-<area shape="rect" id="node5" href="$d3/dcc/_sim_code_util_8h.html#ac60c71d8d433219dc5c0c4ed30a43e73" title="omc_SimCodeUtil_dumpSimEq\lSystemLst" alt="" coords="764,57,971,98"/>
-<area shape="rect" id="node6" href="$d3/dcc/_sim_code_util_8h.html#a52f440f87f75a3b215e37e761c6c233d" title="omc_SimCodeUtil_dumpSimCode\lDebug" alt="" coords="1288,57,1509,98"/>
-<area shape="rect" id="node7" href="$d3/dcc/_sim_code_util_8h.html#a7958342223342ef64dcda66da3fe6dda" title="omc_SimCodeUtil_dumpSimCode\lDAEmodeDataString" alt="" coords="1019,86,1240,127"/>
-</map>

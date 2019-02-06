@@ -1,8 +1,0 @@
-<map id="omc_NFComponent_Component_comment" name="omc_NFComponent_Component_comment">
-<area shape="rect" id="node2" href="$d4/de3/_n_f_component_8h.html#a912d6f088e72c87f6f8f98103877c62c" title="omc_NFComponent_Component\l_getEvaluateAnnotation" alt="" coords="267,71,480,112"/>
-<area shape="rect" id="node6" href="$d7/d45/_n_f_variable_8h.html#a2bd4af25a0844fbf4fe23401e0b66a76" title="omc_NFVariable_fromCref" alt="" coords="285,137,462,163"/>
-<area shape="rect" id="node3" href="$d4/de3/_n_f_component_8h.html#a349d238d1bd995666932adad3d0690c1" title="boxptr_NFComponent\l_Component_getEvaluateAnnotation" alt="" coords="528,5,763,47"/>
-<area shape="rect" id="node4" href="$da/d9b/_n_f_inst_8h.html#afacc2ebb15e49d3ca31e17af601e07d6" title="omc_NFInst_updateImplicit\lVariabilityComp" alt="" coords="554,71,737,112"/>
-<area shape="rect" id="node5" href="$da/d9b/_n_f_inst_8h.html#a4ea6f5ac900a2485b63e2d4d366edf46" title="boxptr_NFInst_updateImplicit\lVariabilityComp" alt="" coords="811,71,1004,112"/>
-<area shape="rect" id="node7" href="$da/d69/_n_f_package_8h.html#ae41e6a7875e94bfa38746b02bbb66a72" title="omc_NFPackage_collectConstants" alt="" coords="531,137,759,163"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="omc_System_setEnv" name="omc_System_setEnv">
-<area shape="rect" id="node2" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a4f163149d0e7590ff98d7c8bbd17583d" title="setenv" alt="" coords="200,56,261,83"/>
-<area shape="rect" id="node3" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="312,5,367,32"/>
-<area shape="rect" id="node4" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="309,56,369,83"/>
-<area shape="rect" id="node5" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="317,107,361,133"/>
-</map>

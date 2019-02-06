@@ -1,6 +1,0 @@
-<map id="boxptr_ConnectUtil_daeHasExpandableConnectors" name="boxptr_ConnectUtil_daeHasExpandableConnectors">
-<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#ae612018468406accc03f7ef5151a0d14" title="omc_ConnectUtil_daeHasExpandable\lConnectors" alt="" coords="263,35,505,76"/>
-<area shape="rect" id="node3" href="$d1/d95/_system_8c.html#a1f3828cd8a7e40fe846069d9284bc17c" title="omc_System_getHasExpandable\lConnectors" alt="" coords="553,5,769,47"/>
-<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#abb96b3079e0726f3b1683f7f314e7a51" title="omc_List_exist" alt="" coords="606,71,717,98"/>
-<area shape="rect" id="node4" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a3ef5f3b574d088ecebc873ec461b8298" title="System_getHasExpandableConnectors" alt="" coords="817,13,1068,39"/>
-</map>

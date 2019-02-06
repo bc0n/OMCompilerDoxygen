@@ -1,8 +1,0 @@
-digraph "3rdParty/open62541/open62541.h"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  Node8 [label="3rdParty/open62541\l/open62541.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node9 [label="3rdParty/open62541\l/open62541.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d11/3rd_party_2open62541_2open62541_8c.html"];
-}

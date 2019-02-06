@@ -1,5 +1,0 @@
-<map id="Jipopt::get_bounds_info" name="Jipopt::get_bounds_info">
-<area shape="rect" id="node2" href="$d5/df6/struct_j_n_i_env__.html#ac88b88d37edf49d01630fb5012546c0a" title="JNIEnv_::NewDoubleArray" alt="" coords="231,5,411,32"/>
-<area shape="rect" id="node3" href="$d5/df6/struct_j_n_i_env__.html#a9e9e3a4163c987977fc16367cf434c51" title="JNIEnv_::CallBooleanMethod" alt="" coords="223,56,418,83"/>
-<area shape="rect" id="node4" href="$d5/df6/struct_j_n_i_env__.html#ab96f21ff7e2721d44295e935367a4e50" title="JNIEnv_::GetDoubleArrayRegion" alt="" coords="213,107,428,133"/>
-</map>

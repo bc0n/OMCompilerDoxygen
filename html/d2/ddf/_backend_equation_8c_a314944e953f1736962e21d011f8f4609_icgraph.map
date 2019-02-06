@@ -1,7 +1,0 @@
-<map id="omc_BackendEquation_isAlgorithm" name="omc_BackendEquation_isAlgorithm">
-<area shape="rect" id="node2" href="$de/d7d/_backend_d_a_e_optimize_8c.html#ad605d69b23523aab4957f953a39de430" title="omc_BackendDAEOptimize\l_simplifyLoopEqn" alt="" coords="209,5,395,47"/>
-<area shape="rect" id="node4" href="$df/d72/_backend_equation_8h.html#a72764922a3e32385efe6f16149c152b7" title="omc_BackendEquation\l_isNotAlgorithm" alt="" coords="224,71,380,112"/>
-<area shape="rect" id="node6" href="$df/d72/_backend_equation_8h.html#ad885751e4da4b71f603557401a66a093" title="boxptr_BackendEquation\l_isAlgorithm" alt="" coords="219,136,385,177"/>
-<area shape="rect" id="node3" href="$de/d7d/_backend_d_a_e_optimize_8c.html#a58d53fd8bc5109d4a5ce732d9aa1e3ba" title="boxptr_BackendDAEOptimize\l_simplifyLoopEqn" alt="" coords="443,5,639,47"/>
-<area shape="rect" id="node5" href="$df/d72/_backend_equation_8h.html#aa10c36a1d1882c7a08509f2c2aa05ebe" title="boxptr_BackendEquation\l_isNotAlgorithm" alt="" coords="457,71,624,112"/>
-</map>

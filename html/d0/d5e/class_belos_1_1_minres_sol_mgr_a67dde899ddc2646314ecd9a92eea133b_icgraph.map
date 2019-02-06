@@ -1,6 +1,0 @@
-<map id="Belos::MinresSolMgr::getValidParameters" name="Belos::MinresSolMgr::getValidParameters">
-<area shape="rect" id="node2" href="$d0/d5e/class_belos_1_1_minres_sol_mgr.html#aa59ae3e904bb43efee12b8d591741a01" title="Set the parameters to use when solving the linear problem. " alt="" coords="197,39,340,80"/>
-<area shape="rect" id="node3" href="$d0/d5e/class_belos_1_1_minres_sol_mgr.html#ab264b65cba116ad84093a883f2019de5" title="Basic constructor for MinresSolMgr. " alt="" coords="388,5,531,47"/>
-<area shape="rect" id="node4" href="$d0/d5e/class_belos_1_1_minres_sol_mgr.html#a3842e7552bb439da7a30993eed9be59a" title="Iterate until the status test tells us to stop. " alt="" coords="388,71,531,112"/>
-<area shape="rect" id="node5" href="$d4/da9/test__minres__complex__hb_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="579,78,629,105"/>
-</map>

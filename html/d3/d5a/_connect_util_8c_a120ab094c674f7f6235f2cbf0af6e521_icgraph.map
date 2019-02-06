@@ -1,7 +1,0 @@
-<map id="omc_ConnectUtil_evaluateInStream" name="omc_ConnectUtil_evaluateInStream">
-<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#a2ae3ab2490cb59e3de1f96c5f2f899c2" title="omc_ConnectUtil_evaluate\lActualStream" alt="" coords="232,12,411,53"/>
-<area shape="rect" id="node4" href="$d3/d5a/_connect_util_8c.html#a7038f2bfd6f9696cc2460ccd4da24d28" title="omc_ConnectUtil_evaluate\lConnectionOperatorsExp" alt="" coords="459,71,637,112"/>
-<area shape="rect" id="node6" href="$d3/d5a/_connect_util_8c.html#a7c6c9cf3c6b7ac5e4e9d96c498425be6" title="boxptr_ConnectUtil\l_evaluateInStream" alt="" coords="254,129,389,171"/>
-<area shape="rect" id="node3" href="$d3/d5a/_connect_util_8c.html#a48e884330f5cf2b98ea68fbfcb133b23" title="boxptr_ConnectUtil\l_evaluateActualStream" alt="" coords="469,5,627,47"/>
-<area shape="rect" id="node5" href="$d3/d5a/_connect_util_8c.html#ae218323a304268f4f35d8cbf0c2ab42b" title="boxptr_ConnectUtil\l_evaluateConnectionOperatorsExp" alt="" coords="685,71,909,112"/>
-</map>

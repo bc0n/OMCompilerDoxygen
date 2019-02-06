@@ -1,9 +1,0 @@
-<map id="umfpack_toc" name="umfpack_toc">
-<area shape="rect" id="node2" href="$d8/d03/umfpack__numeric_8c.html#a1a4c2010b43b981b78653380cb4e7db2" title="UMFPACK_numeric" alt="" coords="157,5,299,32"/>
-<area shape="rect" id="node3" href="$d5/d0e/umfpack__qsymbolic_8c.html#a48e3cc743c4ade2f7594891c424a8d9a" title="UMFPACK_qsymbolic" alt="" coords="151,56,305,83"/>
-<area shape="rect" id="node8" href="$d0/dfe/umfpack__solve_8c.html#a672f60b3ed9d3340237310c549be90aa" title="UMFPACK_solve" alt="" coords="165,107,291,133"/>
-<area shape="rect" id="node4" href="$d5/d0e/umfpack__qsymbolic_8c.html#ab64f6b5a2f2f7a0c8957e12d5c4fb6a4" title="combine_ordering" alt="" coords="365,5,489,32"/>
-<area shape="rect" id="node7" href="$d1/d5d/umfpack__symbolic_8c.html#a0c9f900e7138a753fd263a612fe32c13" title="UMFPACK_symbolic" alt="" coords="353,56,500,83"/>
-<area shape="rect" id="node5" href="$d5/d0e/umfpack__qsymbolic_8c.html#a38d401164203b9d0d2d02a6119b56b2c" title="prune_singletons" alt="" coords="548,107,668,133"/>
-<area shape="rect" id="node6" href="$d5/d0e/umfpack__qsymbolic_8c.html#a6a7a8c26ebd44a341f2ffa887d09c421" title="do_amd" alt="" coords="716,132,784,159"/>
-</map>

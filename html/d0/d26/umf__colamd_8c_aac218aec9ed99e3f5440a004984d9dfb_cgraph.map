@@ -1,8 +1,0 @@
-<map id="init_scoring" name="init_scoring">
-<area shape="rect" id="node2" href="$d0/d26/umf__colamd_8c.html#ac076a769bbd2d5cfa67d23048d0086ed" title="debug_structures" alt="" coords="141,5,264,32"/>
-<area shape="rect" id="node3" href="$d0/d26/umf__colamd_8c.html#ad1e5b4e47806d1c9ff8e47d63d96b2ef" title="debug_deg_lists" alt="" coords="312,31,428,57"/>
-<area shape="rect" id="node7" href="$d0/d26/umf__colamd_8c.html#aaf5ba475f1ee4363dc84edbab287c6ea" title="find_ordering" alt="" coords="155,107,251,133"/>
-<area shape="rect" id="node4" href="$d0/d26/umf__colamd_8c.html#adf97217b763d38c626fd08c557fd28c2" title="debug_mark" alt="" coords="476,31,569,57"/>
-<area shape="rect" id="node5" href="$d0/d26/umf__colamd_8c.html#aa14ff3bfbc01c6d5185cf2222f5adfac" title="debug_matrix" alt="" coords="617,31,717,57"/>
-<area shape="rect" id="node6" href="$d0/d26/umf__colamd_8c.html#a88c139be3a577fa6a500a638d0292afb" title="dump_super" alt="" coords="765,31,859,57"/>
-</map>

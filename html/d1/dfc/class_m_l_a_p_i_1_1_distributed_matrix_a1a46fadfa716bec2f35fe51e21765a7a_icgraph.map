@@ -1,8 +1,0 @@
-<map id="MLAPI::DistributedMatrix::DistributedMatrix" name="MLAPI::DistributedMatrix::DistributedMatrix">
-<area shape="rect" id="node2" href="$d1/dfc/class_m_l_a_p_i_1_1_distributed_matrix.html#ada8200eb5ae7cf7b7b62b1dd46ba0a85" title="MLAPI::DistributedMatrix\l::IsFillCompleted" alt="" coords="223,71,392,112"/>
-<area shape="rect" id="node3" href="$d1/dfc/class_m_l_a_p_i_1_1_distributed_matrix.html#a7f5a97f1858e406b80e1e0dbdb9c7fff" title="Prints information on stream. " alt="" coords="440,5,609,47"/>
-<area shape="rect" id="node5" href="$d1/dfc/class_m_l_a_p_i_1_1_distributed_matrix.html#a39c1ecd864188cf530ff92c272451583" title="MLAPI::DistributedMatrix\l::operator()" alt="" coords="440,71,609,112"/>
-<area shape="rect" id="node6" href="$d1/dfc/class_m_l_a_p_i_1_1_distributed_matrix.html#aeddd52a62adc17fcaa46989d397e56d3" title="MLAPI::DistributedMatrix\l::ReplaceElement" alt="" coords="440,136,609,177"/>
-<area shape="rect" id="node4" href="$d1/dfc/class_m_l_a_p_i_1_1_distributed_matrix.html#a39773e2d654a0cac304a0698d577bca7" title="MLAPI::DistributedMatrix\l::Comm" alt="" coords="657,5,827,47"/>
-<area shape="rect" id="node7" href="$d5/d02/ml_2test_2_m_l_a_p_i_distributed_matrix_2cxx__main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="717,143,767,170"/>
-</map>

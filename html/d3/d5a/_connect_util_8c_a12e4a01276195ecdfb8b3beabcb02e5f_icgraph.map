@@ -1,7 +1,0 @@
-<map id="omc_ConnectUtil_allCrefsAreExpandable" name="omc_ConnectUtil_allCrefsAreExpandable">
-<area shape="rect" id="node2" href="$da/df9/_connect_util_8h.html#a0e5ba6eebf42565c796466b046f6efb7" title="boxptr_ConnectUtil\l_allCrefsAreExpandable" alt="" coords="268,5,431,47"/>
-<area shape="rect" id="node3" href="$d3/d5a/_connect_util_8c.html#a9476e9b13c77552517fa4844ebda68f9" title="omc_ConnectUtil_getOnlyExpandable\lConnectedCrefs" alt="" coords="228,71,471,112"/>
-<area shape="rect" id="node4" href="$d3/d5a/_connect_util_8c.html#a9e4d084879cac8dbd1b4a18c14578cc2" title="omc_ConnectUtil_removeUnused\lExpandableVariablesAndConnections" alt="" coords="519,71,759,112"/>
-<area shape="rect" id="node5" href="$da/df9/_connect_util_8h.html#a1e6af227db592e6ea1b19c26260c486a" title="omc_ConnectUtil_equations" alt="" coords="807,78,993,105"/>
-<area shape="rect" id="node6" href="$da/df9/_connect_util_8h.html#a03e679bc32122873a3be9d77d9393c16" title="boxptr_ConnectUtil\l_equations" alt="" coords="1041,71,1176,112"/>
-</map>

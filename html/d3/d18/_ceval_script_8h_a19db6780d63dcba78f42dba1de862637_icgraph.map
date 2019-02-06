@@ -1,9 +1,0 @@
-<map id="omc_CevalScript_cevalCallFunction" name="omc_CevalScript_cevalCallFunction">
-<area shape="rect" id="node2" href="$de/dd4/_backend_interface_8h.html#a5a4157b02186f253101d31e59261e8be" title="omc_BackendInterface\l_cevalCallFunction" alt="" coords="238,35,394,76"/>
-<area shape="rect" id="node6" href="$d3/d18/_ceval_script_8h.html#ae29a0c6c012dccf5e41ebd1aff6ccd14" title="boxptr_CevalScript\l_cevalCallFunction" alt="" coords="249,100,383,141"/>
-<area shape="rect" id="node7" href="$d3/d18/_ceval_script_8h.html#a54e18495572e0f0df5e259344ebcd7c0" title="omc_CevalScript_ceval" alt="" coords="236,166,396,193"/>
-<area shape="rect" id="node3" href="$de/dd4/_backend_interface_8h.html#a70ef3d09e1f729be7425d39278fa01e9" title="boxptr_BackendInterface\l_cevalCallFunction" alt="" coords="444,5,611,47"/>
-<area shape="rect" id="node4" href="$de/d71/_ceval_8c.html#aee12ae95a3b89e2fe630d980d20cfdb8" title="omc_Ceval_cevalBuiltin" alt="" coords="446,71,609,98"/>
-<area shape="rect" id="node5" href="$de/d71/_ceval_8c.html#a1e291acb216a9f930c9fb3c1e63c1cb9" title="boxptr_Ceval_cevalBuiltin" alt="" coords="659,71,832,98"/>
-<area shape="rect" id="node8" href="$d3/d18/_ceval_script_8h.html#aae8cc4535d26fc55c8cceeb1978d35e2" title="boxptr_CevalScript\l_ceval" alt="" coords="461,159,594,200"/>
-</map>

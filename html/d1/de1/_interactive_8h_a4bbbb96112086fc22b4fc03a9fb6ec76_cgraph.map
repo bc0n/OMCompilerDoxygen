@@ -1,8 +1,0 @@
-<map id="omc_Interactive_getAnnotationValue" name="omc_Interactive_getAnnotationValue">
-<area shape="rect" id="node2" href="$d8/d4d/_dump_8c.html#a17160be8bc0a8dd3d57b9c01a81f4571" title="omc_Dump_printExpStr" alt="" coords="256,38,417,65"/>
-<area shape="rect" id="node3" href="$d7/d52/_tpl_8c.html#aa1d15a30935372710f07a5ba3276dc70" title="omc_Tpl_tplString" alt="" coords="465,38,592,65"/>
-<area shape="rect" id="node4" href="$db/da1/_compiler_2boot_2build_2error_8c.html#a6f9ff3d03e91883492e13af7fbc088ff" title="omc_Error_getNumErrorMessages" alt="" coords="640,13,863,39"/>
-<area shape="rect" id="node7" href="$d7/d52/_tpl_8c.html#a97b981684a5f0c8f870746abdde666d7" title="omc_Tpl_tplCallWithFailError" alt="" coords="655,63,847,90"/>
-<area shape="rect" id="node5" href="$d4/dce/_error_ext_8c.html#a0195f83af0487b3e7bf35deb4225e582" title="omc_ErrorExt_getNumError\lMessages" alt="" coords="911,5,1093,47"/>
-<area shape="rect" id="node6" href="$d1/d40/boot_2build_2_error_ext_8h.html#a1206137921767ad0e49abe96adf7b5e3" title="ErrorImpl__getNumErrorMessages" alt="" coords="1141,13,1364,39"/>
-</map>

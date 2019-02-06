@@ -1,7 +1,0 @@
-<map id="listNodeData" name="listNodeData">
-<area shape="rect" id="node2" href="$d2/dc1/_simulation_runtime_2c_2simulation_2solver_2synchronous_8h.html#ac9222f1e78eb67d1e38e7834877bb912" title="checkForSynchronous" alt="" coords="152,5,304,32"/>
-<area shape="rect" id="node3" href="$d2/dc1/_simulation_runtime_2c_2simulation_2solver_2synchronous_8h.html#a4047ef028933c8f22223a5e969f319c0" title="handleTimers" alt="" coords="178,56,278,83"/>
-<area shape="rect" id="node4" href="$d7/dc9/_simulation_runtime_2c_2simulation_2solver_2events_8h.html#aac0348c8fd5445d1eb2ce518ada6a8b6" title="findRoot" alt="" coords="193,107,263,133"/>
-<area shape="rect" id="node6" href="$de/deb/events_8c.html#a04d55658c858efb25cc0ee397fb780f3" title="checkZeroCrossings" alt="" coords="157,157,299,184"/>
-<area shape="rect" id="node5" href="$d7/dc9/_simulation_runtime_2c_2simulation_2solver_2events_8h.html#a4f1c8974048201fbb62638aaa41bfb3b" title="checkEvents" alt="" coords="352,107,451,133"/>
-</map>

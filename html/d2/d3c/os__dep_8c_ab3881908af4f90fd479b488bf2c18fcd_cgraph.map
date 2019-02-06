@@ -1,5 +1,0 @@
-<map id="GC_unix_get_mem" name="GC_unix_get_mem">
-<area shape="rect" id="node2" href="$d2/d3c/os__dep_8c.html#a1a35e01390750247f4af21b4fc7910ee" title="GC_unix_mmap_get_mem" alt="" coords="188,5,365,32"/>
-<area shape="rect" id="node3" href="$d2/d3c/os__dep_8c.html#aac64705f70777e37c38c1560f200076f" title="GC_unix_sbrk_get_mem" alt="" coords="193,56,360,83"/>
-<area shape="rect" id="node4" href="$d2/d3c/os__dep_8c.html#ac80b49905a0968edf0b541007d552a55" title="sbrk" alt="" coords="413,56,460,83"/>
-</map>

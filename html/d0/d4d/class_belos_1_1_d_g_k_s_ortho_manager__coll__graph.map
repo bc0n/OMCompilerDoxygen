@@ -1,7 +1,0 @@
-<map id="Belos::DGKSOrthoManager&lt; ScalarType, MV, OP &gt;" name="Belos::DGKSOrthoManager&lt; ScalarType, MV, OP &gt;">
-<area shape="rect" id="node2" href="$df/d61/class_belos_1_1_mat_ortho_manager.html" title="Belos&#39;s templated virtual class for providing routines for orthogonalization and orthonormzalition of..." alt="" coords="319,56,486,97"/>
-<area shape="rect" id="node3" href="$d4/d90/class_belos_1_1_ortho_manager.html" title="Belos&#39;s templated virtual class for providing routines for orthogonalization and orthonormzalition of..." alt="" coords="39,5,185,47"/>
-<area shape="rect" id="node4" href="$d5/d9a/class_teuchos_1_1_r_c_p.html" title="Teuchos::RCP\&lt; const OP \&gt;" alt="" coords="18,71,206,98"/>
-<area shape="rect" id="node5" href="$df/df9/class_teuchos_1_1_parameter_list_acceptor_default_base.html" title="Intermediate node base class for objects that accept parameter lists that implements some of the need..." alt="" coords="296,121,509,163"/>
-<area shape="rect" id="node6" href="$df/d04/class_teuchos_1_1_parameter_list_acceptor.html" title="Interface for objects that can accept a ParameterList. " alt="" coords="5,129,219,155"/>
-</map>

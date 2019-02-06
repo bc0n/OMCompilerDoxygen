@@ -1,4 +1,0 @@
-<map id="fmi1_capi_terminate_slave" name="fmi1_capi_terminate_slave">
-<area shape="rect" id="node2" href="$d4/d92/group__fmi1__import__capi__cs.html#ga73f5ea2ffeefdd53255151fddf59db88" title="Wrapper for the FMI function fmiTerminateSlave(...) " alt="" coords="192,5,343,47"/>
-<area shape="rect" id="node3" href="$d5/d4a/_f_m_i1_co_simulation_8c.html#ae7ff33cb73403fa216867dd524291c43" title="FMI1CoSimulationDestructor_OMC" alt="" coords="391,13,620,39"/>
-</map>

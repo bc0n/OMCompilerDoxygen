@@ -1,6 +1,0 @@
-<map id="Newton::stepCompleted" name="Newton::stepCompleted">
-<area shape="rect" id="node2" href="$d0/d03/class_i_non_lin_solver_settings.html#a976ccdabc2f983c63f0e7a483c84e1d4" title="INonLinSolverSettings\l::getAtol" alt="" coords="222,5,374,47"/>
-<area shape="rect" id="node3" href="$dd/d11/namespaceboost_1_1numeric_1_1bindings_1_1blas_1_1detail.html#a99459a61a1c4606d9ec48306b8c2b75f" title="boost::numeric::bindings\l::blas::detail::copy" alt="" coords="216,71,380,112"/>
-<area shape="rect" id="node4" href="$d5/def/socket__unix_8cpp.html#af709baf4d595b037d8a5ba0e83361943" title="to_string" alt="" coords="262,137,334,163"/>
-<area shape="rect" id="node5" href="$d0/d03/class_i_non_lin_solver_settings.html#a64d1c8a53c14b38c4a43afd8c7691447" title="INonLinSolverSettings\l::getRtol" alt="" coords="222,188,374,229"/>
-</map>

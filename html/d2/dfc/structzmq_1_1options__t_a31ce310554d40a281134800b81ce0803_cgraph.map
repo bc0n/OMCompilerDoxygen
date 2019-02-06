@@ -1,9 +1,0 @@
-<map id="zmq::options_t::setsockopt" name="zmq::options_t::setsockopt">
-<area shape="rect" id="node2" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#a78eedf6afcdb64e1d214482fcaa34499" title="is_int" alt="" coords="289,5,343,32"/>
-<area shape="rect" id="node3" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a9bb523029391a4525c52a8e90e877692" title="memcpy" alt="" coords="632,107,704,133"/>
-<area shape="rect" id="node4" href="$d9/d3b/classzmq_1_1tcp__address__mask__t.html#a18682574e723c4d7076b1e476a1b470a" title="zmq::tcp_address_mask\l_t::resolve" alt="" coords="233,190,399,231"/>
-<area shape="rect" id="node7" href="$d2/dfc/structzmq_1_1options__t.html#adc4c1c6eee1de7c1963c49c45c6051f0" title="zmq::options_t::set\l_curve_key" alt="" coords="249,107,383,149"/>
-<area shape="rect" id="node5" href="$d5/dc3/classzmq_1_1tcp__address__t.html#aac67a717a0d964c7f61f44d4b010a54a" title="zmq::tcp_address_t\l::resolve_hostname" alt="" coords="447,209,584,250"/>
-<area shape="rect" id="node6" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a362b656d9de3289b55b1035d14cb4b5d" title="memset" alt="" coords="633,216,703,243"/>
-<area shape="rect" id="node8" href="$d9/de6/zmq_8h.html#afc01d5fa2ca249909f31693051003796" title="zmq_z85_decode" alt="" coords="453,157,577,184"/>
-</map>

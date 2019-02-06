@@ -1,5 +1,0 @@
-<map id="SimController::getSystem" name="SimController::getSystem">
-<area shape="rect" id="node2" href="$d3/d6f/group__core_simcontroller.html#ga3223f5e26a2e23d6617df43b90b12408" title="SimController::Start" alt="" coords="262,5,399,32"/>
-<area shape="rect" id="node3" href="$d3/d6f/group__core_simcontroller.html#gaec4ea0335392bd9e7b7808f917a53b7d" title="SimController::StartReduceDAE" alt="" coords="225,56,436,83"/>
-<area shape="rect" id="node4" href="$d3/d6f/group__core_simcontroller.html#ga79a3ac49ab778c3943ec36698d6343ca" title="SimController::initialize" alt="" coords="253,107,409,133"/>
-</map>

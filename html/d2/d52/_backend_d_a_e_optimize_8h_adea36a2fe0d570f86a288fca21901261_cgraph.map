@@ -1,7 +1,0 @@
-<map id="omc_BackendDAEOptimize_removeParameters" name="omc_BackendDAEOptimize_removeParameters">
-<area shape="rect" id="node2" href="$db/dee/_backend_var_transform_8c.html#a3a1179a90812a63eb5936e633674ef61" title="omc_BackendVarTransform\l_emptyReplacements" alt="" coords="239,39,423,80"/>
-<area shape="rect" id="node3" href="$d1/d05/_hash_table2_8c.html#a42a7e1914511622b42bf8f450ca37936" title="omc_HashTable2_emptyHash\lTable" alt="" coords="471,5,669,47"/>
-<area shape="rect" id="node5" href="$d8/d4f/_hash_table3_8c.html#a29a425bc40afc1461fdc6eb9e3bb4522" title="omc_HashTable3_emptyHash\lTable" alt="" coords="471,71,669,112"/>
-<area shape="rect" id="node4" href="$d1/d05/_hash_table2_8c.html#acbd9bdb0d74d572d5a8c1b74045817a4" title="omc_HashTable2_emptyHash\lTableSized" alt="" coords="717,5,916,47"/>
-<area shape="rect" id="node6" href="$d8/d4f/_hash_table3_8c.html#ab307e92b3ed417a4da95481a3bedd91b" title="omc_HashTable3_emptyHash\lTableSized" alt="" coords="717,71,916,112"/>
-</map>

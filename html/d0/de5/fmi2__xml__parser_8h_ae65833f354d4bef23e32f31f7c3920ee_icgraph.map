@@ -1,8 +1,0 @@
-<map id="fmi2_xml_is_attr_defined" name="fmi2_xml_is_attr_defined">
-<area shape="rect" id="node2" href="$d9/d01/fmi2__xml__variable_8c.html#abbf124961a94dcaa4eb7e3ef8791b7ea" title="fmi2_xml_get_has_start" alt="" coords="220,107,381,133"/>
-<area shape="rect" id="node3" href="$d9/d01/fmi2__xml__variable_8c.html#a84ab82470217c955532468bbcc6c9916" title="fmi2_xml_handle_RealVariable" alt="" coords="439,5,641,32"/>
-<area shape="rect" id="node4" href="$d9/d01/fmi2__xml__variable_8c.html#a35e012c166e49cf905bfa15e6c7a37e3" title="fmi2_xml_handle_IntegerVariable" alt="" coords="433,56,647,83"/>
-<area shape="rect" id="node7" href="$d9/d01/fmi2__xml__variable_8c.html#a78307e22cd6b0bbd10d762e7d2ed3893" title="fmi2_xml_handle_Enumeration\lVariable" alt="" coords="440,209,640,250"/>
-<area shape="rect" id="node5" href="$d9/d01/fmi2__xml__variable_8c.html#aff8285d04a95e4d816ac17dfb1f8965d" title="fmi2_xml_handle_BooleanVariable" alt="" coords="429,157,651,184"/>
-<area shape="rect" id="node6" href="$d9/d01/fmi2__xml__variable_8c.html#a603a206233c219a4deebe6b12e0efe73" title="fmi2_xml_handle_StringVariable" alt="" coords="436,107,644,133"/>
-</map>

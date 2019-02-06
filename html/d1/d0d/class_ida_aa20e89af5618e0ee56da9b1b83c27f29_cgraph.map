@@ -1,6 +1,0 @@
-<map id="Ida::writeSimulationInfo" name="Ida::writeSimulationInfo">
-<area shape="rect" id="node2" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#a140129eba8ba4398a5239d4c66f4bd34" title="IDAGetIntegratorStats" alt="" coords="216,5,368,32"/>
-<area shape="rect" id="node3" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#ab8c0460e23bb33731f5386009a6615cf" title="IDAGetNonlinSolvStats" alt="" coords="212,56,372,83"/>
-<area shape="rect" id="node4" href="$d5/def/socket__unix_8cpp.html#af709baf4d595b037d8a5ba0e83361943" title="to_string" alt="" coords="256,107,328,133"/>
-<area shape="rect" id="node5" href="$d4/d98/g_09_09malloc_8c.html#a49f789e614e57e410f598885b800c2df" title="fprintf" alt="" coords="265,157,319,184"/>
-</map>

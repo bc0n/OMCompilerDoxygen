@@ -1,9 +1,0 @@
-digraph "fmi2_import_get_variable_alias_base"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node221 [label="fmi2_import_get_variable\l_alias_base",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node221 -> Node222 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node222 [label="fmi2_xml_get_variable\l_alias_base",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d92/group__fmi2__xml__variables.html#ga36d2792705d9c17eb24321471f6e1bc3"];
-}

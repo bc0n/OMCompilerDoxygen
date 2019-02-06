@@ -1,8 +1,0 @@
-<map id="Teuchos::TEUCHOS_UNIT_TEST_TEMPLATE_1_DECL" name="Teuchos::TEUCHOS_UNIT_TEST_TEMPLATE_1_DECL">
-<area shape="rect" id="node2" href="$d2/dba/class_teuchos_1_1_r_c_p_node_tracer.html#ac85d34345d516d86c4cee37542608782" title="Return if we are tracing active nodes or not. " alt="" coords="255,5,441,47"/>
-<area shape="rect" id="node3" href="$d2/dba/class_teuchos_1_1_r_c_p_node_tracer.html#a22fb2a5aca51535a9310f0a8f9152577" title="Set if will be tracing active RCP nodes. " alt="" coords="251,71,445,112"/>
-<area shape="rect" id="node4" href="$d2/dba/class_teuchos_1_1_r_c_p_node_tracer.html#a9672360843236e16e8b0b611ece11407" title="Print the number of active RCPNode objects currently being tracked. " alt="" coords="259,136,437,177"/>
-<area shape="rect" id="node5" href="$d2/dba/class_teuchos_1_1_r_c_p_node_tracer.html#aca0dbbc783a6449f4a55e41520cc0421" title="Print the list of currently active RCP nodes. " alt="" coords="259,201,437,243"/>
-<area shape="rect" id="node7" href="$d3/d74/namespace_teuchos.html#a805a8ddf15a76f2e047b892652828967" title="Teuchos::TEST_EQUALITY" alt="" coords="255,267,441,294"/>
-<area shape="rect" id="node6" href="$d9/d60/namespaceboost_1_1numeric_1_1bindings.html#adc6ea08fe44222407d9d72347458cc8c" title="boost::numeric::bindings\l::begin" alt="" coords="493,201,657,243"/>
-</map>

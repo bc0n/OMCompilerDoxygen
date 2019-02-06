@@ -1,6 +1,0 @@
-<map id="boxptr_Expression_operatorEqual" name="boxptr_Expression_operatorEqual">
-<area shape="rect" id="node2" href="$d1/d08/_expression_8c.html#a62367232beff9bc254a8929d1bdb2e7e" title="omc_Expression_operatorEqual" alt="" coords="237,31,444,57"/>
-<area shape="rect" id="node3" href="$d1/d08/_expression_8c.html#a8c477fe35fb2e4dd1e7b0f8d9b0113d3" title="omc_Expression_operatorCompare" alt="" coords="492,31,719,57"/>
-<area shape="rect" id="node4" href="$d0/d78/_absyn_8c.html#a32967c17d7e54d1e80801db59aa80bb5" title="omc_Absyn_pathCompare" alt="" coords="767,5,943,32"/>
-<area shape="rect" id="node5" href="$d9/d7c/_compiler_2boot_2build_2util_8c.html#a8c1b9eb65476185bd4d9073249caefa4" title="omc_Util_intCompare" alt="" coords="781,56,929,83"/>
-</map>

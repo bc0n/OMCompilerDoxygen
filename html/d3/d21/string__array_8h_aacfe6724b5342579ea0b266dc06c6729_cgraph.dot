@@ -1,9 +1,0 @@
-digraph "array_string_array"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node31 [label="array_string_array",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node31 -> Node32 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node32 [label="check_base_array_dim\l_sizes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/dfd/base__array_8c.html#aff50b2009ecf237cc9843f00beb35d62"];
-}

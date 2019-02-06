@@ -1,7 +1,0 @@
-<map id="GC_unregister_my_thread" name="GC_unregister_my_thread">
-<area shape="rect" id="node2" href="$d0/d78/win32__threads_8c.html#ab8391ecea40b674c6967974a56b7e978" title="GC_win32_start_inner" alt="" coords="228,5,379,32"/>
-<area shape="rect" id="node4" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#a611dc0aa59e01d3f15c3dedd16eef204" title="GC_ExitThread" alt="" coords="247,56,359,83"/>
-<area shape="rect" id="node5" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#ae231bc843bf076f65aca996048ca8a67" title="GC_endthreadex" alt="" coords="243,107,363,133"/>
-<area shape="rect" id="node6" href="$df/d83/omc_c_a_p_i_2src_2_o_m_c_test_8cpp.html#a2c826ab6b584c5216355978a5bc00ad0" title="runTest" alt="" coords="270,157,337,184"/>
-<area shape="rect" id="node3" href="$d0/d78/win32__threads_8c.html#a249a2849c8c14703f8d555e6c037c38f" title="GC_win32_start" alt="" coords="427,5,543,32"/>
-</map>

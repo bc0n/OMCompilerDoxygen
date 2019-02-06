@@ -1,9 +1,0 @@
-digraph "fmi1_import_get_real_type_is_relative_quantity"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node26 [label="fmi1_import_get_real\l_type_is_relative_quantity",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node26 -> Node27 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node27 [label="fmi1_xml_get_real_type\l_is_relative_quantity",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d5e/group__fmi1__xml__types.html#gad06ca92de301af85f8ae1114b995e1f5"];
-}

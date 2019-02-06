@@ -1,5 +1,0 @@
-<map id="Belos::StatusTestUserOutput::print" name="Belos::StatusTestUserOutput::print">
-<area shape="rect" id="node2" href="$d7/d74/serializer_8cpp.html#a189eba34a209327583f582f69ce4dfe4" title="indent" alt="" coords="317,5,374,32"/>
-<area shape="rect" id="node3" href="$d3/d7c/class_belos_1_1_status_test_user_output.html#a5f3f65b095ada5d28f3d988ebd6ee9ad" title="Return the result of the most recent checkStatus call, or undefined if it has not been run..." alt="" coords="248,57,443,98"/>
-<area shape="rect" id="node4" href="$d3/dba/class_belos_1_1_status_test_res_norm.html#aa07bb165ae5be23c21ca8a55b137c9e3" title="Returns the test value, , computed in most recent call to CheckStatus. " alt="" coords="254,122,437,163"/>
-</map>

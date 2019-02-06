@@ -1,9 +1,0 @@
-<map id="findSubstitutionVar" name="findSubstitutionVar">
-<area shape="rect" id="node2" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#ab3ddb3000059d0f1975540149e46effa" title="MYBOOL" alt="" coords="411,5,489,32"/>
-<area shape="rect" id="node3" href="$d2/d46/lp__price_8c.html#a8fc54250c356a36337ad8cb137a42f8c" title="validSubstitutionVar" alt="" coords="197,56,335,83"/>
-<area shape="rect" id="node5" href="$d2/d46/lp__price_8c.html#a45925609956cade62ab7e7a7acec608c" title="compareSubstitutionVar" alt="" coords="185,107,347,133"/>
-<area shape="rect" id="node4" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#aabeea9518b446124eae99d84b94661ed" title="REAL" alt="" coords="421,56,479,83"/>
-<area shape="rect" id="node6" href="$da/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__matrix_8h.html#a258da1c9a3b1fedd9704451f7ab7e6f4" title="mat_collength" alt="" coords="399,107,501,133"/>
-<area shape="rect" id="node7" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#a075d8661b00cbe6bf3470f7496a9624f" title="is_obj_in_basis" alt="" coords="395,157,505,184"/>
-<area shape="rect" id="node8" href="$d1/daa/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__utils_8h.html#ad5a62af680804bed43221ee0bfde543b" title="rand_uniform" alt="" coords="401,208,499,235"/>
-</map>

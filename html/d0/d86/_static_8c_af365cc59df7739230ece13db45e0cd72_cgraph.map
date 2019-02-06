@@ -1,6 +1,0 @@
-<map id="omc_Static_extractNamesFromDims" name="omc_Static_extractNamesFromDims">
-<area shape="rect" id="node2" href="$d1/d08/_expression_8c.html#a1d8c06dfeda0062af0b42ae1fb68a7ab" title="omc_Expression_extractCrefs\lFromExp" alt="" coords="292,5,491,47"/>
-<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="340,71,443,98"/>
-<area shape="rect" id="node3" href="$d1/d08/_expression_8c.html#aae2ed5a7c0c9b70b6c66638bc345357d" title="omc_Expression_traverseExp\lBottomUp" alt="" coords="539,5,735,47"/>
-<area shape="rect" id="node4" href="$d1/d08/_expression_8c.html#add3db321c96f54919494182b71eb10c7" title="omc_Expression_traverseExpClk" alt="" coords="783,13,999,39"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="lis_array_matvect" name="lis_array_matvect">
-<area shape="rect" id="node2" href="$d0/d7f/lis__matrix__diag_8c.html#a6185944313c2935305e50f96d0bbe247" title="lis_matrix_diag_matvect" alt="" coords="179,5,341,32"/>
-<area shape="rect" id="node4" href="$d5/d62/lis__precon__iluk_8c.html#a6c57f42120a40c5103d67e6c74bf71ad" title="lis_psolvet_iluk_bsr" alt="" coords="192,56,328,83"/>
-<area shape="rect" id="node6" href="$d0/db0/lis__precon__ilut_8c.html#a4b01d27b7efbb9b0bce2056868c7e223" title="lis_psolvet_ilut_bsr" alt="" coords="193,107,327,133"/>
-<area shape="rect" id="node3" href="$d9/d00/lis__precon__jacobi_8c.html#a36c7114ff196473c34d3fe92ca5bcdc8" title="lis_psolvet_bjacobi" alt="" coords="399,5,531,32"/>
-<area shape="rect" id="node5" href="$d5/d62/lis__precon__iluk_8c.html#a532b56150078897c9be9d11a3cadde16" title="lis_precon_create_iluk" alt="" coords="389,56,540,83"/>
-<area shape="rect" id="node7" href="$d0/db0/lis__precon__ilut_8c.html#a8b5633b5c8d57dd75585ab770a3b355d" title="lis_precon_create_ilut" alt="" coords="391,107,539,133"/>
-</map>

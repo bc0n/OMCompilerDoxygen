@@ -1,6 +1,0 @@
-<map id="mumps_prepare_pointers_for_write" name="mumps_prepare_pointers_for_write">
-<area shape="rect" id="node2" href="$d1/d6a/mumps__io__basic_8c.html#a46aac054725f6d340190c99e6d3dc200" title="mumps_compute_where\l_to_write" alt="" coords="221,49,385,90"/>
-<area shape="rect" id="node3" href="$d1/d6a/mumps__io__basic_8c.html#a249530cc343ab0a649e45196c71b73e0" title="mumps_gen_file_info" alt="" coords="440,5,585,32"/>
-<area shape="rect" id="node4" href="$d1/d6a/mumps__io__basic_8c.html#a93efa2e9173b78868a3efd06f432a4a4" title="mumps_set_file" alt="" coords="455,56,570,83"/>
-<area shape="rect" id="node5" href="$d1/d6a/mumps__io__basic_8c.html#a398693ae2a30719693dd46040c2c840a" title="mumps_update_current\l_file_position" alt="" coords="433,107,592,149"/>
-</map>

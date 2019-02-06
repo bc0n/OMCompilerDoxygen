@@ -1,7 +1,0 @@
-<map id="omc_DAEUtil_setStartAttrOption" name="omc_DAEUtil_setStartAttrOption">
-<area shape="rect" id="node2" href="$dd/d15/_d_a_e_util_8h.html#ac30c1f896382e50d91ac04c97be34d69" title="omc_DAEUtil_setStartAttr" alt="" coords="229,19,405,46"/>
-<area shape="rect" id="node3" href="$d7/df0/_state_machine_flatten_8c.html#a9e7b6c67009afbb28ee0a19fb147e2cb" title="omc_StateMachineFlatten\l_setVarFixedStartValue" alt="" coords="230,71,405,112"/>
-<area shape="rect" id="node4" href="$d7/df0/_state_machine_flatten_8c.html#a1d85fa88c79c86e24e23527d7935e877" title="omc_StateMachineFlatten\l_createTicksInStateIndicator" alt="" coords="469,5,658,47"/>
-<area shape="rect" id="node5" href="$d7/df0/_state_machine_flatten_8c.html#a0074f10a8fb2b95d1db692effa613c1e" title="omc_StateMachineFlatten\l_createTimeEnteredStateIndicator" alt="" coords="453,71,673,112"/>
-<area shape="rect" id="node6" href="$d7/df0/_state_machine_flatten_8c.html#a3b69b5134885bb033b794d68eecfe78c" title="omc_StateMachineFlatten\l_createTimeInStateIndicator" alt="" coords="470,136,657,177"/>
-</map>

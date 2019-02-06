@@ -1,4 +1,0 @@
-<map id="Teuchos::mergeCounterNames" name="Teuchos::mergeCounterNames">
-<area shape="rect" id="node2" href="$d3/dc8/class_teuchos_1_1_comm.html#a94011508d8ea7f12816e8d31a0985190" title="Returns the rank of this process. " alt="" coords="257,5,433,32"/>
-<area shape="rect" id="node3" href="$d3/dc8/class_teuchos_1_1_comm.html#a2d9a627e01bc6b9cb19134a855a81df2" title="Returns the number of processes that make up this communicator. " alt="" coords="260,56,431,83"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Teuchos::VisualDependency" name="Teuchos::VisualDependency">
-<area shape="rect" id="node2" href="$dd/dac/class_teuchos_1_1_dependency.html" title="This class represents a depndency between elements in a Parameter List. " alt="" coords="23,155,177,181"/>
-<area shape="rect" id="node3" href="$de/d8a/class_teuchos_1_1_describable.html" title="Base class for all objects that can describe themselves. " alt="" coords="25,80,175,107"/>
-<area shape="rect" id="node4" href="$df/d61/class_teuchos_1_1_labeled_object.html" title="Base class for objects that contain a std::string label. " alt="" coords="19,5,181,32"/>
-</map>

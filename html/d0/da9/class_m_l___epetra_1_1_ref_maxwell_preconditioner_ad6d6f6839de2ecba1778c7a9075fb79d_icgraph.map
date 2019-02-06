@@ -1,6 +1,0 @@
-<map id="ML_Epetra::RefMaxwellPreconditioner::DestroyPreconditioner" name="ML_Epetra::RefMaxwellPreconditioner::DestroyPreconditioner">
-<area shape="rect" id="node2" href="$d0/da9/class_m_l___epetra_1_1_ref_maxwell_preconditioner.html#a62fdd64b53591bffa4c05eafc4526905" title="Destructor. " alt="" coords="299,5,544,47"/>
-<area shape="rect" id="node3" href="$d0/da9/class_m_l___epetra_1_1_ref_maxwell_preconditioner.html#ace40cd04669d2c1ea906880ddd3a6e0b" title="Computes the multilevel hierarchy. " alt="" coords="299,71,544,112"/>
-<area shape="rect" id="node5" href="$d0/da9/class_m_l___epetra_1_1_ref_maxwell_preconditioner.html#a9bdf032afdbe0b2fe7fb6dca00b1a5bb" title="Recomputes the preconditioner. " alt="" coords="299,136,544,177"/>
-<area shape="rect" id="node4" href="$d0/da9/class_m_l___epetra_1_1_ref_maxwell_preconditioner.html#a4e415acc424d6c702830258bd2f0fc40" title="Constructs a RefMaxwellPreconditioner. " alt="" coords="592,71,837,112"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="omc_Absyn_pathStringUnquoteReplaceDot" name="omc_Absyn_pathStringUnquoteReplaceDot">
-<area shape="rect" id="node2" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="307,5,406,32"/>
-<area shape="rect" id="node3" href="$d0/d78/_absyn_8c.html#a9827d89dcd59f1f67f3390fa1fbaa37f" title="omc_Absyn_pathToStringList" alt="" coords="260,56,453,83"/>
-<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a96948329fc9979d4083c0633b4cb711d" title="omc_List_map2" alt="" coords="299,107,414,133"/>
-<area shape="rect" id="node7" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a70628b2c3fb199a118f80777135940ee" title="omc_List_map" alt="" coords="303,157,410,184"/>
-<area shape="rect" id="node8" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a6f570947bebe207c25a64ea25f5ca884" title="stringDelimitList" alt="" coords="299,208,415,235"/>
-<area shape="rect" id="node4" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a81001ba45c298ade27540edd2589777c" title="listReverse" alt="" coords="569,31,657,57"/>
-<area shape="rect" id="node5" href="$d0/d78/_absyn_8c.html#aef3dacbc8d2fdd86d7b3a4f7797ad4d4" title="omc_Absyn_pathToStringListWork" alt="" coords="501,81,725,108"/>
-</map>

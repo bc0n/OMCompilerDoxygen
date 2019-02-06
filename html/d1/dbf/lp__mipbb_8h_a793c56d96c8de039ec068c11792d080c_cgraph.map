@@ -1,9 +1,0 @@
-<map id="rcfbound_BB" name="rcfbound_BB">
-<area shape="rect" id="node2" href="$d4/d79/lp__lib_8c.html#a40dcb69e11498bf71aab8e2410064652" title="scaled_floor" alt="" coords="161,56,253,83"/>
-<area shape="rect" id="node7" href="$de/d15/lp__scale_8c.html#a8a715ab2e7ea76aeab2f369b302820b7" title="unscaled_value" alt="" coords="151,157,263,184"/>
-<area shape="rect" id="node8" href="$d4/d79/lp__lib_8c.html#a672622629cc9cf1934a9299a8d68976e" title="scaled_ceil" alt="" coords="163,107,250,133"/>
-<area shape="rect" id="node3" href="$dc/de2/mcvs_atm_disp__kry__bbd__p_8m.html#a532be631bf22af7829394ffbd4ad7894" title="floor" alt="" coords="347,5,393,32"/>
-<area shape="rect" id="node4" href="$d4/d79/lp__lib_8c.html#a0c434df367866146edde412e942f4ac6" title="is_integerscaling" alt="" coords="311,107,429,133"/>
-<area shape="rect" id="node6" href="$de/d15/lp__scale_8c.html#a1aac661f1d537881d415218c30fad615" title="scaled_value" alt="" coords="321,56,419,83"/>
-<area shape="rect" id="node5" href="$d4/d79/lp__lib_8c.html#a8aea597c88b83bd3507cdfe8906c553e" title="is_scalemode" alt="" coords="477,107,580,133"/>
-</map>

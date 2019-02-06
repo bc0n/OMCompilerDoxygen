@@ -1,9 +1,0 @@
-<map id="omc_BackendDump_printEquationArray" name="omc_BackendDump_printEquationArray">
-<area shape="rect" id="node2" href="$d6/dbf/_symbolic_jacobian_8h.html#a42700d1ba2381dc35e65643f2b5b7c0c" title="omc_SymbolicJacobian\l_getSymbolicJacobian" alt="" coords="276,39,436,80"/>
-<area shape="rect" id="node3" href="$d6/dbf/_symbolic_jacobian_8h.html#a0a71d2a0368359558345ca5a86b9c45a" title="boxptr_SymbolicJacobian\l_getSymbolicJacobian" alt="" coords="497,5,667,47"/>
-<area shape="rect" id="node4" href="$d2/d88/_symbolic_jacobian_8c.html#a085c6a688981723b0c5874f566ca5daf" title="omc_SymbolicJacobian\l_calculateTearingSetJacobian" alt="" coords="484,71,680,112"/>
-<area shape="rect" id="node5" href="$d2/d88/_symbolic_jacobian_8c.html#a056bdae67626611f3a0dc334e05a3bfc" title="omc_SymbolicJacobian\l_calculateJacobianComponent" alt="" coords="728,37,928,79"/>
-<area shape="rect" id="node8" href="$d2/d88/_symbolic_jacobian_8c.html#a5a934dce7f9868e256e99a6ae1e13f32" title="boxptr_SymbolicJacobian\l_calculateTearingSetJacobian" alt="" coords="730,103,926,144"/>
-<area shape="rect" id="node6" href="$d2/d88/_symbolic_jacobian_8c.html#a5e2eb90c73ab36354603439b0833783e" title="omc_SymbolicJacobian\l_calculateJacobiansComponents" alt="" coords="976,37,1191,79"/>
-<area shape="rect" id="node7" href="$d2/d88/_symbolic_jacobian_8c.html#a0a1deae0b23d84ab61bce66ad37bed2c" title="omc_SymbolicJacobian\l_calculateEqSystemJacobians" alt="" coords="1239,37,1440,79"/>
-</map>

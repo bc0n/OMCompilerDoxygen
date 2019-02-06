@@ -1,7 +1,0 @@
-<map id="GC_is_valid_displacement" name="GC_is_valid_displacement">
-<area shape="rect" id="node2" href="$d0/daa/gc_8h.html#a6bfbb76ce93eedfb9fc0a64659e26c71" title="GC_debug_ptr_store\l_and_dirty" alt="" coords="231,5,373,47"/>
-<area shape="rect" id="node3" href="$df/d07/ptr__chck_8c.html#af54d43c4436e9883019299abcbdf057c" title="GC_pre_incr" alt="" coords="255,71,349,98"/>
-<area shape="rect" id="node5" href="$df/d07/ptr__chck_8c.html#a22a67595a3f1740724b01f3416ef5541" title="GC_post_incr" alt="" coords="251,122,353,149"/>
-<area shape="rect" id="node6" href="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a3b194f0711aa5c8878f77b3809918845" title="run_one_test" alt="" coords="253,173,351,199"/>
-<area shape="rect" id="node4" href="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="421,122,472,149"/>
-</map>

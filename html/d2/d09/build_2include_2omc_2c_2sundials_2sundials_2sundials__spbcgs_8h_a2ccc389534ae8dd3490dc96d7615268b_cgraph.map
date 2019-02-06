@@ -1,8 +1,0 @@
-<map id="SpbcgSolve" name="SpbcgSolve">
-<area shape="rect" id="node2" href="$df/dc8/3rd_party_2sundials_2build_2include_2sundials_2sundials__nvector_8h.html#aaf3d8a78c274de5221d0ceb32e39be09" title="N_VDotProd" alt="" coords="153,5,249,32"/>
-<area shape="rect" id="node3" href="$df/dc8/3rd_party_2sundials_2build_2include_2sundials_2sundials__nvector_8h.html#a3f4411f978584de8f5050c93acd22d78" title="N_VScale" alt="" coords="160,56,241,83"/>
-<area shape="rect" id="node4" href="$df/dc8/3rd_party_2sundials_2build_2include_2sundials_2sundials__nvector_8h.html#a85664141a78312ec58f4fe56e7311982" title="N_VLinearSum" alt="" coords="145,107,256,133"/>
-<area shape="rect" id="node5" href="$df/dc8/3rd_party_2sundials_2build_2include_2sundials_2sundials__nvector_8h.html#ae406c0f84b2ab262144235bc2721da39" title="N_VProd" alt="" coords="163,157,238,184"/>
-<area shape="rect" id="node6" href="$d4/d2b/3rd_party_2sundials_2build_2include_2sundials_2sundials__math_8h.html#ab93cb211d416e7ad32fdcde65d3e2178" title="SUNRsqrt" alt="" coords="159,208,242,235"/>
-<area shape="rect" id="node7" href="$df/dc8/3rd_party_2sundials_2build_2include_2sundials_2sundials__nvector_8h.html#a3f39f17316a6e4fb856e9f9fcc530bef" title="N_VDiv" alt="" coords="167,259,235,285"/>
-</map>

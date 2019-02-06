@@ -1,6 +1,0 @@
-<map id="Ipopt::FilterLSAcceptor::Reset" name="Ipopt::FilterLSAcceptor::Reset">
-<area shape="rect" id="node2" href="$d0/d3d/class_ipopt_1_1_filter_l_s_acceptor.html#a84e84172e3385bb2b5c442f6706903e7" title="Ipopt::FilterLSAcceptor\l::InitializeImpl" alt="" coords="237,5,393,47"/>
-<area shape="rect" id="node3" href="$d0/d3d/class_ipopt_1_1_filter_l_s_acceptor.html#ad51d602bbcbc91b6d84001c45d43f4cd" title="Ipopt::FilterLSAcceptor\l::CheckAcceptabilityOfTrialPoint" alt="" coords="209,71,421,112"/>
-<area shape="rect" id="node4" href="$d0/d3d/class_ipopt_1_1_filter_l_s_acceptor.html#ac4192be8bef15e668a44520dfaa4e6d7" title="Ipopt::FilterLSAcceptor\l::TrySecondOrderCorrection" alt="" coords="469,37,655,79"/>
-<area shape="rect" id="node5" href="$d0/d3d/class_ipopt_1_1_filter_l_s_acceptor.html#a4a02584b4800da30ba219aa9863721da" title="Ipopt::FilterLSAcceptor\l::TryCorrector" alt="" coords="484,103,640,144"/>
-</map>

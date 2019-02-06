@@ -1,9 +1,0 @@
-<map id="fmi2_import_get_variable_list" name="fmi2_import_get_variable_list">
-<area shape="rect" id="node2" href="$d3/df2/fmi2__import_8c.html#a8081f28cd4f12875a98a03a4172dafe4" title="fmi2_import_check_has_FMU" alt="" coords="244,5,440,32"/>
-<area shape="rect" id="node4" href="$d3/df2/fmi2__import_8c.html#a642361f182b34d9bd8afd1c778fd8897" title="fmi2_import_vector\l_to_varlist" alt="" coords="275,57,409,98"/>
-<area shape="rect" id="node5" href="$df/dae/group__fmi2__import__varlist.html#ga2b7fa3edea0cdc7bcb2c52a6887be9e2" title="Allocate an empty list. " alt="" coords="488,93,688,120"/>
-<area shape="rect" id="node7" href="$da/d6c/group__jm__vector.html#ga171c1408355aadd57d55422aaa313ede" title="jm_vector" alt="" coords="303,173,381,200"/>
-<area shape="rect" id="node8" href="$d6/d0e/class_teuchos_1_1_ptr.html#af7234a3ac243772a707da53d011276fb" title="Create a pointer to an object from a raw pointer. " alt="" coords="282,224,402,251"/>
-<area shape="rect" id="node3" href="$d6/dac/group__jm__callbacks.html#gada5096ac90f8adc61a90b76597c4ae05" title="Send a error message to the logger function. See jm_log() for details. " alt="" coords="541,5,635,32"/>
-<area shape="rect" id="node6" href="$df/dae/group__fmi2__import__varlist.html#ga1dcb75553b4e66d962f25f6472df602a" title="Free a variable list. Note that variable lists are allocated dynamically and must be freed when not n..." alt="" coords="736,93,931,120"/>
-</map>

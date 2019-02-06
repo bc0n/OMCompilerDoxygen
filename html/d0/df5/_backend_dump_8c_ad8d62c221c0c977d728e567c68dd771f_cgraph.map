@@ -1,6 +1,0 @@
-<map id="omc_BackendDump_equationAttrString" name="omc_BackendDump_equationAttrString">
-<area shape="rect" id="node2" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="493,35,592,61"/>
-<area shape="rect" id="node3" href="$d0/df5/_backend_dump_8c.html#af1dd0677ee571aa0c8bf987e5d75e120" title="omc_BackendDump_equation\lKindString" alt="" coords="249,93,445,134"/>
-<area shape="rect" id="node5" href="$d0/df5/_backend_dump_8c.html#af8167b656469bec70b79f94086643594" title="omc_BackendDump_equation\lEvaluationStageString" alt="" coords="249,27,445,69"/>
-<area shape="rect" id="node4" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a751bf2360cb3df6de97811998890b7ea" title="intString" alt="" coords="507,100,578,127"/>
-</map>

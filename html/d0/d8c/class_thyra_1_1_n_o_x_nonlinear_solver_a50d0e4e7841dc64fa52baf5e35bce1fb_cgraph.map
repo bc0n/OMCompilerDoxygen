@@ -1,4 +1,0 @@
-<map id="Thyra::NOXNonlinearSolver::~NOXNonlinearSolver" name="Thyra::NOXNonlinearSolver::~NOXNonlinearSolver">
-<area shape="rect" id="node2" href="$d0/d8c/class_thyra_1_1_n_o_x_nonlinear_solver.html#a0f232a9161f1a29283c40f45e5aedf28" title="Thyra::NOXNonlinearSolver\l::setParameterList" alt="" coords="237,5,421,47"/>
-<area shape="rect" id="node3" href="$d0/d8c/class_thyra_1_1_n_o_x_nonlinear_solver.html#a4331a84e79ed6e7cf3dcf19aba6d9167" title="Called to rebuild the solver if a new parameter list is set. " alt="" coords="469,5,653,47"/>
-</map>

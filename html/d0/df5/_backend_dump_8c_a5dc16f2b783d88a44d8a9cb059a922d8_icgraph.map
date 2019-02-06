@@ -1,7 +1,0 @@
-<map id="omc_BackendDump_dumpDAGStrongComponent" name="omc_BackendDump_dumpDAGStrongComponent">
-<area shape="rect" id="node2" href="$d2/d0b/_hpc_om_eq_systems_8c.html#a5f7972ca70c4212ea45728e935b5c8e4" title="omc_HpcOmEqSystems\l_pts__traverseCompsAndParallelize" alt="" coords="300,39,533,80"/>
-<area shape="rect" id="node3" href="$d2/d0b/_hpc_om_eq_systems_8c.html#a92fd6b8b54165cb40290a9dda8ff6773" title="boxptr_HpcOmEqSystems\l_pts__traverseCompsAndParallelize" alt="" coords="581,5,815,47"/>
-<area shape="rect" id="node4" href="$d2/d0b/_hpc_om_eq_systems_8c.html#ab90c87e89c567b53fd071d2b404cb317" title="omc_HpcOmEqSystems\l_pts__traverseEqSystems" alt="" coords="610,71,786,112"/>
-<area shape="rect" id="node5" href="$d2/d0b/_hpc_om_eq_systems_8c.html#a076c6cb00b99ef5d5a0bd4b42658e1cf" title="boxptr_HpcOmEqSystems\l_pts__traverseEqSystems" alt="" coords="863,37,1041,79"/>
-<area shape="rect" id="node6" href="$d4/d8f/_hpc_om_eq_systems_8h.html#a52beb6eae4bee34ac7a5feb1d10d9e3a" title="omc_HpcOmEqSystems\l_parallelizeTornSystems" alt="" coords="869,103,1035,144"/>
-</map>

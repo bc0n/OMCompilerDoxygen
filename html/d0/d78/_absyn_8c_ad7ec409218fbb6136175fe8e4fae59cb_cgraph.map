@@ -1,6 +1,0 @@
-<map id="omc_Absyn_getElementItemsInClass" name="omc_Absyn_getElementItemsInClass">
-<area shape="rect" id="node2" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a198c5fd520b6cadfe3d761a47a161a7b" title="omc_List_mapFlat" alt="" coords="251,31,380,57"/>
-<area shape="rect" id="node3" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a81001ba45c298ade27540edd2589777c" title="listReverse" alt="" coords="473,5,561,32"/>
-<area shape="rect" id="node4" href="$da/d72/_compiler_2boot_2build_2list_8c.html#acf077193c66bc454a37a8ef4d9d97792" title="omc_List_mapFlatReverse" alt="" coords="428,56,607,83"/>
-<area shape="rect" id="node5" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a56b7e8a835b2d388f5984ca7378bc1ec" title="listAppend" alt="" coords="655,56,737,83"/>
-</map>

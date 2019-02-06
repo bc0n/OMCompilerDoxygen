@@ -1,9 +1,0 @@
-<map id="3rdParty/sundials/src/kinsol/kinsol_spils_impl.h" name="3rdParty/sundials/src/kinsol/kinsol_spils_impl.h">
-<area shape="rect" id="node2" href="$d9/d42/kinsol_8c.html" title="3rdParty/sundials/src\l/kinsol/kinsol.c" alt="" coords="5,109,151,151"/>
-<area shape="rect" id="node3" href="$d8/de8/kinsol__bbdpre_8c.html" title="3rdParty/sundials/src\l/kinsol/kinsol_bbdpre.c" alt="" coords="175,109,330,151"/>
-<area shape="rect" id="node4" href="$d1/d14/kinsol__spbcgs_8c.html" title="3rdParty/sundials/src\l/kinsol/kinsol_spbcgs.c" alt="" coords="355,109,513,151"/>
-<area shape="rect" id="node5" href="$de/d1b/kinsol__spfgmr_8c.html" title="3rdParty/sundials/src\l/kinsol/kinsol_spfgmr.c" alt="" coords="537,109,693,151"/>
-<area shape="rect" id="node6" href="$d7/ddc/kinsol__spgmr_8c.html" title="3rdParty/sundials/src\l/kinsol/kinsol_spgmr.c" alt="" coords="718,109,870,151"/>
-<area shape="rect" id="node7" href="$d4/d18/kinsol__spils_8c.html" title="3rdParty/sundials/src\l/kinsol/kinsol_spils.c" alt="" coords="895,109,1040,151"/>
-<area shape="rect" id="node8" href="$d3/d09/kinsol__sptfqmr_8c.html" title="3rdParty/sundials/src\l/kinsol/kinsol_sptfqmr.c" alt="" coords="1065,109,1225,151"/>
-</map>

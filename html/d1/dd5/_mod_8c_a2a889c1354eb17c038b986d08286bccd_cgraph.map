@@ -1,9 +1,0 @@
-<map id="boxptr_Mod_doMerge" name="boxptr_Mod_doMerge">
-<area shape="rect" id="node2" href="$d1/dd5/_mod_8c.html#a1684713b3f644f5177fb125b82851c4d" title="omc_Mod_doMerge" alt="" coords="200,42,336,69"/>
-<area shape="rect" id="node3" href="$d3/dbb/_s_code_util_8c.html#a58c599a9244093004139125fe1db451a" title="omc_SCodeUtil_getConstrained\lByModifiers" alt="" coords="384,5,593,47"/>
-<area shape="rect" id="node4" href="$d9/d9e/_s_code_8c.html#a41f238e18f435a44efd318dade936c58" title="omc_SCode_mergeModifiers" alt="" coords="393,71,584,98"/>
-<area shape="rect" id="node5" href="$d9/d9e/_s_code_8c.html#ae764be03bcc8b6b8c040075e8b45afb5" title="omc_SCode_mergeBindings" alt="" coords="644,21,831,47"/>
-<area shape="rect" id="node6" href="$d9/d9e/_s_code_8c.html#ad6bfb1f6a42d25899bc5e93745394440" title="omc_SCode_mergeSubMods" alt="" coords="641,71,833,98"/>
-<area shape="rect" id="node8" href="$dc/dd0/build_2include_2omc_2c_2meta_2meta__modelica_8h.html#a053b78d26cb7fe728aa97ab1a575f7ad" title="valueEq" alt="" coords="703,122,772,149"/>
-<area shape="rect" id="node7" href="$d9/d9e/_s_code_8c.html#a3415c1169ba907e90b4bc14a840f5fb6" title="omc_SCode_removeSub" alt="" coords="881,71,1048,98"/>
-</map>

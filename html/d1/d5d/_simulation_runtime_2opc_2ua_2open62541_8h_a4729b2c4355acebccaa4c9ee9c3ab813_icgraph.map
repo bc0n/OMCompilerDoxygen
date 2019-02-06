@@ -1,7 +1,0 @@
-<map id="UA_DateTime_nowMonotonic" name="UA_DateTime_nowMonotonic">
-<area shape="rect" id="node2" href="$dc/d11/3rd_party_2open62541_2open62541_8c.html#aa09abaffa069f596511162f852ec0b5c" title="UA_Connection_receiveChunks\lBlocking" alt="" coords="254,5,462,47"/>
-<area shape="rect" id="node3" href="$dc/d11/3rd_party_2open62541_2open62541_8c.html#a2989bd2f12dc281e80a569063b4e4908" title="UA_Session_updateLifetime" alt="" coords="265,71,451,98"/>
-<area shape="rect" id="node4" href="$dc/d11/3rd_party_2open62541_2open62541_8c.html#a2a0c2b67f54c62e4130d9e3b62a146f8" title="UA_SessionManager_getSession" alt="" coords="249,122,467,149"/>
-<area shape="rect" id="node6" href="$dc/d11/3rd_party_2open62541_2open62541_8c.html#a1c22046ca3410aed7b06ef5df682cebb" title="Service_ActivateSession" alt="" coords="274,173,442,199"/>
-<area shape="rect" id="node5" href="$dc/d11/3rd_party_2open62541_2open62541_8c.html#ae04c715a8ea04117e0298c63ac170501" title="UA_Subscription_answerPublish\lRequestsNoSubscription" alt="" coords="515,115,727,156"/>
-</map>

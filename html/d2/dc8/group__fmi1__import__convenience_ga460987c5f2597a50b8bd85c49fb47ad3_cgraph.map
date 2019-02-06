@@ -1,7 +1,0 @@
-<map id="fmi1_default_callback_logger" name="fmi1_default_callback_logger">
-<area shape="rect" id="node2" href="$d8/d00/group__jm__portability.html#ga12bb6dc77d4fd9500fac60f938c1f1ab" title="C89 compatible implementation of C99 snprintf. " alt="" coords="231,5,318,32"/>
-<area shape="rect" id="node5" href="$d4/d98/g_09_09malloc_8c.html#a49f789e614e57e410f598885b800c2df" title="fprintf" alt="" coords="247,56,302,83"/>
-<area shape="rect" id="node6" href="$d5/d41/group__fmi1__utils.html#gaa65766db69f855cc7c6cd84f4b8d6dc6" title="fmi1_status_to_string" alt="" coords="201,107,348,133"/>
-<area shape="rect" id="node3" href="$d8/d00/group__jm__portability.html#gaf6d8aaf485265dadbf4dddf5554e9c44" title="C89 compatible implementation of C99 vsnprintf. " alt="" coords="396,5,489,32"/>
-<area shape="rect" id="node4" href="$de/d6c/jm__portability_8c.html#a7c0a0a1ad4a84fb7a3539db495726982" title="jm_rpl_vsnprintf" alt="" coords="537,5,652,32"/>
-</map>

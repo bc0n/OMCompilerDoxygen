@@ -1,5 +1,0 @@
-<map id="KLU_rcond" name="KLU_rcond">
-<area shape="rect" id="node2" href="$d3/d48/klu__diagnostics_8c.html#aaf6f3e7150d238e8fbafc5f308b41069" title="KLU_flops" alt="" coords="140,5,223,32"/>
-<area shape="rect" id="node3" href="$d3/d48/klu__diagnostics_8c.html#a60ce1d183108d833c40909fb686d7a66" title="KLU_condest" alt="" coords="271,5,372,32"/>
-<area shape="rect" id="node4" href="$d3/d48/klu__diagnostics_8c.html#a6c89bc7042c1b466a662c27f2793dbe6" title="KLU_rgrowth" alt="" coords="420,5,519,32"/>
-</map>

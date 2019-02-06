@@ -1,5 +1,0 @@
-<map id="va_infoStreamPrint" name="va_infoStreamPrint">
-<area shape="rect" id="node2" href="$d7/dcd/group__core_utils.html#ga5a547ca027ee10985fac385086dea82c" title="Output the message under the same format control as the C&#45;function vprintf. " alt="" coords="187,5,364,32"/>
-<area shape="rect" id="node3" href="$d7/dcd/group__core_utils.html#gae6e511105d798b01659cfd79696023f6" title="Output the message under the same format control as the C&#45;function printf. " alt="" coords="412,5,580,32"/>
-<area shape="rect" id="node4" href="$d7/dcd/group__core_utils.html#ga43924242047cc607eb4fd320a2010b2f" title="Output the message string (no format control). " alt="" coords="628,5,755,32"/>
-</map>

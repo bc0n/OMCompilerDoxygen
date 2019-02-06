@@ -1,7 +1,0 @@
-<map id="Java_org_coinor_Ipopt_AddIpoptStrOption" name="Java_org_coinor_Ipopt_AddIpoptStrOption">
-<area shape="rect" id="node2" href="$d7/db2/namespace_ipopt.html#a4ae001947e506b5b8f4f134b8a4ead23" title="Ipopt::GetRawPtr" alt="" coords="257,5,381,32"/>
-<area shape="rect" id="node3" href="$d5/df6/struct_j_n_i_env__.html#a057fa502eb66ca74b299f763f3d24554" title="JNIEnv_::GetStringUTFChars" alt="" coords="220,56,417,83"/>
-<area shape="rect" id="node5" href="$d9/dfa/class_ipopt_1_1_ipopt_application.html#a86039c4a135ffafbd5daf4d0f61ee83f" title="Ipopt::IpoptApplication\l::Options" alt="" coords="243,107,395,149"/>
-<area shape="rect" id="node6" href="$d5/df6/struct_j_n_i_env__.html#ad522bf805b7f815979317e5779639367" title="JNIEnv_::ReleaseStringUTFChars" alt="" coords="207,173,431,200"/>
-<area shape="rect" id="node4" href="$d5/d80/struct_j_n_i_native_interface__.html#a9db0d0c7d3c791fa598c6f0acf971edf" title="JNINativeInterface\l_::GetStringUTFChars" alt="" coords="479,49,632,90"/>
-</map>

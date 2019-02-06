@@ -1,9 +1,0 @@
-<map id="ServerNetworkLayerTCP" name="ServerNetworkLayerTCP">
-<area shape="rect" id="node2" href="$d4/d16/struct_u_a___connection_config.html" title="UA_ConnectionConfig" alt="" coords="35,5,187,32"/>
-<area shape="rect" id="node4" href="$d9/d3b/struct_u_a___connection.html" title="UA_Connection" alt="" coords="200,131,315,158"/>
-<area shape="rect" id="node3" href="$d9/d05/struct_server_network_layer_t_c_p_1_1_connection_mapping.html" title="ServerNetworkLayerTCP\l::ConnectionMapping" alt="" coords="105,243,273,284"/>
-<area shape="rect" id="node5" href="$d3/da5/struct_u_a___secure_channel.html" title="UA_SecureChannel" alt="" coords="357,250,494,277"/>
-<area shape="rect" id="node6" href="$df/dbe/struct_u_a___asymmetric_algorithm_security_header.html" title="UA_AsymmetricAlgorithmSecurity\lHeader" alt="" coords="524,124,745,165"/>
-<area shape="rect" id="node7" href="$d3/dbd/struct_u_a___string.html" title="UA_String" alt="" coords="384,5,467,32"/>
-<area shape="rect" id="node8" href="$d2/d4b/struct_u_a___channel_security_token.html" title="UA_ChannelSecurityToken" alt="" coords="770,131,950,158"/>
-</map>

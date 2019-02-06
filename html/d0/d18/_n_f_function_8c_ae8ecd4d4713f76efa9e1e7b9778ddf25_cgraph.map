@@ -1,8 +1,0 @@
-<map id="omc_NFFunction_Function_makeAttributes" name="omc_NFFunction_Function_makeAttributes">
-<area shape="rect" id="node2" href="$d7/d21/_n_f_inst_node_8c.html#aa55ac4de2ad82657bcef63d7eb2e3f64" title="omc_NFInstNode_InstNode\l_definition" alt="" coords="251,35,437,76"/>
-<area shape="rect" id="node5" href="$d9/d9e/_s_code_8c.html#a59beac384e2d377adc0181efe2f48d2e" title="omc_SCode_getClassRestriction" alt="" coords="236,101,452,127"/>
-<area shape="rect" id="node6" href="$db/da1/_compiler_2boot_2build_2error_8c.html#a202663346d8015c6413dbcc62dff1933" title="omc_Error_assertion" alt="" coords="273,151,415,178"/>
-<area shape="rect" id="node7" href="$d9/d9e/_s_code_8c.html#a797083a7fa4e05b88314b2ac9b21fc6b" title="omc_SCode_isFunctionRestriction" alt="" coords="232,202,456,229"/>
-<area shape="rect" id="node3" href="$d2/dda/_n_f_component_8c.html#aec664af20d33addcc2bc69026d7c9e79" title="omc_NFComponent_Component\l_definition" alt="" coords="504,5,717,47"/>
-<area shape="rect" id="node4" href="$dc/d0e/_pointer_8c.html#aa5369c5410f4ad12957ad69be8ccc4e8" title="omc_Pointer_access" alt="" coords="539,71,683,98"/>
-</map>

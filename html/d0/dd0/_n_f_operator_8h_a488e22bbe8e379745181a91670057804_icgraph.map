@@ -1,7 +1,0 @@
-<map id="omc_NFOperator_makeGreater" name="omc_NFOperator_makeGreater">
-<area shape="rect" id="node2" href="$de/d9a/_n_f_connect_equations_8c.html#aee4f6c5c25949cb6017f9ed6ead6352e" title="omc_NFConnectEquations\l_evaluateActualStream" alt="" coords="257,39,436,80"/>
-<area shape="rect" id="node3" href="$dd/dcc/_n_f_connect_equations_8h.html#a437e270796e088da9e7af4edc08b7740" title="omc_NFConnectEquations\l_evaluateOperators" alt="" coords="484,39,663,80"/>
-<area shape="rect" id="node4" href="$de/d9a/_n_f_connect_equations_8c.html#aac598c0085705be139c4f4063374f833" title="omc_NFConnectEquations\l_evaluateOperatorIteratorExp" alt="" coords="720,5,912,47"/>
-<area shape="rect" id="node5" href="$d4/d7c/_n_f_flatten_8c.html#adf3d09447d53496f1e0a9f0e61d7e070" title="omc_NFFlatten_evaluateBinding\lConnOp" alt="" coords="711,71,921,112"/>
-<area shape="rect" id="node6" href="$d4/d7c/_n_f_flatten_8c.html#ac49cc14071df2084994f243e90429184" title="omc_NFFlatten_evaluateConnection\lOperators" alt="" coords="969,71,1204,112"/>
-</map>

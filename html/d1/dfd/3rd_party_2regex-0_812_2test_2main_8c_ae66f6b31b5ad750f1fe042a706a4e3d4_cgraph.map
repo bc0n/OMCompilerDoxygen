@@ -1,9 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node2" href="$d6/d3a/tregress_8c.html#a34dde41360ea92021f99dc87a7ef6c3e" title="test_regress" alt="" coords="128,5,223,32"/>
-<area shape="rect" id="node4" href="$d3/dee/other_8c.html#a553c5521220afb7609e5c2261ecb7fc1" title="test_others" alt="" coords="132,56,219,83"/>
-<area shape="rect" id="node5" href="$de/dbe/psx-basic_8c.html#abcc11b632a6d77ef90d550fa48ee13fd" title="test_posix_basic" alt="" coords="115,107,235,133"/>
-<area shape="rect" id="node6" href="$d5/d59/psx-extend_8c.html#ab297a59dd4889397b65bd25bbf3b9f92" title="test_posix_extended" alt="" coords="104,157,247,184"/>
-<area shape="rect" id="node7" href="$df/db6/psx-interf_8c.html#a6900c33649cad3faebea1990e0dd3634" title="test_posix_interface" alt="" coords="106,208,245,235"/>
-<area shape="rect" id="node8" href="$d4/d98/g_09_09malloc_8c.html#a49f789e614e57e410f598885b800c2df" title="fprintf" alt="" coords="148,259,203,285"/>
-<area shape="rect" id="node3" href="$d7/d55/alloca_8c.html#a57f31c7e835684cdcc4806e1f01a43bb" title="xmalloc" alt="" coords="295,5,361,32"/>
-</map>

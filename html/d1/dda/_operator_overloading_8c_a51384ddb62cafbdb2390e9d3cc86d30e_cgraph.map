@@ -1,8 +1,0 @@
-<map id="omc_OperatorOverloading_overloadFoldType" name="omc_OperatorOverloading_overloadFoldType">
-<area shape="rect" id="node2" href="$d3/df6/_types_8c.html#a5d47f4593a81247635fba3853bb47751" title="omc_Types_equivtypesOrRecord\lSubtypeOf" alt="" coords="227,49,443,90"/>
-<area shape="rect" id="node3" href="$d3/df6/_types_8c.html#ada05079b69e94acd3019cae321b167f1" title="omc_Types_subtype" alt="" coords="491,56,633,83"/>
-<area shape="rect" id="node4" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a48a12fdaab61cbe8e256fcaa1edff333" title="omc_List_isEqualOnTrue" alt="" coords="691,5,859,32"/>
-<area shape="rect" id="node5" href="$d1/d08/_expression_8c.html#ab4582574818b62098bd5f4d2090756ba" title="omc_Expression_dimsEqual" alt="" coords="681,56,868,83"/>
-<area shape="rect" id="node6" href="$d1/d08/_expression_8c.html#a49c53bb23335c4894403f10782bce496" title="omc_Expression_dimensions\lEqual" alt="" coords="916,74,1108,115"/>
-<area shape="rect" id="node7" href="$d1/d08/_expression_8c.html#a84a4a599617a28cbc59e20244ed382d4" title="omc_Expression_dimensionSize" alt="" coords="1156,81,1367,108"/>
-</map>

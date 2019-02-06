@@ -1,4 +1,0 @@
-<map id="Teuchos::EmbeddedObjDealloc::embeddedObjDeallocArrayDelete" name="Teuchos::EmbeddedObjDealloc::embeddedObjDeallocArrayDelete">
-<area shape="rect" id="node2" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a7fd9e80180eec6cf6e3038505d3dc7a4" title="Conversion function that takes in a boost::shared_ptr object and spits out a Teuchos::RCP object..." alt="" coords="312,5,447,32"/>
-<area shape="rect" id="node3" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a0c6441ac96ec5797f7b487e4c851aebe" title="Initialize from a raw pointer with a deallocation policy. " alt="" coords="276,56,483,83"/>
-</map>

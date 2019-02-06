@@ -1,8 +1,0 @@
-<map id="boxptr_ConnectUtil_getConnectCount" name="boxptr_ConnectUtil_getConnectCount">
-<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#a5131599dff7eb91a3fd68f2b190f9986" title="omc_ConnectUtil_getConnect\lCount" alt="" coords="188,89,385,131"/>
-<area shape="rect" id="node3" href="$d3/d5a/_connect_util_8c.html#ab69264bc22df5b921df838cda90878b7" title="omc_ConnectUtil_setTrieGet" alt="" coords="433,71,624,98"/>
-<area shape="rect" id="node7" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="505,122,552,149"/>
-<area shape="rect" id="node4" href="$d9/d14/_component_reference_8c.html#a5f491f186f674efb30ec59575fc6a9a5" title="omc_ComponentReference\l_crefFirstIdent" alt="" coords="672,5,853,47"/>
-<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#ac6039d0bf54fda4c417fe289f1aa7d89" title="omc_List_toString" alt="" coords="699,71,826,98"/>
-<area shape="rect" id="node6" href="$d9/d14/_component_reference_8c.html#aa35e5ff682246bd0230b0110bb113c33" title="omc_ComponentReference\l_crefFirstSubs" alt="" coords="672,123,853,164"/>
-</map>

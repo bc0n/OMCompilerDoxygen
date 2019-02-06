@@ -1,6 +1,0 @@
-<map id="CVBandPrecInit" name="CVBandPrecInit">
-<area shape="rect" id="node2" href="$d1/ddc/cvode_8c.html#aca8edaf29469da9950fe695b90ef196e" title="cvProcessError" alt="" coords="169,5,281,32"/>
-<area shape="rect" id="node3" href="$da/d37/sundials__direct_8h.html#a4f060a6aa400d66a824b290f5bb5966d" title="NewBandMat" alt="" coords="175,56,276,83"/>
-<area shape="rect" id="node4" href="$da/d37/sundials__direct_8h.html#a58455f92bee3b8af244dac64364dd09f" title="DestroyMat" alt="" coords="180,107,271,133"/>
-<area shape="rect" id="node5" href="$da/d37/sundials__direct_8h.html#ac7e5bf85fb1110b7cd87a818161db11b" title="NewLintArray" alt="" coords="175,157,276,184"/>
-</map>

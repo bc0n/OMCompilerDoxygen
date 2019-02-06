@@ -1,7 +1,0 @@
-<map id="omc_NFModifier_ModTable_balance" name="omc_NFModifier_ModTable_balance">
-<area shape="rect" id="node2" href="$d1/d3e/_n_f_modifier_8c.html#ac110f8514a24fd5609854d1d2dc22243" title="omc_NFModifier_ModTable\l_height" alt="" coords="467,7,649,49"/>
-<area shape="rect" id="node3" href="$d1/d3e/_n_f_modifier_8c.html#aa042d481ab16d1723ce29bdbe2f1216a" title="omc_NFModifier_ModTable\l_calculateBalance" alt="" coords="236,37,419,78"/>
-<area shape="rect" id="node4" href="$d1/d3e/_n_f_modifier_8c.html#a904d16e8d6777cc19d8dd34bde79fba8" title="omc_NFModifier_ModTable\l_rotateLeft" alt="" coords="236,102,419,143"/>
-<area shape="rect" id="node5" href="$d1/d3e/_n_f_modifier_8c.html#aa11683ee0728876a8e24734285f7686c" title="omc_NFModifier_ModTable\l_setTreeLeftRight" alt="" coords="467,161,649,202"/>
-<area shape="rect" id="node6" href="$d1/d3e/_n_f_modifier_8c.html#a2ce92fc510e0c89b57541e8e2c8dcaf5" title="omc_NFModifier_ModTable\l_rotateRight" alt="" coords="236,219,419,261"/>
-</map>

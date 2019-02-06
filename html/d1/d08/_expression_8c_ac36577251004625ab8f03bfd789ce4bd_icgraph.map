@@ -1,9 +1,0 @@
-<map id="omc_Expression_typeCast" name="omc_Expression_typeCast">
-<area shape="rect" id="node2" href="$d6/d99/_expression_8h.html#a18868b5db6cf9311e689f37f78d6deb0" title="omc_Expression_typeCastElements" alt="" coords="232,95,467,122"/>
-<area shape="rect" id="node3" href="$d3/df6/_types_8c.html#a7d2971eef36c681e982fdf2a86fdbe1d" title="omc_Types_checkTypeCompat\l__cast" alt="" coords="515,88,721,129"/>
-<area shape="rect" id="node4" href="$d3/df6/_types_8c.html#a8f0e04931daa33a13a49f8fd8d58b1b1" title="boxptr_Types_checkTypeCompat\l__cast" alt="" coords="769,5,988,47"/>
-<area shape="rect" id="node5" href="$da/d34/_compiler_2boot_2build_2types_8h.html#a69c8a5ff1261c00bf77deea5ce686238" title="omc_Types_checkTypeCompat" alt="" coords="775,95,982,122"/>
-<area shape="rect" id="node6" href="$d3/df6/_types_8c.html#ae5f60bc2398cdb149963fbe1e8429680" title="omc_Types_checkTypeCompatList" alt="" coords="1036,70,1264,97"/>
-<area shape="rect" id="node8" href="$da/d34/_compiler_2boot_2build_2types_8h.html#a79c48d5b578e3819395f47650555aea6" title="boxptr_Types_checkTypeCompat" alt="" coords="1041,121,1259,147"/>
-<area shape="rect" id="node7" href="$d3/df6/_types_8c.html#a83e220d613bcb32260640baa0b11f629" title="boxptr_Types_checkTypeCompatList" alt="" coords="1312,70,1551,97"/>
-</map>

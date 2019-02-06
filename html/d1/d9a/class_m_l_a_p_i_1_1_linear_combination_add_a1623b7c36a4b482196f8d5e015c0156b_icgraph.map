@@ -1,8 +1,0 @@
-<map id="MLAPI::LinearCombinationAdd::GetVectorSpace" name="MLAPI::LinearCombinationAdd::GetVectorSpace">
-<area shape="rect" id="node2" href="$d5/d12/class_m_l_a_p_i_1_1_linear_combination_mixed.html#a88445735b3a731347d688efcc921f79d" title="MLAPI::LinearCombination\lMixed::LinearCombinationMixed" alt="" coords="237,5,445,47"/>
-<area shape="rect" id="node3" href="$d3/d82/class_m_l_a_p_i_1_1_linear_combination_scaled.html#a7b7d894b8ac6b3e90629b56623f7a5dd" title="MLAPI::LinearCombination\lScaled::LinearCombinationScaled" alt="" coords="232,71,451,112"/>
-<area shape="rect" id="node4" href="$d4/d7e/class_m_l_a_p_i_1_1_multi_vector_scaled.html#a4afadbfa23e1e35d4b09538dc0335f88" title="MLAPI::MultiVectorScaled\l::MultiVectorScaled" alt="" coords="253,136,429,177"/>
-<area shape="rect" id="node5" href="$d1/d50/class_m_l_a_p_i_1_1_multi_vector_combination.html#ad754a35ad74cd736c0a43679c0ab4d99" title="MLAPI::MultiVectorCombination\l::MultiVectorCombination" alt="" coords="237,201,446,243"/>
-<area shape="rect" id="node6" href="$dd/df3/class_m_l_a_p_i_1_1_base_operator_times_multi_vector.html#ac9a9cd96638725ece1c524dc6be7f30b" title="MLAPI::BaseOperatorTimes\lMultiVector::BaseOperatorTimes\lMultiVector" alt="" coords="235,267,447,323"/>
-<area shape="rect" id="node7" href="$d2/d15/class_m_l_a_p_i_1_1_residual.html#ac2b3fabe10e951e0622710d6f1ea68e6" title="MLAPI::Residual::Residual" alt="" coords="251,347,431,374"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="ARKodeReInit" name="ARKodeReInit">
-<area shape="rect" id="node2" href="$d7/d4c/farkode_8h.html#af8244d1e51523ce00850f721faa42f4e" title="FARK_REINIT" alt="" coords="160,5,271,32"/>
-<area shape="rect" id="node3" href="$da/d06/class_arkode.html#a39e6c051c6e46ad0070349f50dc95748" title="Berechung der numerischen Lösung innerhalb eines gegebenen Zeitintervalls. " alt="" coords="164,56,267,83"/>
-<area shape="rect" id="node4" href="$da/d06/class_arkode.html#a34a4e2f71a785e57d9a1527be1fa9590" title="Setzen der initialen Schrittweite (z.B. auch nach Nullstelle) " alt="" coords="319,56,479,83"/>
-</map>

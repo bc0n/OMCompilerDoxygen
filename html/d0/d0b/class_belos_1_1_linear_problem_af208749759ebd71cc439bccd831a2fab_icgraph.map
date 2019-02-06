@@ -1,7 +1,0 @@
-<map id="Belos::LinearProblem::updateSolution" name="Belos::LinearProblem::updateSolution">
-<area shape="rect" id="node2" href="$d6/dfe/class_belos_1_1_status_test_gen_res_norm.html#a66861d6f92b572996845ae52e2eb6a51" title="Check convergence status: Passed, Failed, or Undefined. " alt="" coords="200,5,407,47"/>
-<area shape="rect" id="node4" href="$d0/d6b/class_belos_1_1_status_test_imp_res_norm.html#a95249d6b3070c0f9aa3d148f56e367ef" title="Check convergence status: Passed, Failed, or Undefined. " alt="" coords="201,71,406,112"/>
-<area shape="rect" id="node3" href="$d6/dfe/class_belos_1_1_status_test_gen_res_norm.html#a2a5aaf2ddb054ca833859ff9af2d9266" title="Set whether the only maximum residual norm is displayed when the print() method is called..." alt="" coords="455,5,661,47"/>
-<area shape="rect" id="node5" href="$d0/d6b/class_belos_1_1_status_test_imp_res_norm.html#adae716113c9688aecaae5d2c64171aaf" title="Set whether the only maximum residual norm is displayed when the print() method is called..." alt="" coords="455,71,661,112"/>
-<area shape="rect" id="node6" href="$d0/d6b/class_belos_1_1_status_test_imp_res_norm.html#a63cfcd4961cd567a2ec025cced795fe3" title="Define form of the scaling, its norm, its optional weighting vector, or, alternatively, define an explicit value. " alt="" coords="455,136,661,177"/>
-</map>

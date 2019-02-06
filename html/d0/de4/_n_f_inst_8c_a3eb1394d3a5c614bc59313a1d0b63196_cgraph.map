@@ -1,7 +1,0 @@
-<map id="boxptr_NFInst_instExtends" name="boxptr_NFInst_instExtends">
-<area shape="rect" id="node2" href="$d0/de4/_n_f_inst_8c.html#aa5ae6cf47c8bf5988cbd60721fc63ead" title="omc_NFInst_instExtends" alt="" coords="235,68,405,95"/>
-<area shape="rect" id="node3" href="$d7/d21/_n_f_inst_node_8c.html#a840047a70bed69a6b747a8bbec33e15b" title="omc_NFInstNode_InstNode\l_getClass" alt="" coords="453,27,639,69"/>
-<area shape="rect" id="node6" href="$d7/d21/_n_f_inst_node_8c.html#a5e9817607fdd3ba4c758ad3808e6fb18" title="omc_NFInstNode_InstNode\l_isProtectedBaseClass" alt="" coords="453,93,639,134"/>
-<area shape="rect" id="node4" href="$dc/d0e/_pointer_8c.html#aa5369c5410f4ad12957ad69be8ccc4e8" title="omc_Pointer_access" alt="" coords="721,5,865,32"/>
-<area shape="rect" id="node5" href="$d2/dda/_n_f_component_8c.html#aebc936a63cf3faa7877ddb75a6ba16cb" title="omc_NFComponent_Component\l_classInstance" alt="" coords="687,57,900,98"/>
-</map>

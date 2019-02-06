@@ -1,6 +1,0 @@
-<map id="Teuchos::concreteTypeName" name="Teuchos::concreteTypeName">
-<area shape="rect" id="node2" href="$db/d2b/class_teuchos_1_1_array_r_c_p.html#a7a26e55c9f8bcc6f1c03499e49d0293a" title="Construct from a raw pointer and a valid range. " alt="" coords="263,5,445,61"/>
-<area shape="rect" id="node3" href="$d8/d5d/class_teuchos_1_1_array_r_c_p_3_01const_01_t_01_4.html#a5630ba1e2ba801e6a91081bf0cee2bd7" title="Teuchos::ArrayRCP\&lt;\l const T \&gt;::ArrayRCP" alt="" coords="279,86,429,127"/>
-<area shape="rect" id="node4" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#aa3e9fabd5a8558882ea4a14dde9f82df" title="Construct a non&#45;owning RCP from a raw pointer to a type that is defined. " alt="" coords="273,151,435,193"/>
-<area shape="rect" id="node5" href="$d3/d74/namespace_teuchos.html#a198f3ecf3325a3f4fa4b18ffc3a3322a" title="Teuchos::basicRCPNodeHandle" alt="" coords="248,217,460,244"/>
-</map>

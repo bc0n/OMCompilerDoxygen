@@ -1,7 +1,0 @@
-<map id="SimManager::SetCheckTimeout" name="SimManager::SetCheckTimeout">
-<area shape="rect" id="node2" href="$d3/d42/class_logger.html#aee18925aebfd91ff4ac3f9e1e05b4b1a" title="Logger::getLogMode" alt="" coords="293,5,433,32"/>
-<area shape="rect" id="node3" href="$d5/def/socket__unix_8cpp.html#af709baf4d595b037d8a5ba0e83361943" title="to_string" alt="" coords="327,56,399,83"/>
-<area shape="rect" id="node4" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a362b656d9de3289b55b1035d14cb4b5d" title="memset" alt="" coords="329,107,398,133"/>
-<area shape="rect" id="node5" href="$d3/d6f/group__core_simcontroller.html#ga79081590e20f7c0eafe808347d8876c1" title="Configuration::getGlobal\lSettings" alt="" coords="282,158,445,199"/>
-<area shape="rect" id="node6" href="$d3/d6f/group__core_simcontroller.html#ga5ac3d65eb33b3d7927bdcb90623bd722" title="Configuration::getSimController\lSettings" alt="" coords="261,223,465,265"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Ipopt::FilterLSAcceptor::IsAcceptableToCurrentFilter" name="Ipopt::FilterLSAcceptor::IsAcceptableToCurrentFilter">
-<area shape="rect" id="node2" href="$d0/d3d/class_ipopt_1_1_filter_l_s_acceptor.html#ad51d602bbcbc91b6d84001c45d43f4cd" title="Ipopt::FilterLSAcceptor\l::CheckAcceptabilityOfTrialPoint" alt="" coords="247,37,459,79"/>
-<area shape="rect" id="node5" href="$d3/df1/class_ipopt_1_1_resto_filter_convergence_check.html#af4bd57e3e1bf22d77ced52d081a56eb0" title="Ipopt::RestoFilterConvergence\lCheck::InitializeImpl" alt="" coords="253,103,453,144"/>
-<area shape="rect" id="node3" href="$d0/d3d/class_ipopt_1_1_filter_l_s_acceptor.html#ac4192be8bef15e668a44520dfaa4e6d7" title="Ipopt::FilterLSAcceptor\l::TrySecondOrderCorrection" alt="" coords="507,5,692,47"/>
-<area shape="rect" id="node4" href="$d0/d3d/class_ipopt_1_1_filter_l_s_acceptor.html#a4a02584b4800da30ba219aa9863721da" title="Ipopt::FilterLSAcceptor\l::TryCorrector" alt="" coords="521,71,677,112"/>
-</map>

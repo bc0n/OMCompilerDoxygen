@@ -1,5 +1,0 @@
-<map id="fmi2_capi_t" name="fmi2_capi_t">
-<area shape="rect" id="node2" href="$df/d67/structfmi2__callback__functions__t.html" title="fmi2_callback_functions_t" alt="" coords="5,5,179,32"/>
-<area shape="rect" id="node3" href="$d2/da9/structjm__callbacks.html" title="The callbacks struct is sent to all the modules in the library. " alt="" coords="203,5,301,32"/>
-<area shape="rect" id="node4" href="$d9/d7d/structfmi2__event__info__t.html" title="fmi2_event_info_t" alt="" coords="389,5,515,32"/>
-</map>

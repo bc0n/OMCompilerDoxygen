@@ -1,6 +1,0 @@
-<map id="mat_additem" name="mat_additem">
-<area shape="rect" id="node2" href="$dc/d9a/lp__matrix_8c.html#af6e2a93b05529ecd42ac040f421b7b76" title="mat_findelm" alt="" coords="151,5,245,32"/>
-<area shape="rect" id="node4" href="$dc/d9a/lp__matrix_8c.html#ac8defba940597273d1e2f41af9c4fdd6" title="mat_setitem" alt="" coords="151,56,245,83"/>
-<area shape="rect" id="node3" href="$d3/d63/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__report_8h.html#a44ef60e159dc1290b7da87301e244357" title="report" alt="" coords="316,5,371,32"/>
-<area shape="rect" id="node5" href="$da/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__matrix_8h.html#a3cf5f70351e501251681b113289293da" title="mat_setvalue" alt="" coords="293,56,393,83"/>
-</map>

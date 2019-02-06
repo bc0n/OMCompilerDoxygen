@@ -1,8 +1,0 @@
-<map id="CreateGraph" name="CreateGraph">
-<area shape="rect" id="node2" href="$d3/d5a/gk__proto_8h.html#aba6f76f5c67b9b7e9c2e45988d3d3e9d" title="gk_malloc" alt="" coords="149,58,231,85"/>
-<area shape="rect" id="node7" href="$d2/d04/metis-5_81_80_2libmetis_2graph_8c.html#af046766ada304a0cf49db44b544810a8" title="InitGraph" alt="" coords="153,109,227,135"/>
-<area shape="rect" id="node3" href="$d2/d8c/examplehs038_8m.html#ae272956ea74f28b2f067d455fead331f" title="fprintf" alt="" coords="493,58,548,85"/>
-<area shape="rect" id="node4" href="$df/dd5/memory_8c.html#ad2327b94227019b6753b6b09400c0522" title="gk_GetCurMemoryUsed" alt="" coords="281,33,443,59"/>
-<area shape="rect" id="node5" href="$df/dd5/memory_8c.html#a656fd5266ae12a96e53125486f8fea52" title="gk_GetMaxMemoryUsed" alt="" coords="279,83,445,110"/>
-<area shape="rect" id="node6" href="$db/dcc/error_8c.html#a4c320c13bcdc9967613253ef4c73f59f" title="gk_errexit" alt="" coords="323,134,401,161"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="omc_ConnectUtil_addOuterConnectToSets2" name="omc_ConnectUtil_addOuterConnectToSets2">
-<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#a0cd3e4946433d4bb8e3eae714b26854f" title="boxptr_ConnectUtil\l_addOuterConnectToSets2" alt="" coords="237,5,417,47"/>
-<area shape="rect" id="node3" href="$da/df9/_connect_util_8h.html#a4cafe030d04d27cb039acd6bbc89b0cf" title="omc_ConnectUtil_addOuter\lConnectToSets" alt="" coords="236,71,419,112"/>
-<area shape="rect" id="node4" href="$da/df9/_connect_util_8h.html#a8e3dfe596edcb9ef26108428eeb2d4dc" title="boxptr_ConnectUtil\l_addOuterConnectToSets" alt="" coords="479,37,652,79"/>
-<area shape="rect" id="node5" href="$d6/df5/_inner_outer_8c.html#a3686892d072a57a40ce991e2200f0485" title="omc_InnerOuter_retrieveOuter\lConnections2" alt="" coords="467,103,664,144"/>
-<area shape="rect" id="node6" href="$d6/df5/_inner_outer_8c.html#ad3c1b1b2a56a29c5951145f352e95d0b" title="boxptr_InnerOuter_retrieve\lOuterConnections2" alt="" coords="723,69,899,111"/>
-<area shape="rect" id="node7" href="$db/d26/_inner_outer_8h.html#ab4e23803962a0aac3d48a997b5cfe0b2" title="omc_InnerOuter_retrieveOuter\lConnections" alt="" coords="712,135,909,176"/>
-<area shape="rect" id="node8" href="$db/d26/_inner_outer_8h.html#ac7114fb564fae3771f744e6d26e7c4a8" title="boxptr_InnerOuter_retrieve\lOuterConnections" alt="" coords="957,135,1133,176"/>
-</map>

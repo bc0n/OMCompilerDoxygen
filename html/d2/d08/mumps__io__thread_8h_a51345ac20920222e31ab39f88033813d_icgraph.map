@@ -1,7 +1,0 @@
-<map id="mumps_is_there_finished_request_th" name="mumps_is_there_finished_request_th">
-<area shape="rect" id="node2" href="$d2/d08/mumps__io__thread_8h.html#a20b8938399caec2ccd8231467bb8e0ed" title="mumps_clean_finished\l_queue_th" alt="" coords="224,49,379,90"/>
-<area shape="rect" id="node3" href="$d2/d08/mumps__io__thread_8h.html#a1ce88e3d94a3774c8671e1559b11f7f0" title="mumps_test_request_th" alt="" coords="427,5,589,32"/>
-<area shape="rect" id="node5" href="$d2/d08/mumps__io__thread_8h.html#aa324949cb92b3777f9bb47a54985c960" title="mumps_async_write_th" alt="" coords="428,56,588,83"/>
-<area shape="rect" id="node6" href="$d2/d08/mumps__io__thread_8h.html#a5c10ecaa138aa22f9412cc806134d124" title="mumps_async_read_th" alt="" coords="429,107,587,133"/>
-<area shape="rect" id="node4" href="$d2/d08/mumps__io__thread_8h.html#a177d922f1424bcdc9930132fdb7317b1" title="mumps_wait_request_th" alt="" coords="637,5,801,32"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="boxptr_Differentiate_createPartialDifferentiatedExp" name="boxptr_Differentiate_createPartialDifferentiatedExp">
-<area shape="rect" id="node2" href="$d1/dcb/_differentiate_8c.html#a63d7fc78d0b16e873a1fa30fb896ee8b" title="omc_Differentiate_create\lPartialDifferentiatedExp" alt="" coords="256,74,424,115"/>
-<area shape="rect" id="node3" href="$d3/df6/_types_8c.html#a8110f8e886d2ddc20eae658a2bf3e896" title="omc_Types_isRecord" alt="" coords="479,5,628,32"/>
-<area shape="rect" id="node4" href="$d1/d08/_expression_8c.html#a007abae479310b1b518673105ceba117" title="omc_Expression_typeof" alt="" coords="472,56,635,83"/>
-<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a4c3664d5c602bbd6959055db5f68da0b" title="omc_List_set" alt="" coords="503,107,603,133"/>
-<area shape="rect" id="node8" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a56b7e8a835b2d388f5984ca7378bc1ec" title="listAppend" alt="" coords="512,157,595,184"/>
-<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a8fa83933130d25dda7c992090db4754d" title="omc_List_splitr" alt="" coords="694,81,805,108"/>
-<area shape="rect" id="node7" href="$da/d72/_compiler_2boot_2build_2list_8c.html#aab1d6853b378f2441ba7ba9f965d6346" title="omc_List_stripFirst" alt="" coords="683,132,816,159"/>
-</map>

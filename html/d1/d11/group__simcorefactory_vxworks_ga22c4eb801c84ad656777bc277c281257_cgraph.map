@@ -1,5 +1,0 @@
-<map id="VxWorksFactory::LoadAlgLoopSolverSettings" name="VxWorksFactory::LoadAlgLoopSolverSettings">
-<area shape="rect" id="node2" href="$d1/d11/group__simcorefactory_vxworks.html#ga669c1386cc7bf83619c69353b9154996" title="createNewtonSettings" alt="" coords="258,5,409,32"/>
-<area shape="rect" id="node3" href="$d1/d11/group__simcorefactory_vxworks.html#ga27ff96068220997c351f0ef531d877ea" title="createKinsolSettings" alt="" coords="262,56,405,83"/>
-<area shape="rect" id="node4" href="$d1/d11/group__simcorefactory_vxworks.html#ga696aac93fbad05419ff0002f902a124b" title="createBroydenSettings" alt="" coords="256,107,411,133"/>
-</map>

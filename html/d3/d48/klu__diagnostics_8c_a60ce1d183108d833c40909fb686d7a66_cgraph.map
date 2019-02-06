@@ -1,7 +1,0 @@
-<map id="KLU_condest" name="KLU_condest">
-<area shape="rect" id="node2" href="$dc/d73/klu__solve_8c.html#a2c6302bba47ca4af3efcc5b8e0d09d6f" title="KLU_solve" alt="" coords="157,5,243,32"/>
-<area shape="rect" id="node3" href="$de/d26/klu__tsolve_8c.html#a8fc90e0f9bb458af6b6219c5e7deadc9" title="KLU_tsolve" alt="" coords="155,56,245,83"/>
-<area shape="rect" id="node4" href="$d3/d48/klu__diagnostics_8c.html#aaf6f3e7150d238e8fbafc5f308b41069" title="KLU_flops" alt="" coords="159,107,241,133"/>
-<area shape="rect" id="node5" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a8b9eb702eb3f9bcba3923532d1e801db" title="for" alt="" coords="317,81,356,108"/>
-<area shape="rect" id="node6" href="$d3/d48/klu__diagnostics_8c.html#a9917c39adad51784e82279ce55ef47b0" title="KLU_rcond" alt="" coords="293,132,380,159"/>
-</map>

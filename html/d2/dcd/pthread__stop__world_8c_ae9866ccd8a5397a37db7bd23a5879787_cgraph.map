@@ -1,6 +1,0 @@
-<map id="GC_store_stack_ptr" name="GC_store_stack_ptr">
-<area shape="rect" id="node2" href="$de/d97/generalize-small_8h.html#a64d468c7e7d0fdebe072494784e832ab" title="AO_store" alt="" coords="236,5,313,32"/>
-<area shape="rect" id="node4" href="$dd/d79/gc__priv_8h.html#afc0163a408c2a2d0f1f9c470a5438f2d" title="GC_save_regs_in_stack" alt="" coords="192,56,357,83"/>
-<area shape="rect" id="node5" href="$dd/d79/gc__priv_8h.html#a63ad3c8487c6bdefff474f15bb986e81" title="GC_approx_sp" alt="" coords="220,107,329,133"/>
-<area shape="rect" id="node3" href="$d0/d4c/gc__atomic__ops_8h.html#ac44fca25bf925dc938812ae00a336926" title="AO_compare_and_swap" alt="" coords="405,5,569,32"/>
-</map>

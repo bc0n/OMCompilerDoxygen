@@ -1,8 +1,0 @@
-<map id="Ipopt::CompoundMatrixSpace::Diagonal" name="Ipopt::CompoundMatrixSpace::Diagonal">
-<area shape="rect" id="node2" href="$da/d5c/class_ipopt_1_1_compound_matrix.html#a9797b0e566f930f0b51a4e8397417e65" title="Ipopt::CompoundMatrix\l::MultVectorImpl" alt="" coords="249,5,408,47"/>
-<area shape="rect" id="node4" href="$da/d5c/class_ipopt_1_1_compound_matrix.html#a5182ab339c756de8c2b849555fdcff2c" title="Ipopt::CompoundMatrix\l::TransMultVectorImpl" alt="" coords="249,71,408,112"/>
-<area shape="rect" id="node5" href="$da/d5c/class_ipopt_1_1_compound_matrix.html#a3b7c201e11c91a7e4e67e6987d43bffe" title="Ipopt::CompoundMatrix\l::AddMSinvZImpl" alt="" coords="249,136,408,177"/>
-<area shape="rect" id="node6" href="$da/d5c/class_ipopt_1_1_compound_matrix.html#af568f1cb63b4bbd5cd725fe4f37e0fb4" title="Ipopt::CompoundMatrix\l::SinvBlrmZMTdBrImpl" alt="" coords="249,201,408,243"/>
-<area shape="rect" id="node7" href="$da/d5c/class_ipopt_1_1_compound_matrix.html#a86f4748ab86e273b669a6244a4e23ca4" title="Ipopt::CompoundMatrix\l::HasValidNumbersImpl" alt="" coords="248,267,409,308"/>
-<area shape="rect" id="node3" href="$da/d5c/class_ipopt_1_1_compound_matrix.html#a1f1996437233a45385d39d3c8d2135a9" title="Ipopt::CompoundMatrix\l::GetCompNonConst" alt="" coords="457,136,616,177"/>
-</map>

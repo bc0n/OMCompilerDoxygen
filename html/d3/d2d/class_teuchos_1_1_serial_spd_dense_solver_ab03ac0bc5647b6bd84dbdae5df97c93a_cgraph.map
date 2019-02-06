@@ -1,5 +1,0 @@
-<map id="Teuchos::SerialSpdDenseSolver::SerialSpdDenseSolver" name="Teuchos::SerialSpdDenseSolver::SerialSpdDenseSolver">
-<area shape="rect" id="node2" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#a4b3ebca60e0c34ab7d07ec6160e68ab2" title="Teuchos::SerialSpdDenseSolver\l::resetMatrix" alt="" coords="264,35,475,76"/>
-<area shape="rect" id="node3" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#a89a2bbd16685f2ba6329add7ccd696b5" title="Teuchos::SerialSpdDenseSolver\l::resetVectors" alt="" coords="523,5,733,47"/>
-<area shape="rect" id="node4" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a146d96d758b245a3ca2272680ebf52b4" title="Returns representation of one for this scalar type. " alt="" coords="539,71,717,98"/>
-</map>

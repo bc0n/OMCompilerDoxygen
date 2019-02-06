@@ -1,6 +1,0 @@
-<map id="presolve_rowremove" name="presolve_rowremove">
-<area shape="rect" id="node2" href="$d2/d22/build_2include_2omc_2lpsolve_2lp__presolve_8h.html#a0af83f2ddc82962e4531d33df40823b4" title="presolve_shrink" alt="" coords="213,5,326,32"/>
-<area shape="rect" id="node3" href="$d3/da5/lp__presolve_8c.html#a7844c56aa332fe22274fffac21b497b8" title="presolve_elimeq2" alt="" coords="391,81,513,108"/>
-<area shape="rect" id="node4" href="$d3/da5/lp__presolve_8c.html#a77db38abe14bf53f38e48251cf339ad5" title="presolve_mergerows" alt="" coords="198,107,341,133"/>
-<area shape="rect" id="node5" href="$d3/da5/lp__presolve_8c.html#a5273b3b493d401db012164a85adc5f15" title="presolve_singularities" alt="" coords="196,157,343,184"/>
-</map>

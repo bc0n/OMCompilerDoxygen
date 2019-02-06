@@ -1,6 +1,0 @@
-<map id="fmi1_xml_free_parse_buffer" name="fmi1_xml_free_parse_buffer">
-<area shape="rect" id="node2" href="$d0/d34/fmi1__xml__parser_8c.html#a45cfc6dc8f3842cd9d3c6d034985bbda" title="jm_vector" alt="" coords="196,31,275,57"/>
-<area shape="rect" id="node3" href="$d3/dc8/class_teuchos_1_1_comm.html#a346c8703a1ee3cb18cf3c812678cb01c" title="Get the number of processes in the communicator. " alt="" coords="323,5,473,32"/>
-<area shape="rect" id="node4" href="$d0/d34/fmi1__xml__parser_8c.html#a094720ead8128988a23de837e2543d98" title="fmi1_xml_parse_fatal" alt="" coords="325,56,471,83"/>
-<area shape="rect" id="node5" href="$d6/dac/group__jm__callbacks.html#gaba6d03fb084724a1a8928e59fe5b6e39" title="Send a fatal error message to the logger function. See jm_log() for details. " alt="" coords="521,56,628,83"/>
-</map>

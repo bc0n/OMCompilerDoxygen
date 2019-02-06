@@ -1,7 +1,0 @@
-<map id="GC_init_explicit_typing" name="GC_init_explicit_typing">
-<area shape="rect" id="node2" href="$d4/d23/gc__mark_8h.html#a691385ebac25e337628c9308c8ffb30a" title="GC_new_free_list_inner" alt="" coords="209,5,371,32"/>
-<area shape="rect" id="node3" href="$d4/d23/gc__mark_8h.html#afdc3df1ef0abbdaf8e1c35647eed9a13" title="GC_new_kind_inner" alt="" coords="221,56,359,83"/>
-<area shape="rect" id="node4" href="$d4/d23/gc__mark_8h.html#aea470eb62ae34275b2a41fd0b826414c" title="GC_new_proc_inner" alt="" coords="220,107,360,133"/>
-<area shape="rect" id="node5" href="$d1/d53/typd__mlc_8c.html#a4964de0cd8229d2fb7e786860527a071" title="GC_typed_mark_proc" alt="" coords="215,157,365,184"/>
-<area shape="rect" id="node6" href="$d1/d53/typd__mlc_8c.html#a5293131aab0b8231b72527a15e8877ac" title="GC_array_mark_proc" alt="" coords="217,208,363,235"/>
-</map>

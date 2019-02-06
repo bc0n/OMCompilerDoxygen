@@ -1,7 +1,0 @@
-<map id="zmq::shared_message_memory_allocator::release" name="zmq::shared_message_memory_allocator::release">
-<area shape="rect" id="node2" href="$d2/d8b/classzmq_1_1shared__message__memory__allocator.html#ae03c481a6fc537680b16c84d31cff862" title="zmq::shared_message\l_memory_allocator::allocate" alt="" coords="243,12,428,53"/>
-<area shape="rect" id="node4" href="$d2/d8b/classzmq_1_1shared__message__memory__allocator.html#aa8d8e3dbe23ee21c75cc091bc28643e1" title="zmq::shared_message\l_memory_allocator::deallocate" alt="" coords="236,81,435,123"/>
-<area shape="rect" id="node6" href="$d6/d7f/classzmq_1_1raw__decoder__t.html#a876262a15bf636a80ac0ca48e69d8f74" title="zmq::raw_decoder_t\l::decode" alt="" coords="265,147,405,188"/>
-<area shape="rect" id="node3" href="$d6/d7f/classzmq_1_1raw__decoder__t.html#a4b37354577392191d6388486d2e6401e" title="zmq::raw_decoder_t\l::get_buffer" alt="" coords="504,5,644,47"/>
-<area shape="rect" id="node5" href="$d2/d8b/classzmq_1_1shared__message__memory__allocator.html#a13edc6d450dfc52436b9ff02d2d839cf" title="zmq::shared_message\l_memory_allocator::\l~shared_message_memory\l_allocator" alt="" coords="483,71,665,141"/>
-</map>

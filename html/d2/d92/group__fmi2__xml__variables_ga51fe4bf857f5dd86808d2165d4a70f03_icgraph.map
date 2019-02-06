@@ -1,7 +1,0 @@
-<map id="fmi2_xml_get_variable_vr" name="fmi2_xml_get_variable_vr">
-<area shape="rect" id="node2" href="$db/d66/group__fmi2__import__variables.html#gac8f8513127c5c676850f99de7fe22add" title="Get variable value reference. " alt="" coords="224,5,409,32"/>
-<area shape="rect" id="node3" href="$df/dae/group__fmi2__import__varlist.html#ga1f38616780b063ae76e05a6272163a1f" title="Get a pointer to the list of the value references for all the variables. " alt="" coords="240,57,393,98"/>
-<area shape="rect" id="node5" href="$d2/d92/group__fmi2__xml__variables.html#gac5e5bdede69c54937bd5e262f57ec04a" title="fmi2_xml_get_variable\l_aliases" alt="" coords="241,122,393,163"/>
-<area shape="rect" id="node4" href="$df/d24/_f_m_i_impl_8c.html#aa232a019eadc7bda9f5bbf66fb274e7c" title="FMIImpl__initializeFMI2Import" alt="" coords="457,64,656,91"/>
-<area shape="rect" id="node6" href="$d0/d72/group__fmi2__import__gen.html#gae6c206b2f97ebe924473e7463a2627d1" title="fmi2_import_get_variable\l_aliases" alt="" coords="473,122,640,163"/>
-</map>

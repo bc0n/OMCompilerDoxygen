@@ -1,6 +1,0 @@
-<map id="omc_SCodeDump_restrictionStringPP" name="omc_SCodeDump_restrictionStringPP">
-<area shape="rect" id="node2" href="$d4/de8/_n_f_s_code_check_8h.html#ae032a0b974b497abb5edfd4843e82114" title="omc_NFSCodeCheck_checkInstance\lRestriction" alt="" coords="255,5,497,47"/>
-<area shape="rect" id="node3" href="$d4/de8/_n_f_s_code_check_8h.html#af7ad5ec516b0730fff01279cd12ec015" title="omc_NFSCodeCheck_checkRedeclared\lElementPrefix" alt="" coords="247,71,505,112"/>
-<area shape="rect" id="node4" href="$d4/de8/_n_f_s_code_check_8h.html#ae0c0485374b6059f6720664c01d181f1" title="omc_NFSCodeCheck_checkModifier\lIfRedeclare" alt="" coords="553,71,792,112"/>
-<area shape="rect" id="node5" href="$d5/df9/_n_f_s_code_dependency_8c.html#a1dfbf520d29af668f10ee71c266d6a2d" title="omc_NFSCodeDependency\l_analyseNameMod2" alt="" coords="840,71,1025,112"/>
-</map>

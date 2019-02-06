@@ -1,7 +1,0 @@
-<map id="gk_fkvsortd" name="gk_fkvsortd">
-<area shape="rect" id="node2" href="$d3/d5a/gk__proto_8h.html#a66729af11e7dee3585d6191661757c37" title="gk_csr_LowFilter" alt="" coords="165,5,286,32"/>
-<area shape="rect" id="node3" href="$d3/d5a/gk__proto_8h.html#ad6f2c5699b47e1bc2285a1b391d7c7da" title="gk_csr_TopKPlusFilter" alt="" coords="148,56,303,83"/>
-<area shape="rect" id="node4" href="$d3/d5a/gk__proto_8h.html#a52c619261980e7f2d6e4b48096ee1813" title="gk_csr_GetSimilarRows" alt="" coords="144,107,307,133"/>
-<area shape="rect" id="node5" href="$db/d7e/gksort_8c.html#a179814629e9b2ff14387734d6ac52a38" title="test_fkvsort" alt="" coords="180,157,271,184"/>
-<area shape="rect" id="node6" href="$db/d7e/gksort_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="355,157,405,184"/>
-</map>

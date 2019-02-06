@@ -1,5 +1,0 @@
-<map id="fmi1_xml_get_fmu_kind" name="fmi1_xml_get_fmu_kind">
-<area shape="rect" id="node2" href="$dd/deb/group__fmi1__import__gen.html#ga2dea1dd91855a91a318f8cc763030e05" title="Get the type of the FMU (model exchange or co&#45;simulation) " alt="" coords="213,42,388,69"/>
-<area shape="rect" id="node3" href="$d9/d62/group__fmi1__import__capi__const__destroy.html#gadfe20b5306d85c18fcddb6578fa27e14" title="Create a C&#45;API struct. The C&#45;API struct is a placeholder for the FMI DLL functions. " alt="" coords="469,5,602,47"/>
-<area shape="rect" id="node4" href="$df/d24/_f_m_i_impl_8c.html#a5a9bf24e9d1ef4bb15f2b7c01e5a0573" title="FMIImpl__initializeFMI1Import" alt="" coords="436,71,635,98"/>
-</map>

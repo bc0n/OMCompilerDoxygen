@@ -1,8 +1,0 @@
-<map id="GC_register_displacement" name="GC_register_displacement">
-<area shape="rect" id="node2" href="$dc/d51/mallocx_8c.html#a8f582ea5ab8c1f228f3a05a8b5ee6b3c" title="GC_memalign" alt="" coords="289,56,394,83"/>
-<area shape="rect" id="node6" href="$db/d35/systemimpl_8h.html#a876cc79b432f0e4c00a45f86ab662555" title="SystemImpl__initGarbageCollector" alt="" coords="229,107,453,133"/>
-<area shape="rect" id="node3" href="$dc/d51/mallocx_8c.html#af9f96b4cd0e6149c7d6f196f04e430c6" title="GC_posix_memalign" alt="" coords="526,5,669,32"/>
-<area shape="rect" id="node5" href="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a3b194f0711aa5c8878f77b3809918845" title="run_one_test" alt="" coords="549,56,646,83"/>
-<area shape="rect" id="node4" href="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="741,31,792,57"/>
-<area shape="rect" id="node7" href="$df/ddc/_system__omc_8c.html#a935852f9255ce08aa40ccd3ce9c31c72" title="System_initGarbageCollector" alt="" coords="501,107,693,133"/>
-</map>

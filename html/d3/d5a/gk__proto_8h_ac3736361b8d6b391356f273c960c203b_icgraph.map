@@ -1,8 +1,0 @@
-<map id="gk_csr_Free" name="gk_csr_Free">
-<area shape="rect" id="node2" href="$d3/d5a/gk__proto_8h.html#a06edc174c5986841b589900ffce6600f" title="gk_csr_Prune" alt="" coords="174,5,277,32"/>
-<area shape="rect" id="node3" href="$d3/d5a/gk__proto_8h.html#a66729af11e7dee3585d6191661757c37" title="gk_csr_LowFilter" alt="" coords="165,56,286,83"/>
-<area shape="rect" id="node4" href="$d3/d5a/gk__proto_8h.html#ad6f2c5699b47e1bc2285a1b391d7c7da" title="gk_csr_TopKPlusFilter" alt="" coords="148,107,303,133"/>
-<area shape="rect" id="node5" href="$d3/d5a/gk__proto_8h.html#a193f32ef7dd91c2c633157bafea26080" title="gk_csr_ZScoreFilter" alt="" coords="156,157,295,184"/>
-<area shape="rect" id="node6" href="$d8/d38/itemsets_8c.html#ab19ae99e1e3ba575373cf0fe846a8cd9" title="itemsets_find_frequent\l_itemsets" alt="" coords="148,209,303,250"/>
-<area shape="rect" id="node7" href="$df/d30/test_2rw_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="200,275,251,301"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="IDAGetIntegratorStats" name="IDAGetIntegratorStats">
-<area shape="rect" id="node2" href="$d9/dde/fida_8h.html#ad930e44e579c19e4b0e821fd4ca367ad" title="FIDA_SOLVE" alt="" coords="233,5,337,32"/>
-<area shape="rect" id="node3" href="$d1/d0d/class_ida.html#a289cf95889af136a4bb11e4c537daa78" title="Berechung der numerischen Lösung innerhalb eines gegebenen Zeitintervalls. " alt="" coords="245,56,324,83"/>
-<area shape="rect" id="node5" href="$d1/d0d/class_ida.html#aa20e89af5618e0ee56da9b1b83c27f29" title="Write out statistical information (statistical information of last simulation, e.g. time, number of steps, etc.) " alt="" coords="205,107,364,133"/>
-<area shape="rect" id="node4" href="$d1/d0d/class_ida.html#ad186bf83203716276cc87d63dcac2cec" title="Setzen der initialen Schrittweite (z.B. auch nach Nullstelle) " alt="" coords="414,56,551,83"/>
-<area shape="rect" id="node6" href="$d1/d0d/class_ida.html#a309c09ef6afe41190d68c88e8280fe40" title="Liefert den Status des Solvers nach Beendigung der Simulation. " alt="" coords="412,107,553,133"/>
-</map>

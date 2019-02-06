@@ -1,9 +1,0 @@
-<map id="ocl_copy_back_to_host_real" name="ocl_copy_back_to_host_real">
-<area shape="rect" id="node2" href="$d0/d6a/omc__ocl__builtin__kernels_8cpp.html#a343e4ea40db0da28fcc947755a559977" title="ocl_real_arr_arr_arr" alt="" coords="250,5,383,32"/>
-<area shape="rect" id="node3" href="$d7/dc3/omc__ocl__builtin__kernels_8h.html#a00e5dfcd85f0482c11d3fc86ce8b2e3b" title="ocl_real_arr_arr_sca" alt="" coords="247,56,386,83"/>
-<area shape="rect" id="node4" href="$d7/dc3/omc__ocl__builtin__kernels_8h.html#a24f366abcf062da1cbc31bb3c93036c2" title="ocl_real_arr_sca_arr" alt="" coords="247,107,386,133"/>
-<area shape="rect" id="node5" href="$d7/dc3/omc__ocl__builtin__kernels_8h.html#a62360597c42dc8404ebbfa185f4bb1fa" title="ocl_real_arr_arr" alt="" coords="261,157,372,184"/>
-<area shape="rect" id="node6" href="$d7/dc3/omc__ocl__builtin__kernels_8h.html#a1171975d92e1d80fe1f39db42a24eefc" title="ocl_real_arr_sca" alt="" coords="258,208,375,235"/>
-<area shape="rect" id="node7" href="$d7/dc3/omc__ocl__builtin__kernels_8h.html#a90ee380329282849caced7c8e54ce596" title="ocl_real_matrix_matrix" alt="" coords="240,259,393,285"/>
-<area shape="rect" id="node8" href="$d4/d57/omc__ocl__interface_8h.html#aeb548f95809a41a333e0fb80d8df99a3" title="copy_real_array_data" alt="" coords="243,309,390,336"/>
-</map>

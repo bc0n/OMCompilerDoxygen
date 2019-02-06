@@ -1,9 +1,0 @@
-digraph "mat_expandcolumn"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node360 [label="mat_expandcolumn",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node360 -> Node361 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node361 [label="is_chsign",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#a93ed2e8f778b6340d960f732e9c0f9f6"];
-}

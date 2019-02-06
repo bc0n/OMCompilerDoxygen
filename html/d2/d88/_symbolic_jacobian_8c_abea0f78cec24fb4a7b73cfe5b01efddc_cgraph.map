@@ -1,7 +1,0 @@
-<map id="omc_SymbolicJacobian_dumpSparsePatternStatistics" name="omc_SymbolicJacobian_dumpSparsePatternStatistics">
-<area shape="rect" id="node2" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a1ec2be963641d6c7da1bb856cc4339cc" title="omc_List_mapFold" alt="" coords="275,5,407,32"/>
-<area shape="rect" id="node3" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a672ff4045e2d75c0029e6cc5d7f0a507" title="modelica_integer_to\l_modelica_string" alt="" coords="272,57,411,98"/>
-<area shape="rect" id="node4" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="292,123,391,149"/>
-<area shape="rect" id="node5" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a9ab4c457daab094e56b22cdfa074c716" title="modelica_real_to_modelica\l_string" alt="" coords="252,174,431,215"/>
-<area shape="rect" id="node6" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a0a87031d44b51bd9e6f0fdca3918ab10" title="mmc_clock" alt="" coords="297,240,386,267"/>
-</map>

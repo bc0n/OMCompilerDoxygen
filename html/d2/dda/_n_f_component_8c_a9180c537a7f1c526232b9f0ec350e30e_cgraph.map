@@ -1,6 +1,0 @@
-<map id="boxptr_NFComponent_Component_isDeleted" name="boxptr_NFComponent_Component_isDeleted">
-<area shape="rect" id="node2" href="$d2/dda/_n_f_component_8c.html#a78bf9fb944239de292c848b17d867fd0" title="omc_NFComponent_Component\l_isDeleted" alt="" coords="212,64,425,105"/>
-<area shape="rect" id="node3" href="$d3/dcf/_n_f_binding_8c.html#ab2de4dc6d83f9f5260fbab801ab60ad2" title="omc_NFBinding_Binding\l_isBound" alt="" coords="484,5,649,47"/>
-<area shape="rect" id="node4" href="$db/d0c/_n_f_expression_8c.html#a5398c0baa47853979c83c972a095c105" title="omc_NFExpression_isFalse" alt="" coords="473,71,660,98"/>
-<area shape="rect" id="node5" href="$d3/dcf/_n_f_binding_8c.html#a80dd5ee36ebfd8cc8cb133ee70a19bb1" title="omc_NFBinding_Binding\l_getTypedExp" alt="" coords="484,123,649,164"/>
-</map>

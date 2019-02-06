@@ -1,9 +1,0 @@
-<map id="omc_CodegenCpp_numProtectedBoolAliasvars" name="omc_CodegenCpp_numProtectedBoolAliasvars">
-<area shape="rect" id="node2" href="$d0/df9/_codegen_cpp_8c.html#a8a536205a93654ab31528809db05c7fe" title="omc_CodegenCpp_fun\l__1095" alt="" coords="290,9,445,51"/>
-<area shape="rect" id="node5" href="$d0/df9/_codegen_cpp_8c.html#a7705e50ff4815fe95829340275dcc017" title="omc_CodegenCpp_fun__138" alt="" coords="272,78,463,105"/>
-<area shape="rect" id="node3" href="$d6/d8e/_codegen_cpp_8h.html#a313f9fc53a78bdf6408d6a5db09b6a61" title="omc_CodegenCpp_generateWrite\lOutputFunctionsForVars" alt="" coords="511,5,729,47"/>
-<area shape="rect" id="node4" href="$d6/d8e/_codegen_cpp_8h.html#a934f26fee37711ea51a9e839b59aeab8" title="boxptr_CodegenCpp_generate\lWriteOutputFunctionsForVars" alt="" coords="781,5,980,47"/>
-<area shape="rect" id="node6" href="$d6/d8e/_codegen_cpp_8h.html#ab2ab7ce3b9e5b1b62a9c0e9b7a2ef998" title="omc_CodegenCpp_simulation\lWriteOutputAliasVarsCppFile" alt="" coords="522,71,718,112"/>
-<area shape="rect" id="node8" href="$d0/df9/_codegen_cpp_8c.html#af493d0294cb00a2072b3974a65072a70" title="boxptr_CodegenCpp_fun__138" alt="" coords="519,137,721,163"/>
-<area shape="rect" id="node7" href="$d6/d8e/_codegen_cpp_8h.html#a037143719782aff4c3b6f3614741b264" title="boxptr_CodegenCpp_simulation\lWriteOutputAliasVarsCppFile" alt="" coords="777,71,984,112"/>
-</map>

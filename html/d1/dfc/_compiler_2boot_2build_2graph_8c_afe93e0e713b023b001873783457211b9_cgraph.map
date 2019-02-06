@@ -1,6 +1,0 @@
-<map id="omc_Graph_merge" name="omc_Graph_merge">
-<area shape="rect" id="node2" href="$d1/dfc/_compiler_2boot_2build_2graph_8c.html#a78b8bc3773c18edb5d32979586fbe416" title="omc_Graph_merge2" alt="" coords="185,5,324,32"/>
-<area shape="rect" id="node4" href="$da/d72/_compiler_2boot_2build_2list_8c.html#acbf0113db247017e6c59b53bfef33158" title="omc_List_sort" alt="" coords="203,56,307,83"/>
-<area shape="rect" id="node5" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a56b7e8a835b2d388f5984ca7378bc1ec" title="listAppend" alt="" coords="213,107,296,133"/>
-<area shape="rect" id="node3" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a81001ba45c298ade27540edd2589777c" title="listReverse" alt="" coords="372,5,460,32"/>
-</map>

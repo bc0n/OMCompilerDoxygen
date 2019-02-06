@@ -1,6 +1,0 @@
-<map id="omc_BackendDump_dumpBackendDAEBipartiteGraph" name="omc_BackendDump_dumpBackendDAEBipartiteGraph">
-<area shape="rect" id="node2" href="$df/da7/_sim_code_main_8h.html#a4ebae0d0d12267b15510a3f6619a17f3" title="omc_SimCodeMain_generate\lModelCode" alt="" coords="284,57,477,98"/>
-<area shape="rect" id="node3" href="$d0/d6a/_compiler_2boot_2build_2main_8c.html#ab7024b3f58beed9694b520bf36072f4c" title="omc_Main_simcodegen" alt="" coords="556,5,715,32"/>
-<area shape="rect" id="node4" href="$db/dd3/_open_t_u_r_n_s_8h.html#abed2ae4cf854648f70bcf2e01cf1e86f" title="omc_OpenTURNS_generateOpen\lTURNSInterface" alt="" coords="525,57,745,98"/>
-<area shape="rect" id="node5" href="$df/da7/_sim_code_main_8h.html#a3c5404be5c86c5d2ebb147c64bd58577" title="boxptr_SimCodeMain\l_generateModelCode" alt="" coords="562,122,709,163"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="Teuchos::CommStatus::getTag" name="Teuchos::CommStatus::getTag">
-<area shape="rect" id="node2" href="$d3/d51/class_teuchos_1_1_comm_status.html#a7e8065ca4c55b34d05e5f3a7e45ae07f" title="Destructor (declared virtual for memory safety) " alt="" coords="216,5,373,47"/>
-<area shape="rect" id="node3" href="$d0/d95/class_teuchos_1_1_comm_request.html#a930ef0f46205f4f05852fa02cc1333ad" title="Destructor; cancels the request if it is still pending. " alt="" coords="211,71,379,112"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="omc_BackendEquation_generateResidualFromRelation" name="omc_BackendEquation_generateResidualFromRelation">
-<area shape="rect" id="node2" href="$d7/dce/_dynamic_optimization_8c.html#a286422694cd15de56e5305aaa3db7c07" title="omc_DynamicOptimization\l_addOptimizationVarsEqns1" alt="" coords="261,71,448,112"/>
-<area shape="rect" id="node3" href="$d7/dce/_dynamic_optimization_8c.html#a967f6f8fc17d965f16ab58f2a20d3bd7" title="omc_DynamicOptimization\l_addOptimizationVarsEqns2" alt="" coords="498,37,685,79"/>
-<area shape="rect" id="node8" href="$d7/dce/_dynamic_optimization_8c.html#a4c1abdb617dcd91842954e22e0e6c0f2" title="boxptr_DynamicOptimization\l_addOptimizationVarsEqns1" alt="" coords="496,103,687,144"/>
-<area shape="rect" id="node4" href="$d7/dce/_dynamic_optimization_8c.html#accd92711cd81ae72ee85f5b13f3e32fa" title="boxptr_DynamicOptimization\l_addOptimizationVarsEqns2" alt="" coords="735,5,925,47"/>
-<area shape="rect" id="node5" href="$d7/dce/_dynamic_optimization_8c.html#a9c4a73ccf907351e343a941b528fe443" title="omc_DynamicOptimization\l_joinConstraints" alt="" coords="741,71,919,112"/>
-<area shape="rect" id="node6" href="$d7/dce/_dynamic_optimization_8c.html#adab8be6b7a963fba6b15b693b7a40424" title="omc_DynamicOptimization\l_addOptimizationVarsEqns" alt="" coords="973,71,1153,112"/>
-<area shape="rect" id="node7" href="$db/d85/_dynamic_optimization_8h.html#ab379b616be0896e3808be1a7039d29a4" title="omc_DynamicOptimization\l_createDynamicOptimization" alt="" coords="1201,71,1392,112"/>
-</map>

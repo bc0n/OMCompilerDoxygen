@@ -1,8 +1,0 @@
-<map id="GC_print_address_map" name="GC_print_address_map">
-<area shape="rect" id="node2" href="$dd/d79/gc__priv_8h.html#a515817b1cc28538efe42e953361e6cb1" title="GC_err_printf" alt="" coords="215,5,315,32"/>
-<area shape="rect" id="node3" href="$d2/d3c/os__dep_8c.html#af74252bdea0fbd52b36437d4086f235b" title="GC_get_maps" alt="" coords="212,56,319,83"/>
-<area shape="rect" id="node5" href="$dd/d79/gc__priv_8h.html#ac8e0ae3d9050e13056af620d0395c587" title="GC_err_puts" alt="" coords="217,107,313,133"/>
-<area shape="rect" id="node4" href="$d2/d3c/os__dep_8c.html#a9d8a95a1c9e1ca2e9c14d81e12041b1d" title="GC_get_maps_len" alt="" coords="367,56,497,83"/>
-<area shape="rect" id="node6" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="409,107,455,133"/>
-<area shape="rect" id="node7" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="405,157,459,184"/>
-</map>

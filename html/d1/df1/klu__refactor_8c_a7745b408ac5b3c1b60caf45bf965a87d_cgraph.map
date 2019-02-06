@@ -1,9 +1,0 @@
-<map id="KLU_refactor" name="KLU_refactor">
-<area shape="rect" id="node2" href="$d1/d85/klu__memory_8c.html#a73a24bed763769a476570846067874d1" title="KLU_malloc" alt="" coords="152,56,245,83"/>
-<area shape="rect" id="node5" href="$d1/d85/klu__memory_8c.html#a3bef16e74b7b9ad1756efdf105ed3503" title="KLU_free" alt="" coords="293,5,371,32"/>
-<area shape="rect" id="node7" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5468319b5337c3d6192d299ceb3062fc" title="if" alt="" coords="179,107,218,133"/>
-<area shape="rect" id="node8" href="$d5/d40/klu__scale_8c.html#a069f452ef861d62a6c1533a8cee84194" title="KLU_scale" alt="" coords="155,157,242,184"/>
-<area shape="rect" id="node3" href="$d1/d85/klu__memory_8c.html#ab1f3dbfc2509e57ebc7fbcbdd6d5ad25" title="KLU_mult_size_t" alt="" coords="560,88,683,115"/>
-<area shape="rect" id="node4" href="$d1/d85/klu__memory_8c.html#a17fc467c78eabae8eebbaee6c9bc75fe" title="KLU_add_size_t" alt="" coords="731,88,849,115"/>
-<area shape="rect" id="node6" href="$d1/d85/klu__memory_8c.html#a5a54f0bec8c456a39ab08350301e8c48" title="KLU_realloc" alt="" coords="419,56,512,83"/>
-</map>

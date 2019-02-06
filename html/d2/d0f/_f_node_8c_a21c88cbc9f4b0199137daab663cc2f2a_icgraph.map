@@ -1,9 +1,0 @@
-<map id="omc_FNode_contextualScope" name="omc_FNode_contextualScope">
-<area shape="rect" id="node2" href="$d6/d9d/_f_node_8h.html#ab960df8930650bf1f043f93a5c67f081" title="omc_FNode_isIn" alt="" coords="251,81,372,108"/>
-<area shape="rect" id="node3" href="$db/dd1/_f_graph_stream_8h.html#a9109e5bd42870c773cd991e765cae696" title="omc_FGraphStream_edge" alt="" coords="420,5,595,32"/>
-<area shape="rect" id="node4" href="$db/dd1/_f_graph_stream_8h.html#a48aaa735e8c02fbc244bca5972a51c36" title="omc_FGraphStream_node" alt="" coords="420,56,595,83"/>
-<area shape="rect" id="node6" href="$d6/d9d/_f_node_8h.html#ad77ff5c21d636a7c79453136c3499ef9" title="omc_FNode_isRefIn" alt="" coords="436,107,579,133"/>
-<area shape="rect" id="node8" href="$d6/d9d/_f_node_8h.html#a99b0cbde8fe90132a84ef43e393d2c88" title="boxptr_FNode_isIn" alt="" coords="441,157,573,184"/>
-<area shape="rect" id="node5" href="$d7/dfb/_f_graph_8h.html#aaf19e2de5e36e29eb5b9d44a6fde24b4" title="omc_FGraph_node" alt="" coords="653,56,785,83"/>
-<area shape="rect" id="node7" href="$d6/d9d/_f_node_8h.html#a16ead6cc018d0c7c3ae88e0d5ae302f7" title="boxptr_FNode_isRefIn" alt="" coords="643,107,796,133"/>
-</map>

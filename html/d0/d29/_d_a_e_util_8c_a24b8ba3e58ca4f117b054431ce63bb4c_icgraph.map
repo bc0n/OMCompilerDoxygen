@@ -1,9 +1,0 @@
-<map id="omc_DAEUtil_bindingExp" name="omc_DAEUtil_bindingExp">
-<area shape="rect" id="node2" href="$da/d34/_compiler_2boot_2build_2types_8h.html#a331ccf591256f8c51b30a42f7a86de95" title="omc_Types_lookupAttributeExp" alt="" coords="227,42,433,69"/>
-<area shape="rect" id="node8" href="$d3/df6/_types_8c.html#a4d3e66f4f98bcfac68aeb9d1cb5b79df" title="omc_Types_makeFarg" alt="" coords="253,93,407,119"/>
-<area shape="rect" id="node3" href="$d3/d5a/_connect_util_8c.html#ae8a01b7930e953306a404f0be9931f88" title="omc_ConnectUtil_makePositive\lMaxCall" alt="" coords="481,5,691,47"/>
-<area shape="rect" id="node4" href="$d3/d5a/_connect_util_8c.html#ae18258f06d329fe39a31ae0fd2aa19fe" title="omc_ConnectUtil_isZeroFlow" alt="" coords="489,71,683,98"/>
-<area shape="rect" id="node5" href="$d3/d5a/_connect_util_8c.html#a2e9499066531991cbb97bbbe480582ef" title="boxptr_ConnectUtil\l_isZeroFlow" alt="" coords="769,31,903,72"/>
-<area shape="rect" id="node6" href="$d3/d5a/_connect_util_8c.html#a82dc8e9a4b6c13a5926a911a8eeeef30" title="omc_ConnectUtil_isZeroFlow\lMinMax" alt="" coords="739,96,933,137"/>
-<area shape="rect" id="node7" href="$d3/d5a/_connect_util_8c.html#a8a4a75c54443c4f2346e42410e0d02be" title="boxptr_ConnectUtil\l_isZeroFlowMinMax" alt="" coords="981,96,1120,137"/>
-</map>

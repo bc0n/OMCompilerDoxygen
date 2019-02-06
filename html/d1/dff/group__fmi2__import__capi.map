@@ -1,7 +1,0 @@
-<map id="Interface to the standard FMI 2.0 &quot;C&quot; API" name="Interface to the standard FMI 2.0 &quot;C&quot; API">
-<area shape="rect" id="node1" href="$d5/d22/group__fmi2__import__capi__const__destroy.html" title="Functions for instantiating and freeing the container of the struct that is responsible for the FMI f..." alt="" coords="453,5,592,47"/>
-<area shape="rect" id="node3" href="$d7/dd5/group__fmi2__import__capi__common.html" title="List of wrapper functions that are in common for both Model Exchange and Co&#45;Simulation. " alt="" coords="427,71,619,112"/>
-<area shape="rect" id="node5" href="$d3/de9/group__fmi2__import__capi__cs.html" title="List of Co&#45;Simulation wrapper functions. Common functions are not listed. " alt="" coords="431,136,615,177"/>
-<area shape="rect" id="node6" href="$de/de3/group__fmi2__import__capi__me.html" title="List of Model Exchange wrapper functions. Common functions are not listed. " alt="" coords="452,201,593,243"/>
-<area shape="rect" id="node4" href="$d3/dd7/group__fmi2__import.html" title="FMI 2.0 import interface" alt="" coords="5,111,167,138"/>
-</map>

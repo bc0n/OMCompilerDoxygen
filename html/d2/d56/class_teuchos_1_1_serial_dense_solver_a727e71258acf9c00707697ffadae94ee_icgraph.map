@@ -1,8 +1,0 @@
-<map id="Teuchos::SerialDenseSolver::factor" name="Teuchos::SerialDenseSolver::factor">
-<area shape="rect" id="node2" href="$d5/d76/teuchos_2numerics_2example_2_dense_matrix_2cxx__main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="551,14,602,41"/>
-<area shape="rect" id="node3" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html#a9b8b4063a4a319289bce3f5a39234e48" title="Causes all solves to compute solution to best ability using iterative refinement. ..." alt="" coords="483,154,671,195"/>
-<area shape="rect" id="node5" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html#adc64b51fe90fbabac20eb5ebc7278776" title="Computes the solution X to AX = B for the this matrix and the B provided to SetVectors().. " alt="" coords="244,36,432,78"/>
-<area shape="rect" id="node6" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html#a700ba09e4c9f3e9680b63cc49715ee08" title="Inverts the this matrix. " alt="" coords="244,219,432,260"/>
-<area shape="rect" id="node7" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html#a83a5b2c8bd0932ff63b438f3c36f878b" title="Returns the reciprocal of the 1&#45;norm condition number of the this matrix. " alt="" coords="241,154,435,195"/>
-<area shape="rect" id="node4" href="$d2/d6e/cxx__main__solver_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="719,193,769,220"/>
-</map>

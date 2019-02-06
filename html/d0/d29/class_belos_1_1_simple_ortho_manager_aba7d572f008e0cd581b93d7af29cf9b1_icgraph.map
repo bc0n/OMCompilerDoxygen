@@ -1,5 +1,0 @@
-<map id="Belos::SimpleOrthoManager::innerProd" name="Belos::SimpleOrthoManager::innerProd">
-<area shape="rect" id="node2" href="$d0/d29/class_belos_1_1_simple_ortho_manager.html#a7e25a68424980764fe1d658d77d0dd7e" title="This method computes the error in orthonormality of a multivector. " alt="" coords="239,5,424,47"/>
-<area shape="rect" id="node3" href="$d0/d29/class_belos_1_1_simple_ortho_manager.html#a036e9cb9f5cc9761efc46e90b5f7e9c3" title="This method computes the error in orthogonality of two multivectors. " alt="" coords="239,71,424,112"/>
-<area shape="rect" id="node4" href="$d0/d29/class_belos_1_1_simple_ortho_manager.html#a504d329811fa19dad8d8ee9e5c048183" title="This method returns the label being used by the timers in the orthogonalization manager. " alt="" coords="239,136,424,177"/>
-</map>

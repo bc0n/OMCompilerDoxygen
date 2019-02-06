@@ -1,7 +1,0 @@
-<map id="omc_UnitAbsynBuilder_addUnspecifiedStores" name="omc_UnitAbsynBuilder_addUnspecifiedStores">
-<area shape="rect" id="node2" href="$d1/d2e/_unit_absyn_builder_8c.html#aced906e92fb7135505210ac81b5bce11" title="boxptr_UnitAbsynBuilder\l_addUnspecifiedStores" alt="" coords="233,5,399,47"/>
-<area shape="rect" id="node3" href="$d1/d2e/_unit_absyn_builder_8c.html#a3a5bce0812d3b50cabaaf3b073536b69" title="omc_UnitAbsynBuilder\l_createTypeParameterLocations" alt="" coords="211,71,421,112"/>
-<area shape="rect" id="node4" href="$d0/d07/_unit_absyn_builder_8h.html#a5db9160084fff0c570f32988c2c602f7" title="omc_UnitAbsynBuilder\l_buildUnitTerms" alt="" coords="469,37,624,79"/>
-<area shape="rect" id="node5" href="$d0/d07/_unit_absyn_builder_8h.html#a8b28713fedb323b22b286e51064cfb98" title="omc_UnitAbsynBuilder\l_instBuildUnitTerms" alt="" coords="469,103,624,144"/>
-<area shape="rect" id="node6" href="$da/d17/_inst_util_8h.html#a70324072e65746daf529c2929d17f6c2" title="omc_InstUtil_handleUnitChecking" alt="" coords="672,110,892,137"/>
-</map>

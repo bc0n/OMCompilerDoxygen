@@ -1,7 +1,0 @@
-<map id="GC_cond_add_roots" name="GC_cond_add_roots">
-<area shape="rect" id="node2" href="$dd/d79/gc__priv_8h.html#ab3bc5d6ef571273f0a75198d44d433b8" title="GC_get_next_stack" alt="" coords="225,5,363,32"/>
-<area shape="rect" id="node3" href="$dd/d79/gc__priv_8h.html#a75a78418f0a04f04ffd9edd82461f646" title="GC_add_roots_inner" alt="" coords="223,56,365,83"/>
-<area shape="rect" id="node4" href="$dd/d79/gc__priv_8h.html#a63ad3c8487c6bdefff474f15bb986e81" title="GC_approx_sp" alt="" coords="239,107,349,133"/>
-<area shape="rect" id="node5" href="$d0/d83/dyn__load_8c.html#ac948fffbba1aa56ca9e1b0d812bf73b5" title="GC_register_main_static_data" alt="" coords="195,157,393,184"/>
-<area shape="rect" id="node6" href="$d0/d83/dyn__load_8c.html#a12e69eee3fc3705dab6249da3b37b0d7" title="dl_iterate_phdr" alt="" coords="441,157,548,184"/>
-</map>

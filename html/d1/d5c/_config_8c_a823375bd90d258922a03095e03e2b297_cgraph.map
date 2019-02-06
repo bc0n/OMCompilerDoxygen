@@ -1,6 +1,0 @@
-<map id="omc_Config_helpRequest" name="omc_Config_helpRequest">
-<area shape="rect" id="node2" href="$d3/db3/_flags_8c.html#a1bdc57ee7db1a86ebd954e1aa4d04c0c" title="omc_Flags_getConfigString" alt="" coords="225,5,408,32"/>
-<area shape="rect" id="node3" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="456,5,639,32"/>
-<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="687,5,836,32"/>
-<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="884,5,987,32"/>
-</map>

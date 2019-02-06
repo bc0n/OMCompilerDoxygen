@@ -1,6 +1,0 @@
-<map id="check_nonlinear_solutions" name="check_nonlinear_solutions">
-<area shape="rect" id="node2" href="$dd/d6c/build_2include_2omc_2c_2simulation_2solver_2nonlinear_system_8c.html#a7924cf0b0fe19b3776951c4c4e90721d" title="check_nonlinear_solution" alt="" coords="228,71,396,98"/>
-<area shape="rect" id="node3" href="$d1/d0e/build_2include_2omc_2c_2util_2omc__error_8c.html#aa19616d56785ffffe4f77eb19f240cc1" title="warningStreamPrintWithEquation\lIndexes" alt="" coords="444,5,659,47"/>
-<area shape="rect" id="node4" href="$d1/d0e/build_2include_2omc_2c_2util_2omc__error_8c.html#a8610c394d63be9accc63fd62248790b8" title="warningStreamPrint" alt="" coords="483,71,619,98"/>
-<area shape="rect" id="node5" href="$d1/d64/build_2include_2omc_2c_2simulation_2simulation__info__json_8c.html#a84093d2f8d6dd323d6b6646c61e1bcef" title="modelInfoGetEquation" alt="" coords="476,122,627,149"/>
-</map>

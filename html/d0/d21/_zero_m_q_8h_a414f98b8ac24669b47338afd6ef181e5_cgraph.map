@@ -1,9 +1,0 @@
-<map id="omc_ZeroMQ_sendReply" name="omc_ZeroMQ_sendReply">
-<area shape="rect" id="node2" href="$d0/d21/_zero_m_q_8h.html#a1f7a06d85a4781ee075d87aed795d7c5" title="ZeroMQ_sendReply" alt="" coords="224,132,363,159"/>
-<area shape="rect" id="node3" href="$d9/de6/zmq_8h.html#adabea9817029bab4ac295e1339d79803" title="zmq_msg_init_size" alt="" coords="411,5,545,32"/>
-<area shape="rect" id="node4" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="451,56,505,83"/>
-<area shape="rect" id="node5" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a9bb523029391a4525c52a8e90e877692" title="memcpy" alt="" coords="442,107,514,133"/>
-<area shape="rect" id="node6" href="$d9/de6/zmq_8h.html#aabc235325f4161f00acf0657e2e24d83" title="zmq_msg_data" alt="" coords="423,157,533,184"/>
-<area shape="rect" id="node7" href="$d9/de6/zmq_8h.html#a18ad0bcf8f5b0f894fe5ab399cce7a91" title="zmq_msg_send" alt="" coords="421,208,535,235"/>
-<area shape="rect" id="node8" href="$d9/de6/zmq_8h.html#a14cc42a7330a4b174dc3b735afd2adcc" title="zmq_msg_close" alt="" coords="419,259,537,285"/>
-</map>

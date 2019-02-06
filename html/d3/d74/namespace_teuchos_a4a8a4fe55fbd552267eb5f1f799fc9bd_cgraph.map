@@ -1,8 +1,0 @@
-<map id="Teuchos::TEUCHOS_UNIT_TEST" name="Teuchos::TEUCHOS_UNIT_TEST">
-<area shape="rect" id="node2" href="$d3/d74/namespace_teuchos.html#af2e153e1fc45b89a01632cc68c072c34" title="Teuchos::getSimpleTestTwo\lDArray" alt="" coords="280,5,469,47"/>
-<area shape="rect" id="node3" href="$db/d1f/class_teuchos_1_1_two_d_array.html#a0b60e00261cedb6a671a3510a5bc6826" title="Changes the number of rows in the matrix. " alt="" coords="301,71,448,112"/>
-<area shape="rect" id="node4" href="$db/d1f/class_teuchos_1_1_two_d_array.html#a481157c49e018379e6fb5d5b58848d78" title="returns the number of rows in the TwoDArray. " alt="" coords="301,136,448,177"/>
-<area shape="rect" id="node5" href="$db/d1f/class_teuchos_1_1_two_d_array.html#a1e2f37b5f9a38ff3c57d7d55c074b709" title="returns the number of columns in the TwoDArray. " alt="" coords="301,201,448,243"/>
-<area shape="rect" id="node6" href="$d3/d74/namespace_teuchos.html#a8fe00d51b46bc087399e1b8ee7531e67" title="Teuchos::TEST_THROW" alt="" coords="289,267,461,294"/>
-<area shape="rect" id="node7" href="$db/d1f/class_teuchos_1_1_two_d_array.html#a3e39889250b3c7cfeb457d2ae718a0c9" title="Changes the number of rows in the matrix. " alt="" coords="301,319,448,360"/>
-</map>

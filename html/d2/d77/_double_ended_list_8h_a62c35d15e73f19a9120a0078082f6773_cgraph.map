@@ -1,7 +1,0 @@
-<map id="omc_DoubleEndedList_clear" name="omc_DoubleEndedList_clear">
-<area shape="rect" id="node2" href="$d8/de3/_mutable_8c.html#a4d9367043438a5c1a24d17f1f9559996" title="omc_Mutable_access" alt="" coords="207,5,356,32"/>
-<area shape="rect" id="node3" href="$d8/de3/_mutable_8c.html#a453a811f6b99a2c2625aa9e95c27cb2c" title="omc_Mutable_update" alt="" coords="208,56,355,83"/>
-<area shape="rect" id="node4" href="$df/dcc/_compiler_2boot_2build_2gc_8c.html#a1c0ee4b3562dc9592c03fc36b3af9cfe" title="omc_GC_free" alt="" coords="230,107,333,133"/>
-<area shape="rect" id="node5" href="$db/d78/_g_c__includes_8h.html#a058339c824360e351908670c7ff16c44" title="omc_GC_free_ext" alt="" coords="404,107,532,133"/>
-<area shape="rect" id="node6" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#aef11fb85e24d9cdb7da9ef9df26d45b3" title="GC_free" alt="" coords="580,107,651,133"/>
-</map>

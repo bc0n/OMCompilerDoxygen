@@ -1,9 +1,0 @@
-<map id="lis_matrix_solvet_bsc" name="lis_matrix_solvet_bsc">
-<area shape="rect" id="node2" href="$d3/d33/lis_8h.html#abff0c4f94df1aa3723b22c7cb1725916" title="lis_vector_copy" alt="" coords="201,5,315,32"/>
-<area shape="rect" id="node3" href="$d3/d33/lis_8h.html#a122d3f4baa8db5c0253305eb459dff60" title="lis_malloc" alt="" coords="218,56,298,83"/>
-<area shape="rect" id="node6" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a9bb523029391a4525c52a8e90e877692" title="memcpy" alt="" coords="222,107,294,133"/>
-<area shape="rect" id="node7" href="$d3/d33/lis_8h.html#af0814bbca0c23cdf4038206adf4cb94a" title="lis_free" alt="" coords="226,157,290,184"/>
-<area shape="rect" id="node4" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="363,31,423,57"/>
-<area shape="rect" id="node5" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="365,81,420,108"/>
-<area shape="rect" id="node8" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="371,157,415,184"/>
-</map>

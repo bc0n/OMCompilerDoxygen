@@ -1,8 +1,0 @@
-<map id="presolve_nextcol" name="presolve_nextcol">
-<area shape="rect" id="node2" href="$d3/da5/lp__presolve_8c.html#af4aa42b6f4c6c1d0273fceca5cd1479f" title="presolve_rowtallies" alt="" coords="173,5,307,32"/>
-<area shape="rect" id="node5" href="$d3/da5/lp__presolve_8c.html#a7844c56aa332fe22274fffac21b497b8" title="presolve_elimeq2" alt="" coords="761,81,884,108"/>
-<area shape="rect" id="node6" href="$d3/da5/lp__presolve_8c.html#a28d740bb37250326b9e5d542d4eb6939" title="presolve_rowtighten" alt="" coords="369,107,508,133"/>
-<area shape="rect" id="node7" href="$d3/da5/lp__presolve_8c.html#a77db38abe14bf53f38e48251cf339ad5" title="presolve_mergerows" alt="" coords="571,157,713,184"/>
-<area shape="rect" id="node3" href="$d3/da5/lp__presolve_8c.html#a344a2e712716b50dcf367c7682ba20d8" title="presolve_debugrowtallies" alt="" coords="355,5,523,32"/>
-<area shape="rect" id="node4" href="$d3/da5/lp__presolve_8c.html#a4f192a0462d482c119b3966df893497c" title="presolve_rowfixzero" alt="" coords="573,5,711,32"/>
-</map>

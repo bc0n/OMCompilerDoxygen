@@ -1,4 +1,0 @@
-<map id="Teuchos::ConstHandle::rawPtr" name="Teuchos::ConstHandle::rawPtr">
-<area shape="rect" id="node2" href="$d0/dc7/class_teuchos_1_1_const_handle.html#ad10348b6f7e8637be91b93050e7c5b98" title="Read&#45;only access to the underlying smart pointer. " alt="" coords="209,5,365,47"/>
-<area shape="rect" id="node3" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#adc36a705efd91e655fef2521641c26b4" title="Get the raw C++ pointer to the underlying object. " alt="" coords="220,71,355,98"/>
-</map>

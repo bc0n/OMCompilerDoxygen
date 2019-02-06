@@ -1,9 +1,0 @@
-<map id="boxptr_ConnectUtil_setArrayUpdate" name="boxptr_ConnectUtil_setArrayUpdate">
-<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#aebf8b769d53b6371224b9aa80d5ef9c4" title="omc_ConnectUtil_setArray\lUpdate" alt="" coords="188,23,367,65"/>
-<area shape="rect" id="node3" href="$d1/d5c/_config_8c.html#af881dd6d5e11de12a28925c3c245dc1b" title="omc_Config_orderConnections" alt="" coords="415,5,616,32"/>
-<area shape="rect" id="node8" href="$d3/d5a/_connect_util_8c.html#a0d3f8b3e52b2b535dcaeaaa77b0d7b13" title="omc_ConnectUtil_isEquType" alt="" coords="419,56,611,83"/>
-<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#abc3d84cf6e1cf18f0cec0f052e7c85d9" title="omc_Flags_getConfigBool" alt="" coords="664,5,839,32"/>
-<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="887,5,1069,32"/>
-<area shape="rect" id="node6" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="1117,5,1267,32"/>
-<area shape="rect" id="node7" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1315,5,1417,32"/>
-</map>

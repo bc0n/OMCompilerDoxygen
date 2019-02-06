@@ -1,9 +1,0 @@
-<map id="omc_Absyn_expContainsInitial" name="omc_Absyn_expContainsInitial">
-<area shape="rect" id="node2" href="$dc/dbb/_absyn_8h.html#a9b73ab7b57b8b1d68ae9fef9d64a38a9" title="boxptr_Absyn_expContains\lInitial" alt="" coords="256,5,439,47"/>
-<area shape="rect" id="node3" href="$d9/d88/_inst_section_8c.html#a9da80a57e49eec46f0afa01ce141625b" title="omc_InstSection_checkFor\lReinitInWhenInitialEq" alt="" coords="257,71,438,112"/>
-<area shape="rect" id="node6" href="$d9/d88/_inst_section_8c.html#a6265e04298ee41664e2725904158e2d7" title="omc_InstSection_checkFor\lReinitInWhenInitialAlg" alt="" coords="257,136,438,177"/>
-<area shape="rect" id="node4" href="$d9/d88/_inst_section_8c.html#a3ba727ce31636352818dc7695f46ae4e" title="boxptr_InstSection\l_checkForReinitInWhenInitialEq" alt="" coords="488,5,697,47"/>
-<area shape="rect" id="node5" href="$d9/d88/_inst_section_8c.html#a87a6c8e37a931a766d78835d7fef8fbb" title="omc_InstSection_checkWhen\lEquation" alt="" coords="495,71,691,112"/>
-<area shape="rect" id="node7" href="$d9/d88/_inst_section_8c.html#a36c5359c03b8f171fe37bd81ac04b528" title="boxptr_InstSection\l_checkForReinitInWhenInitialAlg" alt="" coords="487,136,699,177"/>
-<area shape="rect" id="node8" href="$d9/d88/_inst_section_8c.html#ac5174b08ca36c09d7da8ce38fdfabd16" title="omc_InstSection_checkWhen\lAlgorithm" alt="" coords="495,201,691,243"/>
-</map>

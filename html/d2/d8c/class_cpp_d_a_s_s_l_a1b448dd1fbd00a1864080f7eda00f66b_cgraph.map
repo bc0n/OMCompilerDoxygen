@@ -1,6 +1,0 @@
-<map id="CppDASSL::setInitStepSize" name="CppDASSL::setInitStepSize">
-<area shape="rect" id="node2" href="$dc/d46/group__core_solver.html#gab9156d92dd5de1b3a555c7520d61c615" title="Set the initial step size (needed for reinitialization after external zero search) ..." alt="" coords="240,5,431,47"/>
-<area shape="rect" id="node3" href="$d2/d8c/class_cpp_d_a_s_s_l.html#a72d6241ef0e7193863e1514fb9023564" title="Berechung der numerischen Lösung innerhalb eines gegebenen Zeitintervalls. " alt="" coords="271,71,400,98"/>
-<area shape="rect" id="node4" href="$d9/d56/class_i_solver_settings.html#acd9b997fd991c229bfbbec8f3de17560" title="Global simulation settings. " alt="" coords="479,31,654,72"/>
-<area shape="rect" id="node5" href="$d2/dc2/class_i_global_settings.html#a513c6f10bffd92121baa561183c7ae94" title="IGlobalSettings::getOutput\lPointType" alt="" coords="479,96,655,137"/>
-</map>

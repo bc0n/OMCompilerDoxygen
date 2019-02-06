@@ -1,7 +1,0 @@
-<map id="omc_BackendEquation_isEquationsSystem" name="omc_BackendEquation_isEquationsSystem">
-<area shape="rect" id="node2" href="$de/d7d/_backend_d_a_e_optimize_8c.html#ad59086c24e126c9a2ecd47ef98bf591a" title="omc_BackendDAEOptimize\l_simplifyLoopsWork" alt="" coords="209,12,395,53"/>
-<area shape="rect" id="node4" href="$de/d7d/_backend_d_a_e_optimize_8c.html#a6814c540cb25906dee3d3c234f5dccd0" title="omc_BackendDAEOptimize\l_simplifyLoopsMain" alt="" coords="448,71,633,112"/>
-<area shape="rect" id="node6" href="$df/d72/_backend_equation_8h.html#a107ffee3bb9e65576b9ad9597477c2f4" title="boxptr_BackendEquation\l_isEquationsSystem" alt="" coords="219,129,385,171"/>
-<area shape="rect" id="node3" href="$de/d7d/_backend_d_a_e_optimize_8c.html#a9a2d3fc8c9d76592af023d91c381549d" title="boxptr_BackendDAEOptimize\l_simplifyLoopsWork" alt="" coords="443,5,639,47"/>
-<area shape="rect" id="node5" href="$d2/d52/_backend_d_a_e_optimize_8h.html#a8265bde3d7b43f59f1fd5fe2ec6d1bb7" title="omc_BackendDAEOptimize\l_simplifyLoops" alt="" coords="687,71,872,112"/>
-</map>

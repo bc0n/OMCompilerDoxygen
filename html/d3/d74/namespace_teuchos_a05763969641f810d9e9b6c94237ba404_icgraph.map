@@ -1,7 +1,0 @@
-<map id="Teuchos::relErr" name="Teuchos::relErr">
-<area shape="rect" id="node2" href="$d3/d74/namespace_teuchos.html#af9fe95973effcacca1b1b174a05351fa" title="Teuchos::defaultSmallNumber" alt="" coords="592,114,791,140"/>
-<area shape="rect" id="node3" href="$d3/d74/namespace_teuchos.html#ab606d9963b2776124c0e373748b96dee" title="Return &quot;passed&quot; or &quot;failed&quot;. " alt="" coords="189,55,315,82"/>
-<area shape="rect" id="node5" href="$d3/d74/namespace_teuchos.html#a9c0d90104626382fb9e0b9d663871e0c" title="Compute, check and optionally print the relative error in two scalars. " alt="" coords="397,114,535,140"/>
-<area shape="rect" id="node6" href="$d3/d74/namespace_teuchos.html#a6c68ba291316447349637a3e8098b749" title="Compare if two array objects are the same or not up to a relative floating point precision. " alt="" coords="164,157,340,198"/>
-<area shape="rect" id="node4" href="$d3/d74/namespace_teuchos.html#a175c5c14e319058f2caa225ad78867ac" title="Helper function for TEUCHOS_PASS_FAIL(...). " alt="" coords="388,48,544,89"/>
-</map>

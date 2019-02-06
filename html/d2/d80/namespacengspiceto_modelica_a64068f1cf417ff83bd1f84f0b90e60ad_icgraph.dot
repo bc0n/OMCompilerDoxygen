@@ -1,9 +1,0 @@
-digraph "ngspicetoModelica.compInit"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node5 [label="ngspicetoModelica.compInit",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node6 [label="ngspicetoModelica.proces\lSubckt",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d80/namespacengspiceto_modelica.html#a5591e4ee730a6da5fb757539763493d1",tooltip="Extract subckt data. "];
-}

@@ -1,5 +1,0 @@
-<map id="omc_Vectorization_getArrayVarCrefs" name="omc_Vectorization_getArrayVarCrefs">
-<area shape="rect" id="node2" href="$d9/d14/_component_reference_8c.html#a11dd52fc31333fc0e515b966e66cce74" title="omc_ComponentReference\l_isArrayElement" alt="" coords="240,5,421,47"/>
-<area shape="rect" id="node3" href="$d9/d14/_component_reference_8c.html#a90427776efae29b46e248c9ca63cf531" title="omc_ComponentReference\l_stripArrayCref" alt="" coords="240,71,421,112"/>
-<area shape="rect" id="node4" href="$d9/d14/_component_reference_8c.html#a99f05249d0101f2fc925a24367484623" title="omc_ComponentReference\l_makeCrefIdent" alt="" coords="469,71,651,112"/>
-</map>

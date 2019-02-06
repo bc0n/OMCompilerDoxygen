@@ -1,8 +1,0 @@
-<map id="omc_ConnectUtil_sumOutside1" name="omc_ConnectUtil_sumOutside1">
-<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#aee8bd76203cb044fd1332807bc601c7b" title="omc_ConnectUtil_streamFlowExp" alt="" coords="260,78,481,105"/>
-<area shape="rect" id="node3" href="$d1/d08/_expression_8c.html#a709f5f88a0de42de5e2520d606c17275" title="omc_Expression_crefExp" alt="" coords="529,78,700,105"/>
-<area shape="rect" id="node4" href="$d9/d14/_component_reference_8c.html#a4cbfe93b088d5e37d7d9bbd8c886f54d" title="omc_ComponentReference\l_crefLastType" alt="" coords="750,5,931,47"/>
-<area shape="rect" id="node5" href="$d9/d14/_component_reference_8c.html#a3f6103afac7dca99c57aa2db9673bd27" title="omc_ComponentReference\l_crefLastSubs" alt="" coords="750,71,931,112"/>
-<area shape="rect" id="node6" href="$d1/d08/_expression_8c.html#acdd0e6e6845c989964d03169ad05e5e8" title="omc_Expression_unliftArray\lTypeWithSubs" alt="" coords="748,136,933,177"/>
-<area shape="rect" id="node7" href="$d1/d08/_expression_8c.html#a1e88195201ddbc16bb324633d806a27d" title="omc_Expression_unliftArray" alt="" coords="981,143,1167,170"/>
-</map>

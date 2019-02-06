@@ -1,6 +1,0 @@
-<map id="lis_debug_trace_func" name="lis_debug_trace_func">
-<area shape="rect" id="node2" href="$d4/d44/include_2coin_2_third_party_2mpi_8h.html#a0f7635ae881c2946ed7ee9996448e7ac" title="MPI_Init" alt="" coords="213,5,283,32"/>
-<area shape="rect" id="node3" href="$dd/db3/lis__error_8c.html#a2a30f959169ad86b4d3ee5c8262eb4d5" title="lis_printf" alt="" coords="213,56,283,83"/>
-<area shape="rect" id="node5" href="$d4/d44/include_2coin_2_third_party_2mpi_8h.html#a91a0cf5613b31a183a5453446191f1df" title="MPI_Finalize" alt="" coords="199,107,297,133"/>
-<area shape="rect" id="node4" href="$d4/d44/include_2coin_2_third_party_2mpi_8h.html#a0c048fc98d42d9cf82f89f4296acd906" title="MPI_Comm_rank" alt="" coords="345,56,469,83"/>
-</map>

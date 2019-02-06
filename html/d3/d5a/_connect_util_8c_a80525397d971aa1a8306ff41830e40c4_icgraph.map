@@ -1,8 +1,0 @@
-<map id="omc_ConnectUtil_setTrieAdd" name="omc_ConnectUtil_setTrieAdd">
-<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#a0547ee92376a5beadb9cde4cf56c61c9" title="omc_ConnectUtil_addNewSet" alt="" coords="247,42,445,69"/>
-<area shape="rect" id="node3" href="$d3/d5a/_connect_util_8c.html#aef08043eb7595d5b05609916b37579da" title="omc_ConnectUtil_mergeSets2" alt="" coords="493,42,693,69"/>
-<area shape="rect" id="node4" href="$d3/d5a/_connect_util_8c.html#a5e44f43b496d5977a136b96ce29332c8" title="boxptr_ConnectUtil\l_mergeSets2" alt="" coords="771,5,905,47"/>
-<area shape="rect" id="node5" href="$d3/d5a/_connect_util_8c.html#a014816ccc40911d653b71764289e0a38" title="omc_ConnectUtil_mergeSets" alt="" coords="741,71,935,98"/>
-<area shape="rect" id="node6" href="$da/df9/_connect_util_8h.html#afcfb5cf9a6f061337b9f728033ddc0fb" title="omc_ConnectUtil_addConnection" alt="" coords="983,71,1200,98"/>
-<area shape="rect" id="node7" href="$da/df9/_connect_util_8h.html#a3a9ce88e424c1d8af35fa91e5e4e275a" title="omc_ConnectUtil_addArray\lConnection" alt="" coords="1248,64,1431,105"/>
-</map>

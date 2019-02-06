@@ -1,7 +1,0 @@
-<map id="boxptr_CheckModel_checkModel" name="boxptr_CheckModel_checkModel">
-<area shape="rect" id="node2" href="$d1/d2f/_check_model_8c.html#a6f126c2bcde96314e65f18406bba695c" title="omc_CheckModel_checkModel" alt="" coords="268,5,472,32"/>
-<area shape="rect" id="node3" href="$df/ded/_exec_stat_8c.html#a729d62ef4f77354fabcb2710a4702eab" title="omc_ExecStat_execStat" alt="" coords="520,5,687,32"/>
-<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a34e6591659b1578969141a635ff24042" title="omc_Flags_isSet" alt="" coords="735,5,857,32"/>
-<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="905,5,1055,32"/>
-<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1103,5,1205,32"/>
-</map>

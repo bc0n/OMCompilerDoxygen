@@ -1,6 +1,0 @@
-<map id="Teuchos::insert" name="Teuchos::insert">
-<area shape="rect" id="node2" href="$d1/d47/class_teuchos_1_1_array.html#a1032119d509cdea49f07db10beabeb54" title="Create an Array which is a deep copy of the given ArrayView. " alt="" coords="167,5,341,61"/>
-<area shape="rect" id="node3" href="$d2/dba/class_teuchos_1_1_r_c_p_node_tracer.html#af92af7d7e17679aa71ffbfaadc63e942" title="Add new RCPNode to the global list. " alt="" coords="165,86,343,127"/>
-<area shape="rect" id="node4" href="$dd/d46/class_teuchos_1_1_r_c_p_node_handle.html#a3e217a0ec4ab3202d05225346b9e6b7e" title="Constructor that takes a pointer to an RCPNode. " alt="" coords="413,57,595,98"/>
-<area shape="rect" id="node5" href="$d3/d74/namespace_teuchos.html#a301bd17aa75ad4e72e4227629c51e68a" title="Teuchos::TEUCHOS_UNIT_TEST" alt="" coords="391,123,617,149"/>
-</map>

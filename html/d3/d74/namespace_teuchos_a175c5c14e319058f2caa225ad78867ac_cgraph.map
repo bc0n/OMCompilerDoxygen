@@ -1,7 +1,0 @@
-<map id="Teuchos::passfail_with_location" name="Teuchos::passfail_with_location">
-<area shape="rect" id="node2" href="$d3/d74/namespace_teuchos.html#ab606d9963b2776124c0e373748b96dee" title="Return &quot;passed&quot; or &quot;failed&quot;. " alt="" coords="235,5,360,32"/>
-<area shape="rect" id="node4" href="$d3/d74/namespace_teuchos.html#abaa47cec7e4a8962d7763ba4c987ae5a" title="Set if TEUCHOS_PASS_FAIL(...) should print test failure location. " alt="" coords="209,57,385,98"/>
-<area shape="rect" id="node5" href="$dd/d49/class_teuchos_1_1any.html#a0f75f51ee06752bad90f88c70ea00be6" title="Converts the value in any to a std::string. " alt="" coords="220,123,375,149"/>
-<area shape="rect" id="node3" href="$d3/d74/namespace_teuchos.html#a05763969641f810d9e9b6c94237ba404" title="Return relative error of two scalars. " alt="" coords="445,5,556,32"/>
-<area shape="rect" id="node6" href="$dd/d49/class_teuchos_1_1any.html#a09c552862dc05095e7cf5814d0cff126" title="Print this value to the output stream os " alt="" coords="433,123,568,149"/>
-</map>

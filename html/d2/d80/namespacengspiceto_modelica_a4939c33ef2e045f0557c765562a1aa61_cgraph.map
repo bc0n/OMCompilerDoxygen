@@ -1,8 +1,0 @@
-<map id="ngspicetoModelica.connectInfo" name="ngspicetoModelica.connectInfo">
-<area shape="rect" id="node2" href="$d2/d80/namespacengspiceto_modelica.html#adcf32bcc7fc32958e4c9670ddf7828aa" title="ngspicetoModelica.separate\lSource" alt="" coords="256,5,440,47"/>
-<area shape="rect" id="node3" href="$dc/da3/protos_8h.html#ae5890e79cf013238983034a4d0da1e17" title="split" alt="" coords="563,73,610,99"/>
-<area shape="rect" id="node4" href="$d2/d80/namespacengspiceto_modelica.html#a5a24745fb6bf2839dd385e09076e6514" title="ngspicetoModelica.getSub\lInterface" alt="" coords="261,123,435,164"/>
-<area shape="rect" id="node5" href="$d2/d80/namespacengspiceto_modelica.html#a2dd43db79aa782a52f8489686a5f062a" title="ngspicetoModelica.readNetlist" alt="" coords="488,127,685,154"/>
-<area shape="rect" id="node7" href="$d2/d80/namespacengspiceto_modelica.html#a7f041cb877ce2f328ee741b18befb743" title="ngspicetoModelica.separate\lNetlistInfo" alt="" coords="495,179,679,220"/>
-<area shape="rect" id="node6" href="$d7/dac/ml__agg___v_b_m_e_t_i_s_8c.html#a9cef0428d1f079994cfd332d31e1a9ea" title="print" alt="" coords="733,127,780,154"/>
-</map>

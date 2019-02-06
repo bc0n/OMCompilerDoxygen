@@ -1,7 +1,0 @@
-<map id="fmi2_import_get_derivatives_dependencies" name="fmi2_import_get_derivatives_dependencies">
-<area shape="rect" id="node2" href="$d3/df2/fmi2__import_8c.html#a8081f28cd4f12875a98a03a4172dafe4" title="fmi2_import_check_has_FMU" alt="" coords="239,5,435,32"/>
-<area shape="rect" id="node4" href="$de/d1e/group__fmi2__xml__gen.html#ga095552336ae1818a8de0f18e36e94275" title="Get the model structure pointer. NULL pointer means there was no information present in the XML..." alt="" coords="265,57,408,98"/>
-<area shape="rect" id="node5" href="$df/d50/fmi2__xml__model__structure_8h.html#a37adbc381286c641153f9b2278daa52f" title="Get dependency information in row&#45;compressed format. " alt="" coords="251,122,422,163"/>
-<area shape="rect" id="node3" href="$d6/dac/group__jm__callbacks.html#gada5096ac90f8adc61a90b76597c4ae05" title="Send a error message to the logger function. See jm_log() for details. " alt="" coords="529,5,623,32"/>
-<area shape="rect" id="node6" href="$d4/d3e/fmi2__xml__model__structure_8c.html#a1cec1f1924d22560971b12dce3e01b7d" title="fmi2_xml_get_dependencies" alt="" coords="483,129,669,156"/>
-</map>

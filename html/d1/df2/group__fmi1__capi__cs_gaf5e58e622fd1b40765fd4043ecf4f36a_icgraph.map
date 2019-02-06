@@ -1,6 +1,0 @@
-<map id="fmi1_capi_get_real_status" name="fmi1_capi_get_real_status">
-<area shape="rect" id="node2" href="$d1/df2/group__fmi1__capi__cs.html#gaceafb407ed837792db7e88bbebd31faa" title="Calls the FMI function fmiDoStep(...) " alt="" coords="190,5,321,32"/>
-<area shape="rect" id="node5" href="$d4/d92/group__fmi1__import__capi__cs.html#ga68c85bb7b27bf800f6541047fed896fb" title="Wrapper for the FMI function fmiGetRealStatus(...) " alt="" coords="184,57,327,98"/>
-<area shape="rect" id="node3" href="$d4/d92/group__fmi1__import__capi__cs.html#ga534a07f5d732312106aeda6caaae4a52" title="Wrapper for the FMI function fmiDoStep(...) " alt="" coords="375,5,517,32"/>
-<area shape="rect" id="node4" href="$d5/d4a/_f_m_i1_co_simulation_8c.html#aaa49554eece706d0990c11e5da097ff5" title="fmi1DoStep_OMC" alt="" coords="565,5,695,32"/>
-</map>

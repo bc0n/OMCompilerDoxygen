@@ -1,7 +1,0 @@
-<map id="Ipopt::RestoPenaltyConvergenceCheck" name="Ipopt::RestoPenaltyConvergenceCheck">
-<area shape="rect" id="node2" href="$d7/d37/class_ipopt_1_1_resto_convergence_check.html" title="Ipopt::RestoConvergenceCheck" alt="" coords="12,333,221,360"/>
-<area shape="rect" id="node3" href="$d8/d51/class_ipopt_1_1_optimality_error_convergence_check.html" title="Ipopt::OptimalityErrorConvergence\lCheck" alt="" coords="5,244,228,285"/>
-<area shape="rect" id="node4" href="$dc/d4f/class_ipopt_1_1_convergence_check.html" title="Ipopt::ConvergenceCheck" alt="" coords="29,169,204,196"/>
-<area shape="rect" id="node5" href="$d6/d4a/class_ipopt_1_1_algorithm_strategy_object.html" title="Ipopt::AlgorithmStrategy\lObject" alt="" coords="35,80,198,121"/>
-<area shape="rect" id="node6" href="$da/d10/class_ipopt_1_1_referenced_object.html" title="Ipopt::ReferencedObject" alt="" coords="35,5,199,32"/>
-</map>

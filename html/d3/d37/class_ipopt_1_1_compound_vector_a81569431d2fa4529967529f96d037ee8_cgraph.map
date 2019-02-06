@@ -1,9 +1,0 @@
-<map id="Ipopt::CompoundVector::SumLogsImpl" name="Ipopt::CompoundVector::SumLogsImpl">
-<area shape="rect" id="node2" href="$d3/d37/class_ipopt_1_1_compound_vector.html#aeb5dd2d3cdc54c781143325ec899f17b" title="Ipopt::CompoundVector\l::NComps" alt="" coords="213,49,373,90"/>
-<area shape="rect" id="node6" href="$d8/db7/class_ipopt_1_1_vector.html#a7eca857fcb121e47614c8a1b51dd64c3" title="Ipopt::Vector::SumLogs" alt="" coords="213,115,373,141"/>
-<area shape="rect" id="node3" href="$d7/db2/namespace_ipopt.html#a412b04fd3180a55969ff76224d5bfec6" title="Ipopt::IsValid" alt="" coords="465,5,563,32"/>
-<area shape="rect" id="node5" href="$d7/db2/namespace_ipopt.html#a4ae001947e506b5b8f4f134b8a4ead23" title="Ipopt::GetRawPtr" alt="" coords="452,56,576,83"/>
-<area shape="rect" id="node4" href="$d7/db2/namespace_ipopt.html#acfc346e8412ed6def2dc1858b78bde1b" title="Ipopt::IsNull" alt="" coords="655,5,748,32"/>
-<area shape="rect" id="node7" href="$d0/d0a/class_ipopt_1_1_tagged_object.html#a352e0245b4505a0b6190a6417da087f7" title="Ipopt::TaggedObject\l::GetTag" alt="" coords="444,107,584,149"/>
-<area shape="rect" id="node8" href="$d8/db7/class_ipopt_1_1_vector.html#a51fd4d1a2d0b5f94b805c45ca1ea82be" title="Ipopt::Vector::SumLogsImpl" alt="" coords="421,173,607,200"/>
-</map>

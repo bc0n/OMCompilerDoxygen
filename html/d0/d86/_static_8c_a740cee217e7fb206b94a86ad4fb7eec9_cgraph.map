@@ -1,8 +1,0 @@
-<map id="boxptr_Static_elabExpList" name="boxptr_Static_elabExpList">
-<area shape="rect" id="node2" href="$d0/d86/_static_8c.html#a983c41e910ad0d8bd71955928738d6fa" title="omc_Static_elabExpList" alt="" coords="228,81,391,108"/>
-<area shape="rect" id="node3" href="$d0/d78/_absyn_8c.html#a161dbba7880ce6c80044fa75e5f19a77" title="omc_Absyn_crefToPath" alt="" coords="471,5,634,32"/>
-<area shape="rect" id="node4" href="$d0/d78/_absyn_8c.html#aba05998041adfb113374767462cd578a" title="omc_Absyn_splitQualAndIdentPath" alt="" coords="439,56,667,83"/>
-<area shape="rect" id="node5" href="$d0/d78/_absyn_8c.html#a8ad96aa8a78d49e3c6e12575c1bee42d" title="omc_Absyn_pathEqual" alt="" coords="475,107,631,133"/>
-<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a2ded3aa751bfadac517f3a0cefb62317" title="omc_List_position" alt="" coords="489,157,616,184"/>
-<area shape="rect" id="node7" href="$dc/dd0/build_2include_2omc_2c_2meta_2meta__modelica_8h.html#a053b78d26cb7fe728aa97ab1a575f7ad" title="valueEq" alt="" coords="715,157,784,184"/>
-</map>

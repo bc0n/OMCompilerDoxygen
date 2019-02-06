@@ -1,8 +1,0 @@
-<map id="omc_System_getLoadModelPath" name="omc_System_getLoadModelPath">
-<area shape="rect" id="node2" href="$db/da3/_class_loader_8c.html#adafcaffe4515b65ce4ed4375ee2fa89c" title="omc_ClassLoader_loadClass\lFromMps" alt="" coords="285,35,477,76"/>
-<area shape="rect" id="node7" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#ac54fab1f01fd8ab16c408a3858291489" title="boxptr_System_getLoadModelPath" alt="" coords="268,101,493,127"/>
-<area shape="rect" id="node3" href="$db/da3/_class_loader_8c.html#a1aac1a7be79d8c513a19aca864875d6e" title="boxptr_ClassLoader\l_loadClassFromMps" alt="" coords="566,5,709,47"/>
-<area shape="rect" id="node4" href="$d0/d22/_class_loader_8h.html#ab34df5e6887dd260b1938eaeef2d9ee8" title="omc_ClassLoader_loadClass" alt="" coords="541,71,733,98"/>
-<area shape="rect" id="node5" href="$d6/d82/_ceval_script_8c.html#af2ae89c909022ed9514149b04c624ad7" title="omc_CevalScript_loadModel1" alt="" coords="781,42,976,69"/>
-<area shape="rect" id="node6" href="$d0/d22/_class_loader_8h.html#a0e69d2f73cc0f15279abc0cd694ef5e7" title="boxptr_ClassLoader\l_loadClass" alt="" coords="809,93,948,135"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="zmq::poller_base_t::add_timer" name="zmq::poller_base_t::add_timer">
-<area shape="rect" id="node2" href="$d4/d97/classzmq_1_1clock__t.html#a2926d2e5e13a270e6050ec4e24a2770e" title="zmq::clock_t::now_ms" alt="" coords="185,56,340,83"/>
-<area shape="rect" id="node3" href="$d4/d97/classzmq_1_1clock__t.html#a1ae8e531a4d778cc2a6b9a66d86137eb" title="zmq::clock_t::rdtsc" alt="" coords="396,31,531,57"/>
-<area shape="rect" id="node6" href="$d4/d97/classzmq_1_1clock__t.html#ac1caeb031c357ffe97a3df77a87ed265" title="zmq::clock_t::now_us" alt="" coords="388,81,539,108"/>
-<area shape="rect" id="node4" href="$d2/d3c/os__dep_8c.html#aaa5bed87c5f571a4f368f9f5c8ccbc13" title="__asm__" alt="" coords="611,5,686,32"/>
-<area shape="rect" id="node5" href="$da/d8a/clock_8cpp.html#aa754f4e60da3f3498728295042765898" title="alt_clock_gettime" alt="" coords="587,56,711,83"/>
-<area shape="rect" id="node7" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a2f1bc231541cb303839d0c6b46af692e" title="tick" alt="" coords="627,107,670,133"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="omc_Expression_makeBuiltinCall" name="omc_Expression_makeBuiltinCall">
-<area shape="rect" id="node2" href="$d6/d99/_expression_8h.html#a6ceec774f37c6d9009d0a9d63763e0e8" title="omc_Expression_makeImpure\lBuiltinCall" alt="" coords="293,5,492,47"/>
-<area shape="rect" id="node3" href="$d6/d99/_expression_8h.html#a96b374efba824fbe066603f6fc3888e5" title="omc_Expression_makePureBuiltinCall" alt="" coords="271,71,515,98"/>
-<area shape="rect" id="node5" href="$d6/d99/_expression_8h.html#ad5ea3edc3ce6682421bfe27c105b33da" title="boxptr_Expression_makeBuiltinCall" alt="" coords="279,122,507,149"/>
-<area shape="rect" id="node4" href="$d1/d87/_expression_solve_8c.html#a2b44fedd7a2b1e90ea9c2ad0c85a3134" title="omc_ExpressionSolve\l_makeInitialGuess" alt="" coords="563,64,715,105"/>
-</map>

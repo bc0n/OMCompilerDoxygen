@@ -1,8 +1,0 @@
-<map id="boxptr_Expression_isRecordCall" name="boxptr_Expression_isRecordCall">
-<area shape="rect" id="node2" href="$d1/d08/_expression_8c.html#a600298d0d5ffe4f4e27f3e6ff66a71e7" title="omc_Expression_isRecordCall" alt="" coords="265,38,467,65"/>
-<area shape="rect" id="node3" href="$df/d07/_d_a_e_8c.html#a190c53fd8309c5edefade4132eb4c18f" title="omc_DAE_AvlTreePathFunction_get" alt="" coords="515,13,751,39"/>
-<area shape="rect" id="node7" href="$d0/d29/_d_a_e_util_8c.html#aa5a4c1047a927eaa370006fc957f912a" title="omc_DAEUtil_getFunctionElements" alt="" coords="517,63,749,90"/>
-<area shape="rect" id="node4" href="$df/d07/_d_a_e_8c.html#a3a29d94182019709cb71d80c012edcda" title="omc_DAE_AvlTreePathFunction\l_keyCompare" alt="" coords="799,5,1009,47"/>
-<area shape="rect" id="node5" href="$d0/d78/_absyn_8c.html#aaf4b6f18b688ef52a1493e79052276f1" title="omc_Absyn_pathCompareNoQual" alt="" coords="1057,13,1277,39"/>
-<area shape="rect" id="node6" href="$d0/d78/_absyn_8c.html#a32967c17d7e54d1e80801db59aa80bb5" title="omc_Absyn_pathCompare" alt="" coords="1325,13,1501,39"/>
-</map>

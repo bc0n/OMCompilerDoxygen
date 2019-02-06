@@ -1,7 +1,0 @@
-<map id="boxptr_SCodeUtil_removeNonConstantBindingsKeepRedeclares" name="boxptr_SCodeUtil_removeNonConstantBindingsKeepRedeclares">
-<area shape="rect" id="node2" href="$d3/dbb/_s_code_util_8c.html#a330c79303b850f06b958d919f2fbcaf7" title="omc_SCodeUtil_removeNonConstant\lBindingsKeepRedeclares" alt="" coords="275,89,516,130"/>
-<area shape="rect" id="node3" href="$d3/dbb/_s_code_util_8c.html#a440541b1bb3f598d0ac66e063a607d69" title="omc_SCodeUtil_constantBinding\lOrNone" alt="" coords="580,23,795,65"/>
-<area shape="rect" id="node6" href="$d3/dbb/_s_code_util_8c.html#ad259c80c23a2188c701caa95ca62af01" title="omc_SCodeUtil_removeNonConstant\lBindingsKeepRedeclaresFromSubMod" alt="" coords="564,89,811,130"/>
-<area shape="rect" id="node4" href="$d0/d78/_absyn_8c.html#a77406b7dd74c56aa64a6113ea0695bb6" title="omc_Absyn_getCrefFromExp" alt="" coords="859,5,1053,32"/>
-<area shape="rect" id="node5" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="933,56,979,83"/>
-</map>

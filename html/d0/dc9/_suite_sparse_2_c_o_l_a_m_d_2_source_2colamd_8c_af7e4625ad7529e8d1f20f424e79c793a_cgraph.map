@@ -1,9 +1,0 @@
-<map id="init_rows_cols" name="init_rows_cols">
-<area shape="rect" id="node2" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a2bb1c21b6a3861fe0677cbbd3e7ac5ca" title="init_scoring" alt="" coords="159,56,247,83"/>
-<area shape="rect" id="node3" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a25b6e7111401a9cd3a087bfeca6c3c29" title="debug_structures" alt="" coords="295,5,417,32"/>
-<area shape="rect" id="node4" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a5f650ce72d29ac2b7e4a948f9a5944a4" title="debug_deg_lists" alt="" coords="465,31,581,57"/>
-<area shape="rect" id="node8" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#ace71106e51e627435bfeb787195a6f3f" title="find_ordering" alt="" coords="308,107,404,133"/>
-<area shape="rect" id="node5" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a31af67dba4dacf2238059e9ec47cb596" title="debug_mark" alt="" coords="629,31,723,57"/>
-<area shape="rect" id="node6" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a33b939adb95c607cade1858223bb1e93" title="debug_matrix" alt="" coords="771,31,871,57"/>
-<area shape="rect" id="node7" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a637a42b0535f2ba5ef8f1e7534048cc5" title="colamd_get_debug" alt="" coords="919,31,1049,57"/>
-</map>

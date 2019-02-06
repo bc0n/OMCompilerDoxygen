@@ -1,9 +1,0 @@
-<map id="boxptr_Expression_dimensionSizeAll" name="boxptr_Expression_dimensionSizeAll">
-<area shape="rect" id="node2" href="$d1/d08/_expression_8c.html#a61e34dfcdd541c82c4aeafb9152fa04d" title="omc_Expression_dimension\lSizeAll" alt="" coords="249,49,435,90"/>
-<area shape="rect" id="node3" href="$d1/d08/_expression_8c.html#afdba64066837f9ccc6da8a7d0c5424ae" title="omc_Expression_expInt" alt="" coords="489,5,651,32"/>
-<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#abc3d84cf6e1cf18f0cec0f052e7c85d9" title="omc_Flags_getConfigBool" alt="" coords="483,56,657,83"/>
-<area shape="rect" id="node8" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="547,107,593,133"/>
-<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="705,56,888,83"/>
-<area shape="rect" id="node6" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="936,56,1085,83"/>
-<area shape="rect" id="node7" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1133,56,1236,83"/>
-</map>

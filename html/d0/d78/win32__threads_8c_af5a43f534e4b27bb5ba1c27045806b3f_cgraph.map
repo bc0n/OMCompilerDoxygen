@@ -1,7 +1,0 @@
-<map id="GC_check_tls" name="GC_check_tls">
-<area shape="rect" id="node2" href="$d6/d02/thread__local__alloc_8h.html#a33fc67e2425bee56f152c20828249999" title="GC_check_tls_for" alt="" coords="171,5,298,32"/>
-<area shape="rect" id="node4" href="$d6/d02/thread__local__alloc_8h.html#a9034c5335ee1229d6027f35cced8e32c" title="GC_check_tsd_marks" alt="" coords="159,56,311,83"/>
-<area shape="rect" id="node3" href="$d9/d39/alloc_8c.html#a1a83f6d80d774440f5b8d535d5131e23" title="GC_check_fl_marks" alt="" coords="359,5,500,32"/>
-<area shape="rect" id="node5" href="$d4/d23/gc__mark_8h.html#a268392cfc127d2574a72a58dd517e926" title="GC_is_marked" alt="" coords="375,56,484,83"/>
-<area shape="rect" id="node6" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#a8b93cd0c8d9c312bbdf0e679d10b680a" title="GC_base" alt="" coords="391,107,468,133"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="boxptr_Differentiate_getFunctionInOutVars" name="boxptr_Differentiate_getFunctionInOutVars">
-<area shape="rect" id="node2" href="$d1/dcb/_differentiate_8c.html#aacd6f5decaf2c6f90b6dc113af1bd6a6" title="omc_Differentiate_getFunction\lInOutVars" alt="" coords="209,23,409,65"/>
-<area shape="rect" id="node3" href="$d0/d29/_d_a_e_util_8c.html#a32addecc7765cd3075bd91bc91ca4999" title="omc_DAEUtil_getFunctionInputVars" alt="" coords="462,5,695,32"/>
-<area shape="rect" id="node6" href="$d0/d29/_d_a_e_util_8c.html#a82ea08da888282323c66735d514183cd" title="omc_DAEUtil_getFunctionOutputVars" alt="" coords="457,56,700,83"/>
-<area shape="rect" id="node4" href="$d0/d29/_d_a_e_util_8c.html#aa5a4c1047a927eaa370006fc957f912a" title="omc_DAEUtil_getFunctionElements" alt="" coords="748,5,980,32"/>
-<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a7a363cb49ac74774d6a2a4ffd43a86c5" title="omc_List_filterOnTrue" alt="" coords="789,56,939,83"/>
-</map>

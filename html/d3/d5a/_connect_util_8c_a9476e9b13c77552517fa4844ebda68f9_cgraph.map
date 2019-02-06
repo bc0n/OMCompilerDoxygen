@@ -1,6 +1,0 @@
-<map id="omc_ConnectUtil_getOnlyExpandableConnectedCrefs" name="omc_ConnectUtil_getOnlyExpandableConnectedCrefs">
-<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#a12e4a01276195ecdfb8b3beabcb02e5f" title="omc_ConnectUtil_allCrefs\lAreExpandable" alt="" coords="296,22,471,63"/>
-<area shape="rect" id="node5" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a56b7e8a835b2d388f5984ca7378bc1ec" title="listAppend" alt="" coords="342,88,425,115"/>
-<area shape="rect" id="node3" href="$d3/d5a/_connect_util_8c.html#ab147f1396d37d00d06213bdb8ca4791b" title="omc_ConnectUtil_isExpandable" alt="" coords="519,29,727,56"/>
-<area shape="rect" id="node4" href="$d3/df6/_types_8c.html#a8f582ea327f89f478bbbaa61450f8d59" title="omc_Types_isExpandableConnector" alt="" coords="775,29,1009,56"/>
-</map>

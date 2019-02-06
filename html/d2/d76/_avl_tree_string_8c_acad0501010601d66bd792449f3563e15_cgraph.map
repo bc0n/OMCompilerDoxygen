@@ -1,7 +1,0 @@
-<map id="omc_AvlTreeString_balance" name="omc_AvlTreeString_balance">
-<area shape="rect" id="node2" href="$d2/d76/_avl_tree_string_8c.html#a2e5ec9a8c8db0b6c32b2cca8bc56eaf3" title="omc_AvlTreeString_height" alt="" coords="486,14,661,41"/>
-<area shape="rect" id="node3" href="$d2/d76/_avl_tree_string_8c.html#a921c7e3d7b375db3e04fa0f79ab15882" title="omc_AvlTreeString_calculate\lBalance" alt="" coords="240,36,432,77"/>
-<area shape="rect" id="node4" href="$d2/d76/_avl_tree_string_8c.html#a1571537ec77798b0bb8da0495a744b3f" title="omc_AvlTreeString_rotateLeft" alt="" coords="239,102,433,129"/>
-<area shape="rect" id="node5" href="$d2/d76/_avl_tree_string_8c.html#a308ca4d4daae26b5f02215191e38f2d7" title="omc_AvlTreeString_setTree\lLeftRight" alt="" coords="481,145,665,187"/>
-<area shape="rect" id="node6" href="$d2/d76/_avl_tree_string_8c.html#afe50245a5acfbb39e080096d70efce2b" title="omc_AvlTreeString_rotate\lRight" alt="" coords="249,204,423,245"/>
-</map>

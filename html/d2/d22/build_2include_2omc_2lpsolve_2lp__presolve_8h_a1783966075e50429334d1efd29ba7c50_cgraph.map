@@ -1,6 +1,0 @@
-<map id="postsolve" name="postsolve">
-<area shape="rect" id="node2" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#a1be04296c25e5cedf3cd0ca46d217e20" title="check_solution" alt="" coords="159,5,269,32"/>
-<area shape="rect" id="node3" href="$d3/da5/lp__presolve_8c.html#ab0ab73f9bb1499fcaf44ba01e1f15a90" title="presolve_rebuildUndo" alt="" coords="141,56,287,83"/>
-<area shape="rect" id="node4" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#a6520db142b437dc4b01983c198657ac4" title="varmap_canunlock" alt="" coords="149,107,279,133"/>
-<area shape="rect" id="node5" href="$d3/d63/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__report_8h.html#ad4c9acccc9eb7993e074d774ef7934d1" title="REPORT_mat_mmsave" alt="" coords="132,157,296,184"/>
-</map>

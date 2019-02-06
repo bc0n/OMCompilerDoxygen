@@ -1,6 +1,0 @@
-<map id="omc_Patternm_filterUnusedPatterns2" name="omc_Patternm_filterUnusedPatterns2">
-<area shape="rect" id="node2" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a81001ba45c298ade27540edd2589777c" title="listReverse" alt="" coords="295,5,383,32"/>
-<area shape="rect" id="node3" href="$d1/d08/_expression_8c.html#aae2ed5a7c0c9b70b6c66638bc345357d" title="omc_Expression_traverseExp\lBottomUp" alt="" coords="241,57,437,98"/>
-<area shape="rect" id="node5" href="$d0/d09/_patternm_8c.html#aa32deae3032b2df5534f89549cf24ee7" title="omc_Patternm_allPatternsWild" alt="" coords="237,123,440,149"/>
-<area shape="rect" id="node4" href="$d1/d08/_expression_8c.html#add3db321c96f54919494182b71eb10c7" title="omc_Expression_traverseExpClk" alt="" coords="488,64,704,91"/>
-</map>

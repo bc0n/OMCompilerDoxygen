@@ -1,5 +1,0 @@
-<map id="fmi2_xml_get_unit_definitions_number" name="fmi2_xml_get_unit_definitions_number">
-<area shape="rect" id="node2" href="$dc/da0/group__fmi2__import__units.html#gad6b6a7a383b8e086ce4a622a4792c3ac" title="Get the number of unit definitions. " alt="" coords="248,5,391,47"/>
-<area shape="rect" id="node3" href="$d2/dbc/group__fmi2__xml__units.html#gae9d522958c02dd39c18964fdbd70f064" title="fmi2_xml_get_unit" alt="" coords="255,71,383,98"/>
-<area shape="rect" id="node4" href="$dc/da0/group__fmi2__import__units.html#ga485af3027ec71975aeedfddb69ec434e" title="Get a unit definition. " alt="" coords="439,71,581,98"/>
-</map>

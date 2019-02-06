@@ -1,7 +1,0 @@
-<map id="omc_FNode_hasChild" name="omc_FNode_hasChild">
-<area shape="rect" id="node2" href="$d6/d9d/_f_node_8h.html#a7b132503c2e7d097e4c726289943ea74" title="omc_FNode_refHasChild" alt="" coords="204,56,373,83"/>
-<area shape="rect" id="node6" href="$d6/d9d/_f_node_8h.html#a38c3880bd755230d48d7644cd3bd3983" title="boxptr_FNode_hasChild" alt="" coords="207,107,370,133"/>
-<area shape="rect" id="node3" href="$d7/dfb/_f_graph_8h.html#a4447814bfd40c98d4acbc9c6b57e0c6f" title="omc_FGraph_getStatus" alt="" coords="431,5,591,32"/>
-<area shape="rect" id="node4" href="$d7/dfb/_f_graph_8h.html#a8028d8362c6d6c678e9a012fb9a9ea38" title="omc_FGraph_setStatus" alt="" coords="431,56,591,83"/>
-<area shape="rect" id="node5" href="$d6/d9d/_f_node_8h.html#afe45e55cc424c8167052a754b0f8f2c0" title="boxptr_FNode_refHasChild" alt="" coords="421,107,601,133"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="boxptr_Config_silent" name="boxptr_Config_silent">
-<area shape="rect" id="node2" href="$d1/d5c/_config_8c.html#abdc739dfe11142467da2af7e87e109fc" title="omc_Config_silent" alt="" coords="195,5,325,32"/>
-<area shape="rect" id="node3" href="$d3/db3/_flags_8c.html#abc3d84cf6e1cf18f0cec0f052e7c85d9" title="omc_Flags_getConfigBool" alt="" coords="373,5,548,32"/>
-<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="596,5,779,32"/>
-<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="827,5,976,32"/>
-<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1024,5,1127,32"/>
-</map>

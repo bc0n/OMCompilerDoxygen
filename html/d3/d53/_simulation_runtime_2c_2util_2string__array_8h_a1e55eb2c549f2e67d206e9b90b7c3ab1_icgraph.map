@@ -1,8 +1,0 @@
-<map id="alloc_string_array_data" name="alloc_string_array_data">
-<area shape="rect" id="node2" href="$d3/d53/_simulation_runtime_2c_2util_2string__array_8h.html#ac6390f545bd84c99190f8896ddaa51bd" title="copy_string_array" alt="" coords="216,5,341,32"/>
-<area shape="rect" id="node3" href="$d3/d53/_simulation_runtime_2c_2util_2string__array_8h.html#aa93a125a7a3006c09547c8b1642c3fea" title="index_alloc_string\l_array" alt="" coords="215,57,342,98"/>
-<area shape="rect" id="node4" href="$d3/d53/_simulation_runtime_2c_2util_2string__array_8h.html#ac3f64a8b998be3cfc8e1eec96e494efd" title="simple_index_alloc\l_string_array1" alt="" coords="213,122,345,163"/>
-<area shape="rect" id="node5" href="$d3/d53/_simulation_runtime_2c_2util_2string__array_8h.html#a40804d476d77b513116b3c7625e7bbdd" title="convert_alloc_string\l_array_to_f77" alt="" coords="209,187,348,229"/>
-<area shape="rect" id="node6" href="$d3/d53/_simulation_runtime_2c_2util_2string__array_8h.html#a6188a50daacf181b3547686725649c18" title="convert_alloc_string\l_array_from_f77" alt="" coords="209,253,348,294"/>
-<area shape="rect" id="node7" href="$d3/d6e/_simulation_runtime_2c_2util_2read__write_8h.html#add87006ef89a0f1d8bd0bd6165eb2475" title="read_string_array" alt="" coords="217,319,340,345"/>
-</map>

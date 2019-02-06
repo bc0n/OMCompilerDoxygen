@@ -1,6 +1,0 @@
-<map id="Teuchos::Array::pop_back" name="Teuchos::Array::pop_back">
-<area shape="rect" id="node2" href="$d7/d63/class_teuchos_1_1_simple_object_d_b.html#a3438f4bdf1c15c0482c50bbaa4b12ea7" title="Clear out all storage. " alt="" coords="235,5,412,47"/>
-<area shape="rect" id="node3" href="$de/d17/class_teuchos_1_1_simple_object_table.html#a40c78c3badc9cdc1c6bcd3d0b6ba4a1a" title="Teuchos::SimpleObjectTable\l::storeRCP" alt="" coords="228,71,419,112"/>
-<area shape="rect" id="node4" href="$de/d17/class_teuchos_1_1_simple_object_table.html#ac2da960bcd38547e6c4e38dbac526c62" title="Teuchos::SimpleObjectTable\l::storeNew" alt="" coords="467,37,657,79"/>
-<area shape="rect" id="node5" href="$de/d17/class_teuchos_1_1_simple_object_table.html#ad7dcbd84000cc35a2f9e34e7f8df9132" title="Teuchos::SimpleObjectTable\l::storeCastedRCP" alt="" coords="467,103,657,144"/>
-</map>

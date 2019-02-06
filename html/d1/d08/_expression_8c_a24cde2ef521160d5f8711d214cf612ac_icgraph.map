@@ -1,6 +1,0 @@
-<map id="omc_Expression_isTuple" name="omc_Expression_isTuple">
-<area shape="rect" id="node2" href="$d0/d9b/_backend_inline_8c.html#af59b5b1fcb917c108f988697e5b0447e" title="omc_BackendInline_inline\lEqAppend" alt="" coords="232,5,405,47"/>
-<area shape="rect" id="node4" href="$df/d4e/_common_sub_expression_8c.html#ae0ff62ca8870899411f5a942ff4c6108" title="omc_CommonSubExpression\l_mergeCSETuples" alt="" coords="221,71,416,112"/>
-<area shape="rect" id="node5" href="$d6/d99/_expression_8h.html#a07cca75db66a7af09fe2a6309f5f1adc" title="boxptr_Expression_isTuple" alt="" coords="229,137,408,163"/>
-<area shape="rect" id="node3" href="$d0/d9b/_backend_inline_8c.html#a74c71462297f984996e0de2aafcf8ecb" title="boxptr_BackendInline\l_inlineEqAppend" alt="" coords="464,5,611,47"/>
-</map>

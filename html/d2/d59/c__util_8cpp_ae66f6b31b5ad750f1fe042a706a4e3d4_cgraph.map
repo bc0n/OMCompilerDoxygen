@@ -1,6 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node2" href="$d7/d9f/namespace_with_subpackages.html#a928c2c88d1d7a6b39316d646178c79c2" title="WithSubpackages::depsB" alt="" coords="104,56,277,83"/>
-<area shape="rect" id="node3" href="$d7/d9f/namespace_with_subpackages.html#ab37c9619051529d4bb2fbcfe39627262" title="WithSubpackages::depsA" alt="" coords="325,5,499,32"/>
-<area shape="rect" id="node4" href="$dd/dc5/namespace_simple_cxx.html#a23e4fc6840f644de454960187fe0fc21" title="SimpleCxx::deps" alt="" coords="547,56,669,83"/>
-<area shape="rect" id="node5" href="$d5/dae/namespace_inserted_pkg.html#a5898c0811539521cb75e27d51cf95094" title="InsertedPkg::deps" alt="" coords="348,107,476,133"/>
-</map>

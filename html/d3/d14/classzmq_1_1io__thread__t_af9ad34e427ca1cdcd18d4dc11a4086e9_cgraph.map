@@ -1,5 +1,0 @@
-<map id="zmq::io_thread_t::get_load" name="zmq::io_thread_t::get_load">
-<area shape="rect" id="node2" href="$d1/d83/classzmq_1_1poller__base__t.html#a9b4d8642087192b97daf438aca22bd5a" title="zmq::poller_base_t\l::get_load" alt="" coords="229,5,361,47"/>
-<area shape="rect" id="node3" href="$d9/d23/classzmq_1_1atomic__counter__t.html#afc5b7bf84b6ef6f5d4592024bb825541" title="zmq::atomic_counter\l_t::get" alt="" coords="409,5,553,47"/>
-<area shape="rect" id="node4" href="$d9/d23/classzmq_1_1atomic__counter__t.html#abec9badc3d7bd39df3bee388b887ace8" title="zmq::atomic_counter\l_t::atomic_counter_t" alt="" coords="601,5,745,47"/>
-</map>

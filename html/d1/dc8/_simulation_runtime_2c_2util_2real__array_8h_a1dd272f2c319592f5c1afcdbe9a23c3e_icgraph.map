@@ -1,6 +1,0 @@
-<map id="copy_real_array_data" name="copy_real_array_data">
-<area shape="rect" id="node2" href="$d1/dc8/_simulation_runtime_2c_2util_2real__array_8h.html#ae6bac0544915b27c6a0e604c4200a34a" title="copy_real_array" alt="" coords="214,5,329,32"/>
-<area shape="rect" id="node3" href="$d1/dc8/_simulation_runtime_2c_2util_2real__array_8h.html#a0369f23c8cd535ed18bf4b6113179623" title="transpose_real_array" alt="" coords="200,56,343,83"/>
-<area shape="rect" id="node4" href="$d1/dc8/_simulation_runtime_2c_2util_2real__array_8h.html#a53b23468ff5877bd4dd32199a7926ced" title="convert_alloc_real\l_array_to_f77" alt="" coords="391,15,517,57"/>
-<area shape="rect" id="node5" href="$d1/dc8/_simulation_runtime_2c_2util_2real__array_8h.html#a0aef93f403ca2f0de57b0ea0e7584747" title="convert_alloc_real\l_array_from_f77" alt="" coords="391,81,517,122"/>
-</map>

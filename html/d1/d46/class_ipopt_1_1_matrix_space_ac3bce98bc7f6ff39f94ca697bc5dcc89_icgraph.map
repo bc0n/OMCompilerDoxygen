@@ -1,6 +1,0 @@
-<map id="Ipopt::MatrixSpace::NRows" name="Ipopt::MatrixSpace::NRows">
-<area shape="rect" id="node2" href="$d0/d50/class_ipopt_1_1_compound_matrix_space.html#a4c65538d80bae7f0cc63d571feaa67ba" title="Ipopt::CompoundMatrixSpace\l::SetCompSpace" alt="" coords="185,5,380,47"/>
-<area shape="rect" id="node3" href="$d0/d50/class_ipopt_1_1_compound_matrix_space.html#ac554ef6ff2e7dc94fed755f287fc29a0" title="Ipopt::CompoundMatrixSpace\l::MakeNewCompoundMatrix" alt="" coords="185,71,380,112"/>
-<area shape="rect" id="node4" href="$dc/d7c/class_ipopt_1_1_compound_sym_matrix_space.html#a6c02d8703dc1b941bb365229dc3fb29a" title="Ipopt::CompoundSymMatrix\lSpace::SetCompSpace" alt="" coords="190,136,375,177"/>
-<area shape="rect" id="node5" href="$dc/d39/class_ipopt_1_1_expansion_matrix_space.html#a39bc74d2635c27c82a84c459f20aa2ba" title="Ipopt::ExpansionMatrixSpace\l::ExpansionMatrixSpace" alt="" coords="186,201,379,243"/>
-</map>

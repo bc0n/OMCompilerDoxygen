@@ -1,6 +1,0 @@
-<map id="omc_System_basename" name="omc_System_basename">
-<area shape="rect" id="node2" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a7b722b53b1ba7f3ffdc3624727daa000" title="System_basename" alt="" coords="220,56,355,83"/>
-<area shape="rect" id="node3" href="$d4/d45/systemimpl_8c.html#af0ce445d63d4d737a2ed25d05b45463c" title="SystemImpl__basename" alt="" coords="403,5,569,32"/>
-<area shape="rect" id="node4" href="$d7/dcd/group__core_utils.html#gaeccaa0b46edead0608a6982dddb917ec" title="Allocate memory for a Modelica string which is used as return argument of an external Modelica functi..." alt="" coords="409,56,563,83"/>
-<area shape="rect" id="node5" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="459,107,513,133"/>
-</map>

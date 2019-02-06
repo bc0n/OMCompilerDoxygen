@@ -1,9 +1,0 @@
-<map id="omc_Expression_makeScalarProduct" name="omc_Expression_makeScalarProduct">
-<area shape="rect" id="node2" href="$d6/d99/_expression_8h.html#a2ba6fc64f5f867eb91a6ca8111f04ba2" title="omc_Expression_lenVec" alt="" coords="275,78,442,105"/>
-<area shape="rect" id="node7" href="$d5/d00/_resolve_loops_8c.html#a7faac1cfd150020cc2cd5901132b801f" title="omc_ResolveLoops_gramSchmidt\lProcessHelper" alt="" coords="248,132,469,173"/>
-<area shape="rect" id="node3" href="$df/d72/_backend_equation_8h.html#adcb28c7614c860a3bff9bfbe7cf134ef" title="omc_BackendEquation\l_normalizationVec" alt="" coords="535,5,691,47"/>
-<area shape="rect" id="node5" href="$d5/d00/_resolve_loops_8c.html#aa653e566890679f03e63d410f84023f1" title="omc_ResolveLoops_qrCalc\l__alpha" alt="" coords="522,71,705,112"/>
-<area shape="rect" id="node4" href="$df/d72/_backend_equation_8h.html#ae9cbcdd22ecafafe3ab90420d7e93aff" title="boxptr_BackendEquation\l_normalizationVec" alt="" coords="757,5,924,47"/>
-<area shape="rect" id="node6" href="$d5/d00/_resolve_loops_8c.html#a84c573751b32865598e9e5cf22485fab" title="boxptr_ResolveLoops\l_qrCalc__alpha" alt="" coords="767,71,915,112"/>
-<area shape="rect" id="node8" href="$d5/d00/_resolve_loops_8c.html#ad7551ffccea7c98c2458bb2e40f22599" title="boxptr_ResolveLoops\l_gramSchmidtProcessHelper" alt="" coords="517,136,709,177"/>
-</map>

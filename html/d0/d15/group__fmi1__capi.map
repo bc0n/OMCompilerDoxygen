@@ -1,6 +1,0 @@
-<map id="Standard FMI 1.0 &quot;C&quot; API" name="Standard FMI 1.0 &quot;C&quot; API">
-<area shape="rect" id="node1" href="$d1/df2/group__fmi1__capi__cs.html" title="List of Co&#45;Simulation wrapper functions. Common functions are not listed. " alt="" coords="231,5,415,47"/>
-<area shape="rect" id="node2" href="$dc/de6/group__fmi1__capi__const__destroy.html" title="Utility functions used to load and free the FMI functions. " alt="" coords="241,71,404,98"/>
-<area shape="rect" id="node4" href="$d9/de0/group__fmi1__capi__me.html" title="List of Model Exchange wrapper functions. Common functions are not listed. " alt="" coords="252,123,393,164"/>
-<area shape="rect" id="node5" href="$d6/dc4/group__fmi1__capi__common.html" title="List of wrapper functions that are in common for both Model Exchange and Co&#45;Simulation. " alt="" coords="227,188,419,229"/>
-</map>

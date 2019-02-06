@@ -1,7 +1,0 @@
-<map id="omc_Expression_isImpureCall" name="omc_Expression_isImpureCall">
-<area shape="rect" id="node2" href="$df/d4e/_common_sub_expression_8c.html#a4abda482c901d9d58fb82dbe4c26fde4" title="omc_CommonSubExpression\l_isSkipCase" alt="" coords="260,39,455,80"/>
-<area shape="rect" id="node6" href="$d6/d99/_expression_8h.html#a4bc3bc9b71236abe3e0d9d466084df1b" title="boxptr_Expression_isImpureCall" alt="" coords="252,105,463,131"/>
-<area shape="rect" id="node3" href="$df/d4e/_common_sub_expression_8c.html#a7231669d558fba317734683a4e1c8ff4" title="boxptr_CommonSubExpression\l_isSkipCase" alt="" coords="511,5,717,47"/>
-<area shape="rect" id="node4" href="$df/d4e/_common_sub_expression_8c.html#ac109ee2566ed0781c6a4afce6dcc3651" title="omc_CommonSubExpression\l_wrapFunctionCalls__analysis3" alt="" coords="511,71,717,112"/>
-<area shape="rect" id="node5" href="$df/d4e/_common_sub_expression_8c.html#acb7f3f757dcc7ce3dd711b7965b5cb6c" title="boxptr_CommonSubExpression\l_wrapFunctionCalls__analysis3" alt="" coords="765,71,972,112"/>
-</map>

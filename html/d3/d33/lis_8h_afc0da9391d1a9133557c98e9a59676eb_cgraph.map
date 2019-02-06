@@ -1,8 +1,0 @@
-<map id="lis_vector_create" name="lis_vector_create">
-<area shape="rect" id="node2" href="$de/dbe/lis__vector_8c.html#a736ccbcb0e49d01eb2ef323d90a668d5" title="lis_vector_createex" alt="" coords="175,81,309,108"/>
-<area shape="rect" id="node3" href="$d3/d33/lis_8h.html#a122d3f4baa8db5c0253305eb459dff60" title="lis_malloc" alt="" coords="369,56,449,83"/>
-<area shape="rect" id="node6" href="$de/dbe/lis__vector_8c.html#a3feb3b0e4e4d8f1fcdd2db936ebe87f5" title="lis_vector_init" alt="" coords="357,107,460,133"/>
-<area shape="rect" id="node4" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="513,5,573,32"/>
-<area shape="rect" id="node5" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="515,56,570,83"/>
-<area shape="rect" id="node7" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a362b656d9de3289b55b1035d14cb4b5d" title="memset" alt="" coords="508,107,577,133"/>
-</map>

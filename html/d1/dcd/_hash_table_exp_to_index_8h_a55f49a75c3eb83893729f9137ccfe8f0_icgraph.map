@@ -1,7 +1,0 @@
-<map id="omc_HashTableExpToIndex_emptyHashTable" name="omc_HashTableExpToIndex_emptyHashTable">
-<area shape="rect" id="node2" href="$d7/d3b/_backend_d_a_e_create_8c.html#ac344c2764405374cfaaa750447668f01" title="omc_BackendDAECreate\l_processBuiltinExpressions" alt="" coords="246,5,429,47"/>
-<area shape="rect" id="node4" href="$de/d7d/_backend_d_a_e_optimize_8c.html#a639e3a3bd93bdda48f4c3fe64495494b" title="omc_BackendDAEOptimize\l_semiLinearOptimize" alt="" coords="245,71,430,112"/>
-<area shape="rect" id="node5" href="$de/d7d/_backend_d_a_e_optimize_8c.html#a8c1ebadc70ef6dbef0e3500be9e1f6a3" title="omc_BackendDAEOptimize\l_simplifysemiLinearWork" alt="" coords="245,136,430,177"/>
-<area shape="rect" id="node6" href="$db/dbf/_find_zero_crossings_8h.html#abb6b262f3abc3d0a246f09bd127fba02" title="omc_FindZeroCrossings\l_encapsulateWhenConditions" alt="" coords="240,201,435,243"/>
-<area shape="rect" id="node3" href="$df/df0/_backend_d_a_e_create_8h.html#afd20a0e07b4ca1c4a6fb877db9cc977f" title="omc_BackendDAECreate\l_lower" alt="" coords="483,5,655,47"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="NOX::Thyra::WeightedMeritFunction::computeSlope" name="NOX::Thyra::WeightedMeritFunction::computeSlope">
-<area shape="rect" id="node2" href="$da/daf/group___teuchos___r_c_p_boost_shared_ptr_conversions__grp.html#ga0148db5a21456be8682284228f04ad13" title="Returns true if p.get()==NULL. " alt="" coords="280,5,379,32"/>
-<area shape="rect" id="node3" href="$d3/d1b/netstream-main_8cpp.html#aed138f72d7301a9034a719a95c4903da" title="e" alt="" coords="310,56,349,83"/>
-<area shape="rect" id="node4" href="$d1/db2/class_n_o_x_1_1_thyra_1_1_weighted_merit_function.html#aac5270af738a59972f09445db8680792" title="NOX::Thyra::WeightedMerit\lFunction::computeGradient" alt="" coords="237,107,421,149"/>
-</map>

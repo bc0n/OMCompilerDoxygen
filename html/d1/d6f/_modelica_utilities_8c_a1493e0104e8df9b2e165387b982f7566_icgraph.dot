@@ -1,9 +1,0 @@
-digraph "ModelicaFormatError"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node8 [label="ModelicaFormatError",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node9 [label="ModelicaAllocateString",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d6f/_modelica_utilities_8c.html#aeccaa0b46edead0608a6982dddb917ec",tooltip="Allocate memory for a Modelica string which is used as return argument of an external Modelica functi..."];
-}

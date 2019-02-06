@@ -1,9 +1,0 @@
-<map id="ML_Aggregate_AnalyzeLocalGraphDec" name="ML_Aggregate_AnalyzeLocalGraphDec">
-<area shape="rect" id="node2" href="$dd/d3c/examplehs071_8m.html#ad1d7e10c2dad1043eb0e1b51f99f1b31" title="sum" alt="" coords="283,5,329,32"/>
-<area shape="rect" id="node3" href="$d6/de2/ml__utils_8c.html#aa6d1397a2d84bb92040aa1131f07394e" title="ML_gsum_int" alt="" coords="256,56,356,83"/>
-<area shape="rect" id="node6" href="$d6/de2/ml__utils_8c.html#a6dc39bbf388de3b503d28100abb0064e" title="ML_gmin_int" alt="" coords="439,107,535,133"/>
-<area shape="rect" id="node7" href="$d6/de2/ml__utils_8c.html#acebad6609ad7d983059a576227273c92" title="ML_gmax_int" alt="" coords="437,157,537,184"/>
-<area shape="rect" id="node8" href="$d6/de2/ml__utils_8c.html#aa8205be523aca7a93bc89cbdee3b1c40" title="ML_gsum_double" alt="" coords="244,208,368,235"/>
-<area shape="rect" id="node4" href="$d6/de2/ml__utils_8c.html#a8113147d48fc7d46cf8117c0698fdad0" title="ML_gsum_scalar_int" alt="" coords="416,56,559,83"/>
-<area shape="rect" id="node5" href="$dd/d91/_n___v_dot_prod_8m.html#ada2f602fc0ac693d1c0f4cd1a2fb0d50" title="MPI_Allreduce" alt="" coords="607,132,713,159"/>
-</map>

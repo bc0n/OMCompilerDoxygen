@@ -1,9 +1,0 @@
-digraph "simple_index_string_array1"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node181 [label="simple_index_string\l_array1",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node181 -> Node182 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node182 [label="simple_index_alloc\l_string_array1",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d21/string__array_8h.html#ac3f64a8b998be3cfc8e1eec96e494efd"];
-}

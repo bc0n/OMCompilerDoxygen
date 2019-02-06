@@ -1,9 +1,0 @@
-digraph "fmi2_import_get_variable_by_vr"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node233 [label="fmi2_import_get_variable\l_by_vr",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node233 -> Node234 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node234 [label="fmi2_xml_get_variable\l_by_vr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d1e/group__fmi2__xml__gen.html#ga3c30d4048bd8bf46313b654252da366f",tooltip="Get variable by value reference. "];
-}

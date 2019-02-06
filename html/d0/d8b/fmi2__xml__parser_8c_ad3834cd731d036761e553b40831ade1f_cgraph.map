@@ -1,8 +1,0 @@
-<map id="fmi2_xml_set_attr_boolean" name="fmi2_xml_set_attr_boolean">
-<area shape="rect" id="node2" href="$d0/d8b/fmi2__xml__parser_8c.html#a0c1f374cfda9e1b1fe714cc8362cf976" title="fmi2_xml_set_attr_enum" alt="" coords="232,31,397,57"/>
-<area shape="rect" id="node3" href="$d0/d8b/fmi2__xml__parser_8c.html#a3be5441b50b49504fd9e61ff94776775" title="fmi2_xml_get_attr_str" alt="" coords="445,5,593,32"/>
-<area shape="rect" id="node6" href="$d0/d8b/fmi2__xml__parser_8c.html#ae56c6a6eb2b404ff93513f3d5dc0d813" title="fmi2_xml_parse_error" alt="" coords="446,56,593,83"/>
-<area shape="rect" id="node4" href="$d0/d8b/fmi2__xml__parser_8c.html#a7d110a06e9c423ff446efde48af0e045" title="fmi2_xml_parse_fatal" alt="" coords="641,5,788,32"/>
-<area shape="rect" id="node5" href="$d6/dac/group__jm__callbacks.html#gaba6d03fb084724a1a8928e59fe5b6e39" title="Send a fatal error message to the logger function. See jm_log() for details. " alt="" coords="836,5,943,32"/>
-<area shape="rect" id="node7" href="$d6/dac/group__jm__callbacks.html#ga299dc97f42a0d9bf5a2caedf9de0c784" title="Send an info message to the logger function. See jm_log() for details. " alt="" coords="671,56,759,83"/>
-</map>

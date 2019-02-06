@@ -1,5 +1,0 @@
-<map id="Ida::stateSelection" name="Ida::stateSelection">
-<area shape="rect" id="node2" href="$d1/d0d/class_ida.html#a309c09ef6afe41190d68c88e8280fe40" title="Liefert den Status des Solvers nach Beendigung der Simulation. " alt="" coords="184,5,325,32"/>
-<area shape="rect" id="node3" href="$d1/d0d/class_ida.html#a289cf95889af136a4bb11e4c537daa78" title="Berechung der numerischen Lösung innerhalb eines gegebenen Zeitintervalls. " alt="" coords="215,56,294,83"/>
-<area shape="rect" id="node4" href="$d1/d0d/class_ida.html#ad186bf83203716276cc87d63dcac2cec" title="Setzen der initialen Schrittweite (z.B. auch nach Nullstelle) " alt="" coords="373,56,511,83"/>
-</map>

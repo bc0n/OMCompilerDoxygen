@@ -1,8 +1,0 @@
-<map id="omc_OperatorOverloading_getZeroConstructorExpression" name="omc_OperatorOverloading_getZeroConstructorExpression">
-<area shape="rect" id="node2" href="$d1/dda/_operator_overloading_8c.html#ae23d368ba5baac11465858cd7fc2de87" title="omc_OperatorOverloading\l_makeCallFillRestDefaults" alt="" coords="260,47,439,89"/>
-<area shape="rect" id="node5" href="$d3/df6/_types_8c.html#a9c295e3af21901343e1d0be2ef8cb0f6" title="omc_Types_makeCallAttr" alt="" coords="263,113,436,140"/>
-<area shape="rect" id="node3" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a56b7e8a835b2d388f5984ca7378bc1ec" title="listAppend" alt="" coords="517,5,599,32"/>
-<area shape="rect" id="node4" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a9c59fe80a409b7bf90b96e10f20ab520" title="omc_List_mapMap" alt="" coords="492,56,624,83"/>
-<area shape="rect" id="node6" href="$d3/df6/_types_8c.html#a8de5e09c0c37684668afeeb76298781e" title="omc_Types_isTuple" alt="" coords="489,111,627,137"/>
-<area shape="rect" id="node7" href="$d3/df6/_types_8c.html#ac1cf69557b3a6abcf9328b10b69b5c9a" title="omc_Types_isBuiltin" alt="" coords="487,161,629,188"/>
-</map>

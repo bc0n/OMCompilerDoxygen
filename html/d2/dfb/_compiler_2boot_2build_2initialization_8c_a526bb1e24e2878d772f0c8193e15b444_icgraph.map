@@ -1,6 +1,0 @@
-<map id="omc_Initialization_isVarExplicitSolvable" name="omc_Initialization_isVarExplicitSolvable">
-<area shape="rect" id="node2" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#a01dd132a4952bc1b175c35bb2afa10af" title="omc_Initialization\l_setupVarReplacements" alt="" coords="205,5,371,47"/>
-<area shape="rect" id="node5" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#aef348bcb4c30146e14acdb2154bbb0e4" title="boxptr_Initialization\l_isVarExplicitSolvable" alt="" coords="212,71,364,112"/>
-<area shape="rect" id="node3" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#ac0b23b4e5f2f14ed262ef24fec943ce9" title="omc_Initialization\l_consistencyCheck" alt="" coords="419,5,556,47"/>
-<area shape="rect" id="node4" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#af09c81011bed8118eab5eb5b99124d4d" title="boxptr_Initialization\l_consistencyCheck" alt="" coords="604,5,741,47"/>
-</map>

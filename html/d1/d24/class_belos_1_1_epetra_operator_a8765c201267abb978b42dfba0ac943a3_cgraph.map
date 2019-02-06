@@ -1,5 +1,0 @@
-<map id="Belos::EpetraOperator::HasNormInf" name="Belos::EpetraOperator::HasNormInf">
-<area shape="rect" id="node2" href="$d1/d24/class_belos_1_1_epetra_operator.html#afddf5e9eab2c0c0c3cf931f57c5fc396" title="Return the communicator for this operator. " alt="" coords="204,5,355,47"/>
-<area shape="rect" id="node3" href="$d1/d24/class_belos_1_1_epetra_operator.html#aaedd1dbcfc02aab0254dab61a6a4e082" title="Return the domain map for this operator. " alt="" coords="204,71,355,112"/>
-<area shape="rect" id="node4" href="$d1/d24/class_belos_1_1_epetra_operator.html#aeea09e3e609180b04a5aaa64c3f2b49e" title="Return the range map for this operator. " alt="" coords="204,136,355,177"/>
-</map>

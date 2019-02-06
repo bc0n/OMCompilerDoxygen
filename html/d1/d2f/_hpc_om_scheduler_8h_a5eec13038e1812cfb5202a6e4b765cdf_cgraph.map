@@ -1,8 +1,0 @@
-<map id="boxptr_HpcOmScheduler_getSerialExecutionTime" name="boxptr_HpcOmScheduler_getSerialExecutionTime">
-<area shape="rect" id="node2" href="$d8/dd0/_hpc_om_scheduler_8c.html#af004bf920356b437f2318f517afeb964" title="omc_HpcOmScheduler\l_getSerialExecutionTime" alt="" coords="221,74,388,115"/>
-<area shape="rect" id="node7" href="$de/df6/meta__modelica_8c.html#a994c9ac929c95a38707b78980f397484" title="mmc_mk_rcon" alt="" coords="251,140,359,167"/>
-<area shape="rect" id="node3" href="$da/d17/_array_8c.html#ac8013cbd7f97606cd95c9a1b0369eb11" title="omc_Array_fold" alt="" coords="438,5,551,32"/>
-<area shape="rect" id="node4" href="$da/d17/_array_8c.html#a6978e95e5c32e9434c9575e4472f5bb6" title="omc_Array_map" alt="" coords="436,56,553,83"/>
-<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a8adbf51ce877b23370be11654c6de6de" title="omc_List_map1" alt="" coords="437,107,552,133"/>
-<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="443,157,546,184"/>
-</map>

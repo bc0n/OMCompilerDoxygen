@@ -1,9 +1,0 @@
-<map id="omc_Static_findNamedArgType" name="omc_Static_findNamedArgType">
-<area shape="rect" id="node2" href="$d0/d86/_static_8c.html#a7a30a1005bc1e54df560df67a3b1acd2" title="omc_Static_findNamedArg" alt="" coords="260,42,439,69"/>
-<area shape="rect" id="node3" href="$d1/d5c/_config_8c.html#abbb1ebde9dd1336640d4feb5ef557d9a" title="omc_Config_acceptMetaModelica\lGrammar" alt="" coords="487,5,705,47"/>
-<area shape="rect" id="node8" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="547,71,645,98"/>
-<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#add52ff282ca5df852c1905fabb4571c9" title="omc_Flags_getConfigEnum" alt="" coords="753,13,936,39"/>
-<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="984,13,1167,39"/>
-<area shape="rect" id="node6" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="1215,13,1364,39"/>
-<area shape="rect" id="node7" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1412,13,1515,39"/>
-</map>

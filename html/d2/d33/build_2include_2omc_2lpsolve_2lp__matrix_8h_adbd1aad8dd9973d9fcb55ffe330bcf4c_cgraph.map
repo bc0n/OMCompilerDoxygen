@@ -1,7 +1,0 @@
-<map id="mat_rowlength" name="mat_rowlength">
-<area shape="rect" id="node2" href="$dc/d9a/lp__matrix_8c.html#a3b6cff0a7850997a4ac569451cb8ed47" title="mat_validate" alt="" coords="160,81,256,108"/>
-<area shape="rect" id="node3" href="$d1/daa/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__utils_8h.html#a2081b8e14a0691b7e3931fa280ad9e63" title="allocINT" alt="" coords="330,5,401,32"/>
-<area shape="rect" id="node4" href="$dc/d9a/lp__matrix_8c.html#a9430c42ed7853fd8dd6463ed7165f243" title="mat_nonzeros" alt="" coords="313,56,417,83"/>
-<area shape="rect" id="node5" href="$d3/d63/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__report_8h.html#a44ef60e159dc1290b7da87301e244357" title="report" alt="" coords="338,107,393,133"/>
-<area shape="rect" id="node6" href="$dc/d9a/lp__matrix_8c.html#a11d446e1461f23530cf5dc5b8e0a3b6a" title="mat_set_rowmap" alt="" coords="304,157,427,184"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Teuchos::isend" name="Teuchos::isend">
-<area shape="rect" id="node2" href="$d1/dc6/namespace_kokkos_1_1_compat.html#a0bc5790348912577c6b6504d6a0b613b" title="Kokkos::Compat::persistingView" alt="" coords="164,13,377,39"/>
-<area shape="rect" id="node5" href="$d3/d74/namespace_teuchos.html#a5f733dc941f0b497fd51b8801b462fb5" title="Teuchos::isend" alt="" coords="215,63,326,90"/>
-<area shape="rect" id="node3" href="$d1/dc6/namespace_kokkos_1_1_compat.html#a2b5b3fe1dfe574e604211e3e48b551e9" title="Kokkos::Compat::deallocator" alt="" coords="425,13,616,39"/>
-<area shape="rect" id="node4" href="$d9/dd6/class_kokkos_1_1_compat_1_1_deallocator.html#a12ba45dd0f7b640473dc929b52671d98" title="Kokkos::Compat::Deallocator\l::view" alt="" coords="664,5,859,47"/>
-</map>

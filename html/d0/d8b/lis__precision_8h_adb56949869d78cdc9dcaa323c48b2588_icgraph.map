@@ -1,5 +1,0 @@
-<map id="lis_quad_sqrt" name="lis_quad_sqrt">
-<area shape="rect" id="node2" href="$db/dcc/lis__solver__gmres_8c.html#ab4f55648cce5299efbfe9d62bb331b36" title="lis_gmres" alt="" coords="154,5,233,32"/>
-<area shape="rect" id="node3" href="$db/dcc/lis__solver__gmres_8c.html#a9f143344cdb220a9036fa33d383fa347" title="lis_fgmres" alt="" coords="152,56,235,83"/>
-<area shape="rect" id="node4" href="$df/d61/lis__solver__qmr_8c.html#a0685cb206e6d07c844cc5586f2990a2c" title="lis_tfqmr" alt="" coords="157,107,229,133"/>
-</map>

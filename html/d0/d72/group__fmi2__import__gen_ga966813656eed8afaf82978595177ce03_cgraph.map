@@ -1,6 +1,0 @@
-<map id="fmi2_import_get_vendor_name" name="fmi2_import_get_vendor_name">
-<area shape="rect" id="node2" href="$d3/df2/fmi2__import_8c.html#a8081f28cd4f12875a98a03a4172dafe4" title="fmi2_import_check_has_FMU" alt="" coords="253,5,449,32"/>
-<area shape="rect" id="node4" href="$de/d1e/group__fmi2__xml__gen.html#ga46511f5dcd15bc81ffc7681ab2909765" title="Get the name of the vendor with that had annotations in the XML by index. " alt="" coords="259,56,444,83"/>
-<area shape="rect" id="node3" href="$d6/dac/group__jm__callbacks.html#gada5096ac90f8adc61a90b76597c4ae05" title="Send a error message to the logger function. See jm_log() for details. " alt="" coords="543,5,637,32"/>
-<area shape="rect" id="node5" href="$de/d1e/group__fmi2__xml__gen.html#ga1a20f733c5ae318051ba7fe89aeeada9" title="Get the number of vendors that had annotations in the XML. " alt="" coords="497,56,683,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="base_array_one_element_ok" name="base_array_one_element_ok">
-<area shape="rect" id="node2" href="$d8/d66/_simulation_runtime_2c_2util_2boolean__array_8h.html#a0d5f1e2a11a31120e0407a3c961a0493" title="scalar_boolean_array" alt="" coords="241,5,387,32"/>
-<area shape="rect" id="node3" href="$d2/d54/_simulation_runtime_2c_2util_2integer__array_8h.html#ab4d701348560498908d508b074e1a1ea" title="scalar_integer_array" alt="" coords="245,56,383,83"/>
-<area shape="rect" id="node4" href="$d1/dc8/_simulation_runtime_2c_2util_2real__array_8h.html#a7d3f6a9290aa83a7993ac8b77215c30b" title="scalar_real_array" alt="" coords="253,107,375,133"/>
-<area shape="rect" id="node5" href="$d3/d53/_simulation_runtime_2c_2util_2string__array_8h.html#a335cfff8436276c99bd03afc681238a1" title="scalar_string_array" alt="" coords="248,157,380,184"/>
-</map>

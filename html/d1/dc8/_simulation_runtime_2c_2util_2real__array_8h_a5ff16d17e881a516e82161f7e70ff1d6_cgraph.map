@@ -1,7 +1,0 @@
-<map id="mul_alloc_real_matrix_product_smart" name="mul_alloc_real_matrix_product_smart">
-<area shape="rect" id="node2" href="$da/d10/build_2include_2omc_2c_2util_2real__array_8c.html#aca8822ed3c6035c16b2f4bb5f8f4f14d" title="simple_alloc_1d_real\l_array" alt="" coords="212,5,355,47"/>
-<area shape="rect" id="node3" href="$da/d10/build_2include_2omc_2c_2util_2real__array_8c.html#a71e39c4f5118466109bb7ad556e9f403" title="mul_real_vector_matrix" alt="" coords="205,71,362,98"/>
-<area shape="rect" id="node4" href="$da/d10/build_2include_2omc_2c_2util_2real__array_8c.html#a1761cbfa6f19a1cbb50d10efdc765c8e" title="mul_real_matrix_vector" alt="" coords="205,122,362,149"/>
-<area shape="rect" id="node5" href="$da/d10/build_2include_2omc_2c_2util_2real__array_8c.html#a8fca13a72fd8d2f5cbc8ca0ff1f166da" title="simple_alloc_2d_real\l_array" alt="" coords="212,173,355,215"/>
-<area shape="rect" id="node6" href="$da/d10/build_2include_2omc_2c_2util_2real__array_8c.html#a040d9d48ac5fc410d8df25ecf2a343b5" title="mul_real_matrix_product" alt="" coords="201,239,365,266"/>
-</map>

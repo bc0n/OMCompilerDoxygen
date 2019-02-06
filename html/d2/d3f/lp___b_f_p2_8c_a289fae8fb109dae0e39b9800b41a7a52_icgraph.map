@@ -1,9 +1,0 @@
-<map id="bfp_init" name="bfp_init">
-<area shape="rect" id="node2" href="$df/df7/lp__lib_8h.html#a87fe168b71b0be133c124282e90089bd" title="set_BFP" alt="" coords="117,36,191,63"/>
-<area shape="rect" id="node3" href="$df/df7/lp__lib_8h.html#a68a0333d84dd944f67e2a0ec72e346a9" title="make_lp" alt="" coords="361,36,432,63"/>
-<area shape="rect" id="node5" href="$df/df7/lp__lib_8h.html#a929e8acb9704f61e16927c915c15cd07" title="set_callbacks" alt="" coords="603,67,705,94"/>
-<area shape="rect" id="node7" href="$df/df7/lp__lib_8h.html#af9cd97825f0cd436b3c3fc3bdf1c82b8" title="delete_lp" alt="" coords="239,143,313,170"/>
-<area shape="rect" id="node4" href="$df/df7/lp__lib_8h.html#aca83ecdbc200b414db491306f3070ae9" title="copy_lp" alt="" coords="484,67,551,94"/>
-<area shape="rect" id="node6" href="$df/df7/lp__lib_8h.html#a351dd803960ab0dae2b39f2c65d3a58d" title="read_XLI" alt="" coords="480,118,555,144"/>
-<area shape="rect" id="node8" href="$df/df7/lp__lib_8h.html#a8ea5effebbfa9ce4844bb713471a7aa1" title="free_lp" alt="" coords="366,143,427,170"/>
-</map>

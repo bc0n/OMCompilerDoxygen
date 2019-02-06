@@ -1,8 +1,0 @@
-<map id="omc_ConnectUtil_collectOuterElements2" name="omc_ConnectUtil_collectOuterElements2">
-<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#a8076dff05095c78a1fca6047fda642ae" title="omc_ConnectUtil_optPrefixCref" alt="" coords="253,41,460,67"/>
-<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a1af0b27447c47ebfbf8edc487dfd04ad" title="omc_List_map2Flat" alt="" coords="289,95,425,122"/>
-<area shape="rect" id="node3" href="$d9/d14/_component_reference_8c.html#ac66614569946c421790b3ecac98debde" title="omc_ComponentReference\l_joinCrefs" alt="" coords="508,29,689,71"/>
-<area shape="rect" id="node4" href="$d9/d14/_component_reference_8c.html#a7432b89e50552d0f7590711f64ca96e8" title="omc_ComponentReference\l_makeCrefQual" alt="" coords="737,29,919,71"/>
-<area shape="rect" id="node6" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a56b7e8a835b2d388f5984ca7378bc1ec" title="listAppend" alt="" coords="557,95,640,122"/>
-<area shape="rect" id="node7" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#ad7cc5a28ee76a604bbbddfd643761734" title="listReverseInPlace" alt="" coords="533,146,665,173"/>
-</map>

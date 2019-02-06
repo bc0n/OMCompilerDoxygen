@@ -1,6 +1,0 @@
-<map id="base_array_create" name="base_array_create">
-<area shape="rect" id="node2" href="$d8/d66/_simulation_runtime_2c_2util_2boolean__array_8h.html#af58ab50c8d7a2d0a8f5aeaee679e3b66" title="boolean_array_create" alt="" coords="183,5,329,32"/>
-<area shape="rect" id="node3" href="$d2/d54/_simulation_runtime_2c_2util_2integer__array_8h.html#ac57fe9f1c38cdfe9797646e1aecac8c9" title="integer_array_create" alt="" coords="186,56,326,83"/>
-<area shape="rect" id="node4" href="$d1/dc8/_simulation_runtime_2c_2util_2real__array_8h.html#addb5cd1f4a7940a4253814a081460b11" title="real_array_create" alt="" coords="195,107,317,133"/>
-<area shape="rect" id="node5" href="$d3/d53/_simulation_runtime_2c_2util_2string__array_8h.html#a5cbd87f2d9b5d9effbbdab9c4c6727d0" title="string_array_create" alt="" coords="189,157,323,184"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="IGlobalSettings::getSolverThreads" name="IGlobalSettings::getSolverThreads">
-<area shape="rect" id="node2" href="$d2/d8c/class_cpp_d_a_s_s_l.html#a808e0cdf58ebfb3e7d7bf58968e5b1ab" title="Spezielle Solvereinstellungen setzten (default oder user defined) " alt="" coords="228,5,373,32"/>
-<area shape="rect" id="node3" href="$d5/db9/class_peer.html#a5d67e13c2223022cff3bfbd908645e04" title="Spezielle Solvereinstellungen setzten (default oder user defined) " alt="" coords="249,56,353,83"/>
-<area shape="rect" id="node4" href="$d5/db9/class_peer.html#a7dfd8af5e2844032de21671f847dc8f3" title="Berechung der numerischen Lösung innerhalb eines gegebenen Zeitintervalls. " alt="" coords="421,56,509,83"/>
-<area shape="rect" id="node5" href="$d5/db9/class_peer.html#a5747c64b7b2018b87b4ee9eca0b1c1fd" title="Setzen der initialen Schrittweite (z.B. auch nach Nullstelle) " alt="" coords="557,56,704,83"/>
-</map>

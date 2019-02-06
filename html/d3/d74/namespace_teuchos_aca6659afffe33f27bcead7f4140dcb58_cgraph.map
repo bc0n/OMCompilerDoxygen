@@ -1,5 +1,0 @@
-<map id="Teuchos::TEUCHOS_UNIT_TEST" name="Teuchos::TEUCHOS_UNIT_TEST">
-<area shape="rect" id="node2" href="$d3/d74/namespace_teuchos.html#a8fe00d51b46bc087399e1b8ee7531e67" title="Teuchos::TEST_THROW" alt="" coords="280,5,452,32"/>
-<area shape="rect" id="node3" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#adc36a705efd91e655fef2521641c26b4" title="Get the raw C++ pointer to the underlying object. " alt="" coords="299,56,433,83"/>
-<area shape="rect" id="node4" href="$d8/dce/class_teuchos_1_1_parameter_entry.html#ac6deac4c36402a00b8075320c1e6a848" title="Return the (optional) documentation std::string. " alt="" coords="281,107,451,149"/>
-</map>

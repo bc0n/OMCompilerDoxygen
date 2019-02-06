@@ -1,7 +1,0 @@
-<map id="Belos::DGKSOrthoManager::getValidParameters" name="Belos::DGKSOrthoManager::getValidParameters">
-<area shape="rect" id="node2" href="$d1/d93/class_belos_1_1_d_g_k_s_ortho_manager.html#a71ab309a4e5e64ff9ab03aae5cafdfda" title="Set parameters from a parameter list and return with default values. " alt="" coords="239,8,422,49"/>
-<area shape="rect" id="node4" href="$d1/d93/class_belos_1_1_d_g_k_s_ortho_manager.html#ab61bd247d5c6718959aafe07e0f56979" title="Belos::DGKSOrthoManager\l::getFastParameters" alt="" coords="239,77,422,119"/>
-<area shape="rect" id="node6" href="$d6/d24/class_belos_1_1_ortho_manager_factory.html#a8125c1d323f550ec9d340e90b4663c4b" title="Default parameters for the given MatOrthoManager subclass. " alt="" coords="236,143,425,199"/>
-<area shape="rect" id="node3" href="$d1/d93/class_belos_1_1_d_g_k_s_ortho_manager.html#a41e75026de09ad63a4e7ca77722037c2" title="Constructor that takes a list of parameters. " alt="" coords="477,5,659,47"/>
-<area shape="rect" id="node5" href="$d6/d24/class_belos_1_1_ortho_manager_factory.html#a9c6fae696371ca4adc74d552ca7f7488" title="&quot;Fast&quot; parameters for the given MatOrthoManager subclass. " alt="" coords="473,71,663,127"/>
-</map>

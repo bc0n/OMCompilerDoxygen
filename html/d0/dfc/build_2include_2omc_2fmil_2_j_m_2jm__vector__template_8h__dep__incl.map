@@ -1,8 +1,0 @@
-<map id="build/include/omc/fmil/JM/jm_vector_template.h" name="build/include/omc/fmil/JM/jm_vector_template.h">
-<area shape="rect" id="node2" href="$d8/d70/jm__named__ptr_8c.html" title="3rdParty/FMIL/src/Util\l/src/JM/jm_named_ptr.c" alt="" coords="5,95,168,136"/>
-<area shape="rect" id="node3" href="$dd/dcb/jm__templates__inst_8c.html" title="3rdParty/FMIL/src/Util\l/src/JM/jm_templates_inst.c" alt="" coords="192,95,379,136"/>
-<area shape="rect" id="node4" href="$d0/d34/fmi1__xml__parser_8c.html" title="3rdParty/FMIL/src/XML\l/src/FMI1/fmi1_xml_parser.c" alt="" coords="403,95,592,136"/>
-<area shape="rect" id="node5" href="$d2/dfd/fmi1__xml__query_8c.html" title="3rdParty/FMIL/src/XML\l/src/FMI1/fmi1_xml_query.c" alt="" coords="617,95,802,136"/>
-<area shape="rect" id="node6" href="$d0/d8b/fmi2__xml__parser_8c.html" title="3rdParty/FMIL/src/XML\l/src/FMI2/fmi2_xml_parser.c" alt="" coords="827,95,1016,136"/>
-<area shape="rect" id="node7" href="$d9/d3b/fmi2__xml__query_8c.html" title="3rdParty/FMIL/src/XML\l/src/FMI2/fmi2_xml_query.c" alt="" coords="1041,95,1226,136"/>
-</map>

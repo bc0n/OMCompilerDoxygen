@@ -1,7 +1,0 @@
-<map id="boxptr_DAEUtil_isParamConstOrComplexVar" name="boxptr_DAEUtil_isParamConstOrComplexVar">
-<area shape="rect" id="node2" href="$d0/d29/_d_a_e_util_8c.html#a20bb8e9b767c5feccf51673638cb9f5d" title="omc_DAEUtil_isParamConst\lOrComplexVar" alt="" coords="256,23,448,65"/>
-<area shape="rect" id="node3" href="$d0/d29/_d_a_e_util_8c.html#a3685b92f7c50120cbc32f1fe6fd5540f" title="omc_DAEUtil_isParamOrConstVar" alt="" coords="496,5,723,32"/>
-<area shape="rect" id="node5" href="$d0/d29/_d_a_e_util_8c.html#a0621f1c2811a9ee4b0fd44b13f425bfe" title="omc_DAEUtil_isComplexVar" alt="" coords="514,56,705,83"/>
-<area shape="rect" id="node4" href="$d9/d9e/_s_code_8c.html#abba93ea8ae44f1bbf7b8f04ea24e5043" title="omc_SCode_isParameterOrConst" alt="" coords="771,5,991,32"/>
-<area shape="rect" id="node6" href="$d3/df6/_types_8c.html#a07bb380e14605bc12b18754dd13b161a" title="omc_Types_isComplexType" alt="" coords="787,56,975,83"/>
-</map>

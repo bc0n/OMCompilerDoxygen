@@ -1,9 +1,0 @@
-<map id="IDASVtolerances" name="IDASVtolerances">
-<area shape="rect" id="node2" href="$d9/dde/fida_8h.html#ab02edc3fef187debf42b292c58d3ae85" title="FIDA_MALLOC" alt="" coords="185,5,299,32"/>
-<area shape="rect" id="node3" href="$d9/dde/fida_8h.html#ab2334f07f4b1ef687ad44c131b631400" title="FIDA_REINIT" alt="" coords="189,56,295,83"/>
-<area shape="rect" id="node4" href="$d9/dde/fida_8h.html#a6c6a10947f0e558c50bfc9aa4ef6f7a1" title="FIDA_TOLREINIT" alt="" coords="177,107,307,133"/>
-<area shape="rect" id="node5" href="$de/ddc/build_2include_2omc_2c_2sundials_2idas_2idas_8h.html#a1de55f30edb5a7b7ff32bf92d10cb0b9" title="IDASVtolerancesB" alt="" coords="176,157,308,184"/>
-<area shape="rect" id="node6" href="$d1/d0d/class_ida.html#a076ebddc85a48c81623e205f2ca9874a" title="Spezielle Solvereinstellungen setzten (default oder user defined) " alt="" coords="195,208,289,235"/>
-<area shape="rect" id="node7" href="$d1/d0d/class_ida.html#a289cf95889af136a4bb11e4c537daa78" title="Berechung der numerischen Lösung innerhalb eines gegebenen Zeitintervalls. " alt="" coords="356,208,435,235"/>
-<area shape="rect" id="node8" href="$d1/d0d/class_ida.html#ad186bf83203716276cc87d63dcac2cec" title="Setzen der initialen Schrittweite (z.B. auch nach Nullstelle) " alt="" coords="483,208,620,235"/>
-</map>

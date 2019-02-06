@@ -1,6 +1,0 @@
-<map id="omc_ConnectUtil_streamFlowExp" name="omc_ConnectUtil_streamFlowExp">
-<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#aee200c511efc090cae269ac0d1f01314" title="omc_ConnectUtil_sumInside1" alt="" coords="279,17,477,43"/>
-<area shape="rect" id="node4" href="$d3/d5a/_connect_util_8c.html#a4c92a325471af61cc5a82cafba639db3" title="omc_ConnectUtil_sumOutside1" alt="" coords="275,71,481,98"/>
-<area shape="rect" id="node3" href="$d3/d5a/_connect_util_8c.html#a3f67dcd121cb05e571c5bbe67ba6bac5" title="boxptr_ConnectUtil\l_sumInside1" alt="" coords="529,5,664,47"/>
-<area shape="rect" id="node5" href="$d3/d5a/_connect_util_8c.html#add2a4c43528e4955ad7dd529f744aca8" title="boxptr_ConnectUtil\l_sumOutside1" alt="" coords="529,71,664,112"/>
-</map>

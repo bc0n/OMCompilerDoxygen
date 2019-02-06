@@ -1,6 +1,0 @@
-<map id="omc_UnitAbsynBuilder_registerUnitWeightDefineunits2" name="omc_UnitAbsynBuilder_registerUnitWeightDefineunits2">
-<area shape="rect" id="node2" href="$d3/d1a/_unit_parser_ext_8c.html#a57503b142cf253ced15b69d25b4b181c" title="omc_UnitParserExt_register\lWeight" alt="" coords="264,5,451,47"/>
-<area shape="rect" id="node5" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="334,71,381,98"/>
-<area shape="rect" id="node3" href="$d6/d92/_unit_parser_ext_8h.html#a759dc0f17740388b74047f7047a3bc9b" title="UnitParserExtImpl_\l_registerWeight" alt="" coords="499,5,635,47"/>
-<area shape="rect" id="node4" href="$d4/d0c/class_unit_parser.html#a408dd882091c41296b230dc9211a74c9" title="UnitParser::accumulateWeight" alt="" coords="683,13,883,39"/>
-</map>

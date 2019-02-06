@@ -1,6 +1,0 @@
-<map id="OMCompiler/3rdParty/gc/libatomic_ops/src/atomic_ops/sysdeps/all_acquire_release_volatile.h" name="OMCompiler/3rdParty/gc/libatomic_ops/src/atomic_ops/sysdeps/all_acquire_release_volatile.h">
-<area shape="rect" id="node2" href="$da/d82/acquire__release__volatile_8h.html" title="loadstore/acquire_release\l_volatile.h" alt="" coords="5,124,176,165"/>
-<area shape="rect" id="node3" href="$d6/d4a/char__acquire__release__volatile_8h.html" title="loadstore/char_acquire\l_release_volatile.h" alt="" coords="201,124,354,165"/>
-<area shape="rect" id="node4" href="$d1/d4f/short__acquire__release__volatile_8h.html" title="loadstore/short_acquire\l_release_volatile.h" alt="" coords="379,124,536,165"/>
-<area shape="rect" id="node5" href="$de/d67/int__acquire__release__volatile_8h.html" title="loadstore/int_acquire\l_release_volatile.h" alt="" coords="561,124,703,165"/>
-</map>

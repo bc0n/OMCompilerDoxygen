@@ -1,5 +1,0 @@
-<map id="fmi2_xml_get_variability" name="fmi2_xml_get_variability">
-<area shape="rect" id="node2" href="$df/d03/group__fmi2__import__convenience.html#ga215d2ada9a82234d7d62180879466f25" title="Collect model information by counting the number of variables with specific properties and fillinf in..." alt="" coords="237,5,372,47"/>
-<area shape="rect" id="node3" href="$db/d66/group__fmi2__import__variables.html#gab27ab14f3d6c1ae6b143b58153284d26" title="Get variability attribute. " alt="" coords="216,71,393,98"/>
-<area shape="rect" id="node4" href="$df/d24/_f_m_i_impl_8c.html#aebf5a63e5f490ec503403bb14945cfd6" title="getFMI2ModelVariableVariability" alt="" coords="441,71,651,98"/>
-</map>

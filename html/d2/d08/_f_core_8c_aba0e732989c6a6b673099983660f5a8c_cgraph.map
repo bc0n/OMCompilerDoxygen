@@ -1,7 +1,0 @@
-<map id="omc_FCore_RefTree_balance" name="omc_FCore_RefTree_balance">
-<area shape="rect" id="node2" href="$d2/d08/_f_core_8c.html#a69b3a7db143f42e975ebc07f037b6118" title="omc_FCore_RefTree_height" alt="" coords="508,15,695,41"/>
-<area shape="rect" id="node3" href="$d2/d08/_f_core_8c.html#ace4d50506ba1a4fc564cae9dd5c81a46" title="omc_FCore_RefTree_calculate\lBalance" alt="" coords="251,37,454,78"/>
-<area shape="rect" id="node4" href="$d2/d08/_f_core_8c.html#ac15f8634d1f1c9dff437068086e48d28" title="omc_FCore_RefTree_rotateLeft" alt="" coords="249,103,456,129"/>
-<area shape="rect" id="node5" href="$d2/d08/_f_core_8c.html#a279c2632469f5881cfb6430e4513e5fb" title="omc_FCore_RefTree_setTree\lLeftRight" alt="" coords="504,146,699,187"/>
-<area shape="rect" id="node6" href="$d2/d08/_f_core_8c.html#a67becfaaab5061de59cc7a7df48bd618" title="omc_FCore_RefTree_rotate\lRight" alt="" coords="261,205,445,246"/>
-</map>

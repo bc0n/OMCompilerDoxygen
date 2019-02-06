@@ -1,7 +1,0 @@
-<map id="omc_Absyn_getNamedAnnotationInClass" name="omc_Absyn_getNamedAnnotationInClass">
-<area shape="rect" id="node2" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a65a694e3889f2f5d8af963dcfbbaf1cf" title="omc_List_flatten" alt="" coords="333,31,451,57"/>
-<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a70628b2c3fb199a118f80777135940ee" title="omc_List_map" alt="" coords="339,81,445,108"/>
-<area shape="rect" id="node6" href="$d0/d78/_absyn_8c.html#ab831c61b00e06407584466e28fe425da" title="omc_Absyn_getNamedAnnotationStr" alt="" coords="273,132,511,159"/>
-<area shape="rect" id="node3" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a81001ba45c298ade27540edd2589777c" title="listReverse" alt="" coords="559,5,647,32"/>
-<area shape="rect" id="node4" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a56b7e8a835b2d388f5984ca7378bc1ec" title="listAppend" alt="" coords="561,56,644,83"/>
-</map>

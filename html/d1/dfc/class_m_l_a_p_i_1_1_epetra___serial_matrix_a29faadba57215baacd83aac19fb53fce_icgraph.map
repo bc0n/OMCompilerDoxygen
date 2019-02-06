@@ -1,7 +1,0 @@
-<map id="MLAPI::Epetra_SerialMatrix::NumMyRows" name="MLAPI::Epetra_SerialMatrix::NumMyRows">
-<area shape="rect" id="node2" href="$d1/dfc/class_m_l_a_p_i_1_1_epetra___serial_matrix.html#a62f341b2644b7668558478d7dd7f7fbd" title="MLAPI::Epetra_SerialMatrix\l::NumMyRowEntries" alt="" coords="237,51,421,92"/>
-<area shape="rect" id="node3" href="$d1/dfc/class_m_l_a_p_i_1_1_epetra___serial_matrix.html#a6958ea03735e5fc9d48c8d12310278b2" title="MLAPI::Epetra_SerialMatrix\l::MaxNumEntries" alt="" coords="469,5,653,47"/>
-<area shape="rect" id="node4" href="$d1/dfc/class_m_l_a_p_i_1_1_epetra___serial_matrix.html#aea1135281e6d201da65cefa1bf78230f" title="MLAPI::Epetra_SerialMatrix\l::ExtractMyRowCopy" alt="" coords="469,84,653,125"/>
-<area shape="rect" id="node5" href="$d1/dfc/class_m_l_a_p_i_1_1_epetra___serial_matrix.html#abb44726d611f3a393401c68664e9c678" title="MLAPI::Epetra_SerialMatrix\l::ExtractDiagonalCopy" alt="" coords="237,168,421,209"/>
-<area shape="rect" id="node6" href="$d1/dfc/class_m_l_a_p_i_1_1_epetra___serial_matrix.html#a9695afe20fa1bb9b9ff20de7d1eda4ac" title="MLAPI::Epetra_SerialMatrix\l::operator()" alt="" coords="237,233,421,275"/>
-</map>

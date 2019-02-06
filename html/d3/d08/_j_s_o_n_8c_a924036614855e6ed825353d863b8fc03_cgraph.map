@@ -1,7 +1,0 @@
-<map id="omc_JSON_AvlTree_balance" name="omc_JSON_AvlTree_balance">
-<area shape="rect" id="node2" href="$d3/d08/_j_s_o_n_8c.html#a3369094905053b4ed39bbffc0e7992b2" title="omc_JSON_AvlTree_height" alt="" coords="514,15,698,42"/>
-<area shape="rect" id="node3" href="$d3/d08/_j_s_o_n_8c.html#ab038561329196c71f95997a8c33c228c" title="omc_JSON_AvlTree_calculate\lBalance" alt="" coords="254,37,455,78"/>
-<area shape="rect" id="node4" href="$d3/d08/_j_s_o_n_8c.html#a25ebb330929d62e4d59ba950d9878966" title="omc_JSON_AvlTree_rotateLeft" alt="" coords="253,103,457,130"/>
-<area shape="rect" id="node5" href="$d3/d08/_j_s_o_n_8c.html#ac178e570873d29c545fcccfa0067efe9" title="omc_JSON_AvlTree_setTree\lLeftRight" alt="" coords="509,146,703,188"/>
-<area shape="rect" id="node6" href="$d3/d08/_j_s_o_n_8c.html#a383433897bccdf960445cea7a4f3f309" title="omc_JSON_AvlTree_rotateRight" alt="" coords="248,204,461,231"/>
-</map>

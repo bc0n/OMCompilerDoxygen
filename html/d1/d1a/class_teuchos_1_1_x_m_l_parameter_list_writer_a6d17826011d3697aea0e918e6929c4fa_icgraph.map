@@ -1,9 +1,0 @@
-<map id="Teuchos::XMLParameterListWriter::getParameterListTagName" name="Teuchos::XMLParameterListWriter::getParameterListTagName">
-<area shape="rect" id="node2" href="$da/d80/class_teuchos_1_1_x_m_l_parameter_list_reader.html#a5ebde20c78ba290d48a02694c60dde96" title="Teuchos::XMLParameterList\lReader::toParameterList" alt="" coords="275,79,463,121"/>
-<area shape="rect" id="node6" href="$d1/d1a/class_teuchos_1_1_x_m_l_parameter_list_writer.html#afd50937bceed528fbaa2c50217ecb8ba" title="Teuchos::XMLParameterList\lWriter::toXML" alt="" coords="275,166,463,207"/>
-<area shape="rect" id="node3" href="$d4/da1/namespace_m_l___epetra.html#aa15a238c96fdcafd8f5625a49ed53d03" title="Reads in parameter list options from file. " alt="" coords="549,5,699,32"/>
-<area shape="rect" id="node4" href="$dc/da2/class_teuchos_1_1_parameter_x_m_l_file_reader.html#ac258670a6c37c162c1e5ac79f1141bed" title="Teuchos::ParameterXMLFile\lReader::getParameters" alt="" coords="530,57,718,98"/>
-<area shape="rect" id="node5" href="$d3/d74/namespace_teuchos.html#a0ffd9b0d9c7e740a826655877920b111" title="Teuchos::TEUCHOS_UNIT_TEST" alt="" coords="511,123,737,149"/>
-<area shape="rect" id="node7" href="$d3/d74/namespace_teuchos.html#af5c0447eec5bc66117dfed97ac55cca3" title="Teuchos::TEUCHOS_UNIT_TEST" alt="" coords="511,173,737,200"/>
-<area shape="rect" id="node8" href="$d3/d74/namespace_teuchos.html#a74a7e6c3bd389c804015c8e10fe8b432" title="Teuchos::TEUCHOS_UNIT\l_TEST_TEMPLATE_1_DECL" alt="" coords="525,225,723,266"/>
-</map>

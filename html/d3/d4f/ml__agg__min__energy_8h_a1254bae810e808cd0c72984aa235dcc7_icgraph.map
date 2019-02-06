@@ -1,8 +1,0 @@
-<map id="ML_ODE_Strength_Matrix" name="ML_ODE_Strength_Matrix">
-<area shape="rect" id="node2" href="$d3/d4f/ml__agg__min__energy_8h.html#ad06158a73f2f0dddc7afa10c21f8c1fe" title="ML_AGG_Gen_Prolongator\l_MandelMinEnergy" alt="" coords="228,39,408,80"/>
-<area shape="rect" id="node3" href="$d0/d33/ml__agg__gen_p_8h.html#a69d5fe24f9b1bfc2267c54124b8d6e54" title="ML_MultiLevel_Gen_Prolongator" alt="" coords="456,46,667,73"/>
-<area shape="rect" id="node4" href="$d0/d33/ml__agg__gen_p_8h.html#ae7d1b526f0441504fca9924114c35306" title="ML_Gen_MultiLevelHierarchy\l_UsingAggregation" alt="" coords="750,5,943,47"/>
-<area shape="rect" id="node7" href="$d0/d33/ml__agg__gen_p_8h.html#a401a0ca1f24bd136d5fcf880b4a85a2e" title="ML_Gen_MultiLevelHierarchy\l_UsingSmoothedAggr_ReuseExistingAgg" alt="" coords="715,71,979,112"/>
-<area shape="rect" id="node5" href="$d9/df7/ml__aztec__simple_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1027,13,1077,39"/>
-<area shape="rect" id="node6" href="$d9/df7/ml__aztec__simple_8c.html#a305183e8faf483ededc56013847b5172" title="user_Kn_build" alt="" coords="1125,13,1229,39"/>
-</map>

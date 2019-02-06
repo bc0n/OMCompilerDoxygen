@@ -1,6 +1,0 @@
-<map id="omc_Expression_traverseExpBidir" name="omc_Expression_traverseExpBidir">
-<area shape="rect" id="node2" href="$d4/d57/_ceval_function_8c.html#aabcb9d6b7f8c22929303401eb6579981" title="omc_CevalFunction_getElement\lDependenciesFromDims" alt="" coords="249,5,460,47"/>
-<area shape="rect" id="node3" href="$d1/d08/_expression_8c.html#aecf10f0e7981140b30a096f706a8d1d3" title="omc_Expression_traverseReduction\lIteratorBidir" alt="" coords="508,127,740,168"/>
-<area shape="rect" id="node4" href="$d1/d08/_expression_8c.html#a32a6aca5e81067425043c3018a836e11" title="omc_Expression_traverseExp\lBidirSubs" alt="" coords="257,123,453,164"/>
-<area shape="rect" id="node5" href="$d6/d99/_expression_8h.html#abd442ba7239d88998e096de7c8af4403" title="omc_Expression_traverseExp\lOptBidir" alt="" coords="257,188,453,229"/>
-</map>

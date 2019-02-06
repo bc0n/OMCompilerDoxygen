@@ -1,9 +1,0 @@
-<map id="Belos::StatusTestImpResNorm::firstCallCheckStatusSetup" name="Belos::StatusTestImpResNorm::firstCallCheckStatusSetup">
-<area shape="rect" id="node2" href="$d0/d6b/class_belos_1_1_status_test_imp_res_norm.html#a7dfed3994b93626667ca2c60d0114222" title="Returns a boolean indicating a loss of accuracy has been detected in computing the residual..." alt="" coords="259,5,464,47"/>
-<area shape="rect" id="node3" href="$d0/d6b/class_belos_1_1_status_test_imp_res_norm.html#a95249d6b3070c0f9aa3d148f56e367ef" title="Check convergence status: Passed, Failed, or Undefined. " alt="" coords="259,71,464,112"/>
-<area shape="rect" id="node6" href="$d0/d6b/class_belos_1_1_status_test_imp_res_norm.html#a5e2d5468aef81195eb7acc8ffda4e7ea" title="Print message for each status specific to this stopping test. " alt="" coords="259,136,464,177"/>
-<area shape="rect" id="node4" href="$d0/d6b/class_belos_1_1_status_test_imp_res_norm.html#adae716113c9688aecaae5d2c64171aaf" title="Set whether the only maximum residual norm is displayed when the print() method is called..." alt="" coords="512,7,717,48"/>
-<area shape="rect" id="node5" href="$d0/d6b/class_belos_1_1_status_test_imp_res_norm.html#a63cfcd4961cd567a2ec025cced795fe3" title="Define form of the scaling, its norm, its optional weighting vector, or, alternatively, define an explicit value. " alt="" coords="512,72,717,113"/>
-<area shape="rect" id="node7" href="$d0/d6b/class_belos_1_1_status_test_imp_res_norm.html#a908a597588d01fecf4c49e82ec564fde" title="Return the result of the most recent CheckStatus call. " alt="" coords="765,163,971,204"/>
-<area shape="rect" id="node8" href="$d0/d6b/class_belos_1_1_status_test_imp_res_norm.html#a6d54495ca8436639a63077fd27789186" title="Output formatted description of stopping test to output stream. " alt="" coords="512,192,717,233"/>
-</map>

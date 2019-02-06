@@ -1,7 +1,0 @@
-<map id="multi_truncatingvar" name="multi_truncatingvar">
-<area shape="rect" id="node2" href="$d0/d95/build_2include_2omc_2lpsolve_2lp__price_8h.html#afb197219ba224df3e8dc60d442faffbc" title="addCandidateVar" alt="" coords="185,5,308,32"/>
-<area shape="rect" id="node5" href="$d0/d95/build_2include_2omc_2lpsolve_2lp__price_8h.html#a37cf9776e07a2ed0adc6b290bb7ce83d" title="collectMinorVar" alt="" coords="369,56,481,83"/>
-<area shape="rect" id="node3" href="$d0/d95/build_2include_2omc_2lpsolve_2lp__price_8h.html#a636a39fc7aab9053f58bdd108551db04" title="findImprovementVar" alt="" coords="356,5,495,32"/>
-<area shape="rect" id="node4" href="$d0/d95/build_2include_2omc_2lpsolve_2lp__price_8h.html#a85beaab945bff303bf1aa8c85d850b41" title="rowdual" alt="" coords="543,5,609,32"/>
-<area shape="rect" id="node6" href="$d0/d95/build_2include_2omc_2lpsolve_2lp__price_8h.html#a956054a45ac5f9a7c0b35405ecdfc786" title="coldual" alt="" coords="545,56,607,83"/>
-</map>

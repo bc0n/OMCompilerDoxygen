@@ -1,9 +1,0 @@
-<map id="omc_BackendDump_optionString" name="omc_BackendDump_optionString">
-<area shape="rect" id="node2" href="$df/df2/_backend_dump_8h.html#a599eede363b10832b04bc16fe2bb2c0e" title="omc_BackendDump_subClock\lString" alt="" coords="269,5,472,47"/>
-<area shape="rect" id="node4" href="$dc/d5a/_find_zero_crossings_8c.html#ab970989885a0536cbc4f0e961b7dd083" title="omc_FindZeroCrossings\l_findZeroCrossings1" alt="" coords="289,71,453,112"/>
-<area shape="rect" id="node5" href="$d7/db4/_synchronous_features_8c.html#a38f24aa86ed552497cd7acdd082b4e10" title="omc_SynchronousFeatures\l_treatClockedStates" alt="" coords="280,136,461,177"/>
-<area shape="rect" id="node3" href="$db/d13/_sim_code_util_8c.html#acb62dd11e8e900f4d25c7c067f81c46c" title="omc_SimCodeUtil_subPartition\lString" alt="" coords="520,5,724,47"/>
-<area shape="rect" id="node6" href="$db/d6c/_synchronous_features_8h.html#a7c2cc409ccb92ae85ac9d4d50ef37838" title="omc_SynchronousFeatures\l_synchronousFeatures" alt="" coords="531,136,713,177"/>
-<area shape="rect" id="node7" href="$de/d7d/_backend_d_a_e_util_8h.html#aafb77b43443d975f28a394ab1edb416d" title="omc_BackendDAEUtil\l_getSolvedSystem" alt="" coords="772,136,925,177"/>
-<area shape="rect" id="node8" href="$db/dd3/_open_t_u_r_n_s_8h.html#abed2ae4cf854648f70bcf2e01cf1e86f" title="omc_OpenTURNS_generateOpen\lTURNSInterface" alt="" coords="973,136,1193,177"/>
-</map>

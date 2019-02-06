@@ -1,5 +1,0 @@
-<map id="SimController::SimController" name="SimController::SimController">
-<area shape="rect" id="node2" href="$d6/df2/class_measure_time.html#a81c5c6b887f2294c2d863e560626c8c2" title="MeasureTime::getInstance" alt="" coords="249,5,427,32"/>
-<area shape="rect" id="node3" href="$d6/df2/class_measure_time.html#a0c4b7a817625d34722474308ad864d87" title="MeasureTime::getZeroValues" alt="" coords="241,56,435,83"/>
-<area shape="rect" id="node4" href="$d6/df2/class_measure_time.html#acd21bb2ef4105a1ce2ddb0b61dd65712" title="MeasureTime::getZeroValuesP" alt="" coords="483,56,685,83"/>
-</map>

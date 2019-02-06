@@ -1,6 +1,0 @@
-<map id="FIDA_SPILSSETPREC" name="FIDA_SPILSSETPREC">
-<area shape="rect" id="node2" href="$da/db9/3rd_party_2sundials_2build_2include_2ida_2ida__spils_8h.html#a814927d4774d20fc15ad00a59cc651bb" title="IDASpilsSetPreconditioner" alt="" coords="216,5,393,32"/>
-<area shape="rect" id="node3" href="$df/dc8/3rd_party_2sundials_2build_2include_2sundials_2sundials__nvector_8h.html#a7b59b159fc18c4da3383bda86453a063" title="N_VClone" alt="" coords="263,56,346,83"/>
-<area shape="rect" id="node4" href="$d0/dfc/fidapreco_8c.html#a08bcf6eee25c78cdb5b9949a4657d7a5" title="FIDAPSet" alt="" coords="263,107,346,133"/>
-<area shape="rect" id="node5" href="$d0/dfc/fidapreco_8c.html#a6a613905b7dd4231cfa12fbb5a9481c3" title="FIDAPSol" alt="" coords="264,157,345,184"/>
-</map>

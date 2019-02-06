@@ -1,9 +1,0 @@
-<map id="ML_Gen_Restrictor_TransP" name="ML_Gen_Restrictor_TransP">
-<area shape="rect" id="node2" href="$d0/d33/ml__agg__gen_p_8h.html#a5f5a51370590a53ee4a81315f3d2109e" title="ML_Gen_MGHierarchy\l_UsingSmoothedAggr_ReuseExistingAgg" alt="" coords="237,5,501,47"/>
-<area shape="rect" id="node3" href="$d3/d4f/ml__agg__min__energy_8h.html#a6b35cf6fd81c1444cbec8542701064a2" title="ML_AGG_Gen_Restriction\l_MinEnergy" alt="" coords="281,71,458,112"/>
-<area shape="rect" id="node4" href="$d5/d9b/ml__agg__reitzinger_8h.html#a109c0acc3b9efbf213a9f49d756cdda1" title="ML_Gen_MGHierarchy\l_UsingReitzinger" alt="" coords="292,136,447,177"/>
-<area shape="rect" id="node6" href="$db/de5/ml__struct_8h.html#a92cced15df08bf2f7ba21d79f90a26f6" title="ML_build_ggb" alt="" coords="318,202,421,229"/>
-<area shape="rect" id="node7" href="$db/de5/ml__struct_8h.html#aa81aa95edbf352529a893df076447c7d" title="ML_build_ggb_cheap" alt="" coords="297,253,441,279"/>
-<area shape="rect" id="node8" href="$db/ddd/class_m_l___epetra_1_1_multi_level_preconditioner.html#a0e3e3380ddad9bf64d3bf36bc3802f8f" title="Constructs a MultiLevelPreconditioner for multiphysics with variable dofs per node. " alt="" coords="252,304,487,345"/>
-<area shape="rect" id="node5" href="$d5/d21/ml__simple__max_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="549,143,600,170"/>
-</map>

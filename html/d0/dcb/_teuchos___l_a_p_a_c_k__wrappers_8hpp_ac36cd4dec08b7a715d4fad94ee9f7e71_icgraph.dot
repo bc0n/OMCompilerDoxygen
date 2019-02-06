@@ -1,9 +1,0 @@
-digraph "DLARNV_F77"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node96 [label="DLARNV_F77",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node96 -> Node97 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node97 [label="Teuchos::LAPACK\< int,\l double \>::LARNV",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/ddb/class_teuchos_1_1_l_a_p_a_c_k_3_01int_00_01double_01_4.html#a227de35b840969af9a04aa095784e8e0"];
-}

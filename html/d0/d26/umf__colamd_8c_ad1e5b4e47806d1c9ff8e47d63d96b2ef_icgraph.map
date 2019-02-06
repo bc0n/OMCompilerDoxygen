@@ -1,9 +1,0 @@
-<map id="debug_deg_lists" name="debug_deg_lists">
-<area shape="rect" id="node2" href="$d0/d26/umf__colamd_8c.html#aac218aec9ed99e3f5440a004984d9dfb" title="init_scoring" alt="" coords="340,31,428,57"/>
-<area shape="rect" id="node6" href="$d0/d26/umf__colamd_8c.html#ac076a769bbd2d5cfa67d23048d0086ed" title="debug_structures" alt="" coords="169,81,292,108"/>
-<area shape="rect" id="node3" href="$dd/d5d/umf__colamd_8h.html#a151c99c6432fe73444a8a487aa16d08b" title="UMF_colamd" alt="" coords="655,5,755,32"/>
-<area shape="rect" id="node5" href="$d0/d26/umf__colamd_8c.html#ad32c97e9112680b6184e9620ca14f81a" title="init_rows_cols" alt="" coords="489,31,594,57"/>
-<area shape="rect" id="node4" href="$dd/d5d/umf__colamd_8h.html#a3a3cde64fddc541c738e623ea9cb78d5" title="UMF_colamd_set_defaults" alt="" coords="803,5,981,32"/>
-<area shape="rect" id="node7" href="$d0/d26/umf__colamd_8c.html#a2b9a009e3b4559e1eb1dc0ba9a112804" title="clear_mark" alt="" coords="341,81,427,108"/>
-<area shape="rect" id="node8" href="$d0/d26/umf__colamd_8c.html#aef5424fba60a65b9a7c0748e952e5d71" title="garbage_collection" alt="" coords="476,81,607,108"/>
-</map>

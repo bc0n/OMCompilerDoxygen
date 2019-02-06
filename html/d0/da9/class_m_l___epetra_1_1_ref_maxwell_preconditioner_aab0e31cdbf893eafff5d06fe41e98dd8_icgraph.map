@@ -1,5 +1,0 @@
-<map id="ML_Epetra::RefMaxwellPreconditioner::Complexities" name="ML_Epetra::RefMaxwellPreconditioner::Complexities">
-<area shape="rect" id="node2" href="$dc/d04/classml__maxwell__data__pack.html#a0af0a3ce0af42d9405c9129d73dc93fa" title="ml_maxwell_data_pack\l::setup_preconditioner" alt="" coords="342,5,501,47"/>
-<area shape="rect" id="node4" href="$d0/da9/class_m_l___epetra_1_1_ref_maxwell_preconditioner.html#ae8eed67bf243e19659d6a935633c2a95" title="Returns the Epetra_Map object associated with the range of this operator. " alt="" coords="299,71,544,112"/>
-<area shape="rect" id="node3" href="$df/d03/mlmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="592,13,689,39"/>
-</map>

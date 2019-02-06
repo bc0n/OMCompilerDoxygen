@@ -1,7 +1,0 @@
-<map id="omc_Patternm_traversePatternList" name="omc_Patternm_traversePatternList">
-<area shape="rect" id="node2" href="$db/dd4/_inst_util_8c.html#a50c82326447d9278fdc9c2e75513cfd3" title="omc_InstUtil_findUnbound\lVariableUseInCase" alt="" coords="304,5,480,47"/>
-<area shape="rect" id="node3" href="$d0/d09/_patternm_8c.html#ad9913dac7bca5877d4934716f5792f84" title="omc_Patternm_addCasesLocalCref" alt="" coords="277,71,507,98"/>
-<area shape="rect" id="node4" href="$d0/d09/_patternm_8c.html#a0590c8baf89fd3c9c2045d779c69244c" title="omc_Patternm_useCasesLocalCref" alt="" coords="277,122,507,149"/>
-<area shape="rect" id="node6" href="$d0/d09/_patternm_8c.html#a23b14580d6f292dcc857d4318bfbb732" title="omc_Patternm_checkPatterns\lDuplicateAsBindings" alt="" coords="293,173,491,215"/>
-<area shape="rect" id="node5" href="$d0/d09/_patternm_8c.html#a204ad8153dc623fd6e55ba0480318707" title="omc_Patternm_useLocalCref" alt="" coords="555,122,745,149"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="incrementUndoLadder" name="incrementUndoLadder">
-<area shape="rect" id="node2" href="$dc/d9a/lp__matrix_8c.html#a71e24efc6f48aa6fb098d9f471574d1c" title="inc_matcol_space" alt="" coords="203,5,329,32"/>
-<area shape="rect" id="node4" href="$dc/d9a/lp__matrix_8c.html#a4b382fbfc70092747f60017cdf62e1e6" title="mat_shiftcols" alt="" coords="216,56,316,83"/>
-<area shape="rect" id="node3" href="$d1/daa/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__utils_8h.html#a2081b8e14a0691b7e3931fa280ad9e63" title="allocINT" alt="" coords="394,5,465,32"/>
-<area shape="rect" id="node5" href="$d1/daa/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__utils_8h.html#a183f62e53061778d4fdb381e27d8cf4c" title="isActiveLink" alt="" coords="383,56,476,83"/>
-<area shape="rect" id="node6" href="$dc/d9a/lp__matrix_8c.html#a9430c42ed7853fd8dd6463ed7165f243" title="mat_nonzeros" alt="" coords="377,107,481,133"/>
-</map>

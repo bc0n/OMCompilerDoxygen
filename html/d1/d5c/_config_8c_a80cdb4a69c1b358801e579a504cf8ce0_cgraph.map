@@ -1,7 +1,0 @@
-<map id="boxptr_Config_acceptParModelicaGrammar" name="boxptr_Config_acceptParModelicaGrammar">
-<area shape="rect" id="node2" href="$d1/d5c/_config_8c.html#a43c131e2e597b177d245dfd9b343ae0f" title="omc_Config_acceptParModelica\lGrammar" alt="" coords="275,5,485,47"/>
-<area shape="rect" id="node3" href="$d3/db3/_flags_8c.html#add52ff282ca5df852c1905fabb4571c9" title="omc_Flags_getConfigEnum" alt="" coords="533,13,716,39"/>
-<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="764,13,947,39"/>
-<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="995,13,1144,39"/>
-<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1192,13,1295,39"/>
-</map>

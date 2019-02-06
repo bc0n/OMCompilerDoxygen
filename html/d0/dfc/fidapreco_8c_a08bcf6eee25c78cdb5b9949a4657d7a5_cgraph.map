@@ -1,6 +1,0 @@
-<map id="FIDAPSet" name="FIDAPSet">
-<area shape="rect" id="node2" href="$d5/d9d/3rd_party_2sundials_2include_2ida_2ida_8h.html#a1f726546759cbd8e0ad8a8a89b456291" title="IDAGetErrWeights" alt="" coords="141,5,272,32"/>
-<area shape="rect" id="node3" href="$d5/d9d/3rd_party_2sundials_2include_2ida_2ida_8h.html#a832d8f2203c74a0e0e2513bd1f7d4f11" title="IDAGetLastStep" alt="" coords="147,56,266,83"/>
-<area shape="rect" id="node4" href="$dc/dc8/sundials__nvector_8h.html#ab14cd7d630355c66928718a744da72d6" title="N_VGetArrayPointer" alt="" coords="136,107,277,133"/>
-<area shape="rect" id="node5" href="$d0/dfc/fidapreco_8c.html#a6ccda193ad50b3c7aa9938797545ce8f" title="FIDA_PSET" alt="" coords="159,157,254,184"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Teuchos::CharToValueTypeReductionOpImp&lt; Ordinal, T, Serializer &gt;" name="Teuchos::CharToValueTypeReductionOpImp&lt; Ordinal, T, Serializer &gt;">
-<area shape="rect" id="node5" href="$d0/dc3/class_teuchos_1_1_char_to_value_type_reduction_op.html" title="Decorator class that uses traits to convert to and from char[] to typed buffers for objects that use ..." alt="" coords="13,348,199,404"/>
-<area shape="rect" id="node2" href="$d5/d5c/class_teuchos_1_1_value_type_reduction_op.html" title="Teuchos::ValueTypeReduction\lOp\&lt; Ordinal, char \&gt;" alt="" coords="5,155,207,196"/>
-<area shape="rect" id="node3" href="$de/d8a/class_teuchos_1_1_describable.html" title="Base class for all objects that can describe themselves. " alt="" coords="31,80,181,107"/>
-<area shape="rect" id="node4" href="$df/d61/class_teuchos_1_1_labeled_object.html" title="Base class for objects that contain a std::string label. " alt="" coords="25,5,187,32"/>
-</map>

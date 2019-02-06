@@ -1,6 +1,0 @@
-<map id="Logger::getCategory" name="Logger::getCategory">
-<area shape="rect" id="node2" href="$d3/d42/class_logger.html#ab55ce5a75924476f72898113da20f763" title="Logger::writeInternal" alt="" coords="207,5,347,32"/>
-<area shape="rect" id="node4" href="$de/dcf/class_logger_x_m_l.html#a1d4febe30ef04a9445558a7826c998e9" title="LoggerXML::writeInternal" alt="" coords="193,56,360,83"/>
-<area shape="rect" id="node3" href="$df/db0/class_f_m_u_logger.html#ac480da0c49e4fe3d0f84dd4b1efc0894" title="FMULogger::initialize" alt="" coords="433,5,578,32"/>
-<area shape="rect" id="node5" href="$da/d56/class_logger_x_m_l_t_c_p.html#a3bbeadd45814c878b8cae0bc38723ebf" title="LoggerXMLTCP::writeInternal" alt="" coords="408,56,603,83"/>
-</map>

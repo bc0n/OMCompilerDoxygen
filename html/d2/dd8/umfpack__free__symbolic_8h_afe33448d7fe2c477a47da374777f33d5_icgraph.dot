@@ -1,9 +1,0 @@
-digraph "umfpack_zi_free_symbolic"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node8 [label="umfpack_zi_free_symbolic",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node9 [label="boost::numeric::bindings\l::umfpack::detail::free\l_symbolic",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d20/namespaceboost_1_1numeric_1_1bindings_1_1umfpack_1_1detail.html#ae012c0af9992b844b4e565995188467f"];
-}

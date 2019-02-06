@@ -1,9 +1,0 @@
-digraph "Teuchos::defaultSmallNumber"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node716 [label="Teuchos::defaultSmallNumber",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node716 -> Node717 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node717 [label="Teuchos::ValueTypeConversion\lTraits\< std::pair\< Packet,\l Packet \>, ConvertToPacket\l \>::safeConvert",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/da7/class_teuchos_1_1_value_type_conversion_traits_3_01std_1_1pair_3_01_packet_00_01_packet_01_4_00_01_convert_to_packet_01_4.html#a036b0580017d5e72c410ab2d43cd679a"];
-}

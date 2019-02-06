@@ -1,7 +1,0 @@
-<map id="ARKodeRootInit" name="ARKodeRootInit">
-<area shape="rect" id="node2" href="$de/d9d/farkroot_8h.html#a1f572ad9f7618cb6a0de270285079724" title="FARK_ROOTINIT" alt="" coords="175,5,305,32"/>
-<area shape="rect" id="node3" href="$de/d9d/farkroot_8h.html#a95f57d82166f7427ac6c4e92abd0668f" title="FARK_ROOTFREE" alt="" coords="171,56,309,83"/>
-<area shape="rect" id="node4" href="$da/d06/class_arkode.html#a3eff384d3099f447d376ff5493ab9e82" title="Spezielle Solvereinstellungen setzten (default oder user defined) " alt="" coords="181,107,299,133"/>
-<area shape="rect" id="node5" href="$da/d06/class_arkode.html#a39e6c051c6e46ad0070349f50dc95748" title="Berechung der numerischen Lösung innerhalb eines gegebenen Zeitintervalls. " alt="" coords="357,107,460,133"/>
-<area shape="rect" id="node6" href="$da/d06/class_arkode.html#a34a4e2f71a785e57d9a1527be1fa9590" title="Setzen der initialen Schrittweite (z.B. auch nach Nullstelle) " alt="" coords="508,107,668,133"/>
-</map>

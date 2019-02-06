@@ -1,9 +1,0 @@
-<map id="spx_solve" name="spx_solve">
-<area shape="rect" id="node2" href="$d1/d0a/lp__simplex_8h.html#a320e9e82c06466267a7cb7844c7767b8" title="lag_solve" alt="" coords="135,17,212,44"/>
-<area shape="rect" id="node3" href="$d1/d0a/lp__simplex_8h.html#a794b0beb471eb7ece9a694717b65b947" title="lin_solve" alt="" coords="260,43,333,69"/>
-<area shape="rect" id="node4" href="$df/df7/lp__lib_8h.html#a0f4da3a192397e77e6fe92704d4fad3f" title="solve" alt="" coords="381,43,435,69"/>
-<area shape="rect" id="node5" href="$df/df7/lp__lib_8h.html#a929e8acb9704f61e16927c915c15cd07" title="set_callbacks" alt="" coords="483,43,585,69"/>
-<area shape="rect" id="node6" href="$df/df7/lp__lib_8h.html#a68a0333d84dd944f67e2a0ec72e346a9" title="make_lp" alt="" coords="633,43,704,69"/>
-<area shape="rect" id="node7" href="$df/df7/lp__lib_8h.html#aca83ecdbc200b414db491306f3070ae9" title="copy_lp" alt="" coords="756,5,823,32"/>
-<area shape="rect" id="node8" href="$df/df7/lp__lib_8h.html#a351dd803960ab0dae2b39f2c65d3a58d" title="read_XLI" alt="" coords="752,68,827,95"/>
-</map>

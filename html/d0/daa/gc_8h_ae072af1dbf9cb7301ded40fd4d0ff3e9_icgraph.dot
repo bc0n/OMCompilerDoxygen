@@ -1,9 +1,0 @@
-digraph "GC_get_stack_base"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node1884 [label="GC_get_stack_base",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node1884 -> Node1885 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node1885 [label="runTest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d83/omc_c_a_p_i_2src_2_o_m_c_test_8cpp.html#a2c826ab6b584c5216355978a5bc00ad0"];
-}

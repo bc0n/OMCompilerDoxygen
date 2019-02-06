@@ -1,9 +1,0 @@
-<map id="omc_Expression_arrayElements" name="omc_Expression_arrayElements">
-<area shape="rect" id="node2" href="$d6/d99/_expression_8h.html#a59a67d164c0fd93227edf34e4c15ac0f" title="omc_Expression_getComplex\lContents" alt="" coords="269,104,465,145"/>
-<area shape="rect" id="node8" href="$d0/d86/_static_8c.html#a4cac2989bec19e8cc1552308efdb5319" title="omc_Static_elabBuiltinProduct2" alt="" coords="264,170,471,197"/>
-<area shape="rect" id="node3" href="$d3/d4a/_evaluate_functions_8c.html#ae5a6820f274dd2e27b96fa9c7ca1140a" title="omc_EvaluateFunctions\l_collectReplacements1" alt="" coords="535,5,698,47"/>
-<area shape="rect" id="node5" href="$d3/d4a/_evaluate_functions_8c.html#af89cf527405ac49fedc5d4bb6c3e48c5" title="omc_EvaluateFunctions\l_getStatementLHSScalar" alt="" coords="531,71,702,112"/>
-<area shape="rect" id="node6" href="$d3/d4a/_evaluate_functions_8c.html#a469a3cf6995a37b3e6d0891be3ce3a59" title="omc_EvaluateFunctions\l_expandComplexEpressions" alt="" coords="523,136,711,177"/>
-<area shape="rect" id="node7" href="$d1/d08/_expression_8c.html#a936a1f21e664e52d4301764aa7e9565b" title="omc_Expression_getComplex\lContentsInCall" alt="" coords="519,201,715,243"/>
-<area shape="rect" id="node4" href="$d3/d4a/_evaluate_functions_8c.html#af0e071d9c58455f8518fc0c8c21e8285" title="omc_EvaluateFunctions\l_collectReplacements" alt="" coords="763,5,925,47"/>
-</map>

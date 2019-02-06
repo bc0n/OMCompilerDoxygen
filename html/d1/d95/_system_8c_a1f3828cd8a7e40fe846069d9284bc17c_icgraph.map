@@ -1,8 +1,0 @@
-<map id="omc_System_getHasExpandableConnectors" name="omc_System_getHasExpandableConnectors">
-<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#ae612018468406accc03f7ef5151a0d14" title="omc_ConnectUtil_daeHasExpandable\lConnectors" alt="" coords="269,35,512,76"/>
-<area shape="rect" id="node6" href="$da/d17/_inst_util_8h.html#a786d74e97fc90a02a5ad047834299499" title="omc_InstUtil_reorderConnect\lEquationsExpandable" alt="" coords="295,100,487,141"/>
-<area shape="rect" id="node7" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a205ca281fcdc6042d65fb3210b6af3c5" title="boxptr_System_getHasExpandable\lConnectors" alt="" coords="277,165,504,207"/>
-<area shape="rect" id="node3" href="$da/df9/_connect_util_8h.html#a1e6af227db592e6ea1b19c26260c486a" title="omc_ConnectUtil_equations" alt="" coords="571,13,758,39"/>
-<area shape="rect" id="node5" href="$d3/d5a/_connect_util_8c.html#a9a9d7d8c2a70068245a2617fe7d02558" title="boxptr_ConnectUtil\l_daeHasExpandableConnectors" alt="" coords="560,64,769,105"/>
-<area shape="rect" id="node4" href="$da/df9/_connect_util_8h.html#a03e679bc32122873a3be9d77d9393c16" title="boxptr_ConnectUtil\l_equations" alt="" coords="817,5,952,47"/>
-</map>

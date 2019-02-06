@@ -1,9 +1,0 @@
-<map id="Teuchos::SerialSpdDenseSolver::applyRefinement" name="Teuchos::SerialSpdDenseSolver::applyRefinement">
-<area shape="rect" id="node2" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#a7d7390b8f9155d998ddfef43b0401f03" title="Returns true if the current set of vectors has been solved. " alt="" coords="264,5,475,47"/>
-<area shape="rect" id="node3" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#abaac308c39b70575d4cb174a982e75d4" title="Teuchos::SerialSpdDenseSolver\l::allocateWORK" alt="" coords="264,71,475,112"/>
-<area shape="rect" id="node4" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#a38aa2536e44c8d58de51207f0a3a8b35" title="Teuchos::SerialSpdDenseSolver\l::allocateIWORK" alt="" coords="264,136,475,177"/>
-<area shape="rect" id="node8" href="$d5/dfb/class_teuchos_1_1_l_a_p_a_c_k.html#aa424d25cbead4b10a912ab17d87acbc6" title="Improves the computed solution to a system of linear equations when the coefficient matrix is symmetr..." alt="" coords="276,202,463,229"/>
-<area shape="rect" id="node5" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#a4b3ebca60e0c34ab7d07ec6160e68ab2" title="Teuchos::SerialSpdDenseSolver\l::resetMatrix" alt="" coords="523,165,733,207"/>
-<area shape="rect" id="node6" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#a89a2bbd16685f2ba6329add7ccd696b5" title="Teuchos::SerialSpdDenseSolver\l::resetVectors" alt="" coords="781,107,992,148"/>
-<area shape="rect" id="node7" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a146d96d758b245a3ca2272680ebf52b4" title="Returns representation of one for this scalar type. " alt="" coords="797,173,976,199"/>
-</map>

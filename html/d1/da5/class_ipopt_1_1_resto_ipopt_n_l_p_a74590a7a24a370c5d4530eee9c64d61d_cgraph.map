@@ -1,8 +1,0 @@
-<map id="Ipopt::RestoIpoptNLP::h" name="Ipopt::RestoIpoptNLP::h">
-<area shape="rect" id="node2" href="$d3/d37/class_ipopt_1_1_compound_vector.html#ac5b09b621ed9b1efbc21c60290d55221" title="Ipopt::CompoundVector\l::GetComp" alt="" coords="226,5,386,47"/>
-<area shape="rect" id="node3" href="$d3/d37/class_ipopt_1_1_compound_vector.html#aeb5dd2d3cdc54c781143325ec899f17b" title="Ipopt::CompoundVector\l::NComps" alt="" coords="226,71,386,112"/>
-<area shape="rect" id="node6" href="$d7/db2/namespace_ipopt.html#a4ae001947e506b5b8f4f134b8a4ead23" title="Ipopt::GetRawPtr" alt="" coords="443,133,567,159"/>
-<area shape="rect" id="node7" href="$d1/da5/class_ipopt_1_1_resto_ipopt_n_l_p.html#a9f1cd940492d13a461f2d7fe903a22a7" title="Ipopt::RestoIpoptNLP::Eta" alt="" coords="217,187,395,214"/>
-<area shape="rect" id="node4" href="$d7/db2/namespace_ipopt.html#a412b04fd3180a55969ff76224d5bfec6" title="Ipopt::IsValid" alt="" coords="455,78,554,105"/>
-<area shape="rect" id="node5" href="$d7/db2/namespace_ipopt.html#acfc346e8412ed6def2dc1858b78bde1b" title="Ipopt::IsNull" alt="" coords="615,78,708,105"/>
-</map>

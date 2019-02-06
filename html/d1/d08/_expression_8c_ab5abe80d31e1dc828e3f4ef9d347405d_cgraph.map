@@ -1,9 +1,0 @@
-<map id="boxptr_Expression_isZeroOrAlmostZero" name="boxptr_Expression_isZeroOrAlmostZero">
-<area shape="rect" id="node2" href="$d1/d08/_expression_8c.html#ae4dd55b05f8b517cbc8b2b15899b4aa3" title="omc_Expression_isZeroOrAlmostZero" alt="" coords="227,56,469,83"/>
-<area shape="rect" id="node3" href="$d3/d1b/netstream-main_8cpp.html#aed138f72d7301a9034a719a95c4903da" title="e" alt="" coords="603,5,641,32"/>
-<area shape="rect" id="node4" href="$da/d72/_compiler_2boot_2build_2list_8c.html#af9c5aeb8bfb53b395dd0e6382cead2f4" title="omc_List_map1AllValueBool" alt="" coords="775,81,963,108"/>
-<area shape="rect" id="node8" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3c09bd62b6538a09683f31a98536515e" title="omc_List_map1ListAllValueBool" alt="" coords="517,107,727,133"/>
-<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#ade3cf23689144e1db6488d0beddbc8a7" title="omc_List_map1AllValue" alt="" coords="1011,56,1173,83"/>
-<area shape="rect" id="node7" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="1069,107,1115,133"/>
-<area shape="rect" id="node6" href="$dc/dd0/build_2include_2omc_2c_2meta_2meta__modelica_8h.html#a053b78d26cb7fe728aa97ab1a575f7ad" title="valueEq" alt="" coords="1221,56,1291,83"/>
-</map>

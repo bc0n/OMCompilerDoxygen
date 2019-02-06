@@ -1,7 +1,0 @@
-<map id="lis_matrix_create" name="lis_matrix_create">
-<area shape="rect" id="node2" href="$d3/d33/lis_8h.html#a122d3f4baa8db5c0253305eb459dff60" title="lis_malloc" alt="" coords="186,56,266,83"/>
-<area shape="rect" id="node5" href="$db/df9/lis__matrix_8c.html#a20b71df56f9842bc7a3d6b3463e0d419" title="lis_matrix_init" alt="" coords="175,107,277,133"/>
-<area shape="rect" id="node3" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="330,5,390,32"/>
-<area shape="rect" id="node4" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="333,56,387,83"/>
-<area shape="rect" id="node6" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a362b656d9de3289b55b1035d14cb4b5d" title="memset" alt="" coords="325,107,395,133"/>
-</map>

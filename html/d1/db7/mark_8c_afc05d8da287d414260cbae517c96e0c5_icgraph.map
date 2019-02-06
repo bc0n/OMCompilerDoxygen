@@ -1,6 +1,0 @@
-<map id="GC_add_trace_entry" name="GC_add_trace_entry">
-<area shape="rect" id="node2" href="$dd/d54/mark__rts_8c.html#a5bb550ee3a78d00156d6baac756bb244" title="GC_push_all_stack_partially\l_eager" alt="" coords="196,5,384,47"/>
-<area shape="rect" id="node3" href="$dd/d54/mark__rts_8c.html#a9af4fc16cb85c8464638e00ee93b50b9" title="GC_push_all_stack_part\l_eager_sections" alt="" coords="432,5,597,47"/>
-<area shape="rect" id="node4" href="$dd/d54/mark__rts_8c.html#a466d6ca2b39c95378cc411b2e856d015" title="GC_push_current_stack" alt="" coords="645,13,808,39"/>
-<area shape="rect" id="node5" href="$dd/d54/mark__rts_8c.html#ad3f20bfda359bccaf0cb0032084da47c" title="GC_push_regs_and_stack" alt="" coords="856,13,1032,39"/>
-</map>

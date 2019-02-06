@@ -1,6 +1,0 @@
-<map id="omc_Patternm_getUsedLocalCrefs" name="omc_Patternm_getUsedLocalCrefs">
-<area shape="rect" id="node2" href="$d1/d08/_expression_8c.html#aae2ed5a7c0c9b70b6c66638bc345357d" title="omc_Expression_traverseExp\lBottomUp" alt="" coords="249,5,445,47"/>
-<area shape="rect" id="node4" href="$d2/dcb/_hash_table_string_to_path_8c.html#a7390e429f16b5a0a11e721159c00f72c" title="omc_HashTableStringToPath\l_emptyHashTableSized" alt="" coords="251,71,444,112"/>
-<area shape="rect" id="node5" href="$d0/d09/_patternm_8c.html#a7c1b0605b08b46ce8031ee98fd681709" title="omc_Patternm_traverseCases" alt="" coords="248,137,447,163"/>
-<area shape="rect" id="node3" href="$d1/d08/_expression_8c.html#add3db321c96f54919494182b71eb10c7" title="omc_Expression_traverseExpClk" alt="" coords="495,13,711,39"/>
-</map>

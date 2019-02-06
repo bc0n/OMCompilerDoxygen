@@ -1,8 +1,0 @@
-<map id="MLAPI::Residual::Residual" name="MLAPI::Residual::Residual">
-<area shape="rect" id="node2" href="$d1/d9a/class_m_l_a_p_i_1_1_linear_combination_add.html#a1623b7c36a4b482196f8d5e015c0156b" title="Returns the vector space of the underlying object. " alt="" coords="233,5,412,47"/>
-<area shape="rect" id="node4" href="$d1/d9a/class_m_l_a_p_i_1_1_linear_combination_add.html#a0f6a20eb671bfc65bb7f8ba1c03ffbc2" title="MLAPI::LinearCombination\lAdd::Update" alt="" coords="233,71,412,112"/>
-<area shape="rect" id="node6" href="$d1/d9a/class_m_l_a_p_i_1_1_linear_combination_add.html#ae2985113b3dce13743bed53ce26e0690" title="MLAPI::LinearCombination\lAdd::Set" alt="" coords="233,136,412,177"/>
-<area shape="rect" id="node3" href="$d3/d9e/class_m_l_a_p_i_1_1_base_linear_combination.html#acaa76d1a0072b04b8d9bc4efad45117e" title="Returns the vector space of the underlying object. " alt="" coords="474,5,682,47"/>
-<area shape="rect" id="node5" href="$d3/d9e/class_m_l_a_p_i_1_1_base_linear_combination.html#a712be227394ca898b99c8dc2ec821c70" title="MLAPI::BaseLinearCombination\l::Update" alt="" coords="474,73,682,115"/>
-<area shape="rect" id="node7" href="$d3/d9e/class_m_l_a_p_i_1_1_base_linear_combination.html#acc0bac37422706980b4fc4077c661760" title="MLAPI::BaseLinearCombination::Set" alt="" coords="460,143,696,170"/>
-</map>

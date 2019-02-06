@@ -1,6 +1,0 @@
-<map id="omc_Expression_isRecord" name="omc_Expression_isRecord">
-<area shape="rect" id="node2" href="$d2/d52/_backend_d_a_e_optimize_8h.html#afedb5771d6249f2d3fea063e6704ab4a" title="omc_BackendDAEOptimize\l_simplifyComplexFunction2" alt="" coords="234,29,419,71"/>
-<area shape="rect" id="node3" href="$df/d72/_backend_equation_8h.html#a56d0907ea05eb4a6d0b9f4e0bc046f30" title="omc_BackendEquation\l_scalarComplexEquations" alt="" coords="239,95,414,136"/>
-<area shape="rect" id="node4" href="$d0/d9b/_backend_inline_8c.html#adba797ecf633ae9767ada55547ef143e" title="omc_BackendInline_create\lReplacementVariables" alt="" coords="237,160,416,201"/>
-<area shape="rect" id="node5" href="$d6/d99/_expression_8h.html#ae990cb3df3b2341e9094898e98c8e95a" title="boxptr_Expression_isRecord" alt="" coords="232,226,421,253"/>
-</map>

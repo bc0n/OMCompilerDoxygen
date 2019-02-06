@@ -1,8 +1,0 @@
-<map id="GC_debug_malloc_atomic_uncollectable" name="GC_debug_malloc_atomic_uncollectable">
-<area shape="rect" id="node2" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#ac0fc85cd6aabd28cd9483c12d4e8514f" title="GC_debug_realloc" alt="" coords="239,52,368,79"/>
-<area shape="rect" id="node5" href="$d3/d7b/dbg__mlc_8c.html#ada673c25a47f93bafd2ba42d94aa01a3" title="GC_debug_generic_or\l_special_malloc" alt="" coords="228,103,379,145"/>
-<area shape="rect" id="node3" href="$d3/d7b/dbg__mlc_8c.html#a92bfe9ab938a109d9444b1f1a896b763" title="GC_debug_realloc_replacement" alt="" coords="427,5,633,32"/>
-<area shape="rect" id="node4" href="$da/d32/pcr__interface_8c.html#a728ae9b8f977bd2cf63c76c7d401df45" title="GC_DebugReallocProc" alt="" coords="451,56,609,83"/>
-<area shape="rect" id="node6" href="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a1441c77c68f4a3023b01ac675442c2da" title="WinMain" alt="" coords="493,111,567,137"/>
-<area shape="rect" id="node7" href="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a99b2e9cc4d3b5790643181ca7da1ba02" title="thr_window" alt="" coords="681,111,769,137"/>
-</map>

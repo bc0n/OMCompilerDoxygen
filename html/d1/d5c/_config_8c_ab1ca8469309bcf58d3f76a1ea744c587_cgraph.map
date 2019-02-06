@@ -1,7 +1,0 @@
-<map id="boxptr_Config_globalHomotopy" name="boxptr_Config_globalHomotopy">
-<area shape="rect" id="node2" href="$d1/d5c/_config_8c.html#a383bd55314080e8484db8ee21fcbeee2" title="omc_Config_globalHomotopy" alt="" coords="257,5,451,32"/>
-<area shape="rect" id="node3" href="$d3/db3/_flags_8c.html#a1bdc57ee7db1a86ebd954e1aa4d04c0c" title="omc_Flags_getConfigString" alt="" coords="499,5,681,32"/>
-<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="729,5,912,32"/>
-<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="960,5,1109,32"/>
-<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1157,5,1260,32"/>
-</map>

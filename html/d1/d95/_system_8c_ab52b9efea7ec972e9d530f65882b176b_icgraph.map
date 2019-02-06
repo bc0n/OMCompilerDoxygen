@@ -1,8 +1,0 @@
-<map id="omc_System_getUsesCardinality" name="omc_System_getUsesCardinality">
-<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#ac5004989d1643161ad2700d90d6d0aee" title="omc_ConnectUtil_evaluate\lConnectionOperators" alt="" coords="295,5,474,47"/>
-<area shape="rect" id="node5" href="$da/df9/_connect_util_8h.html#a332beefaea741093932791c0a53b0173" title="omc_ConnectUtil_increase\lConnectRefCount" alt="" coords="295,71,474,112"/>
-<area shape="rect" id="node6" href="$d2/dbd/_n_f_cardinality_table_8h.html#a5adbb86f08618a631c8c4598c8a77727" title="omc_NFCardinalityTable\l_fromConnections" alt="" coords="301,136,468,177"/>
-<area shape="rect" id="node7" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a4f6cf8ebb3da584a6c6ad2e6ee3f5d3d" title="boxptr_System_getUsesCardinality" alt="" coords="271,202,499,229"/>
-<area shape="rect" id="node3" href="$da/df9/_connect_util_8h.html#a1e6af227db592e6ea1b19c26260c486a" title="omc_ConnectUtil_equations" alt="" coords="547,13,733,39"/>
-<area shape="rect" id="node4" href="$da/df9/_connect_util_8h.html#a03e679bc32122873a3be9d77d9393c16" title="boxptr_ConnectUtil\l_equations" alt="" coords="781,5,916,47"/>
-</map>

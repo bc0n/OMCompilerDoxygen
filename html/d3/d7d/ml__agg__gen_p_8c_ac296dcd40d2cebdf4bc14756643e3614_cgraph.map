@@ -1,8 +1,0 @@
-<map id="ML_Anasazi_Get_FieldOfValuesBoxNonScaled_Interface" name="ML_Anasazi_Get_FieldOfValuesBoxNonScaled_Interface">
-<area shape="rect" id="node2" href="$d8/d70/ml__epetra__utils_8cpp.html#a50cf4d5b9e345676412d49134955e2cf" title="Converts an ML_Operator into an Epetra_CrsMatrix. " alt="" coords="279,5,477,32"/>
-<area shape="rect" id="node3" href="$db/d0f/class_teuchos_1_1_parameter_list.html#acf06d867a960000f651b1d8657e083ff" title="Return the parameter&#39;s value, or the default value if it is not there. " alt="" coords="285,56,471,83"/>
-<area shape="rect" id="node4" href="$db/d0f/class_teuchos_1_1_parameter_list.html#a4aba1b34b186a56ee70ce421f8544a50" title="Set a parameter whose value has type T. " alt="" coords="285,107,471,133"/>
-<area shape="rect" id="node7" href="$d9/dfa/namespace_m_l___anasazi.html#a8ce97418ea46f9b7c5d46be0b3e3c7df" title="Computes the size of a box containing the field of values. " alt="" coords="264,157,492,184"/>
-<area shape="rect" id="node5" href="$d2/dc5/group___teuchos___r_c_p_std_shared_ptr_conversions__grp.html#gaecc73655aad3c6aaa1de138d2427426c" title="Returns true if p.get()!=NULL. " alt="" coords="565,77,686,104"/>
-<area shape="rect" id="node6" href="$d8/dce/class_teuchos_1_1_parameter_entry.html#a7185dd2314bd0613e2fe8b99158e0bfc" title="Return the (optional) validator object. " alt="" coords="540,129,711,170"/>
-</map>

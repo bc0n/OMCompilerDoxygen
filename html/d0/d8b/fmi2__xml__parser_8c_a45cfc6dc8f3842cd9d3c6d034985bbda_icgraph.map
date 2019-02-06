@@ -1,5 +1,0 @@
-<map id="jm_vector" name="jm_vector">
-<area shape="rect" id="node2" href="$d0/de5/fmi2__xml__parser_8h.html#a1ae3de10a48b9be15853ccc60d6434ca" title="fmi2_xml_alloc_parse\l_buffer" alt="" coords="132,5,280,47"/>
-<area shape="rect" id="node3" href="$d0/de5/fmi2__xml__parser_8h.html#aa1fbc02abbfa2ec71ce633276006ed1d" title="fmi2_xml_free_parse\l_buffer" alt="" coords="135,71,277,112"/>
-<area shape="rect" id="node4" href="$d0/d8b/fmi2__xml__parser_8c.html#a1bed0f102ef65f6a1811c47e542b304a" title="fmi2_xml_parse_free\l_context" alt="" coords="328,71,471,112"/>
-</map>

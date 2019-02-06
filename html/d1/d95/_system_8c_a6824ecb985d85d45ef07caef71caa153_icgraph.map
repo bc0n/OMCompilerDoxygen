@@ -1,7 +1,0 @@
-<map id="omc_System_loadLibrary" name="omc_System_loadLibrary">
-<area shape="rect" id="node2" href="$d6/d82/_ceval_script_8c.html#afbee575de6b4bffa56bf8f24dc8b734e" title="omc_CevalScript_cevalCall\lFunctionEvaluateOrGenerate2" alt="" coords="223,50,420,91"/>
-<area shape="rect" id="node6" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#ac9b91146e45c30033298f501c3da0ed7" title="boxptr_System_loadLibrary" alt="" coords="231,116,411,143"/>
-<area shape="rect" id="node3" href="$d6/d82/_ceval_script_8c.html#a06893dd2dc473a7e06e410459cd1f759" title="boxptr_CevalScript\l_cevalCallFunctionEvaluate\lOrGenerate2" alt="" coords="471,5,655,61"/>
-<area shape="rect" id="node4" href="$d6/d82/_ceval_script_8c.html#a417f2d8bf6f8ae249b592c6ef007f8a6" title="omc_CevalScript_cevalCall\lFunctionEvaluateOrGenerate" alt="" coords="468,86,659,127"/>
-<area shape="rect" id="node5" href="$d6/d82/_ceval_script_8c.html#a1c70aa713e6ef6bd272f75c674cd5a08" title="boxptr_CevalScript\l_cevalCallFunctionEvaluate\lOrGenerate" alt="" coords="707,79,891,135"/>
-</map>

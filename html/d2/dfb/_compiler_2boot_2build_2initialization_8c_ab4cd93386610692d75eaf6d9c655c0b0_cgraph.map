@@ -1,9 +1,0 @@
-<map id="omc_Initialization_collectInitialClockedVarsEqns" name="omc_Initialization_collectInitialClockedVarsEqns">
-<area shape="rect" id="node2" href="$d1/d08/_expression_8c.html#a709f5f88a0de42de5e2520d606c17275" title="omc_Expression_crefExp" alt="" coords="256,78,427,105"/>
-<area shape="rect" id="node7" href="$dd/db3/_backend_variable_8c.html#a6996c0528c3371d52095b91fc8865517" title="omc_BackendVariable\l_copyVarNewName" alt="" coords="265,129,417,171"/>
-<area shape="rect" id="node8" href="$dd/db3/_backend_variable_8c.html#a5d43f031edbe9a5d18a560bedbd68488" title="omc_BackendVariable\l_setVarKind" alt="" coords="265,195,417,236"/>
-<area shape="rect" id="node3" href="$d9/d14/_component_reference_8c.html#a4cbfe93b088d5e37d7d9bbd8c886f54d" title="omc_ComponentReference\l_crefLastType" alt="" coords="477,5,658,47"/>
-<area shape="rect" id="node4" href="$d9/d14/_component_reference_8c.html#a3f6103afac7dca99c57aa2db9673bd27" title="omc_ComponentReference\l_crefLastSubs" alt="" coords="477,71,658,112"/>
-<area shape="rect" id="node5" href="$d1/d08/_expression_8c.html#acdd0e6e6845c989964d03169ad05e5e8" title="omc_Expression_unliftArray\lTypeWithSubs" alt="" coords="475,136,660,177"/>
-<area shape="rect" id="node6" href="$d1/d08/_expression_8c.html#a1e88195201ddbc16bb324633d806a27d" title="omc_Expression_unliftArray" alt="" coords="708,143,893,170"/>
-</map>

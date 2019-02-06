@@ -1,9 +1,0 @@
-<map id="omc_Interactive_getClassEnv" name="omc_Interactive_getClassEnv">
-<area shape="rect" id="node2" href="$db/d73/_interactive_8c.html#a00c857c2e7abefd398b5a62e2a711a84" title="omc_Interactive_getExtends\lModifierNames" alt="" coords="263,5,451,47"/>
-<area shape="rect" id="node4" href="$db/d73/_interactive_8c.html#a52a24155ed9e68d09b11acdde0bfe438" title="omc_Interactive_isExtends\lModifierFinal" alt="" coords="267,71,447,112"/>
-<area shape="rect" id="node5" href="$db/d73/_interactive_8c.html#a4db62bdad9060afdc9e5b54849a80488" title="omc_Interactive_getExtends\lModifierValue" alt="" coords="263,136,451,177"/>
-<area shape="rect" id="node6" href="$db/d73/_interactive_8c.html#aeed458d80b87eb7832e5bfc894ad2f15" title="omc_Interactive_setExtends\lModifierValue" alt="" coords="263,201,451,243"/>
-<area shape="rect" id="node7" href="$d1/de1/_interactive_8h.html#a90da2b04cebfec11cbe369b72655fa87" title="omc_Interactive_removeExtends\lModifiers" alt="" coords="251,267,464,308"/>
-<area shape="rect" id="node3" href="$db/d73/_interactive_8c.html#a2b2fb143164524943ecd977628faea0e" title="boxptr_Interactive\l_getExtendsModifierNames" alt="" coords="512,5,695,47"/>
-<area shape="rect" id="node8" href="$d1/de1/_interactive_8h.html#af988bc73f4334a26771c120e6785489e" title="boxptr_Interactive\l_removeExtendsModifiers" alt="" coords="517,267,690,308"/>
-</map>

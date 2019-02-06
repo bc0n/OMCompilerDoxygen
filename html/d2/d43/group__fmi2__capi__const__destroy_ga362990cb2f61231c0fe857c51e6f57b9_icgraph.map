@@ -1,3 +1,0 @@
-<map id="fmi2_capi_set_debug_mode" name="fmi2_capi_set_debug_mode">
-<area shape="rect" id="node2" href="$d5/d22/group__fmi2__import__capi__const__destroy.html#ga2d7194044e073e0e97e16df4c72e227e" title="Set CAPI debug mode flag. Setting to non&#45;zero prevents DLL unloading in fmi2_import_destroy_dllfmu wh..." alt="" coords="237,5,433,32"/>
-</map>

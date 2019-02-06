@@ -1,9 +1,0 @@
-digraph "GC_do_blocking"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node913 [label="GC_do_blocking",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node913 -> Node914 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node914 [label="reverse_test",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a66380dd91e1888369d9921c4b740d6d5"];
-}

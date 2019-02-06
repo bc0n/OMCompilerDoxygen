@@ -1,6 +1,0 @@
-<map id="FKIN_LAPACKDENSESETJAC" name="FKIN_LAPACKDENSESETJAC">
-<area shape="rect" id="node2" href="$d9/d80/3rd_party_2sundials_2build_2include_2kinsol_2kinsol__direct_8h.html#a54961dd6d4e19fcef88d2fe5b343f677" title="KINDlsSetDenseJacFn" alt="" coords="265,5,424,32"/>
-<area shape="rect" id="node3" href="$d0/de0/fkinlapdense_8c.html#aabb70c1072dedfdcd9ae34051e8b3956" title="FKINLapackDenseJac" alt="" coords="267,56,422,83"/>
-<area shape="rect" id="node4" href="$df/dc8/3rd_party_2sundials_2build_2include_2sundials_2sundials__nvector_8h.html#ab14cd7d630355c66928718a744da72d6" title="N_VGetArrayPointer" alt="" coords="472,31,613,57"/>
-<area shape="rect" id="node5" href="$d0/de0/fkinlapdense_8c.html#ada7d8b324689ae609823451877e714e8" title="FK_DJAC" alt="" coords="501,81,584,108"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="ML_CommInfoOP_Clone" name="ML_CommInfoOP_Clone">
-<area shape="rect" id="node2" href="$d8/d08/ml__memory_8c.html#ab87b354d6e82cccbd10c498870d74c6b" title="ML_allocate" alt="" coords="752,107,844,133"/>
-<area shape="rect" id="node4" href="$da/d6c/ml__aztec__utils_8c.html#a7db311c960b81177df79b7e832fc86ca" title="ML_free" alt="" coords="892,157,961,184"/>
-<area shape="rect" id="node5" href="$d1/da9/ml__comminfoop_8c.html#a90a2d898b28ee1754a68fab0f0d58503" title="ML_CommInfoOP_Set_neighbors" alt="" coords="221,56,439,83"/>
-<area shape="rect" id="node7" href="$d1/da9/ml__comminfoop_8c.html#af1c53a07be65fd4c52e4f678bcae1fd3" title="ML_CommInfoOP_Set_exch_info" alt="" coords="487,157,704,184"/>
-<area shape="rect" id="node3" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="897,107,957,133"/>
-<area shape="rect" id="node6" href="$d1/da9/ml__comminfoop_8c.html#a2356cfac70c23c3898fd629386ce3851" title="ML_CommInfoOP_Create" alt="" coords="509,5,682,32"/>
-</map>

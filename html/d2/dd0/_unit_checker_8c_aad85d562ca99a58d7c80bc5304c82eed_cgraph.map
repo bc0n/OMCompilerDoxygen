@@ -1,6 +1,0 @@
-<map id="omc_UnitChecker_powSpecUnit" name="omc_UnitChecker_powSpecUnit">
-<area shape="rect" id="node2" href="$d2/dd0/_unit_checker_8c.html#a9d3dbec1eb12cba861e35e13c9489c82" title="omc_UnitChecker_powUnitParams" alt="" coords="265,29,492,56"/>
-<area shape="rect" id="node5" href="$d2/dd0/_unit_checker_8c.html#a535ae25c766041be4464a7dcfd9d827c" title="omc_UnitChecker_powUnitVec" alt="" coords="276,104,481,131"/>
-<area shape="rect" id="node3" href="$d5/d00/_m_math_8c.html#a25f7b41bf50b2a54f9a59ad83b4e8770" title="omc_MMath_multRational" alt="" coords="540,67,715,93"/>
-<area shape="rect" id="node4" href="$d5/d00/_m_math_8c.html#a581156a41530c00068053e36b1248308" title="omc_MMath_intGcd" alt="" coords="763,67,901,93"/>
-</map>

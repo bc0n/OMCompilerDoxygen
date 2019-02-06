@@ -1,5 +1,0 @@
-<map id="fmi1_xml_get_number_of_additional_models" name="fmi1_xml_get_number_of_additional_models">
-<area shape="rect" id="node2" href="$d1/db5/group__fmi1__import__cosim.html#ga2d828ad89729a13c8c5e240e00de42cb" title="Get the number of additional models specified. " alt="" coords="204,5,369,47"/>
-<area shape="rect" id="node3" href="$db/d5b/fmi1__xml__cosim_8c.html#a792bc7012372a5d3810b0842da6a6c7b" title="fmi1_xml_get_additional\l_model_name" alt="" coords="205,71,368,112"/>
-<area shape="rect" id="node4" href="$d1/db5/group__fmi1__import__cosim.html#ga7bdb3c76d275d9d0ecfb761afa9b0000" title="Get the name of an additional model. " alt="" coords="417,71,595,112"/>
-</map>

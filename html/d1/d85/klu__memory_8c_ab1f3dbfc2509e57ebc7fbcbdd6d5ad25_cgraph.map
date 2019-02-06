@@ -1,6 +1,0 @@
-<map id="KLU_mult_size_t" name="KLU_mult_size_t">
-<area shape="rect" id="node2" href="$d1/d85/klu__memory_8c.html#a17fc467c78eabae8eebbaee6c9bc75fe" title="KLU_add_size_t" alt="" coords="176,5,295,32"/>
-<area shape="rect" id="node3" href="$d1/d85/klu__memory_8c.html#a73a24bed763769a476570846067874d1" title="KLU_malloc" alt="" coords="189,107,282,133"/>
-<area shape="rect" id="node4" href="$d1/d85/klu__memory_8c.html#a3bef16e74b7b9ad1756efdf105ed3503" title="KLU_free" alt="" coords="343,56,420,83"/>
-<area shape="rect" id="node5" href="$d1/d85/klu__memory_8c.html#a5a54f0bec8c456a39ab08350301e8c48" title="KLU_realloc" alt="" coords="468,107,561,133"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="omc_ConnectUtil_checkConnectorBalance2" name="omc_ConnectUtil_checkConnectorBalance2">
-<area shape="rect" id="node2" href="$da/df9/_connect_util_8h.html#a48aeeedbdcb084406b6b405c7e381943" title="omc_ConnectUtil_checkShort\lConnectorDef" alt="" coords="293,5,489,47"/>
-<area shape="rect" id="node4" href="$d3/d5a/_connect_util_8c.html#aa0883e86e5c39e423fbfa95754292486" title="boxptr_ConnectUtil\l_checkConnectorBalance2" alt="" coords="302,71,481,112"/>
-<area shape="rect" id="node5" href="$da/df9/_connect_util_8h.html#a779f879f956f00681e416f597a491c9a" title="omc_ConnectUtil_checkConnector\lBalance" alt="" coords="279,136,504,177"/>
-<area shape="rect" id="node3" href="$da/df9/_connect_util_8h.html#a41b61bfa3fe34c99c7f96293b42efe21" title="boxptr_ConnectUtil\l_checkShortConnectorDef" alt="" coords="569,5,745,47"/>
-<area shape="rect" id="node6" href="$da/df9/_connect_util_8h.html#a74022d15bda993cf79ffd555b21a95c7" title="omc_ConnectUtil_addConnector\lVariablesFromDAE" alt="" coords="552,136,763,177"/>
-<area shape="rect" id="node7" href="$da/df9/_connect_util_8h.html#a066f1cea0d4eb419504a0707324360d2" title="boxptr_ConnectUtil\l_addConnectorVariablesFromDAE" alt="" coords="811,136,1033,177"/>
-</map>

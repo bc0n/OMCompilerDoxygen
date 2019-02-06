@@ -1,6 +1,0 @@
-<map id="omc_Config_getPreOptModules" name="omc_Config_getPreOptModules">
-<area shape="rect" id="node2" href="$d3/db3/_flags_8c.html#af7b0170c12dd09bb89dfcc8a0605b277" title="omc_Flags_getConfigStringList" alt="" coords="260,5,464,32"/>
-<area shape="rect" id="node3" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="512,5,695,32"/>
-<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="743,5,892,32"/>
-<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="940,5,1043,32"/>
-</map>

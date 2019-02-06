@@ -1,7 +1,0 @@
-<map id="multi_resize" name="multi_resize">
-<area shape="rect" id="node2" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#ab3ddb3000059d0f1975540149e46effa" title="MYBOOL" alt="" coords="148,5,227,32"/>
-<area shape="rect" id="node3" href="$dc/d51/mallocx_8c.html#a107a5b003f5c4846342feae2c4b5e379" title="realloc" alt="" coords="157,56,217,83"/>
-<area shape="rect" id="node4" href="$d1/daa/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__utils_8h.html#a2081b8e14a0691b7e3931fa280ad9e63" title="allocINT" alt="" coords="152,107,223,133"/>
-<area shape="rect" id="node5" href="$d5/db8/build_2include_2omc_2c_2util_2list_8c.html#a23c6d83f6a3c74182329fd92dbee3a17" title="freeList" alt="" coords="155,157,220,184"/>
-<area shape="rect" id="node6" href="$d1/daa/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__utils_8h.html#a7b25e1f9aee74052b4b6df28443ebf48" title="allocREAL" alt="" coords="145,208,229,235"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="simple_alloc_2d_base_array" name="simple_alloc_2d_base_array">
-<area shape="rect" id="node2" href="$d8/d66/_simulation_runtime_2c_2util_2boolean__array_8h.html#af43c2e4bc4b1ed4517dc0e407c23eba5" title="simple_alloc_2d_boolean\l_array" alt="" coords="204,5,371,47"/>
-<area shape="rect" id="node3" href="$d2/d54/_simulation_runtime_2c_2util_2integer__array_8h.html#a696e17832a3b129ea8727f6daac757f0" title="simple_alloc_2d_integer\l_array" alt="" coords="207,71,368,112"/>
-<area shape="rect" id="node5" href="$d1/dc8/_simulation_runtime_2c_2util_2real__array_8h.html#a8fca13a72fd8d2f5cbc8ca0ff1f166da" title="simple_alloc_2d_real\l_array" alt="" coords="216,136,359,177"/>
-<area shape="rect" id="node7" href="$d3/d53/_simulation_runtime_2c_2util_2string__array_8h.html#a0162a11a2ebbe3c4a12057d24ddc347c" title="simple_alloc_2d_string\l_array" alt="" coords="210,201,365,243"/>
-<area shape="rect" id="node4" href="$d2/d54/_simulation_runtime_2c_2util_2integer__array_8h.html#a7779991e42c501110464802636381276" title="mul_alloc_integer_matrix\l_product_smart" alt="" coords="419,71,585,112"/>
-<area shape="rect" id="node6" href="$d1/dc8/_simulation_runtime_2c_2util_2real__array_8h.html#a5ff16d17e881a516e82161f7e70ff1d6" title="mul_alloc_real_matrix\l_product_smart" alt="" coords="428,136,576,177"/>
-</map>

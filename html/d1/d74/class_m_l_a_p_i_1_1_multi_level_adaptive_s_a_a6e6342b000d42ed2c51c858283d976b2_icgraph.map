@@ -1,6 +1,0 @@
-<map id="MLAPI::MultiLevelAdaptiveSA::GetNumItersCoarse" name="MLAPI::MultiLevelAdaptiveSA::GetNumItersCoarse">
-<area shape="rect" id="node2" href="$d1/d74/class_m_l_a_p_i_1_1_multi_level_adaptive_s_a.html#a54581d09676369030c9fb1ce186d4d0a" title="Increments the null space dimension by one. " alt="" coords="233,23,413,65"/>
-<area shape="rect" id="node3" href="$d1/d74/class_m_l_a_p_i_1_1_multi_level_adaptive_s_a.html#aa844aada295b478d230e504fe88c810f" title="Setup the adaptive multilevel hierarchy. " alt="" coords="461,23,641,65"/>
-<area shape="rect" id="node4" href="$d7/de8/_adaptive_s_a_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="744,5,795,32"/>
-<area shape="rect" id="node5" href="$d2/d41/classmlapi__data__pack.html#a049887bcc02fc853a3da37de1ecd1a55" title="mlapi_data_pack::setup" alt="" coords="689,56,849,83"/>
-</map>

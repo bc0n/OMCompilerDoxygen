@@ -1,8 +1,0 @@
-<map id="UMF_tuple_lengths" name="UMF_tuple_lengths">
-<area shape="rect" id="node2" href="$da/d6d/umf__get__memory_8h.html#ae1cf3eeac381ef2942e3f68212d836fc" title="UMF_get_memory" alt="" coords="188,31,319,57"/>
-<area shape="rect" id="node3" href="$d0/d93/umf__grow__front_8h.html#a7469bdf3c48eb1f930c7d97d69076ebe" title="UMF_grow_front" alt="" coords="367,31,485,57"/>
-<area shape="rect" id="node4" href="$da/db7/umf__extend__front_8h.html#a6df528f9ae8fbfb4cafac6167772d1c7" title="UMF_extend_front" alt="" coords="533,5,664,32"/>
-<area shape="rect" id="node6" href="$df/d24/umf__init__front_8h.html#a5382e7298a54da0127ca1f4adb1c5463" title="UMF_init_front" alt="" coords="545,56,653,83"/>
-<area shape="rect" id="node5" href="$db/dbb/umf__extend__front_8c.html#a7117684a8f36c3ff91e6f662c01a7705" title="zero_front" alt="" coords="724,5,804,32"/>
-<area shape="rect" id="node7" href="$df/d8a/umf__init__front_8c.html#ac394fda5f1679216363c5816ffe8b34a" title="zero_init_front" alt="" coords="712,56,816,83"/>
-</map>

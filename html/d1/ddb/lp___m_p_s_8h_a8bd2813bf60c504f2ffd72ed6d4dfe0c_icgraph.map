@@ -1,8 +1,0 @@
-<map id="MPS_writehandle" name="MPS_writehandle">
-<area shape="rect" id="node2" href="$df/df7/lp__lib_8h.html#a92c4b9e75bc5a72c1bdb28e01378b24f" title="write_MPS" alt="" coords="188,17,275,44"/>
-<area shape="rect" id="node7" href="$df/df7/lp__lib_8h.html#a18cc1bdf47a0a2907e7bbc42334e49f5" title="write_freeMPS" alt="" coords="177,68,285,95"/>
-<area shape="rect" id="node3" href="$df/df7/lp__lib_8h.html#a929e8acb9704f61e16927c915c15cd07" title="set_callbacks" alt="" coords="333,43,436,69"/>
-<area shape="rect" id="node4" href="$df/df7/lp__lib_8h.html#a68a0333d84dd944f67e2a0ec72e346a9" title="make_lp" alt="" coords="484,43,555,69"/>
-<area shape="rect" id="node5" href="$df/df7/lp__lib_8h.html#aca83ecdbc200b414db491306f3070ae9" title="copy_lp" alt="" coords="607,5,673,32"/>
-<area shape="rect" id="node6" href="$df/df7/lp__lib_8h.html#a351dd803960ab0dae2b39f2c65d3a58d" title="read_XLI" alt="" coords="603,68,677,95"/>
-</map>

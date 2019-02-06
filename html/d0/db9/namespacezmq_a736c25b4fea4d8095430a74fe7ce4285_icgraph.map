@@ -1,8 +1,0 @@
-<map id="zmq::put_uint64" name="zmq::put_uint64">
-<area shape="rect" id="node2" href="$d5/dfb/classzmq_1_1curve__client__t.html#ae5b1d5d377d6a7c649351bec293cfdb7" title="zmq::curve_client_t\l::encode" alt="" coords="171,5,307,47"/>
-<area shape="rect" id="node3" href="$d5/dfb/classzmq_1_1curve__client__t.html#ac5ed3212c85028b22f28d8e76ba577df" title="zmq::curve_client_t\l::status" alt="" coords="171,71,307,112"/>
-<area shape="rect" id="node4" href="$d5/de8/classzmq_1_1curve__server__t.html#af613214b36bca37a3b59f5e2e1e838b8" title="zmq::curve_server_t\l::encode" alt="" coords="168,136,309,177"/>
-<area shape="rect" id="node5" href="$d5/de8/classzmq_1_1curve__server__t.html#a573b1efcd41360188d56b93a3324f3b7" title="zmq::curve_server_t\l::status" alt="" coords="168,201,309,243"/>
-<area shape="rect" id="node6" href="$d5/db2/classzmq_1_1v1__encoder__t.html#afdad66553601f08ace85a3f10b511763" title="zmq::v1_encoder_t::\l~v1_encoder_t" alt="" coords="168,267,309,308"/>
-<area shape="rect" id="node7" href="$d2/daa/classzmq_1_1v2__encoder__t.html#afc49a6639238804fcad0404d8b3f4d32" title="zmq::v2_encoder_t::\l~v2_encoder_t" alt="" coords="168,332,309,373"/>
-</map>

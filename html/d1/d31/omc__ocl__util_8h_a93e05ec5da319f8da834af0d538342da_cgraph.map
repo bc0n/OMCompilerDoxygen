@@ -1,6 +1,0 @@
-<map id="ocl_create_kernel" name="ocl_create_kernel">
-<area shape="rect" id="node2" href="$d4/d97/omc__ocl__util_8cpp.html#ab5e6cad093122a51f84ea647b2d133eb" title="ocl_initialize" alt="" coords="188,35,281,61"/>
-<area shape="rect" id="node5" href="$d4/d97/omc__ocl__util_8cpp.html#ac55b73307a1322d29e0d2370c701388c" title="ocl_error_check" alt="" coords="177,85,292,112"/>
-<area shape="rect" id="node3" href="$de/d9c/ocl__offcomp_8cpp.html#a0528bc97b93413196e6b09fe057652e9" title="ocl_get_device" alt="" coords="353,5,462,32"/>
-<area shape="rect" id="node4" href="$de/d9c/ocl__offcomp_8cpp.html#ab9566662e9f493f993a6ed0f86b1e930" title="ocl_create_context\l_and_comm_queue" alt="" coords="340,57,475,98"/>
-</map>

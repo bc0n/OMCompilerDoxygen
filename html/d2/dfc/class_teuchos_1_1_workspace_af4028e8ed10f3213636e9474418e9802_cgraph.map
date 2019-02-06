@@ -1,5 +1,0 @@
-<map id="Teuchos::Workspace::operator[]" name="Teuchos::Workspace::operator[]">
-<area shape="rect" id="node2" href="$d2/dfc/class_teuchos_1_1_workspace.html#af527caba8ba74341fe51d33c25fc3a59" title="Return the number of elements in the array. " alt="" coords="213,5,360,47"/>
-<area shape="rect" id="node4" href="$d2/d0c/class_teuchos_1_1_raw_workspace.html#ae823a66dde49622724b64beee4fb293c" title="Give a raw pointer to the beginning of the workspace. " alt="" coords="200,71,373,112"/>
-<area shape="rect" id="node3" href="$d2/d0c/class_teuchos_1_1_raw_workspace.html#aa4722190f2a2a7aa8002186c7a9ba3d0" title="Return the number of bytes of raw workspace. " alt="" coords="421,5,595,47"/>
-</map>

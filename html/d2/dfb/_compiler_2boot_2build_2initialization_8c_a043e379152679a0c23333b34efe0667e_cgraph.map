@@ -1,7 +1,0 @@
-<map id="omc_Initialization_analyzeInitialSystem" name="omc_Initialization_analyzeInitialSystem">
-<area shape="rect" id="node2" href="$df/d56/_double_ended_list_8c.html#ab47eb203295f43b61be4534553e6f85b" title="omc_DoubleEndedList\l_fromList" alt="" coords="204,5,357,47"/>
-<area shape="rect" id="node3" href="$d4/dac/_backend_d_a_e_util_8c.html#a110b7b977cabefdc0b19b2c25024fd7d" title="omc_BackendDAEUtil\l_nonEmptySystem" alt="" coords="204,71,357,112"/>
-<area shape="rect" id="node4" href="$dd/db3/_backend_variable_8c.html#a53a6656a860a335c4f7ccb5ed2844c9d" title="omc_BackendVariable\l_varsSize" alt="" coords="412,37,564,79"/>
-<area shape="rect" id="node5" href="$d2/ddf/_backend_equation_8c.html#a832b8ecfb9524e33566b3eade51015be" title="omc_BackendEquation\l_getNumberOfEquations" alt="" coords="405,103,571,144"/>
-<area shape="rect" id="node6" href="$d0/d79/_expandable_array_8c.html#a506665edc3112e1912dc267b2b410b0a" title="omc_ExpandableArray\l_getNumberOfElements" alt="" coords="619,103,781,144"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="boxptr_System_realtimeTock" name="boxptr_System_realtimeTock">
-<area shape="rect" id="node2" href="$d1/d95/_system_8c.html#a8abf5845476bfec9436c033630280be5" title="omc_System_realtimeTock" alt="" coords="245,5,427,32"/>
-<area shape="rect" id="node6" href="$de/df6/meta__modelica_8c.html#a994c9ac929c95a38707b78980f397484" title="mmc_mk_rcon" alt="" coords="282,56,390,83"/>
-<area shape="rect" id="node3" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#abfbe78cfe04aa2d9da545976e98ebbc4" title="System_realtimeTock" alt="" coords="475,5,624,32"/>
-<area shape="rect" id="node4" href="$d7/d28/rtclock_8c.html#a24a9c1f717a27ec08358704545cc4686" title="rt_tock" alt="" coords="672,5,735,32"/>
-<area shape="rect" id="node5" href="$d7/d28/rtclock_8c.html#a666efa9b7e18683d189fb7be4dd0ed7a" title="RDTSC" alt="" coords="783,5,852,32"/>
-</map>

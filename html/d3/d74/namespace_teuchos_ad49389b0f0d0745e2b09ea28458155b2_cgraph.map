@@ -1,4 +1,0 @@
-<map id="Teuchos::writeThenReadPL" name="Teuchos::writeThenReadPL">
-<area shape="rect" id="node2" href="$db/d0f/class_teuchos_1_1_parameter_list.html#a3d864447eab65f2a9547dc38585a9ff0" title="Write parameters and sublists in XML format to an std::ostream. " alt="" coords="237,5,467,47"/>
-<area shape="rect" id="node3" href="$db/d0f/class_teuchos_1_1_parameter_list.html#abaefbe0d7ded8f6698dd022973876d98" title="Reads XML parameters from a std::string and return them in a new parameter list. " alt="" coords="251,71,453,112"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="fmi2_xml_set_attr_string" name="fmi2_xml_set_attr_string">
-<area shape="rect" id="node2" href="$d0/d8b/fmi2__xml__parser_8c.html#a3be5441b50b49504fd9e61ff94776775" title="fmi2_xml_get_attr_str" alt="" coords="219,5,367,32"/>
-<area shape="rect" id="node3" href="$d0/d8b/fmi2__xml__parser_8c.html#a7d110a06e9c423ff446efde48af0e045" title="fmi2_xml_parse_fatal" alt="" coords="415,31,561,57"/>
-<area shape="rect" id="node5" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="265,107,320,133"/>
-<area shape="rect" id="node6" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a9bb523029391a4525c52a8e90e877692" title="memcpy" alt="" coords="257,157,329,184"/>
-<area shape="rect" id="node4" href="$d6/dac/group__jm__callbacks.html#gaba6d03fb084724a1a8928e59fe5b6e39" title="Send a fatal error message to the logger function. See jm_log() for details. " alt="" coords="609,31,716,57"/>
-</map>

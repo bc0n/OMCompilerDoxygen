@@ -1,4 +1,0 @@
-<map id="GC_unix_sbrk_get_mem" name="GC_unix_sbrk_get_mem">
-<area shape="rect" id="node2" href="$db/d8a/gcconfig_8h.html#ab3881908af4f90fd479b488bf2c18fcd" title="GC_unix_get_mem" alt="" coords="220,5,355,32"/>
-<area shape="rect" id="node3" href="$d2/d3c/os__dep_8c.html#a4efba599237c6f67c7f87775d2c32b58" title="GC_win32_get_mem" alt="" coords="403,5,547,32"/>
-</map>

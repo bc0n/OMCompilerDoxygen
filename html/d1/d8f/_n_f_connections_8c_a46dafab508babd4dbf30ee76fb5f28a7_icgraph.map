@@ -1,6 +1,0 @@
-<map id="omc_NFConnections_makeConnectors" name="omc_NFConnections_makeConnectors">
-<area shape="rect" id="node2" href="$d8/dff/_n_f_o_c_connection_graph_8h.html#acb675a989a44f3da143dc651ac716299" title="omc_NFOCConnectionGraph\l_generateEqualityConstraintEquation" alt="" coords="304,5,541,47"/>
-<area shape="rect" id="node4" href="$d8/dff/_n_f_o_c_connection_graph_8h.html#a67823bd2a25edffdd04f681421296b31" title="omc_NFOCConnectionGraph\l_handleOverconstrainedConnections" alt="" coords="305,71,540,112"/>
-<area shape="rect" id="node3" href="$d8/dff/_n_f_o_c_connection_graph_8h.html#aab9b45f6b4ec1c0b72b48a9beeafeeb1" title="boxptr_NFOCConnectionGraph\l_generateEqualityConstraintEquation" alt="" coords="589,5,827,47"/>
-<area shape="rect" id="node5" href="$d4/d7c/_n_f_flatten_8c.html#ae1a86a4252429376e9d67c44607e2de2" title="omc_NFFlatten_resolveConnections" alt="" coords="591,78,825,105"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="HTable_Create" name="HTable_Create">
-<area shape="rect" id="node2" href="$d3/d5a/gk__proto_8h.html#aba6f76f5c67b9b7e9c2e45988d3d3e9d" title="gk_malloc" alt="" coords="177,57,258,84"/>
-<area shape="rect" id="node7" href="$db/d13/htable_8c.html#a8a914231592293527bd1f42cdfb346d4" title="HTable_Reset" alt="" coords="164,108,271,135"/>
-<area shape="rect" id="node3" href="$d2/d8c/examplehs038_8m.html#ae272956ea74f28b2f067d455fead331f" title="fprintf" alt="" coords="533,57,588,84"/>
-<area shape="rect" id="node4" href="$df/dd5/memory_8c.html#ad2327b94227019b6753b6b09400c0522" title="gk_GetCurMemoryUsed" alt="" coords="321,32,483,59"/>
-<area shape="rect" id="node5" href="$df/dd5/memory_8c.html#a656fd5266ae12a96e53125486f8fea52" title="gk_GetMaxMemoryUsed" alt="" coords="319,83,485,109"/>
-<area shape="rect" id="node6" href="$db/dcc/error_8c.html#a4c320c13bcdc9967613253ef4c73f59f" title="gk_errexit" alt="" coords="363,133,441,160"/>
-</map>

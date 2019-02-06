@@ -1,6 +1,0 @@
-<map id="omc_NFEvalConstants_evaluateVariable" name="omc_NFEvalConstants_evaluateVariable">
-<area shape="rect" id="node2" href="$dc/db9/_n_f_eval_constants_8c.html#a157ae594fea35eb1aabd1459c9cdec48" title="omc_NFEvalConstants\l_evaluateBinding" alt="" coords="229,39,387,80"/>
-<area shape="rect" id="node5" href="$d3/d49/_n_f_variable_8c.html#a7545d716cf6789af626d38d82c85a01c" title="omc_NFVariable_isStructural" alt="" coords="212,105,404,131"/>
-<area shape="rect" id="node3" href="$d3/dcf/_n_f_binding_8c.html#ab2de4dc6d83f9f5260fbab801ab60ad2" title="omc_NFBinding_Binding\l_isBound" alt="" coords="452,5,617,47"/>
-<area shape="rect" id="node4" href="$d3/dcf/_n_f_binding_8c.html#a80dd5ee36ebfd8cc8cb133ee70a19bb1" title="omc_NFBinding_Binding\l_getTypedExp" alt="" coords="452,71,617,112"/>
-</map>

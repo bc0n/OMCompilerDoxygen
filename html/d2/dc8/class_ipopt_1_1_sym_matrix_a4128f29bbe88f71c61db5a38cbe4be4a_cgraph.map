@@ -1,7 +1,0 @@
-<map id="Ipopt::SymMatrix::~SymMatrix" name="Ipopt::SymMatrix::~SymMatrix">
-<area shape="rect" id="node2" href="$d2/dc8/class_ipopt_1_1_sym_matrix.html#ac55ce8c7f607a1886dce025a7be34af8" title="Ipopt::SymMatrix::Dim" alt="" coords="204,31,359,57"/>
-<area shape="rect" id="node6" href="$d2/dc8/class_ipopt_1_1_sym_matrix.html#a563ff227fab515b0e55e27712ef83e66" title="Ipopt::SymMatrix::OwnerSym\lMatrixSpace" alt="" coords="184,82,379,123"/>
-<area shape="rect" id="node3" href="$d5/d91/class_ipopt_1_1_sym_matrix_space.html#a2cd122ff10ba34d64d73e85c6dd26dff" title="Ipopt::SymMatrixSpace::Dim" alt="" coords="427,31,617,57"/>
-<area shape="rect" id="node4" href="$de/dfe/class_ipopt_1_1_matrix.html#a266552e7da69b010fb9aff8852a89ce1" title="Ipopt::Matrix::NRows" alt="" coords="665,5,812,32"/>
-<area shape="rect" id="node5" href="$de/dfe/class_ipopt_1_1_matrix.html#afda62c7ef10c09d8dde0e266ebd35dfb" title="Ipopt::Matrix::NCols" alt="" coords="669,56,809,83"/>
-</map>

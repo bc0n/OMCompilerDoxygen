@@ -1,9 +1,0 @@
-<map id="UA_VariableAttributes" name="UA_VariableAttributes">
-<area shape="rect" id="node2" href="$da/dfd/struct_u_a___node_id.html" title="UA_NodeId" alt="" coords="184,109,275,136"/>
-<area shape="rect" id="node7" href="$da/dea/struct_u_a___data_type.html" title="UA_DataType" alt="" coords="89,211,194,237"/>
-<area shape="rect" id="node3" href="$d3/dbd/struct_u_a___string.html" title="UA_String" alt="" coords="256,5,339,32"/>
-<area shape="rect" id="node5" href="$dc/d33/struct_u_a___localized_text.html" title="UA_LocalizedText" alt="" coords="257,160,386,187"/>
-<area shape="rect" id="node4" href="$db/d54/struct_u_a___guid.html" title="UA_Guid" alt="" coords="133,5,208,32"/>
-<area shape="rect" id="node6" href="$de/dff/struct_u_a___variant.html" title="UA_Variant" alt="" coords="103,315,193,341"/>
-<area shape="rect" id="node8" href="$d9/d85/struct_u_a___data_type_member.html" title="UA_DataTypeMember" alt="" coords="5,109,157,136"/>
-</map>

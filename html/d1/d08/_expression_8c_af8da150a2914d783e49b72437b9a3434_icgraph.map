@@ -1,6 +1,0 @@
-<map id="omc_Expression_toBool" name="omc_Expression_toBool">
-<area shape="rect" id="node2" href="$d6/d99/_expression_8h.html#ad4d4d097b28e3b8d9e25425b34dd5eee" title="boxptr_Expression_toBool" alt="" coords="216,5,391,32"/>
-<area shape="rect" id="node3" href="$d3/da5/_expression_simplify_8c.html#aeb774c3b19f119c2143be0535a7d036b" title="omc_ExpressionSimplify\l_simplifyUnary" alt="" coords="220,57,387,98"/>
-<area shape="rect" id="node4" href="$d9/dc1/_expression_simplify_8h.html#a8e09d941b82766054fa687140503d8fe" title="omc_ExpressionSimplify\l_simplifyWork" alt="" coords="439,23,605,65"/>
-<area shape="rect" id="node5" href="$d9/dc1/_expression_simplify_8h.html#a4fee358005a04856ab2cfa08e6eb13fc" title="omc_ExpressionSimplify\l_simplifyUnaryExp" alt="" coords="439,89,605,130"/>
-</map>

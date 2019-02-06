@@ -1,8 +1,0 @@
-<map id="Kokkos::Compat::KokkosDeviceWrapperNode::KokkosDeviceWrapperNode" name="Kokkos::Compat::KokkosDeviceWrapperNode::KokkosDeviceWrapperNode">
-<area shape="rect" id="node2" href="$db/d0f/class_teuchos_1_1_parameter_list.html#a19ddc383143d83c4922f384a061fce2a" title="Whether the given parameter exists in this list and has type T. " alt="" coords="663,5,825,47"/>
-<area shape="rect" id="node3" href="$db/d0f/class_teuchos_1_1_parameter_list.html#acf06d867a960000f651b1d8657e083ff" title="Return the parameter&#39;s value, or the default value if it is not there. " alt="" coords="651,137,837,163"/>
-<area shape="rect" id="node4" href="$d2/d34/namespace_kokkos_1_1_compat_1_1_details.html#ac8d26ece60fe0befceb84f69d2cc434a" title="Get the value of the &quot;Verbose&quot; parameter as a bool. " alt="" coords="381,71,550,112"/>
-<area shape="rect" id="node7" href="$d0/d40/class_kokkos_1_1_compat_1_1_kokkos_device_wrapper_node.html#a2f0e7b8a24789becdc80993c8bf33089" title="Default constructor (sets default parameters). " alt="" coords="328,188,603,229"/>
-<area shape="rect" id="node5" href="$db/d0f/class_teuchos_1_1_parameter_list.html#ac92eddf7017e5c52a000620c84e6e5d0" title="Whether the given parameter exists in this list. " alt="" coords="663,71,825,112"/>
-<area shape="rect" id="node6" href="$d4/de3/class_teuchos_1_1_string_indexed_ordered_value_object_container.html#a2127ead00268d48901490bd6a05dc2b8" title="Get the ordinal index given the string key. " alt="" coords="885,71,1153,112"/>
-</map>

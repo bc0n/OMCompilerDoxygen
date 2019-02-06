@@ -1,9 +1,0 @@
-<map id="mumps_set_file" name="mumps_set_file">
-<area shape="rect" id="node2" href="$d0/d58/mumps__io__err_8c.html#a2e8fdf3ea4c54c2237714f16c4b970ab" title="mumps_io_error" alt="" coords="182,56,297,83"/>
-<area shape="rect" id="node6" href="$d0/d58/mumps__io__err_8c.html#a8de53d32f629d5e336eb1f68eed67114" title="mumps_io_sys_error" alt="" coords="168,107,311,133"/>
-<area shape="rect" id="node8" href="$de/def/kim__info_8m.html#aff74ba1ae73082324b3adcbdd8d78860" title="close" alt="" coords="213,157,266,184"/>
-<area shape="rect" id="node3" href="$d0/d58/mumps__io__err_8c.html#ae359b055e5eb9e74782eae78d3593533" title="mumps_io_protect_err" alt="" coords="366,5,517,32"/>
-<area shape="rect" id="node4" href="$d7/d57/iregex_8c.html#a492442620ce65db20fe7297b43cbca65" title="strlen" alt="" coords="414,56,469,83"/>
-<area shape="rect" id="node5" href="$d0/d58/mumps__io__err_8c.html#a075daa4b786a77f4a7e8c42723ebcb56" title="mumps_io_unprotect_err" alt="" coords="359,107,524,133"/>
-<area shape="rect" id="node7" href="$d7/dae/errno_8hpp.html#ab24cd3e7230776b966d761a401486350" title="strerror" alt="" coords="410,157,473,184"/>
-</map>

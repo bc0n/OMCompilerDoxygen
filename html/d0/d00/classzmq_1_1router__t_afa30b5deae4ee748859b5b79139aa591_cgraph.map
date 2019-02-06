@@ -1,8 +1,0 @@
-<map id="zmq::router_t::rollback" name="zmq::router_t::rollback">
-<area shape="rect" id="node2" href="$db/d21/classzmq_1_1pipe__t.html#a7506327540c73c5ef9336c625315ff60" title="zmq::pipe_t::rollback" alt="" coords="205,42,348,69"/>
-<area shape="rect" id="node3" href="$dc/d65/classzmq_1_1ypipe__base__t.html#a6f62e07003a41be5aaa162a6efea90cc" title="zmq::ypipe_base_t::\lunwrite" alt="" coords="396,5,536,47"/>
-<area shape="rect" id="node4" href="$de/d92/classzmq_1_1msg__t.html#af371987bc4315f04738d2ca7a863327d" title="zmq::msg_t::close" alt="" coords="401,71,531,98"/>
-<area shape="rect" id="node5" href="$de/d92/classzmq_1_1msg__t.html#ae0d38ffd535506c59302218518a35dfd" title="zmq::msg_t::check" alt="" coords="594,21,729,47"/>
-<area shape="rect" id="node6" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="639,71,683,98"/>
-<area shape="rect" id="node7" href="$de/d92/classzmq_1_1msg__t.html#a77eefc5e1223fe5333cbcb16e4a4d0e3" title="zmq::msg_t::is_zcmsg" alt="" coords="584,122,739,149"/>
-</map>

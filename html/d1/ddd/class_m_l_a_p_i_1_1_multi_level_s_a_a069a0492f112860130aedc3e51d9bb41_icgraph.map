@@ -1,4 +1,0 @@
-<map id="MLAPI::MultiLevelSA::A" name="MLAPI::MultiLevelSA::A">
-<area shape="rect" id="node2" href="$d1/ddd/class_m_l_a_p_i_1_1_multi_level_s_a.html#a73ace23596f7f576a71a0df75e055543" title="Recursively called core of the multi level preconditioner. " alt="" coords="217,5,364,47"/>
-<area shape="rect" id="node3" href="$d1/ddd/class_m_l_a_p_i_1_1_multi_level_s_a.html#ad50b2f8a08b2d81adc03a13d21d7c649" title="Applies the preconditioner to b_f, returns the result in x_f. " alt="" coords="412,5,559,47"/>
-</map>

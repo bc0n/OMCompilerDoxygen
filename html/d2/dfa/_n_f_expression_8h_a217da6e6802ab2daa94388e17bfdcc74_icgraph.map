@@ -1,5 +1,0 @@
-<map id="omc_NFExpression_priority" name="omc_NFExpression_priority">
-<area shape="rect" id="node2" href="$d2/dfa/_n_f_expression_8h.html#a8267a21aa9ffb38cd2a0163da784f0ba" title="boxptr_NFExpression\l_priority" alt="" coords="257,5,405,47"/>
-<area shape="rect" id="node3" href="$d2/dfa/_n_f_expression_8h.html#ae3c492f5536fb48812d5310db105e423" title="omc_NFExpression_operand\lString" alt="" coords="236,71,427,112"/>
-<area shape="rect" id="node4" href="$d2/dfa/_n_f_expression_8h.html#a050a1a13956cceb406f5bd13a4b91886" title="boxptr_NFExpression\l_operandString" alt="" coords="475,71,623,112"/>
-</map>

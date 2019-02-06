@@ -1,7 +1,0 @@
-<map id="omc_DAEQuery_getVariables" name="omc_DAEQuery_getVariables">
-<area shape="rect" id="node2" href="$dd/db3/_backend_variable_8c.html#a51a1e83100b01afe350584face09be78" title="omc_BackendVariable\l_varList" alt="" coords="265,5,417,47"/>
-<area shape="rect" id="node4" href="$d3/d2a/_d_a_e_query_8c.html#abae0ca13c8b4ccec92f27c87598a98f6" title="omc_DAEQuery_dumpVars" alt="" coords="249,71,432,98"/>
-<area shape="rect" id="node6" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="291,122,390,149"/>
-<area shape="rect" id="node3" href="$dd/db3/_backend_variable_8c.html#a02471a40fa5320d5f337733e05e97cef" title="omc_BackendVariable\l_vararrayList" alt="" coords="499,5,651,47"/>
-<area shape="rect" id="node5" href="$d3/d2a/_d_a_e_query_8c.html#ab94ec071136385921c0a95df2e064b7e" title="omc_DAEQuery_dumpVars2" alt="" coords="480,71,671,98"/>
-</map>

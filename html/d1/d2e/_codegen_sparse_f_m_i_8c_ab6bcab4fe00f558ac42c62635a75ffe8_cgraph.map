@@ -1,8 +1,0 @@
-<map id="boxptr_CodegenSparseFMI_switchIndex" name="boxptr_CodegenSparseFMI_switchIndex">
-<area shape="rect" id="node2" href="$d1/d2e/_codegen_sparse_f_m_i_8c.html#a8dacd0dbba86b5317f54af5d46cb20b6" title="omc_CodegenSparseFMI\l_switchIndex" alt="" coords="235,99,405,141"/>
-<area shape="rect" id="node3" href="$d7/d52/_tpl_8c.html#a1038a57834f028b49f38adc4d5fcd049" title="omc_Tpl_writeTok" alt="" coords="484,5,613,32"/>
-<area shape="rect" id="node4" href="$d0/d09/_patternm_8c.html#a94a154e9b3b241fdd840aa65c6f6a27f" title="omc_Patternm_getValueCtor" alt="" coords="453,56,644,83"/>
-<area shape="rect" id="node5" href="$d7/d52/_tpl_8c.html#ada57037d1430be632aea182a946c3245" title="omc_Tpl_writeStr" alt="" coords="487,107,611,133"/>
-<area shape="rect" id="node6" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a751bf2360cb3df6de97811998890b7ea" title="intString" alt="" coords="513,157,584,184"/>
-<area shape="rect" id="node7" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a71a925de64a6f26ca5ef2903b616e73d" title="stringHashDjb2Mod" alt="" coords="480,208,617,235"/>
-</map>

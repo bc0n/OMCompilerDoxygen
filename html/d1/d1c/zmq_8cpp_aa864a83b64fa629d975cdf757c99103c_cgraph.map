@@ -1,8 +1,0 @@
-<map id="zmq_poller_poll" name="zmq_poller_poll">
-<area shape="rect" id="node2" href="$d3/d1b/netstream-main_8cpp.html#aed138f72d7301a9034a719a95c4903da" title="e" alt="" coords="211,5,250,32"/>
-<area shape="rect" id="node3" href="$d1/d1c/zmq_8cpp.html#a5756a176f1c8d74416ed2d3005a39d20" title="zmq_poller_modify" alt="" coords="165,56,296,83"/>
-<area shape="rect" id="node5" href="$d1/d1c/zmq_8cpp.html#a34cc84fdf598e20f452aa3fee920813f" title="zmq_poller_add" alt="" coords="174,107,287,133"/>
-<area shape="rect" id="node4" href="$d1/d1c/zmq_8cpp.html#a6a14af61be1c2398db472806b1281e37" title="zmq_poller_modify_fd" alt="" coords="344,56,493,83"/>
-<area shape="rect" id="node6" href="$d9/d97/tweetnacl_8c.html#a476ab31266e769adc731ca48d5a8c0f2" title="add" alt="" coords="397,107,440,133"/>
-<area shape="rect" id="node7" href="$d1/d1c/zmq_8cpp.html#a2d634667c1a02b729492fd4f9921cfb8" title="zmq_poller_add_fd" alt="" coords="353,157,484,184"/>
-</map>

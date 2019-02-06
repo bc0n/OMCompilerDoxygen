@@ -1,9 +1,0 @@
-<map id="omc_System_setPartialInstantiation" name="omc_System_setPartialInstantiation">
-<area shape="rect" id="node2" href="$dd/d26/_inst_8c.html#a11059d2f35118c6924efdaae9b824a2a" title="omc_Inst_partialInstClass\lIn__dispatch" alt="" coords="312,5,487,47"/>
-<area shape="rect" id="node4" href="$d1/de1/_interactive_8h.html#af2858f277876647dca3865ebc964d75f" title="omc_Interactive_getDocumentation\lAnnotationString" alt="" coords="285,71,513,112"/>
-<area shape="rect" id="node5" href="$db/d73/_interactive_8c.html#a6c760bca38142fc30768dc39ddb0699b" title="omc_Interactive_evaluate\lGraphicalApi" alt="" coords="314,136,485,177"/>
-<area shape="rect" id="node7" href="$d1/de1/_interactive_8h.html#a5a4f4f7a8d7639905aff9053faabdf16" title="omc_Interactive_evaluate2" alt="" coords="565,202,743,229"/>
-<area shape="rect" id="node8" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a517d745981e9651cc329e3aca2cf1ca5" title="boxptr_System_setPartial\lInstantiation" alt="" coords="313,253,485,295"/>
-<area shape="rect" id="node3" href="$dd/d26/_inst_8c.html#a6dfede18a4a35fd5d74277b299fc213d" title="boxptr_Inst_partialInstClass\lIn__dispatch" alt="" coords="561,5,747,47"/>
-<area shape="rect" id="node6" href="$db/d73/_interactive_8c.html#a037a30dd0794789ef980edc47f3ffccb" title="boxptr_Interactive\l_evaluateGraphicalApi" alt="" coords="578,136,730,177"/>
-</map>

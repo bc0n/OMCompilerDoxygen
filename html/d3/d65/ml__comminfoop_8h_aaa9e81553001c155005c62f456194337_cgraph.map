@@ -1,7 +1,0 @@
-<map id="ML_create_unique_BlockCol_id" name="ML_create_unique_BlockCol_id">
-<area shape="rect" id="node2" href="$d8/d08/ml__memory_8c.html#ab87b354d6e82cccbd10c498870d74c6b" title="ML_allocate" alt="" coords="484,26,576,53"/>
-<area shape="rect" id="node4" href="$da/d6c/ml__aztec__utils_8c.html#a7db311c960b81177df79b7e832fc86ca" title="ML_free" alt="" coords="624,77,693,103"/>
-<area shape="rect" id="node5" href="$d6/de2/ml__utils_8c.html#acebad6609ad7d983059a576227273c92" title="ML_gmax_int" alt="" coords="297,77,397,103"/>
-<area shape="rect" id="node6" href="$d1/da9/ml__comminfoop_8c.html#aafd0be1ca80228f817fef143db39a7af" title="ML_cheap_exchange_bdry" alt="" coords="259,26,436,53"/>
-<area shape="rect" id="node3" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="629,26,689,53"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="stallMonitor_check" name="stallMonitor_check">
-<area shape="rect" id="node2" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#ab3ddb3000059d0f1975540149e46effa" title="MYBOOL" alt="" coords="197,5,276,32"/>
-<area shape="rect" id="node3" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#aabeea9518b446124eae99d84b94661ed" title="REAL" alt="" coords="208,56,265,83"/>
-<area shape="rect" id="node4" href="$d3/d63/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__report_8h.html#a44ef60e159dc1290b7da87301e244357" title="report" alt="" coords="209,107,264,133"/>
-<area shape="rect" id="node5" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#a4420367bb02b46947d64dfbd59b1119b" title="get_total_iter" alt="" coords="188,157,285,184"/>
-<area shape="rect" id="node6" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#abf9741b681392fca763dc425387f64f2" title="get_piv_rule" alt="" coords="191,208,283,235"/>
-<area shape="rect" id="node7" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#a4be8ef3ce8562e3cb31c64fd17a091b5" title="is_action" alt="" coords="199,259,274,285"/>
-<area shape="rect" id="node8" href="$d2/d6c/lp__simplex_8c.html#a7c5e78dd4926fda5ebadd204dabfb7f3" title="CLEARMASK" alt="" coords="184,309,289,336"/>
-</map>

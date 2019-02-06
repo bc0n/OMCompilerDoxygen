@@ -1,7 +1,0 @@
-<map id="GC_mark_thread_local_free_lists" name="GC_mark_thread_local_free_lists">
-<area shape="rect" id="node2" href="$dd/d79/gc__priv_8h.html#ada843fec7ffa10957a47951e0691f73b" title="GC_log_printf" alt="" coords="234,5,337,32"/>
-<area shape="rect" id="node3" href="$d6/d02/thread__local__alloc_8h.html#aee8eb9212d533c8e3e610bb9f1d3b7c3" title="GC_mark_thread_local\l_fls_for" alt="" coords="208,57,363,98"/>
-<area shape="rect" id="node4" href="$de/d97/generalize-small_8h.html#ad40005bf02bced359697864d34ec1a4c" title="AO_load" alt="" coords="437,39,509,65"/>
-<area shape="rect" id="node6" href="$d9/d39/alloc_8c.html#a48dd9a512111c483ccdae63a89a10e59" title="GC_set_fl_marks" alt="" coords="411,89,535,116"/>
-<area shape="rect" id="node5" href="$d0/d4c/gc__atomic__ops_8h.html#ac44fca25bf925dc938812ae00a336926" title="AO_compare_and_swap" alt="" coords="583,39,747,65"/>
-</map>

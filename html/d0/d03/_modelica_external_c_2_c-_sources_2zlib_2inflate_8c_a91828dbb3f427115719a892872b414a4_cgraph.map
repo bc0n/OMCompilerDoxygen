@@ -1,8 +1,0 @@
-<map id="inflateSync" name="inflateSync">
-<area shape="rect" id="node2" href="$d4/d55/gun_8c.html#a43f04018566627e305440b8734deb9db" title="in" alt="" coords="167,5,205,32"/>
-<area shape="rect" id="node3" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#a3aa01c00fa09698ebbafee7173b19254" title="inflateStateCheck" alt="" coords="280,56,407,83"/>
-<area shape="rect" id="node4" href="$da/d6c/group__jm__vector.html#gaac2916bbf5bdc0c66a10d0bd32c9134b" title="if" alt="" coords="455,107,493,133"/>
-<area shape="rect" id="node5" href="$dd/d5f/_f_m_i_l_2_third_party_2_zlib_2zlib-1_82_86_2inflate_8c.html#ae9f8e5249ad99e5d9eeaf96a70257af5" title="syncsearch" alt="" coords="141,157,231,184"/>
-<area shape="rect" id="node6" href="$dd/d5f/_f_m_i_l_2_third_party_2_zlib_2zlib-1_82_86_2inflate_8c.html#adb02c2100f9179f4075b220395b1553c" title="inflateReset" alt="" coords="140,208,232,235"/>
-<area shape="rect" id="node7" href="$dd/d5f/_f_m_i_l_2_third_party_2_zlib_2zlib-1_82_86_2inflate_8c.html#a999219816122f73a0e1af7191ad91146" title="inflateResetKeep" alt="" coords="282,183,405,209"/>
-</map>

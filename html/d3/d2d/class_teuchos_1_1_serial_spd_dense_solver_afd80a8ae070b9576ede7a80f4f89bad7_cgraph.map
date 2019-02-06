@@ -1,4 +1,0 @@
-<map id="Teuchos::SerialSpdDenseSolver::shouldEquilibrate" name="Teuchos::SerialSpdDenseSolver::shouldEquilibrate">
-<area shape="rect" id="node2" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#aecfa330b590bc9acb1ea9f5953025eb9" title="Computes the scaling vector S(i) = 1/sqrt(A(i,i) of the this matrix. " alt="" coords="264,5,475,47"/>
-<area shape="rect" id="node3" href="$d5/dfb/class_teuchos_1_1_l_a_p_a_c_k.html#a6de155bd0b3235245cdc36e28cd2dfa4" title="Computes row and column scalings intended to equilibrate a symmetric positive definite matrix A and r..." alt="" coords="523,13,712,39"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="omc_Refactor_addContext" name="omc_Refactor_addContext">
-<area shape="rect" id="node2" href="$d1/d0b/_refactor_8c.html#a781c327b32e833d47f02283a8d118917" title="omc_Refactor_transAnnLst\lToCalls" alt="" coords="249,5,430,47"/>
-<area shape="rect" id="node3" href="$d1/d0b/_refactor_8c.html#a29ea55657f010ec1f0499a69edf5d7ca" title="omc_Refactor_transformClass\lAnnList" alt="" coords="495,32,695,73"/>
-<area shape="rect" id="node5" href="$d1/d0b/_refactor_8c.html#acb4215e9edb05a8155b1d81a271d04c4" title="omc_Refactor_transformConnect\lAnnList" alt="" coords="232,123,447,164"/>
-<area shape="rect" id="node4" href="$d1/d0b/_refactor_8c.html#a64ad835fad386dd1382fdbf657be7138" title="omc_Refactor_getCoordSysAnn" alt="" coords="743,39,953,66"/>
-<area shape="rect" id="node6" href="$d1/d0b/_refactor_8c.html#a573869edc190be81411872ac46b729c1" title="omc_Refactor_refactorGraph\lAnnInEqItem" alt="" coords="499,123,690,164"/>
-</map>

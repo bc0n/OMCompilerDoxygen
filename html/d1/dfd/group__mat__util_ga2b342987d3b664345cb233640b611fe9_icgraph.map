@@ -1,7 +1,0 @@
-<map id="strdup_vprintf" name="strdup_vprintf">
-<area shape="rect" id="node2" href="$d1/dfd/group__mat__util.html#ga291b08f933c75fb70e3736b669896ebd" title="Allocates and prints to a new string using printf format. " alt="" coords="155,56,249,83"/>
-<area shape="rect" id="node3" href="$dd/dc8/group___m_a_t.html#ga7c0d94860d782366ab93d9b6b068eaea" title="Gets a list of the variables of a MAT file. " alt="" coords="308,5,397,32"/>
-<area shape="rect" id="node5" href="$dd/dc8/group___m_a_t.html#gabf139e48d48177e5069338fa2919c60a" title="Deletes a variable from a file. " alt="" coords="607,31,716,57"/>
-<area shape="rect" id="node6" href="$dd/dc8/group___m_a_t.html#ga1c54a84bb4d810c6fccdb8869489eac4" title="Creates a MAT Variable with the given name and (optionally) data. " alt="" coords="297,107,408,133"/>
-<area shape="rect" id="node4" href="$dd/dc8/group___m_a_t.html#ga4bd3eba12df415d8226e27c457fbbb0b" title="Writes the given MAT variable to a MAT file. " alt="" coords="456,5,559,32"/>
-</map>

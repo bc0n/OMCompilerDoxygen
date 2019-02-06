@@ -1,6 +1,0 @@
-<map id="omc_AvlSetString_intersection" name="omc_AvlSetString_intersection">
-<area shape="rect" id="node2" href="$d1/d5c/_avl_set_string_8c.html#aa26bbbe2b82db370484088647aae2eb0" title="omc_AvlSetString_isEmpty" alt="" coords="267,5,450,32"/>
-<area shape="rect" id="node3" href="$d1/d5c/_avl_set_string_8c.html#ad2083ffd13ed4c2f2b67d660c2fe442b" title="omc_AvlSetString_listKeys" alt="" coords="268,56,449,83"/>
-<area shape="rect" id="node4" href="$d1/d5c/_avl_set_string_8c.html#a1ee58bf8cb954fa39d7a3251b21ac550" title="omc_AvlSetString_keyCompare" alt="" coords="255,107,463,133"/>
-<area shape="rect" id="node5" href="$d1/d5c/_avl_set_string_8c.html#af01c39ff009ddfb4a5b358dfd85af943" title="omc_AvlSetString_add" alt="" coords="281,157,436,184"/>
-</map>

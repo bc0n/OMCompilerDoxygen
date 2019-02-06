@@ -1,5 +1,0 @@
-<map id="fmi1_xml_handle_StringType" name="fmi1_xml_handle_StringType">
-<area shape="rect" id="node2" href="$d2/d37/fmi1__xml__type_8c.html#a074c0e6112ef44e1365fc2a6f4c9db81" title="fmi1_check_last_elem\l_is_specific_type" alt="" coords="244,5,396,47"/>
-<area shape="rect" id="node3" href="$d0/d34/fmi1__xml__parser_8c.html#a094720ead8128988a23de837e2543d98" title="fmi1_xml_parse_fatal" alt="" coords="444,13,591,39"/>
-<area shape="rect" id="node4" href="$d6/dac/group__jm__callbacks.html#gaba6d03fb084724a1a8928e59fe5b6e39" title="Send a fatal error message to the logger function. See jm_log() for details. " alt="" coords="639,13,745,39"/>
-</map>

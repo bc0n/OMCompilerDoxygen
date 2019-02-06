@@ -1,5 +1,0 @@
-<map id="fmi2_xml_set_attr_int" name="fmi2_xml_set_attr_int">
-<area shape="rect" id="node2" href="$dd/d01/fmi2__xml__type_8c.html#a3ee1fd2e06d1b322c201e3d70c81db6e" title="fmi2_xml_handle_Item" alt="" coords="231,5,384,32"/>
-<area shape="rect" id="node3" href="$d9/d01/fmi2__xml__variable_8c.html#a35e012c166e49cf905bfa15e6c7a37e3" title="fmi2_xml_handle_IntegerVariable" alt="" coords="200,56,415,83"/>
-<area shape="rect" id="node4" href="$d9/d01/fmi2__xml__variable_8c.html#a78307e22cd6b0bbd10d762e7d2ed3893" title="fmi2_xml_handle_Enumeration\lVariable" alt="" coords="207,107,407,149"/>
-</map>

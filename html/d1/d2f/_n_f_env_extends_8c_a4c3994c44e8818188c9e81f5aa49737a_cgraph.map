@@ -1,6 +1,0 @@
-<map id="omc_NFEnvExtends_makeExtendsPath" name="omc_NFEnvExtends_makeExtendsPath">
-<area shape="rect" id="node2" href="$da/db6/_n_f_s_code_env_8c.html#a3b012f5abbf3bc97cafeb52278cc35f3" title="omc_NFSCodeEnv_getEnvPath" alt="" coords="311,5,521,32"/>
-<area shape="rect" id="node3" href="$d0/d78/_absyn_8c.html#a1a5882d345a6d673a6f6f0800ccd1079" title="omc_Absyn_joinPathsOptSuffix" alt="" coords="313,56,519,83"/>
-<area shape="rect" id="node5" href="$d0/d78/_absyn_8c.html#a4539f220116ead9c47c94ea3ea75a518" title="omc_Absyn_makeFullyQualified" alt="" coords="311,107,521,133"/>
-<area shape="rect" id="node4" href="$d0/d78/_absyn_8c.html#aa2092bcad05f556016d6ebe8c04e7ce1" title="omc_Absyn_joinPaths" alt="" coords="569,56,721,83"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="omc_Interactive_getUsesAnnotation" name="omc_Interactive_getUsesAnnotation">
-<area shape="rect" id="node2" href="$d0/d78/_absyn_8c.html#a398b2c48503908c545f049f5fa3d856a" title="omc_Absyn_getNamedAnnotation\lInClass" alt="" coords="287,74,507,115"/>
-<area shape="rect" id="node8" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="373,140,420,167"/>
-<area shape="rect" id="node3" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a65a694e3889f2f5d8af963dcfbbaf1cf" title="omc_List_flatten" alt="" coords="614,31,733,57"/>
-<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a70628b2c3fb199a118f80777135940ee" title="omc_List_map" alt="" coords="620,81,727,108"/>
-<area shape="rect" id="node7" href="$d0/d78/_absyn_8c.html#ab831c61b00e06407584466e28fe425da" title="omc_Absyn_getNamedAnnotationStr" alt="" coords="555,132,792,159"/>
-<area shape="rect" id="node4" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a81001ba45c298ade27540edd2589777c" title="listReverse" alt="" coords="840,5,928,32"/>
-<area shape="rect" id="node5" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a56b7e8a835b2d388f5984ca7378bc1ec" title="listAppend" alt="" coords="843,56,925,83"/>
-</map>

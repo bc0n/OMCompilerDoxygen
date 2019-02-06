@@ -1,5 +1,0 @@
-<map id="omc_NFCardinalityTable_fromConnections" name="omc_NFCardinalityTable_fromConnections">
-<area shape="rect" id="node2" href="$d1/d95/_system_8c.html#ab52b9efea7ec972e9d530f65882b176b" title="omc_System_getUsesCardinality" alt="" coords="220,5,437,32"/>
-<area shape="rect" id="node4" href="$d1/dcb/_n_f_cardinality_table_8c.html#a5763e1ca9d8bd44ae87456061eb91fe3" title="omc_NFCardinalityTable\l_emptyCardinalityTable" alt="" coords="245,57,412,98"/>
-<area shape="rect" id="node3" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a491bdf44b840f7c4e4199f06f1266cd5" title="System_getUsesCardinality" alt="" coords="485,5,671,32"/>
-</map>

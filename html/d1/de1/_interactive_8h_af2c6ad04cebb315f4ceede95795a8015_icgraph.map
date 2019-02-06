@@ -1,9 +1,0 @@
-<map id="omc_Interactive_annotationListToAbsyn" name="omc_Interactive_annotationListToAbsyn">
-<area shape="rect" id="node2" href="$d8/de6/_ceval_script_backend_8c.html#af91cddc894569fb41dbf5cab4ca17d18" title="omc_CevalScriptBackend\l_addInitialState" alt="" coords="249,5,423,47"/>
-<area shape="rect" id="node4" href="$db/d73/_interactive_8c.html#a72e57e448a51de6b7f9a867f49885844" title="omc_Interactive_annotation\lListToAbsynComment2" alt="" coords="245,71,427,112"/>
-<area shape="rect" id="node6" href="$d1/de1/_interactive_8h.html#ae15a6b1b72e41ebddd68ee23d853fa88" title="omc_Interactive_addTransition" alt="" coords="236,137,436,163"/>
-<area shape="rect" id="node8" href="$d1/de1/_interactive_8h.html#a5dce3951d52934077591a3cdcb1bcfea" title="omc_Interactive_addClass\lAnnotation" alt="" coords="247,188,425,229"/>
-<area shape="rect" id="node3" href="$d8/de6/_ceval_script_backend_8c.html#aa89d6efa4d4ae66556910e1ed5c477ef" title="boxptr_CevalScriptBackend\l_addInitialState" alt="" coords="484,5,668,47"/>
-<area shape="rect" id="node5" href="$db/d73/_interactive_8c.html#abe5a2b8f03b2a1e8f5550ddbd61f86b5" title="omc_Interactive_annotation\lListToAbsynComment" alt="" coords="485,71,667,112"/>
-<area shape="rect" id="node7" href="$d1/de1/_interactive_8h.html#a0a130c84fc38b9fd67b36623aaea5e77" title="boxptr_Interactive\l_addTransition" alt="" coords="513,136,639,177"/>
-</map>

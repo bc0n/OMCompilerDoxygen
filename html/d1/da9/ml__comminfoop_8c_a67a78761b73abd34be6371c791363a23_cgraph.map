@@ -1,5 +1,0 @@
-<map id="ML_CommInfoOP_Get_sendlist" name="ML_CommInfoOP_Get_sendlist">
-<area shape="rect" id="node2" href="$d8/d08/ml__memory_8c.html#ab87b354d6e82cccbd10c498870d74c6b" title="ML_allocate" alt="" coords="260,31,352,57"/>
-<area shape="rect" id="node3" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="405,5,465,32"/>
-<area shape="rect" id="node4" href="$da/d6c/ml__aztec__utils_8c.html#a7db311c960b81177df79b7e832fc86ca" title="ML_free" alt="" coords="400,56,469,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="tutorial" name="tutorial">
-<area shape="rect" id="node2" href="$d5/d6d/hs071__f_8f.html#a9dc47613b15e879aacc0fcba1fa30b6a" title="ev_f" alt="" coords="131,5,177,32"/>
-<area shape="rect" id="node3" href="$d5/d6d/hs071__f_8f.html#a8a7180d121eccdc7eb672fed90ab61d1" title="ev_g" alt="" coords="129,56,179,83"/>
-<area shape="rect" id="node4" href="$d5/d6d/hs071__f_8f.html#ace35c0a6389c01331fb142c54ae1c0a7" title="ev_grad_f" alt="" coords="115,107,193,133"/>
-<area shape="rect" id="node5" href="$d5/d6d/hs071__f_8f.html#ade33d93448008ceaf76231dddb184f5b" title="ev_jac_g" alt="" coords="117,157,191,184"/>
-<area shape="rect" id="node6" href="$d5/d6d/hs071__f_8f.html#a01214d1bb45884a835ac4f988d9ac5b7" title="ev_hess" alt="" coords="119,208,189,235"/>
-</map>

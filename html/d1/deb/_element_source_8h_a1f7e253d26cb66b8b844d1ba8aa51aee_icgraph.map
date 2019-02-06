@@ -1,8 +1,0 @@
-<map id="omc_ElementSource_addSymbolicTransformation" name="omc_ElementSource_addSymbolicTransformation">
-<area shape="rect" id="node2" href="$df/d72/_backend_equation_8h.html#ae9e2c3eeb5115b3d675304252d3c2945" title="omc_BackendEquation\l_addOperation" alt="" coords="309,5,465,47"/>
-<area shape="rect" id="node3" href="$d1/deb/_element_source_8h.html#a06dcb9470fca4c799fdeb08caced268c" title="omc_ElementSource_condAdd\lSymbolicTransformation" alt="" coords="286,71,487,112"/>
-<area shape="rect" id="node5" href="$d9/d88/_inst_section_8c.html#a56ef57d1c036b1b43c996a844416e1c1" title="omc_InstSection_makeEqSource" alt="" coords="279,138,495,165"/>
-<area shape="rect" id="node4" href="$d1/deb/_element_source_8h.html#ab218f7154bf0853808860ed1c8ecce5c" title="boxptr_ElementSource\l_condAddSymbolicTransformation" alt="" coords="543,68,764,109"/>
-<area shape="rect" id="node6" href="$d9/d88/_inst_section_8c.html#a4b6ef0ce8701e5fcdf9a557402d55b50" title="omc_InstSection_instEquation\lCommonWork" alt="" coords="554,133,753,175"/>
-<area shape="rect" id="node7" href="$d9/d88/_inst_section_8c.html#a7abddf80b52372cb37b25fdf728cb39c" title="boxptr_InstSection\l_instEquationCommonWork" alt="" coords="812,133,997,175"/>
-</map>

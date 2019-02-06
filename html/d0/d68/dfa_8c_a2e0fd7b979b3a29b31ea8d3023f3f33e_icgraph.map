@@ -1,6 +1,0 @@
-<map id="dump_transitions" name="dump_transitions">
-<area shape="rect" id="node2" href="$d0/d68/dfa_8c.html#ade220005f320c1298cd822e0b27d72ec" title="check_for_backing_up" alt="" coords="175,5,327,32"/>
-<area shape="rect" id="node3" href="$d0/d68/dfa_8c.html#a92f5d1efe7ac444f129846432989560a" title="ntod" alt="" coords="375,5,421,32"/>
-<area shape="rect" id="node4" href="$d3/dcb/3rd_party_2flex-2_85_835_2main_8c.html#a8764597e26209288ad2864f2b5be1d57" title="flex_main" alt="" coords="469,5,548,32"/>
-<area shape="rect" id="node5" href="$d3/dcb/3rd_party_2flex-2_85_835_2main_8c.html#afced8478b91af5c169926dfa4426333d" title="main" alt="" coords="596,5,647,32"/>
-</map>

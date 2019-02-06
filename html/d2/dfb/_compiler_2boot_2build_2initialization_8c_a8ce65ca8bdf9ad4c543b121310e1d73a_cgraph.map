@@ -1,5 +1,0 @@
-<map id="boxptr_Initialization_simplifyInitialFunctions" name="boxptr_Initialization_simplifyInitialFunctions">
-<area shape="rect" id="node2" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#af2d81942dade38a6c9a4cef0c8b63366" title="omc_Initialization\l_simplifyInitialFunctions" alt="" coords="216,5,379,47"/>
-<area shape="rect" id="node3" href="$d1/d08/_expression_8c.html#aae2ed5a7c0c9b70b6c66638bc345357d" title="omc_Expression_traverseExp\lBottomUp" alt="" coords="427,5,623,47"/>
-<area shape="rect" id="node4" href="$d1/d08/_expression_8c.html#add3db321c96f54919494182b71eb10c7" title="omc_Expression_traverseExpClk" alt="" coords="671,13,887,39"/>
-</map>

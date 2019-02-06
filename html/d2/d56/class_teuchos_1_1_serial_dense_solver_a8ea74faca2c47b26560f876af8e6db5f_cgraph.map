@@ -1,8 +1,0 @@
-<map id="Teuchos::SerialDenseSolver::applyRefinement" name="Teuchos::SerialDenseSolver::applyRefinement">
-<area shape="rect" id="node2" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html#a4d098159817208bff8907744ea3df7a1" title="Returns true if the current set of vectors has been solved. " alt="" coords="241,5,429,47"/>
-<area shape="rect" id="node3" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html#ad2d8612181fdcc24164f27030efec7eb" title="Teuchos::SerialDenseSolver\l::allocateWORK" alt="" coords="241,71,429,112"/>
-<area shape="rect" id="node7" href="$d5/dfb/class_teuchos_1_1_l_a_p_a_c_k.html#a90583fbac5778a72a449ec4f2db481ea" title="Improves the computed solution to a system of linear equations and provides error bounds and backward..." alt="" coords="242,137,429,163"/>
-<area shape="rect" id="node4" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html#a41356f6eed327e87e83cde0357da068a" title="Teuchos::SerialDenseSolver\l::resetMatrix" alt="" coords="477,100,665,141"/>
-<area shape="rect" id="node5" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html#a3c36cd3065a377e851ed20961df34afe" title="Teuchos::SerialDenseSolver\l::resetVectors" alt="" coords="713,41,901,83"/>
-<area shape="rect" id="node6" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a146d96d758b245a3ca2272680ebf52b4" title="Returns representation of one for this scalar type. " alt="" coords="718,107,897,134"/>
-</map>

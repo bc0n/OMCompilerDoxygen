@@ -1,7 +1,0 @@
-<map id="mat_setvalue" name="mat_setvalue">
-<area shape="rect" id="node2" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#a8fe5b95ea2aa30bba3f5050534e4c420" title="mat_extractmat" alt="" coords="170,5,283,32"/>
-<area shape="rect" id="node3" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#ac8defba940597273d1e2f41af9c4fdd6" title="mat_setitem" alt="" coords="179,56,274,83"/>
-<area shape="rect" id="node5" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#aa8e38f815c9cbd06ef78e67a7f0cb056" title="appendUndoPresolve" alt="" coords="153,107,300,133"/>
-<area shape="rect" id="node6" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#a1d2df317ce9ff9f7d2175c6f4f5998fd" title="addUndoPresolve" alt="" coords="348,132,473,159"/>
-<area shape="rect" id="node4" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#adae88f0f1d337755cfa985774c30135f" title="mat_additem" alt="" coords="362,56,459,83"/>
-</map>

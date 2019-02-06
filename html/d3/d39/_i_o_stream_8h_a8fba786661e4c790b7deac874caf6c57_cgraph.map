@@ -1,7 +1,0 @@
-<map id="omc_IOStream_delete" name="omc_IOStream_delete">
-<area shape="rect" id="node2" href="$d6/d96/boot_2build_2_i_o_stream_ext_8c.html#a983f744629e6aa76ed2780f19d3c4759" title="omc_IOStreamExt_deleteFile" alt="" coords="212,5,405,32"/>
-<area shape="rect" id="node5" href="$d6/d96/boot_2build_2_i_o_stream_ext_8c.html#a056ac9d1529c506eb57cc3d92c8defd1" title="omc_IOStreamExt_deleteBuffer" alt="" coords="205,56,412,83"/>
-<area shape="rect" id="node3" href="$d3/d9e/_i_o_stream_ext_8h.html#ab906543655dc8321b15e326fb13cd9cf" title="IOStreamExt_deleteFile" alt="" coords="467,5,628,32"/>
-<area shape="rect" id="node4" href="$d4/d98/g_09_09malloc_8c.html#a49f789e614e57e410f598885b800c2df" title="fprintf" alt="" coords="683,31,737,57"/>
-<area shape="rect" id="node6" href="$d3/d9e/_i_o_stream_ext_8h.html#ac59da398b492e91401d1aa9140472c3d" title="IOStreamExt_deleteBuffer" alt="" coords="460,56,635,83"/>
-</map>

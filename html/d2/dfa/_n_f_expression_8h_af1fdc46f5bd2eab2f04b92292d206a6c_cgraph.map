@@ -1,6 +1,0 @@
-<map id="omc_NFExpression_hasArrayCall2" name="omc_NFExpression_hasArrayCall2">
-<area shape="rect" id="node2" href="$d9/dd8/_n_f_call_8c.html#ab02577701a74f3290c771429d329940c" title="omc_NFCall_Call_typeOf" alt="" coords="275,5,445,32"/>
-<area shape="rect" id="node3" href="$d4/dc3/_n_f_type_8c.html#ae602e28e3392904c3dd595e58d63bba6" title="omc_NFType_isArray" alt="" coords="285,56,435,83"/>
-<area shape="rect" id="node4" href="$d9/dd8/_n_f_call_8c.html#a7e7e011e954ec877b5d0fa490bf6b1cc" title="omc_NFCall_Call_isVectorizeable" alt="" coords="249,107,471,133"/>
-<area shape="rect" id="node5" href="$d4/dc3/_n_f_type_8c.html#ae7d3c87a1c5936baf907835d86c65839" title="omc_NFType_nthTupleType" alt="" coords="267,157,453,184"/>
-</map>

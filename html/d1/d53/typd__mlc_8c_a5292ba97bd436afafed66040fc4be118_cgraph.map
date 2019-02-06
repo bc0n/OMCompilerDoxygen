@@ -1,7 +1,0 @@
-<map id="GC_malloc_explicitly_typed_ignore_off_page" name="GC_malloc_explicitly_typed_ignore_off_page">
-<area shape="rect" id="node2" href="$d9/d8b/gcj__mlc_8c.html#ae72c89480b91b53cc2c6f245eb5ee157" title="GC_DBG_COLLECT_AT_MALLOC" alt="" coords="213,5,444,32"/>
-<area shape="rect" id="node3" href="$d9/d8b/gcj__mlc_8c.html#a60f0e6ff7ebbdbc61041da9f189ba473" title="UNLOCK" alt="" coords="289,56,368,83"/>
-<area shape="rect" id="node4" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#a8e4b29a6f09c281e53721eba5f206cf8" title="GC_size" alt="" coords="292,107,365,133"/>
-<area shape="rect" id="node5" href="$d9/d8b/gcj__mlc_8c.html#a32bcc58af257831ed343a7969fe5f7d0" title="GC_dirty" alt="" coords="291,157,366,184"/>
-<area shape="rect" id="node6" href="$d9/d8b/gcj__mlc_8c.html#abf2c7e41a6d99cac6d92ae98123aa7cc" title="REACHABLE_AFTER_DIRTY" alt="" coords="227,208,430,235"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="omc_OperatorOverloading_AvlTreePathOperatorTypes_balance" name="omc_OperatorOverloading_AvlTreePathOperatorTypes_balance">
-<area shape="rect" id="node2" href="$d1/dda/_operator_overloading_8c.html#a39aee4ed8a8a9ac65cbc5c5d757661d8" title="omc_OperatorOverloading\l_AvlTreePathOperatorTypes\l_height" alt="" coords="475,6,661,62"/>
-<area shape="rect" id="node3" href="$d1/dda/_operator_overloading_8c.html#ae3b05efadd99891a23d1839a5ab3657b" title="omc_OperatorOverloading\l_AvlTreePathOperatorTypes\l_calculateBalance" alt="" coords="240,38,427,94"/>
-<area shape="rect" id="node4" href="$d1/dda/_operator_overloading_8c.html#a234408be8e345ac3cef16c94d47d5a9b" title="omc_OperatorOverloading\l_AvlTreePathOperatorTypes\l_rotateLeft" alt="" coords="240,118,427,174"/>
-<area shape="rect" id="node5" href="$d1/dda/_operator_overloading_8c.html#a2b611479ce06ec5ae84e229eb9a24832" title="omc_OperatorOverloading\l_AvlTreePathOperatorTypes\l_setTreeLeftRight" alt="" coords="475,183,661,239"/>
-<area shape="rect" id="node6" href="$d1/dda/_operator_overloading_8c.html#ac1c3dda878563d487f52bcdc40b0ab00" title="omc_OperatorOverloading\l_AvlTreePathOperatorTypes\l_rotateRight" alt="" coords="240,249,427,305"/>
-</map>

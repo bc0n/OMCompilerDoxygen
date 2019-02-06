@@ -1,9 +1,0 @@
-<map id="zmq::pgm_sender_t::init" name="zmq::pgm_sender_t::init">
-<area shape="rect" id="node2" href="$dc/d84/classzmq_1_1pgm__socket__t.html#a9be261cac5e249da3ed2bae2f193993e" title="zmq::pgm_socket_t::init" alt="" coords="216,60,379,87"/>
-<area shape="rect" id="node7" href="$dc/d84/classzmq_1_1pgm__socket__t.html#abe2296081206c793b0bc387321b446eb" title="zmq::pgm_socket_t::\lget_max_tsdu_size" alt="" coords="225,111,370,153"/>
-<area shape="rect" id="node8" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="267,177,327,204"/>
-<area shape="rect" id="node3" href="$dc/d84/classzmq_1_1pgm__socket__t.html#a01754b791f666f387eb1fbfdb3a791f0" title="zmq::pgm_socket_t::\linit_address" alt="" coords="427,23,572,65"/>
-<area shape="rect" id="node6" href="$da/d6c/group__jm__vector.html#gaac2916bbf5bdc0c66a10d0bd32c9134b" title="if" alt="" coords="480,89,519,116"/>
-<area shape="rect" id="node4" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a362b656d9de3289b55b1035d14cb4b5d" title="memset" alt="" coords="621,5,691,32"/>
-<area shape="rect" id="node5" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a9bb523029391a4525c52a8e90e877692" title="memcpy" alt="" coords="620,56,692,83"/>
-</map>

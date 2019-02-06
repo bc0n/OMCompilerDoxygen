@@ -1,6 +1,0 @@
-<map id="lis_quad_add" name="lis_quad_add">
-<area shape="rect" id="node2" href="$d4/db5/lis__solver__bicgstabl_8c.html#a7e2fad7a48e1bafc880e8a9be18f20f4" title="lis_bicgstabl" alt="" coords="152,5,247,32"/>
-<area shape="rect" id="node3" href="$db/dcc/lis__solver__gmres_8c.html#ab4f55648cce5299efbfe9d62bb331b36" title="lis_gmres" alt="" coords="160,56,239,83"/>
-<area shape="rect" id="node4" href="$db/dcc/lis__solver__gmres_8c.html#a9f143344cdb220a9036fa33d383fa347" title="lis_fgmres" alt="" coords="158,107,241,133"/>
-<area shape="rect" id="node5" href="$df/d61/lis__solver__qmr_8c.html#a0685cb206e6d07c844cc5586f2990a2c" title="lis_tfqmr" alt="" coords="163,157,235,184"/>
-</map>

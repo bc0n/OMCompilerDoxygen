@@ -1,9 +1,0 @@
-<map id="boxptr_Initialization_compsMarker" name="boxptr_Initialization_compsMarker">
-<area shape="rect" id="node2" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#a2773f7e23fb2ca96c8fd762f8f6b2958" title="omc_Initialization\l_compsMarker" alt="" coords="188,129,311,170"/>
-<area shape="rect" id="node3" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a339b6737229642944fcc2ea39346daea" title="listMember" alt="" coords="805,52,892,79"/>
-<area shape="rect" id="node4" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#abbf794bbbfe8b1bed5c7b744af883881" title="omc_Initialization\l_compsMarker2" alt="" coords="635,45,757,86"/>
-<area shape="rect" id="node5" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#a4f6f09f40bed17efe800af8750ac03e3" title="omc_Initialization\l_downCompsMarker" alt="" coords="401,99,544,141"/>
-<area shape="rect" id="node6" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a81001ba45c298ade27540edd2589777c" title="listReverse" alt="" coords="429,165,517,192"/>
-<area shape="rect" id="node7" href="$db/da1/_compiler_2boot_2build_2error_8c.html#ad40b163a14ac11baa9482c4290ce6e7d" title="omc_Error_addCompilerNotification" alt="" coords="359,216,587,243"/>
-<area shape="rect" id="node8" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="449,267,496,293"/>
-</map>

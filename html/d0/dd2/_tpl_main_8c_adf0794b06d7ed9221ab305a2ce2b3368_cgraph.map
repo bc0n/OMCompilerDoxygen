@@ -1,6 +1,0 @@
-<map id="omc_TplMain_translateFile" name="omc_TplMain_translateFile">
-<area shape="rect" id="node2" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="294,5,393,32"/>
-<area shape="rect" id="node3" href="$db/da1/_compiler_2boot_2build_2error_8c.html#a6f9ff3d03e91883492e13af7fbc088ff" title="omc_Error_getNumErrorMessages" alt="" coords="232,56,455,83"/>
-<area shape="rect" id="node4" href="$d4/dce/_error_ext_8c.html#a0195f83af0487b3e7bf35deb4225e582" title="omc_ErrorExt_getNumError\lMessages" alt="" coords="503,49,685,90"/>
-<area shape="rect" id="node5" href="$d1/d40/boot_2build_2_error_ext_8h.html#a1206137921767ad0e49abe96adf7b5e3" title="ErrorImpl__getNumErrorMessages" alt="" coords="733,56,956,83"/>
-</map>

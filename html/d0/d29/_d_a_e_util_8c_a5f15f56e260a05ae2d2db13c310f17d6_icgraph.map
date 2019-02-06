@@ -1,9 +1,0 @@
-<map id="omc_DAEUtil_daeDescription" name="omc_DAEUtil_daeDescription">
-<area shape="rect" id="node2" href="$d8/de6/_ceval_script_backend_8c.html#ae7439096bed9283f2ed3c60fbc0659bc" title="omc_CevalScriptBackend\l_dumpXMLDAE" alt="" coords="259,5,433,47"/>
-<area shape="rect" id="node3" href="$d6/dc9/_ceval_script_backend_8h.html#abf456455f1e67b98c1d62777f8e68c29" title="omc_CevalScriptBackend\l_getIncidenceMatrix" alt="" coords="259,71,433,112"/>
-<area shape="rect" id="node4" href="$df/da7/_sim_code_main_8h.html#aa0ace6af22ca6f6ec4b2647b94551f86" title="omc_SimCodeMain_translate\lModelDAEMode" alt="" coords="249,136,443,177"/>
-<area shape="rect" id="node5" href="$d8/de6/_ceval_script_backend_8c.html#a44f48e00fe5c2b4f57662c3ecd0a5369" title="omc_CevalScriptBackend\l_callTranslateModel" alt="" coords="491,136,664,177"/>
-<area shape="rect" id="node6" href="$d8/de6/_ceval_script_backend_8c.html#ad0d11cf4727f9d32f4ba3b90882faacb" title="boxptr_CevalScriptBackend\l_callTranslateModel" alt="" coords="712,103,896,144"/>
-<area shape="rect" id="node7" href="$d8/de6/_ceval_script_backend_8c.html#a1b959b807434100c77b6baed4ed7dbe7" title="omc_CevalScriptBackend\l_translateModel" alt="" coords="717,168,891,209"/>
-<area shape="rect" id="node8" href="$d8/de6/_ceval_script_backend_8c.html#a72d832ae198a635ccfea1978a45be513" title="boxptr_CevalScriptBackend\l_translateModel" alt="" coords="944,168,1128,209"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="omc_BackendDump_printEqSystem" name="omc_BackendDump_printEqSystem">
-<area shape="rect" id="node2" href="$d7/d9b/_tearing_8c.html#ae97e403f7383c34f8fbb496a27090156" title="omc_Tearing_totalTearing" alt="" coords="293,5,465,32"/>
-<area shape="rect" id="node4" href="$d7/d9b/_tearing_8c.html#a6423eddae9f4c462b2e16dc57560ec30" title="omc_Tearing_CellierTearing" alt="" coords="287,56,471,83"/>
-<area shape="rect" id="node3" href="$d7/d9b/_tearing_8c.html#a6f627142a93ee13b0e9db33022d961fc" title="boxptr_Tearing_totalTearing" alt="" coords="525,5,707,32"/>
-<area shape="rect" id="node5" href="$d7/d9b/_tearing_8c.html#aed9e367934d497b47a14abf84ff82172" title="boxptr_Tearing_CellierTearing" alt="" coords="519,56,713,83"/>
-</map>

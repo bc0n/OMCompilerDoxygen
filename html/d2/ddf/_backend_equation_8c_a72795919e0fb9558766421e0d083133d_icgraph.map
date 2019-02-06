@@ -1,6 +1,0 @@
-<map id="omc_BackendEquation_isDifferentiated" name="omc_BackendEquation_isDifferentiated">
-<area shape="rect" id="node2" href="$df/d72/_backend_equation_8h.html#a6b9a1d45bdea0fde0fcbffd6ffafbd3c" title="boxptr_BackendEquation\l_isDifferentiated" alt="" coords="209,5,376,47"/>
-<area shape="rect" id="node3" href="$d5/db8/_index_reduction_8c.html#a8f6f554d233bb1e43dbde8c770c2cf0e" title="omc_IndexReduction\l_differentiateEqnsLst1" alt="" coords="217,71,369,112"/>
-<area shape="rect" id="node4" href="$d5/db8/_index_reduction_8c.html#a224aecf7b8690e9c685c17999f7b31f1" title="boxptr_IndexReduction\l_differentiateEqnsLst1" alt="" coords="424,37,580,79"/>
-<area shape="rect" id="node5" href="$d5/db8/_index_reduction_8c.html#acec823725f6e17ec4ff8ef4c6068c827" title="omc_IndexReduction\l_differentiateEqnsLst" alt="" coords="429,103,575,144"/>
-</map>

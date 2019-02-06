@@ -1,6 +1,0 @@
-<map id="Teuchos::details::safeCommFree" name="Teuchos::details::safeCommFree">
-<area shape="rect" id="node2" href="$d9/d5f/class_teuchos_1_1_mpi_comm.html#ab9e4310f74df732d042a4f8c75514fd5" title="Construct a communicator with a new context with the same properties as the original. " alt="" coords="269,5,477,32"/>
-<area shape="rect" id="node3" href="$d9/d5f/class_teuchos_1_1_mpi_comm.html#a287983984d50ecfdc12cb914fa3533d1" title="Teuchos::MpiComm::duplicate" alt="" coords="273,56,473,83"/>
-<area shape="rect" id="node4" href="$d9/d5f/class_teuchos_1_1_mpi_comm.html#a996e0ded2eefe78f09a6c1e8246d7e8f" title="Teuchos::MpiComm::split" alt="" coords="287,107,459,133"/>
-<area shape="rect" id="node5" href="$d9/d5f/class_teuchos_1_1_mpi_comm.html#adf8fd92982bb2739a373e99a0af5ab3c" title="Teuchos::MpiComm::create\lSubcommunicator" alt="" coords="281,158,465,199"/>
-</map>

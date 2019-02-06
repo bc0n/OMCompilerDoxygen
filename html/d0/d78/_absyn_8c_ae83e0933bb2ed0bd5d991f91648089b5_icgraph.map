@@ -1,7 +1,0 @@
-<map id="omc_Absyn_annotationToElementArgs" name="omc_Absyn_annotationToElementArgs">
-<area shape="rect" id="node2" href="$db/d73/_interactive_8c.html#ad0e653f2751390e69bdd554ade4ff079" title="omc_Interactive_getAnnotation\lInClass" alt="" coords="301,35,504,76"/>
-<area shape="rect" id="node3" href="$db/d73/_interactive_8c.html#a62611a087be2aa476f5c5f510dccc923" title="omc_Interactive_getIconAnnotation" alt="" coords="552,13,779,39"/>
-<area shape="rect" id="node6" href="$db/d73/_interactive_8c.html#a87649235449617ac39947d02ca78a12c" title="omc_Interactive_getDiagram\lAnnotation" alt="" coords="571,64,760,105"/>
-<area shape="rect" id="node4" href="$db/d73/_interactive_8c.html#a1b7c635d3141f04f217021074ab9a5c8" title="omc_Interactive_getNthConnector\lIconAnnotation" alt="" coords="827,5,1048,47"/>
-<area shape="rect" id="node5" href="$db/d73/_interactive_8c.html#a03f65285913a4c2a5f35e4da4921545a" title="boxptr_Interactive\l_getNthConnectorIconAnnotation" alt="" coords="1096,5,1311,47"/>
-</map>

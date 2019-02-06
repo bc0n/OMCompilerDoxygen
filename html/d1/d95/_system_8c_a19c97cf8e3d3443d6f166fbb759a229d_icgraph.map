@@ -1,6 +1,0 @@
-<map id="omc_System_getHasOverconstrainedConnectors" name="omc_System_getHasOverconstrainedConnectors">
-<area shape="rect" id="node2" href="$d4/d7c/_n_f_flatten_8c.html#ae1a86a4252429376e9d67c44607e2de2" title="omc_NFFlatten_resolveConnections" alt="" coords="306,5,541,32"/>
-<area shape="rect" id="node3" href="$d8/dff/_n_f_o_c_connection_graph_8h.html#acb675a989a44f3da143dc651ac716299" title="omc_NFOCConnectionGraph\l_generateEqualityConstraintEquation" alt="" coords="305,57,542,98"/>
-<area shape="rect" id="node5" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a373182ea0a894df0f4b094b1d70cff55" title="boxptr_System_getHasOverconstrained\lConnectors" alt="" coords="296,122,551,163"/>
-<area shape="rect" id="node4" href="$d8/dff/_n_f_o_c_connection_graph_8h.html#aab9b45f6b4ec1c0b72b48a9beeafeeb1" title="boxptr_NFOCConnectionGraph\l_generateEqualityConstraintEquation" alt="" coords="599,57,836,98"/>
-</map>

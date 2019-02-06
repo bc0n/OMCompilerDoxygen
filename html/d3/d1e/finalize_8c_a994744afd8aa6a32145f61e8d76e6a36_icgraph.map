@@ -1,6 +1,0 @@
-<map id="GC_ignore_self_finalize_mark_proc" name="GC_ignore_self_finalize_mark_proc">
-<area shape="rect" id="node2" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#a14139348393532b27268a423a7f54ac7" title="GC_register_finalizer\l_ignore_self" alt="" coords="213,71,357,112"/>
-<area shape="rect" id="node3" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#aaaf8fca2d5e1c6fead871ac23da61a93" title="GC_debug_register_finalizer\l_ignore_self" alt="" coords="405,5,592,47"/>
-<area shape="rect" id="node4" href="$d8/d35/classboehmgc_1_1gc__cleanup.html#abde11e0085d2dd3cc2b1e87f6746e8e7" title="boehmgc::gc_cleanup\l::~gc_cleanup" alt="" coords="424,71,573,112"/>
-<area shape="rect" id="node5" href="$d8/d35/classboehmgc_1_1gc__cleanup.html#ac6ff6c1fe68a3450816e8121fe7c0e7e" title="boehmgc::gc_cleanup\l::gc_cleanup" alt="" coords="424,136,573,177"/>
-</map>

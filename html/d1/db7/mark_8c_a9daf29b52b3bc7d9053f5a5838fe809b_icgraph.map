@@ -1,8 +1,0 @@
-<map id="GC_push_one" name="GC_push_one">
-<area shape="rect" id="node2" href="$df/dd0/mach__dep_8c.html#adcf9dad5d8340e9d18379016045f4d53" title="GC_push_regs" alt="" coords="159,56,268,83"/>
-<area shape="rect" id="node3" href="$df/dd0/mach__dep_8c.html#a9a613b237be1b4bc8709080866923cae" title="GC_with_callee_saves\l_pushed" alt="" coords="316,49,472,90"/>
-<area shape="rect" id="node4" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#a21ea5d0112f62b40f58e2a9b5676ec66" title="GC_do_blocking" alt="" coords="549,5,667,32"/>
-<area shape="rect" id="node5" href="$dd/d54/mark__rts_8c.html#ad3f20bfda359bccaf0cb0032084da47c" title="GC_push_regs_and_stack" alt="" coords="520,56,696,83"/>
-<area shape="rect" id="node6" href="$d2/dcd/pthread__stop__world_8c.html#aee77f289015534bc1bc710ae5ec78850" title="GC_suspend_handler" alt="" coords="535,107,681,133"/>
-<area shape="rect" id="node7" href="$d2/dcd/pthread__stop__world_8c.html#a457149d51580b2d892f8ff644aefb09f" title="GC_stop_init" alt="" coords="744,107,843,133"/>
-</map>

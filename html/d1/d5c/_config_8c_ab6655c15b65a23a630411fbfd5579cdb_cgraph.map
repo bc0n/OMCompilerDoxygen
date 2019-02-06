@@ -1,7 +1,0 @@
-<map id="boxptr_Config_getRunningWSMTestsuite" name="boxptr_Config_getRunningWSMTestsuite">
-<area shape="rect" id="node2" href="$d1/d5c/_config_8c.html#a9b4cae615bdffda9b7abbe6e04b1e6a5" title="omc_Config_getRunningWSMTestsuite" alt="" coords="229,13,481,39"/>
-<area shape="rect" id="node3" href="$d3/db3/_flags_8c.html#abc3d84cf6e1cf18f0cec0f052e7c85d9" title="omc_Flags_getConfigBool" alt="" coords="529,13,704,39"/>
-<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="752,13,935,39"/>
-<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="983,13,1132,39"/>
-<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1180,13,1283,39"/>
-</map>

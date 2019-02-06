@@ -1,7 +1,0 @@
-<map id="ML_IntList_Create" name="ML_IntList_Create">
-<area shape="rect" id="node2" href="$dc/df9/ml__gridagx_8h.html#a8c73a3a778b4ce306e547d4be327e96d" title="ML_GridAGX_Set_NElmnts" alt="" coords="183,5,367,32"/>
-<area shape="rect" id="node4" href="$db/de5/ml__struct_8h.html#ada76245474e4b727dfbbb65519e446ae" title="ML_setup_grid_xsfer_op" alt="" coords="415,81,579,108"/>
-<area shape="rect" id="node6" href="$d1/dd7/ml__setup_8h.html#a562914a2814a8484d0f04afc7a563bbd" title="ML_compose_global_grid" alt="" coords="190,107,359,133"/>
-<area shape="rect" id="node3" href="$d3/d64/ml__example2d_8c.html#ad2a08dc41ea663ff1635dcd6bcc52f2c" title="Generate_mesh" alt="" coords="439,5,554,32"/>
-<area shape="rect" id="node5" href="$db/de5/ml__struct_8h.html#ab3c0a1e102d28c89b19b14ad9a889ccf" title="ML_Gen_GridXsferUsingFEBasis" alt="" coords="627,81,844,108"/>
-</map>

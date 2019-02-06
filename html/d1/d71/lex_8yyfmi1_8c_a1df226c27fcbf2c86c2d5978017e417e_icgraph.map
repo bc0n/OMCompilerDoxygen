@@ -1,8 +1,0 @@
-<map id="yyfmi1alloc" name="yyfmi1alloc">
-<area shape="rect" id="node2" href="$d1/d71/lex_8yyfmi1_8c.html#abd47361aff57fd30b21d60c66afaa5bc" title="yyfmi1_create_buffer" alt="" coords="141,5,285,32"/>
-<area shape="rect" id="node3" href="$d1/d71/lex_8yyfmi1_8c.html#a081734a3b3b09f379c4959d28fcda85f" title="yyfmi1_scan_buffer" alt="" coords="145,56,281,83"/>
-<area shape="rect" id="node4" href="$d1/d71/lex_8yyfmi1_8c.html#a9c91d3061ec9679b3408788572f43520" title="yyfmi1_scan_bytes" alt="" coords="333,81,468,108"/>
-<area shape="rect" id="node6" href="$d1/d71/lex_8yyfmi1_8c.html#a0ff899ce127ed59b6b7529352ff5ac08" title="yyfmi1lex_init" alt="" coords="162,157,265,184"/>
-<area shape="rect" id="node7" href="$d1/d71/lex_8yyfmi1_8c.html#a205d6fcd940fc332ccc7af7ea4511b59" title="yyfmi1lex_init_extra" alt="" coords="144,208,283,235"/>
-<area shape="rect" id="node5" href="$d1/d71/lex_8yyfmi1_8c.html#a7138c90589a65714011e99baf21add54" title="yyfmi1_scan_string" alt="" coords="516,81,651,108"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="GC_start_world" name="GC_start_world">
-<area shape="rect" id="node2" href="$dd/d79/gc__priv_8h.html#ada843fec7ffa10957a47951e0691f73b" title="GC_log_printf" alt="" coords="205,5,308,32"/>
-<area shape="rect" id="node3" href="$dd/dc3/darwin__stop__world_8h.html#ab48ea60e6bec5a840fa45eb020b9ea7c" title="GC_mprotect_resume" alt="" coords="181,56,332,83"/>
-<area shape="rect" id="node5" href="$d0/d78/win32__threads_8c.html#a0f0317da582c76761bffbafd4001ac3d" title="GC_get_max_thread_index" alt="" coords="167,107,347,133"/>
-<area shape="rect" id="node4" href="$d2/d3c/os__dep_8c.html#a9932050f9c9599c662980ebe6af652c3" title="GC_mprotect_thread\l_notify" alt="" coords="395,49,537,90"/>
-</map>

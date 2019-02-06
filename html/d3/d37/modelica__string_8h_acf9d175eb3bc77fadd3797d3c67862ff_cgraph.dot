@@ -1,9 +1,0 @@
-digraph "omc__escapedString"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node92 [label="omc__escapedString",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node92 -> Node93 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node93 [label="omc__escapedStringLength",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d0a/modelica__string_8c.html#a4453b3d428e38b1a764a94ee0a7af390"];
-}

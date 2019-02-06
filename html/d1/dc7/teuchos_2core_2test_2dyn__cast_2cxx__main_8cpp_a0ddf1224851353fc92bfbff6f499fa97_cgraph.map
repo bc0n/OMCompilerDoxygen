@@ -1,9 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node2" href="$d3/d74/namespace_teuchos.html#af543b117c61d1cf52e2b464f2c618309" title="Teuchos::Teuchos_Version" alt="" coords="104,5,285,32"/>
-<area shape="rect" id="node3" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="171,56,218,83"/>
-<area shape="rect" id="node4" href="$d3/d1b/netstream-main_8cpp.html#aed138f72d7301a9034a719a95c4903da" title="e" alt="" coords="175,107,214,133"/>
-<area shape="rect" id="node5" href="$d3/d74/namespace_teuchos.html#a83b8843eaab7fa2229416838a4776932" title="Dynamic casting utility function meant to replace dynamic_cast&lt;T&amp;&gt; by throwing a better documented er..." alt="" coords="128,157,261,184"/>
-<area shape="rect" id="node8" href="$d8/d4f/class_a.html#a4568a90d407ebae1b5ae9155dbc263af" title="A::f" alt="" coords="173,208,216,235"/>
-<area shape="rect" id="node6" href="$d3/d74/namespace_teuchos.html#adb103dd25f872805d11b8da2d03e754a" title="Teuchos::dyn_cast_throw\l_exception" alt="" coords="333,121,505,162"/>
-<area shape="rect" id="node7" href="$d3/d74/namespace_teuchos.html#a25c8477479b9eef2988edbb7b967476a" title="Template function for returning the concrete type name of a passed&#45;in object. " alt="" coords="349,187,489,213"/>
-</map>

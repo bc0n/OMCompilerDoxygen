@@ -1,4 +1,0 @@
-<map id="Teuchos::ConstHandle::nonConstPtr" name="Teuchos::ConstHandle::nonConstPtr">
-<area shape="rect" id="node2" href="$d9/d65/class_teuchos_1_1_handle.html#a2e34ad59210a61eb721adacd4ac8f35b" title="Read/write access to the underlying smart pointer. " alt="" coords="221,5,365,32"/>
-<area shape="rect" id="node3" href="$d9/d65/class_teuchos_1_1_handle.html#a038686dd469411ab7c2b4358d9b161b4" title="Access to non&#45;const raw pointer. " alt="" coords="209,56,376,83"/>
-</map>

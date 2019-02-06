@@ -1,6 +1,0 @@
-<map id="Teuchos::MatrixMarket::CoordDataReaderBase&lt; Callback, Ordinal &gt;" name="Teuchos::MatrixMarket::CoordDataReaderBase&lt; Callback, Ordinal &gt;">
-<area shape="rect" id="node2" href="$d7/d65/class_teuchos_1_1_matrix_market_1_1_coord_data_reader.html" title="Coordinate&#45;format sparse matrix data reader. " alt="" coords="219,5,421,61"/>
-<area shape="rect" id="node3" href="$df/d3f/class_teuchos_1_1_matrix_market_1_1_coord_data_reader_3_01_callback_00_01_ordinal_00_01_scalar_00_01false_01_4.html" title="Teuchos::MatrixMarket\l::CoordDataReader\&lt; Callback,\l Ordinal, Scalar, false \&gt;" alt="" coords="219,85,421,141"/>
-<area shape="rect" id="node4" href="$dd/dc9/class_teuchos_1_1_matrix_market_1_1_coord_data_reader_3_01_callback_00_01_ordinal_00_01_scalar_00_01true_01_4.html" title="Teuchos::MatrixMarket\l::CoordDataReader\&lt; Callback,\l Ordinal, Scalar, true \&gt;" alt="" coords="219,165,421,221"/>
-<area shape="rect" id="node5" href="$dd/deb/class_teuchos_1_1_matrix_market_1_1_coord_pattern_reader.html" title="Coordinate&#45;format sparse graph data reader. " alt="" coords="242,245,398,301"/>
-</map>

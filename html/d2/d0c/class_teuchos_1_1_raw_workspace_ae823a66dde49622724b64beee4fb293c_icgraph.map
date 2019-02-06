@@ -1,5 +1,0 @@
-<map id="Teuchos::RawWorkspace::workspace_ptr" name="Teuchos::RawWorkspace::workspace_ptr">
-<area shape="rect" id="node2" href="$d2/dfc/class_teuchos_1_1_workspace.html#ab48982f8340882c4318b9d8e69f35149" title="Allocates a num_elements array of temporary objects. " alt="" coords="227,5,373,47"/>
-<area shape="rect" id="node3" href="$d2/dfc/class_teuchos_1_1_workspace.html#a12aaf29efae4327bd16c0e4fb58331bf" title="The destructor on the elements will only be called if call_constructors == true was passed to the con..." alt="" coords="227,71,373,112"/>
-<area shape="rect" id="node4" href="$d2/dfc/class_teuchos_1_1_workspace.html#af4028e8ed10f3213636e9474418e9802" title="Non&#45;const zero based element access. " alt="" coords="227,136,373,177"/>
-</map>

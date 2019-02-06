@@ -1,6 +1,0 @@
-<map id="omc_BackendDump_dumpComponentsOLD" name="omc_BackendDump_dumpComponentsOLD">
-<area shape="rect" id="node2" href="$d0/df5/_backend_dump_8c.html#aa82ea19c8c552de0b6c9ed73276c8739" title="omc_BackendDump_dumpComponents2" alt="" coords="333,56,593,83"/>
-<area shape="rect" id="node3" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a70628b2c3fb199a118f80777135940ee" title="omc_List_map" alt="" coords="646,5,753,32"/>
-<area shape="rect" id="node4" href="$da/d72/_compiler_2boot_2build_2list_8c.html#acbf0113db247017e6c59b53bfef33158" title="omc_List_sort" alt="" coords="647,56,751,83"/>
-<area shape="rect" id="node5" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a6f570947bebe207c25a64ea25f5ca884" title="stringDelimitList" alt="" coords="641,107,757,133"/>
-</map>

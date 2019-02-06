@@ -1,5 +1,0 @@
-<map id="CallbackFunctions::getHessianStructure" name="CallbackFunctions::getHessianStructure">
-<area shape="rect" id="node2" href="$d0/df3/class_matlab_function_handle.html#aef4230024fd954ebca81829a951955f1" title="MatlabFunctionHandle\l::evaluate" alt="" coords="202,5,354,47"/>
-<area shape="rect" id="node3" href="$dd/ddb/class_sparse_matrix.html#a45b2592f7d7b90b1a8fb963eaf12065a" title="SparseMatrix::isLowerTri" alt="" coords="195,71,361,98"/>
-<area shape="rect" id="node4" href="$dd/ddb/class_sparse_matrix.html#aa87fef018a1eef49961bf5910fc249ed" title="SparseMatrix::inIncOrder" alt="" coords="195,122,361,149"/>
-</map>

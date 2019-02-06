@@ -1,8 +1,0 @@
-digraph "Compiler/boot/build/BackendDAEUtil_includes.h"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  Node75 [label="Compiler/boot/build\l/BackendDAEUtil_includes.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node75 -> Node76 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node76 [label="Compiler/boot/build\l/BackendDAEUtil.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/dac/_backend_d_a_e_util_8c.html"];
-}

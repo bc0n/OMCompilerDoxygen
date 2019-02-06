@@ -1,6 +1,0 @@
-<map id="boxptr_Static_isBuiltinFunc" name="boxptr_Static_isBuiltinFunc">
-<area shape="rect" id="node2" href="$d0/d86/_static_8c.html#a543dcd0055fb2ec4945f3a833de178f7" title="omc_Static_isBuiltinFunc" alt="" coords="235,31,405,57"/>
-<area shape="rect" id="node3" href="$d0/d78/_absyn_8c.html#aa90ee78f7c8fc6fd5b988d9d6eadda59" title="omc_Absyn_makeNotFullyQualified" alt="" coords="453,5,684,32"/>
-<area shape="rect" id="node4" href="$d0/d86/_static_8c.html#a8f7b4d0605662c22f615f925ec20f75c" title="omc_Static_elabBuiltinHandler" alt="" coords="469,56,669,83"/>
-<area shape="rect" id="node5" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a71a925de64a6f26ca5ef2903b616e73d" title="stringHashDjb2Mod" alt="" coords="732,56,869,83"/>
-</map>

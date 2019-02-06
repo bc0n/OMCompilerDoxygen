@@ -1,7 +1,0 @@
-<map id="fmi2_xml_set_attr_int" name="fmi2_xml_set_attr_int">
-<area shape="rect" id="node2" href="$d0/d8b/fmi2__xml__parser_8c.html#a3be5441b50b49504fd9e61ff94776775" title="fmi2_xml_get_attr_str" alt="" coords="200,5,348,32"/>
-<area shape="rect" id="node5" href="$d0/d8b/fmi2__xml__parser_8c.html#ae56c6a6eb2b404ff93513f3d5dc0d813" title="fmi2_xml_parse_error" alt="" coords="201,56,347,83"/>
-<area shape="rect" id="node3" href="$d0/d8b/fmi2__xml__parser_8c.html#a7d110a06e9c423ff446efde48af0e045" title="fmi2_xml_parse_fatal" alt="" coords="396,5,543,32"/>
-<area shape="rect" id="node4" href="$d6/dac/group__jm__callbacks.html#gaba6d03fb084724a1a8928e59fe5b6e39" title="Send a fatal error message to the logger function. See jm_log() for details. " alt="" coords="591,5,697,32"/>
-<area shape="rect" id="node6" href="$d6/dac/group__jm__callbacks.html#ga299dc97f42a0d9bf5a2caedf9de0c784" title="Send an info message to the logger function. See jm_log() for details. " alt="" coords="425,56,513,83"/>
-</map>

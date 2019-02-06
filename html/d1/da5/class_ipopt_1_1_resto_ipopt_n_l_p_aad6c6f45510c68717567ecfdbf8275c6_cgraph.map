@@ -1,7 +1,0 @@
-<map id="Ipopt::RestoIpoptNLP::f" name="Ipopt::RestoIpoptNLP::f">
-<area shape="rect" id="node2" href="$d3/d37/class_ipopt_1_1_compound_vector.html#ac5b09b621ed9b1efbc21c60290d55221" title="Ipopt::CompoundVector\l::GetComp" alt="" coords="223,5,383,47"/>
-<area shape="rect" id="node3" href="$d8/db7/class_ipopt_1_1_vector.html#aab4bf84faa183716da96a4853b7dd3df" title="Ipopt::Vector::Sum" alt="" coords="237,71,369,98"/>
-<area shape="rect" id="node6" href="$d1/da5/class_ipopt_1_1_resto_ipopt_n_l_p.html#a9f1cd940492d13a461f2d7fe903a22a7" title="Ipopt::RestoIpoptNLP::Eta" alt="" coords="215,122,392,149"/>
-<area shape="rect" id="node4" href="$d0/d0a/class_ipopt_1_1_tagged_object.html#a352e0245b4505a0b6190a6417da087f7" title="Ipopt::TaggedObject\l::GetTag" alt="" coords="449,35,589,76"/>
-<area shape="rect" id="node5" href="$d8/db7/class_ipopt_1_1_vector.html#a0c58e669269679f35056bc35eba7fb1e" title="Ipopt::Vector::SumImpl" alt="" coords="440,101,597,127"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="Ipopt::IpoptAlgorithm::print_copyright_message" name="Ipopt::IpoptAlgorithm::print_copyright_message">
-<area shape="rect" id="node2" href="$d0/dce/class_ipopt_1_1_ipopt_algorithm.html#a7d1ee4c8c9d4f5abd6043b17b6456c43" title="Ipopt::IpoptAlgorithm\l::Optimize" alt="" coords="240,5,383,47"/>
-<area shape="rect" id="node5" href="$d0/dce/class_ipopt_1_1_ipopt_algorithm.html#a195b852a45b3cd7b6b94cf24e6891cdd" title="Ipopt::IpoptAlgorithm\l::SearchDirCalc" alt="" coords="240,71,383,112"/>
-<area shape="rect" id="node6" href="$d9/dfa/class_ipopt_1_1_ipopt_application.html#a2d8bb3dc2d50178738323128ae183270" title="Ipopt::IpoptApplication\l::PrintCopyrightMessage" alt="" coords="228,136,395,177"/>
-<area shape="rect" id="node3" href="$d9/dfa/class_ipopt_1_1_ipopt_application.html#ab2c27afa368616f05acdbdd44c487c4f" title="Ipopt::IpoptApplication\l::ReOptimizeNLP" alt="" coords="443,5,595,47"/>
-<area shape="rect" id="node4" href="$d9/dfa/class_ipopt_1_1_ipopt_application.html#aec0501c82efac36878d95a3bf4046d7a" title="Ipopt::IpoptApplication\l::ReOptimizeTNLP" alt="" coords="643,5,795,47"/>
-<area shape="rect" id="node7" href="$d9/dfa/class_ipopt_1_1_ipopt_application.html#ab38b5bff9704c52fd82ee9fdaa275f44" title="Ipopt::IpoptApplication\l::Options" alt="" coords="443,136,595,177"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="boxptr_OperatorOverloading_binary" name="boxptr_OperatorOverloading_binary">
-<area shape="rect" id="node2" href="$d1/dda/_operator_overloading_8c.html#a6d0b2511b546f5d00ae6b88c932765f0" title="omc_OperatorOverloading\l_binary" alt="" coords="237,35,411,76"/>
-<area shape="rect" id="node3" href="$d1/d5c/_config_8c.html#abbb1ebde9dd1336640d4feb5ef557d9a" title="omc_Config_acceptMetaModelica\lGrammar" alt="" coords="459,5,677,47"/>
-<area shape="rect" id="node8" href="$d3/df6/_types_8c.html#ad828eef79a573984e14548b45510953a" title="omc_Types_propTupleFirstProp" alt="" coords="465,71,671,98"/>
-<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#add52ff282ca5df852c1905fabb4571c9" title="omc_Flags_getConfigEnum" alt="" coords="725,13,908,39"/>
-<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="956,13,1139,39"/>
-<area shape="rect" id="node6" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="1187,13,1336,39"/>
-<area shape="rect" id="node7" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1384,13,1487,39"/>
-</map>

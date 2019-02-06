@@ -1,6 +1,0 @@
-<map id="mat_shiftrows" name="mat_shiftrows">
-<area shape="rect" id="node2" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#ab3ddb3000059d0f1975540149e46effa" title="MYBOOL" alt="" coords="170,5,249,32"/>
-<area shape="rect" id="node3" href="$dc/d9a/lp__matrix_8c.html#a9430c42ed7853fd8dd6463ed7165f243" title="mat_nonzeros" alt="" coords="157,56,261,83"/>
-<area shape="rect" id="node4" href="$d1/daa/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__utils_8h.html#a2081b8e14a0691b7e3931fa280ad9e63" title="allocINT" alt="" coords="174,107,245,133"/>
-<area shape="rect" id="node5" href="$d1/daa/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__utils_8h.html#a183f62e53061778d4fdb381e27d8cf4c" title="isActiveLink" alt="" coords="163,157,256,184"/>
-</map>

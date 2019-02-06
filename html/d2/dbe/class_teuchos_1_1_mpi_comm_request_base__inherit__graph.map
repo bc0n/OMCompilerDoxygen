@@ -1,6 +1,0 @@
-<map id="Teuchos::MpiCommRequestBase&lt; OrdinalType &gt;" name="Teuchos::MpiCommRequestBase&lt; OrdinalType &gt;">
-<area shape="rect" id="node5" href="$de/d56/class_teuchos_1_1_mpi_comm_request.html" title="MPI implementation of CommRequest. " alt="" coords="20,333,209,375"/>
-<area shape="rect" id="node2" href="$d0/d95/class_teuchos_1_1_comm_request.html" title="Encapsulation of a pending nonblocking communication operation. " alt="" coords="31,155,199,196"/>
-<area shape="rect" id="node3" href="$de/d8a/class_teuchos_1_1_describable.html" title="Base class for all objects that can describe themselves. " alt="" coords="40,80,189,107"/>
-<area shape="rect" id="node4" href="$df/d61/class_teuchos_1_1_labeled_object.html" title="Base class for objects that contain a std::string label. " alt="" coords="33,5,196,32"/>
-</map>

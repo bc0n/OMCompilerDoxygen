@@ -1,8 +1,0 @@
-<map id="omc_System_gettextInit" name="omc_System_gettextInit">
-<area shape="rect" id="node2" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#ad64c32ef9fa1232d029cb59470db2786" title="SystemImpl__gettextInit" alt="" coords="217,146,381,173"/>
-<area shape="rect" id="node3" href="$d9/d08/settingsimpl_8c.html#add138f2c89e6604d53c1adf2d64fe2e3" title="SettingsImpl__getInstallation\lDirectoryPath" alt="" coords="429,29,620,71"/>
-<area shape="rect" id="node4" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="497,95,552,122"/>
-<area shape="rect" id="node5" href="$d4/d45/systemimpl_8c.html#a796e806cad645e99647a5ed40e6649d1" title="alloc_locale_str" alt="" coords="469,146,581,173"/>
-<area shape="rect" id="node6" href="$d4/d98/g_09_09malloc_8c.html#a49f789e614e57e410f598885b800c2df" title="fprintf" alt="" coords="497,197,552,223"/>
-<area shape="rect" id="node7" href="$df/deb/3rd_party_2regex-0_812_2test_2test_8c.html#a1e5ffad39b65fa937afd3ee288ccf877" title="strstr" alt="" coords="499,247,551,274"/>
-</map>
