@@ -1,0 +1,5 @@
+<map id="Jipopt::get_list_of_nonlinear_variables" name="Jipopt::get_list_of_nonlinear_variables">
+<area shape="rect" id="node2" href="$d5/df6/struct_j_n_i_env__.html#a595d53ec4a652e48fadafdca50bee559" title="JNIEnv_::NewIntArray" alt="" coords="213,5,368,32"/>
+<area shape="rect" id="node3" href="$d5/df6/struct_j_n_i_env__.html#a9e9e3a4163c987977fc16367cf434c51" title="JNIEnv_::CallBooleanMethod" alt="" coords="193,56,388,83"/>
+<area shape="rect" id="node4" href="$d5/df6/struct_j_n_i_env__.html#a6bb80f28bf0d6dfa02ad4f1914658225" title="JNIEnv_::GetIntArrayRegion" alt="" coords="196,107,385,133"/>
+</map>

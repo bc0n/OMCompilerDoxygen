@@ -1,0 +1,16 @@
+<map id="omc_FMI_getEnumerationTypeFromTypes" name="omc_FMI_getEnumerationTypeFromTypes">
+<area shape="rect" id="node2" href="$de/dab/_codegen_f_m_u_8c.html#a1dee17feda830245f5cad653b3f38892" title="omc_CodegenFMU_fun__452" alt="" coords="257,101,452,127"/>
+<area shape="rect" id="node3" href="$d8/da1/_codegen_f_m_u_8h.html#adfa97ed77fbe9a1cd56c0edd2ffa2854" title="omc_CodegenFMU_dumpFMIEnumeration\lModelVariableStartValue" alt="" coords="500,64,771,105"/>
+<area shape="rect" id="node15" href="$de/dab/_codegen_f_m_u_8c.html#aef2ff7a9aeed51d9e7d7531e0febe9bc" title="boxptr_CodegenFMU_fun__452" alt="" coords="532,130,739,157"/>
+<area shape="rect" id="node4" href="$d8/da1/_codegen_f_m_u_8h.html#a4ffa526fe58e1b8dc6127eaafb0cf320" title="boxptr_CodegenFMU_dumpFMIEnumeration\lModelVariableStartValue" alt="" coords="819,5,1100,47"/>
+<area shape="rect" id="node5" href="$de/dab/_codegen_f_m_u_8c.html#ae709807ff7b26784fd6a8a02a1f3a4cd" title="omc_CodegenFMU_fun__386" alt="" coords="862,71,1057,98"/>
+<area shape="rect" id="node13" href="$de/dab/_codegen_f_m_u_8c.html#ace7f151775ef1f0aee3a1b549c281076" title="omc_CodegenFMU_fun__385" alt="" coords="862,122,1057,149"/>
+<area shape="rect" id="node6" href="$d8/da1/_codegen_f_m_u_8h.html#a4a67a8dd2b6b0ad56feda2e25d0481e0" title="omc_CodegenFMU_dumpFMIModel\lVariable" alt="" coords="1148,89,1380,131"/>
+<area shape="rect" id="node12" href="$de/dab/_codegen_f_m_u_8c.html#a58fdc566e2f7712df7dcbffc0556df6e" title="boxptr_CodegenFMU_fun__386" alt="" coords="1161,38,1367,65"/>
+<area shape="rect" id="node7" href="$d8/da1/_codegen_f_m_u_8h.html#ae57113c3bc534df88f62618ce48061a6" title="boxptr_CodegenFMU_dumpFMIModel\lVariable" alt="" coords="1428,60,1671,101"/>
+<area shape="rect" id="node8" href="$de/dab/_codegen_f_m_u_8c.html#a992e1a3b75e715a039db01209c819fac" title="omc_CodegenFMU_lm__383" alt="" coords="1454,126,1645,153"/>
+<area shape="rect" id="node9" href="$d8/da1/_codegen_f_m_u_8h.html#ab6d7522a631e1bdec12fc284d07bdeaf" title="omc_CodegenFMU_dumpFMIModel\lVariablesList" alt="" coords="1719,89,1951,131"/>
+<area shape="rect" id="node11" href="$de/dab/_codegen_f_m_u_8c.html#ad20bcf6b3205e6a8400cfd96048d0c37" title="boxptr_CodegenFMU_lm__383" alt="" coords="1733,155,1936,182"/>
+<area shape="rect" id="node10" href="$d8/da1/_codegen_f_m_u_8h.html#ad092c0b2c05bd578cc6c9190466ac222" title="boxptr_CodegenFMU_dumpFMIModel\lVariablesList" alt="" coords="1999,89,2241,131"/>
+<area shape="rect" id="node14" href="$de/dab/_codegen_f_m_u_8c.html#a7424bba6c9a237ebbd4f46b64fa0b707" title="boxptr_CodegenFMU_fun__385" alt="" coords="1161,155,1367,182"/>
+</map>

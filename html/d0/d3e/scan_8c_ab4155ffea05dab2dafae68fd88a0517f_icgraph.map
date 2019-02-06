@@ -1,0 +1,5 @@
+<map id="isatty" name="isatty">
+<area shape="rect" id="node2" href="$d0/d3e/scan_8c.html#ae6ac796aa6c45d433a4b89bf45e6e9dc" title="yy_delete_buffer" alt="" coords="108,31,227,57"/>
+<area shape="rect" id="node3" href="$d0/d3e/scan_8c.html#a6201ab6be4687a1ebc3120602d05e35a" title="yypop_buffer_state" alt="" coords="275,5,408,32"/>
+<area shape="rect" id="node4" href="$d0/d3e/scan_8c.html#ab596ae57cdabfb4b298edf3dde7cdf04" title="yylex_destroy" alt="" coords="456,31,559,57"/>
+</map>

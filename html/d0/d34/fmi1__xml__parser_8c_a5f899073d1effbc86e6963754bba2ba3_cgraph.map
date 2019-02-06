@@ -1,0 +1,11 @@
+<map id="fmi1_xml_parse_free_context" name="fmi1_xml_parse_free_context">
+<area shape="rect" id="node2" href="$d8/df0/group__fmi1__xml__init.html#ga2e3619ee19f4a9ade5d9dac7bd84a90f" title="fmi1_xml_clear_model\l_description" alt="" coords="196,53,348,94"/>
+<area shape="rect" id="node3" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="448,5,495,32"/>
+<area shape="rect" id="node5" href="$d9/da6/_third_party_2_expat_2expat-2_81_80_2amiga_2include_2libraries_2expat_8h.html#a92574edc82d1a0ee2d48a5d31fef9a6c" title="XML_ParserFree" alt="" coords="212,119,332,145"/>
+<area shape="rect" id="node6" href="$d0/d34/fmi1__xml__parser_8c.html#ab6f2d35e12aeee9d8c7ff86a7ca93079" title="fmi1_xml_free_parse\l_buffer" alt="" coords="201,170,343,211"/>
+<area shape="rect" id="node4" href="$de/de6/fmi1__xml__vendor__annotations_8c.html#acd8cd4c9ea4e1c835639f3d7249cbb16" title="fmi1_xml_vendor_free" alt="" coords="396,60,547,87"/>
+<area shape="rect" id="node7" href="$d0/d34/fmi1__xml__parser_8c.html#a45cfc6dc8f3842cd9d3c6d034985bbda" title="jm_vector" alt="" coords="432,177,511,204"/>
+<area shape="rect" id="node8" href="$d3/dc8/class_teuchos_1_1_comm.html#a346c8703a1ee3cb18cf3c812678cb01c" title="Get the number of processes in the communicator. " alt="" coords="595,152,745,179"/>
+<area shape="rect" id="node9" href="$d0/d34/fmi1__xml__parser_8c.html#a094720ead8128988a23de837e2543d98" title="fmi1_xml_parse_fatal" alt="" coords="597,203,743,229"/>
+<area shape="rect" id="node10" href="$d6/dac/group__jm__callbacks.html#gaba6d03fb084724a1a8928e59fe5b6e39" title="Send a fatal error message to the logger function. See jm_log() for details. " alt="" coords="793,203,900,229"/>
+</map>

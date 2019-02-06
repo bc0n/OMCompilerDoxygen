@@ -1,0 +1,27 @@
+digraph "MakeSemiCoarsenP"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="MakeSemiCoarsenP",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="ML_CommInfoOP_Compute\l_TotalRcvLength",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/da9/ml__comminfoop_8c.html#a9db8b8f27eaee3daa64022f209db998b"];
+  Node0 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="ML_exchange_bdry",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/da9/ml__comminfoop_8c.html#a54d54632421530b8d261e1d9388c51b8"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="GetClock",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/de2/ml__utils_8c.html#ab9104f4e136b1a0627c2b3e23d1a003c"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="ML_allocate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d67/ml__memory_8h.html#a811b25127e31df6b13643586ea6ccdc6"];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="ML_Comm_Envelope_Get_Tag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/da9/ml__comminfoop_8c.html#a4d86925c1126ff715612eb2e7a0bc6de"];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="ML_free",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d67/ml__memory_8h.html#a8977b8b65adf77545ebe88fcd1f6889a"];
+  Node0 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="FindCpts",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d7d/ml__agg__gen_p_8c.html#ae5a40526a07726b5ea1f3df4f49f2e63"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="floor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/de2/mcvs_atm_disp__kry__bbd__p_8m.html#a532be631bf22af7829394ffbd4ad7894"];
+  Node0 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="ML_get_matrix_row",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d64/ml__rap_8h.html#a2adecc67a57fe78355d69c97e16b0ed9"];
+  Node0 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="DGBSV_F77",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d2c/ml__lapack_8h.html#a72d2f4b4b9e4e7cedde6d304c70b1a9d"];
+}

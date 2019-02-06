@@ -1,0 +1,6 @@
+<map id="fmi1_import_convert_from_display_unit" name="fmi1_import_convert_from_display_unit">
+<area shape="rect" id="node2" href="$d0/d38/group__fmi1__import__units.html#ga94e7c9728cb2913d1522dcf0eb6d764c" title="Get the &quot;gain&quot; associated with the display unit. " alt="" coords="193,5,356,47"/>
+<area shape="rect" id="node4" href="$d0/d38/group__fmi1__import__units.html#gaf7e36bbf9f9414bb4c72d0f74ba738f8" title="Get the &quot;offset&quot; associated with the display unit. " alt="" coords="193,71,356,112"/>
+<area shape="rect" id="node3" href="$db/dd6/group__fmi1__xml__units.html#gae2a3d6414100cfcb9264807538bc2e04" title="fmi1_xml_get_display\l_unit_gain" alt="" coords="404,5,552,47"/>
+<area shape="rect" id="node5" href="$db/dd6/group__fmi1__xml__units.html#ga7562e3d4b5e4fe811e700b14fb874439" title="fmi1_xml_get_display\l_unit_offset" alt="" coords="404,71,552,112"/>
+</map>

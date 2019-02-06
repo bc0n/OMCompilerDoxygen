@@ -1,0 +1,9 @@
+<map id="Jipopt::get_scaling_parameters" name="Jipopt::get_scaling_parameters">
+<area shape="rect" id="node2" href="$d5/df6/struct_j_n_i_env__.html#ac88b88d37edf49d01630fb5012546c0a" title="JNIEnv_::NewDoubleArray" alt="" coords="201,5,381,32"/>
+<area shape="rect" id="node3" href="$d5/df6/struct_j_n_i_env__.html#a7905ab49c92d996a54f9fd3a90e17a34" title="JNIEnv_::NewBooleanArray" alt="" coords="198,56,385,83"/>
+<area shape="rect" id="node4" href="$d5/df6/struct_j_n_i_env__.html#a9e9e3a4163c987977fc16367cf434c51" title="JNIEnv_::CallBooleanMethod" alt="" coords="194,107,389,133"/>
+<area shape="rect" id="node5" href="$d5/df6/struct_j_n_i_env__.html#acd9b93910b5465a09497bc24cc192d12" title="JNIEnv_::GetBooleanArray\lElements" alt="" coords="201,158,381,199"/>
+<area shape="rect" id="node7" href="$d5/df6/struct_j_n_i_env__.html#ab96f21ff7e2721d44295e935367a4e50" title="JNIEnv_::GetDoubleArrayRegion" alt="" coords="184,224,399,251"/>
+<area shape="rect" id="node8" href="$d5/df6/struct_j_n_i_env__.html#a7d96a172d7857675440b6f4f44457272" title="JNIEnv_::ReleaseBooleanArray\lElements" alt="" coords="188,275,395,317"/>
+<area shape="rect" id="node6" href="$d5/d80/struct_j_n_i_native_interface__.html#a73f017046ba14c923289c054d423fbaa" title="JNINativeInterface\l_::GetBooleanArrayElements" alt="" coords="447,158,637,199"/>
+</map>
