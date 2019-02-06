@@ -1,0 +1,11 @@
+digraph "_omc_copyMatrix"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node11 [label="_omc_copyMatrix",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node11 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="_omc_allocateMatrixData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/ded/omc__math_8c.html#acb37ba6cf63efa274ea37c69e59569d0"];
+  Node11 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="_omc_getMatrixSize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/ded/omc__math_8c.html#aaefcb49eadaef8d8a3e645da5653bcb1"];
+}

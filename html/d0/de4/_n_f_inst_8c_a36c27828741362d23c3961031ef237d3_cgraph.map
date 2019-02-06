@@ -1,0 +1,22 @@
+<map id="omc_NFInst_expandClassParts" name="omc_NFInst_expandClassParts">
+<area shape="rect" id="node2" href="$d7/d21/_n_f_inst_node_8c.html#a840047a70bed69a6b747a8bbec33e15b" title="omc_NFInstNode_InstNode\l_getClass" alt="" coords="283,27,469,69"/>
+<area shape="rect" id="node5" href="$d5/ddb/_n_f_class_8c.html#a030d44a0d70eb6bad3394714dc8c468d" title="omc_NFClass_Class_initExpanded\lClass" alt="" coords="261,93,491,134"/>
+<area shape="rect" id="node6" href="$d7/d21/_n_f_inst_node_8c.html#a87b5acf681a29a102e8d4ad85cb6f807" title="omc_NFInstNode_InstNode\l_updateClass" alt="" coords="283,158,469,199"/>
+<area shape="rect" id="node8" href="$d4/d0f/_n_f_class_tree_8c.html#ac73a5c82798a1cfe10784de04cce6ddd" title="omc_NFClassTree_ClassTree\l_mapFoldExtends" alt="" coords="277,223,475,265"/>
+<area shape="rect" id="node10" href="$d7/d21/_n_f_inst_node_8c.html#a0448a520b8f4a2cf341ecde6c2f2fd93" title="omc_NFInstNode_InstNode_name" alt="" coords="264,289,488,316"/>
+<area shape="rect" id="node13" href="$d0/de4/_n_f_inst_8c.html#a9a4f0774c336195f26c4c00c45cac2f1" title="omc_NFInst_expandExternal\lObject" alt="" coords="281,341,471,382"/>
+<area shape="rect" id="node15" href="$d7/d21/_n_f_inst_node_8c.html#ae378534b961a6d8594806228b51698b7" title="omc_NFInstNode_InstNode\l_isEmpty" alt="" coords="283,406,469,447"/>
+<area shape="rect" id="node16" href="$d0/de4/_n_f_inst_8c.html#aca6e36cd2ea9ab41b479a0427f4ecbbf" title="omc_NFInst_checkBuiltinType\lExtends" alt="" coords="275,471,477,513"/>
+<area shape="rect" id="node19" href="$d4/d0f/_n_f_class_tree_8c.html#af1a1a48dc281d0fe7f864ea5d9db6b53" title="omc_NFClassTree_ClassTree\l_expand" alt="" coords="277,537,475,578"/>
+<area shape="rect" id="node20" href="$da/df0/_n_f_restriction_8c.html#a547112d85a6e92e25e7cb20a3b3f4558" title="omc_NFRestriction_fromSCode" alt="" coords="272,603,480,629"/>
+<area shape="rect" id="node21" href="$d9/d9e/_s_code_8c.html#a59beac384e2d377adc0181efe2f48d2e" title="omc_SCode_getClassRestriction" alt="" coords="268,653,484,680"/>
+<area shape="rect" id="node3" href="$dc/d0e/_pointer_8c.html#aa5369c5410f4ad12957ad69be8ccc4e8" title="omc_Pointer_access" alt="" coords="591,5,735,32"/>
+<area shape="rect" id="node4" href="$d2/dda/_n_f_component_8c.html#aebc936a63cf3faa7877ddb75a6ba16cb" title="omc_NFComponent_Component\l_classInstance" alt="" coords="556,57,769,98"/>
+<area shape="rect" id="node7" href="$dc/d0e/_pointer_8c.html#ae73e932b6aef1e70fef178d17afe8718" title="omc_Pointer_update" alt="" coords="592,165,733,192"/>
+<area shape="rect" id="node9" href="$d4/d0f/_n_f_class_tree_8c.html#a9e6e492fe51e0211e72d312e7686ac08" title="omc_NFClassTree_ClassTree\l_getExtends" alt="" coords="563,217,762,258"/>
+<area shape="rect" id="node11" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a672ff4045e2d75c0029e6cc5d7f0a507" title="modelica_integer_to\l_modelica_string" alt="" coords="593,282,732,323"/>
+<area shape="rect" id="node12" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="613,348,712,375"/>
+<area shape="rect" id="node14" href="$d0/de4/_n_f_inst_8c.html#afc76f75eb942ac5706311ec40d0012f5" title="omc_NFInst_makeExternalObjectType" alt="" coords="539,399,787,425"/>
+<area shape="rect" id="node17" href="$d4/d0f/_n_f_class_tree_8c.html#ae9dd1d4cdd08cd87c7d7ee882e018489" title="omc_NFClassTree_ClassTree\l_componentCount" alt="" coords="563,461,762,502"/>
+<area shape="rect" id="node18" href="$d4/d0f/_n_f_class_tree_8c.html#a74337189ed635808aeb1e7df28a9b7ec" title="omc_NFClassTree_ClassTree\l_extendsCount" alt="" coords="563,526,762,567"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="omc_NFInst_expand" name="omc_NFInst_expand">
+<area shape="rect" id="node2" href="$da/d9b/_n_f_inst_8h.html#afa3181b7ef99648235a0db730d8fa5dc" title="omc_NFInst_instTypeSpec" alt="" coords="203,5,385,32"/>
+<area shape="rect" id="node4" href="$da/d9b/_n_f_inst_8h.html#aede7ec5ed2830c6960276e98c226974d" title="omc_NFInst_expandExtends" alt="" coords="199,56,389,83"/>
+<area shape="rect" id="node5" href="$d6/d4f/_n_f_lookup_8h.html#a1b88becc508e8e03f2d53b2f97ecd155" title="omc_NFLookup_fixExternal\lObjectCall" alt="" coords="203,107,385,149"/>
+<area shape="rect" id="node8" href="$d6/d4f/_n_f_lookup_8h.html#a45a6f692dfce64bedd1a357e40ffcec6" title="omc_NFLookup_fixTypename\lState" alt="" coords="196,173,392,214"/>
+<area shape="rect" id="node3" href="$da/d9b/_n_f_inst_8h.html#af9b3e9c40fc651c557154a19a13252f1" title="boxptr_NFInst_instTypeSpec" alt="" coords="466,5,658,32"/>
+<area shape="rect" id="node6" href="$d6/d4f/_n_f_lookup_8h.html#aab537cdd5514ec381169b106e6717702" title="omc_NFLookup_lookupFunction\lNameSilent" alt="" coords="457,59,667,101"/>
+<area shape="rect" id="node7" href="$d6/d4f/_n_f_lookup_8h.html#a382f6db250d1ad9a85982865cb387e06" title="omc_NFLookup_lookupFunctionName" alt="" coords="440,125,684,152"/>
+<area shape="rect" id="node9" href="$d6/d4f/_n_f_lookup_8h.html#a6eb66d82bedae1fb9ed0eebb3e34b874" title="omc_NFLookup_lookupComponent" alt="" coords="449,180,675,207"/>
+<area shape="rect" id="node10" href="$da/d9b/_n_f_inst_8h.html#a8974b294562e3c9d46fd0341cebef45d" title="omc_NFInst_instCref" alt="" coords="732,180,879,207"/>
+<area shape="rect" id="node11" href="$da/d9b/_n_f_inst_8h.html#a94ec79a0d22e8c019d849fbe8b9604b4" title="omc_NFInst_instPartEvalFunction" alt="" coords="927,180,1149,207"/>
+</map>

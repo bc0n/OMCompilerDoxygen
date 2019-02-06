@@ -1,0 +1,10 @@
+<map id="omc_NFInst_checkReplaceableBaseClass" name="omc_NFInst_checkReplaceableBaseClass">
+<area shape="rect" id="node2" href="$d9/d9e/_s_code_8c.html#af52a00a0eab1ec3ddc2a3ea214232b82" title="omc_SCode_isElementReplaceable" alt="" coords="261,81,492,108"/>
+<area shape="rect" id="node6" href="$d7/d21/_n_f_inst_node_8c.html#aa55ac4de2ad82657bcef63d7eb2e3f64" title="omc_NFInstNode_InstNode\l_definition" alt="" coords="284,158,469,199"/>
+<area shape="rect" id="node9" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a6983369f3c3e3e8cc41ac483c9a9baf1" title="listLength" alt="" coords="337,224,416,251"/>
+<area shape="rect" id="node3" href="$d9/d9e/_s_code_8c.html#a06dc2151089a4c0262dde71765c00823" title="omc_SCode_elementPrefixes" alt="" coords="552,5,747,32"/>
+<area shape="rect" id="node4" href="$d9/d9e/_s_code_8c.html#a3d1398045c5d6fca5bc5962098f52cf7" title="omc_SCode_replaceableBool" alt="" coords="553,56,746,83"/>
+<area shape="rect" id="node5" href="$d9/d9e/_s_code_8c.html#a62ec4b4b778af7540b4655feb30b428a" title="omc_SCode_prefixesReplaceable" alt="" coords="540,107,759,133"/>
+<area shape="rect" id="node7" href="$d2/dda/_n_f_component_8c.html#aec664af20d33addcc2bc69026d7c9e79" title="omc_NFComponent_Component\l_definition" alt="" coords="543,158,756,199"/>
+<area shape="rect" id="node8" href="$dc/d0e/_pointer_8c.html#aa5369c5410f4ad12957ad69be8ccc4e8" title="omc_Pointer_access" alt="" coords="577,224,721,251"/>
+</map>

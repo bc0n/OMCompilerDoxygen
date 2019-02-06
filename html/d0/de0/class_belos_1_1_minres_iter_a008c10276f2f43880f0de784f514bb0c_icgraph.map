@@ -1,0 +1,5 @@
+<map id="Belos::MinresIter::initializeMinres" name="Belos::MinresIter::initializeMinres">
+<area shape="rect" id="node2" href="$d0/de0/class_belos_1_1_minres_iter.html#af2f93cca8884253b7d453bbf682a7371" title="Destructor. " alt="" coords="537,5,667,47"/>
+<area shape="rect" id="node3" href="$d0/de0/class_belos_1_1_minres_iter.html#aaee677fa9e8479bb41b08cae0f802166" title="Initialize the solver. " alt="" coords="183,35,312,76"/>
+<area shape="rect" id="node4" href="$d0/de0/class_belos_1_1_minres_iter.html#abafaf4f5eb2dba100456e37e12be05fc" title="Perform MINRES iterations until convergence or error. " alt="" coords="360,35,489,76"/>
+</map>

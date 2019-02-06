@@ -1,0 +1,22 @@
+<map id="boxptr_NFInst_instComponent" name="boxptr_NFInst_instComponent">
+<area shape="rect" id="node2" href="$d0/de4/_n_f_inst_8c.html#a78cfb03e5c6b1e44b80ce57359ef909d" title="omc_NFInst_instComponent" alt="" coords="253,209,443,235"/>
+<area shape="rect" id="node3" href="$d7/d21/_n_f_inst_node_8c.html#ac54516a17adc897c2dfe890cd48b3fec" title="omc_NFInstNode_InstNode\l_resolveOuter" alt="" coords="505,5,690,47"/>
+<area shape="rect" id="node4" href="$d7/d21/_n_f_inst_node_8c.html#a954fb6baea5ff56cc2ffc0c0760f3c27" title="omc_NFInstNode_InstNode\l_component" alt="" coords="505,71,690,112"/>
+<area shape="rect" id="node6" href="$d7/d21/_n_f_inst_node_8c.html#adda05348c4a4424e0e3bb09e5b900460" title="omc_NFInstNode_InstNode\l_parent" alt="" coords="505,136,690,177"/>
+<area shape="rect" id="node7" href="$d2/dda/_n_f_component_8c.html#ae3f0f074807e64ec72b2b63e9d154c27" title="omc_NFComponent_Component\l_isDefinition" alt="" coords="491,201,704,243"/>
+<area shape="rect" id="node8" href="$d1/d3e/_n_f_modifier_8c.html#abc002557434ee87e005f84bf11f957a3" title="omc_NFModifier_Modifier\l_isRedeclare" alt="" coords="512,267,683,308"/>
+<area shape="rect" id="node9" href="$d0/de4/_n_f_inst_8c.html#af0f343f759a49cc4719432b3228ac848" title="omc_NFInst_checkOuterComponentMod" alt="" coords="752,329,1012,355"/>
+<area shape="rect" id="node14" href="$d0/de4/_n_f_inst_8c.html#a8acc9b958ba18fef353020299497e239" title="omc_NFInst_instComponentDef" alt="" coords="492,387,703,414"/>
+<area shape="rect" id="node5" href="$dc/d0e/_pointer_8c.html#aa5369c5410f4ad12957ad69be8ccc4e8" title="omc_Pointer_access" alt="" coords="810,78,954,105"/>
+<area shape="rect" id="node10" href="$d1/d3e/_n_f_modifier_8c.html#ae3a57b92eb15891fe3fc7606620ba9f8" title="omc_NFModifier_Modifier\l_isEmpty" alt="" coords="1079,212,1250,253"/>
+<area shape="rect" id="node11" href="$d0/d78/_absyn_8c.html#aa0e13dee8ce473318e4456ce293b3f32" title="omc_Absyn_isOnlyOuter" alt="" coords="1081,278,1248,305"/>
+<area shape="rect" id="node12" href="$d9/d9e/_s_code_8c.html#aaaba9503bc2315050f33aaa7ba76298b" title="omc_SCode_prefixesInnerOuter" alt="" coords="1061,329,1269,355"/>
+<area shape="rect" id="node13" href="$d9/d9e/_s_code_8c.html#a06dc2151089a4c0262dde71765c00823" title="omc_SCode_elementPrefixes" alt="" coords="1067,379,1262,406"/>
+<area shape="rect" id="node15" href="$d1/d3e/_n_f_modifier_8c.html#a863e43eace80c07fa66f43c47167efbc" title="omc_NFModifier_Modifier\l_fromElement" alt="" coords="797,380,967,421"/>
+<area shape="rect" id="node16" href="$d1/d3e/_n_f_modifier_8c.html#a3a238168312eb1e5cd93b7d40ae44548" title="omc_NFModifier_Modifier\l_merge" alt="" coords="797,445,967,487"/>
+<area shape="rect" id="node21" href="$d1/d3e/_n_f_modifier_8c.html#a075412d6723b26032ab1c0b23ef59966" title="omc_NFModifier_Modifier\l_addParent" alt="" coords="797,511,967,552"/>
+<area shape="rect" id="node17" href="$d1/d3e/_n_f_modifier_8c.html#ad0b56aa5c919a231598216f9c737b5e6" title="omc_NFModifier_Modifier\l_checkFinalOverride" alt="" coords="1079,431,1250,472"/>
+<area shape="rect" id="node18" href="$d3/dcf/_n_f_binding_8c.html#ab2de4dc6d83f9f5260fbab801ab60ad2" title="omc_NFBinding_Binding\l_isBound" alt="" coords="1082,496,1247,537"/>
+<area shape="rect" id="node19" href="$d1/d3e/_n_f_modifier_8c.html#add9394a1ad6fb7ed3f9c9b13826a1b2d" title="omc_NFModifier_ModTable_join" alt="" coords="1060,586,1269,613"/>
+<area shape="rect" id="node20" href="$d1/d3e/_n_f_modifier_8c.html#aa073aaf1861714d607e0669b6d698a49" title="omc_NFModifier_ModTable_add" alt="" coords="1317,586,1528,613"/>
+</map>
