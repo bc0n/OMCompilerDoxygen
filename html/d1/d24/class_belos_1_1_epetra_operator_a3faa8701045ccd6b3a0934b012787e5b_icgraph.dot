@@ -1,0 +1,9 @@
+digraph "Belos::EpetraOperator::ApplyInverse"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node105 [label="Belos::EpetraOperator\l::ApplyInverse",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node105 -> Node106 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node106 [label="Belos::EpetraOperator\l::SetUseTranspose",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d24/class_belos_1_1_epetra_operator.html#ae8a15ec96290f56b4d943333fe88f12d",tooltip="Set whether the operator or its inverse should be applied. [ This option is not implemented ]..."];
+}
