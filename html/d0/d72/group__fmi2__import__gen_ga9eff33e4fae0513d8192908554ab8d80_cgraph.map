@@ -1,0 +1,5 @@
+<map id="fmi2_import_get_number_of_continuous_states" name="fmi2_import_get_number_of_continuous_states">
+<area shape="rect" id="node2" href="$d3/df2/fmi2__import_8c.html#a8081f28cd4f12875a98a03a4172dafe4" title="fmi2_import_check_has_FMU" alt="" coords="219,5,415,32"/>
+<area shape="rect" id="node4" href="$de/d1e/group__fmi2__xml__gen.html#ga223f74079d6fcec31efa6f98556161e9" title="fmi2_xml_get_number\l_of_continuous_states" alt="" coords="240,57,393,98"/>
+<area shape="rect" id="node3" href="$d6/dac/group__jm__callbacks.html#gada5096ac90f8adc61a90b76597c4ae05" title="Send a error message to the logger function. See jm_log() for details. " alt="" coords="463,5,556,32"/>
+</map>

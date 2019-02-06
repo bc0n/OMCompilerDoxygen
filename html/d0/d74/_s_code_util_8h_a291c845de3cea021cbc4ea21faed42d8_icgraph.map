@@ -1,0 +1,13 @@
+<map id="omc_SCodeUtil_translateOperatorDef" name="omc_SCodeUtil_translateOperatorDef">
+<area shape="rect" id="node2" href="$d3/dbb/_s_code_util_8c.html#ae07c0fc120a4641b6063b6f372a3617f" title="omc_SCodeUtil_translateElementspec" alt="" coords="296,231,543,258"/>
+<area shape="rect" id="node3" href="$d3/dbb/_s_code_util_8c.html#a2c8e5d3c967a22e517679a760305c104" title="boxptr_SCodeUtil_translate\lElementspec" alt="" coords="609,224,791,265"/>
+<area shape="rect" id="node4" href="$d0/d74/_s_code_util_8h.html#a24b837f82c8ded41dd065ec1d58daff9" title="omc_SCodeUtil_translateElement" alt="" coords="591,158,809,185"/>
+<area shape="rect" id="node5" href="$d1/d7d/_f_graph_build_8h.html#ae59ccf0ebcd2ebbe2fa56c5d8879d29b" title="omc_FGraphBuild_addMatch\lScope__helper" alt="" coords="873,71,1064,112"/>
+<area shape="rect" id="node6" href="$d2/db6/_f_graph_build_env_8h.html#abc5336750b4f33d6391fd33cb65d94e5" title="omc_FGraphBuildEnv\l_addMatchScope__helper" alt="" coords="883,136,1055,177"/>
+<area shape="rect" id="node7" href="$da/db6/_n_f_s_code_env_8c.html#ac75fa3e25aee134ff5acdff65864f064" title="omc_NFSCodeEnv_extendEnv\lWithElementItem" alt="" coords="867,201,1071,243"/>
+<area shape="rect" id="node8" href="$d0/d74/_s_code_util_8h.html#af9ed30ee40949810399b64ba2079a391" title="omc_SCodeUtil_translateEitemlist" alt="" coords="857,267,1080,294"/>
+<area shape="rect" id="node10" href="$d1/d2e/_unit_absyn_builder_8c.html#a37baa5e27f583389605ecee0944662ee" title="omc_UnitAbsynBuilder\l_registerDefineunits2" alt="" coords="891,5,1046,47"/>
+<area shape="rect" id="node9" href="$d3/dbb/_s_code_util_8c.html#a41925cd00109c0df886156820f5abf03" title="omc_SCodeUtil_translateClassdef\lElements" alt="" coords="1128,285,1351,327"/>
+<area shape="rect" id="node11" href="$d1/d2e/_unit_absyn_builder_8c.html#a5a6e461ad491ddb3add264eb7271435c" title="omc_UnitAbsynBuilder\l_registerDefineunits" alt="" coords="1162,5,1317,47"/>
+<area shape="rect" id="node12" href="$d1/d2e/_unit_absyn_builder_8c.html#a0ce592347c2d39041cf1709ce5aef186" title="omc_UnitAbsynBuilder\l_registerUnitInClass" alt="" coords="1399,5,1553,47"/>
+</map>

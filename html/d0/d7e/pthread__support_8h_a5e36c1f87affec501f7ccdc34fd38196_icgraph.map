@@ -1,0 +1,10 @@
+<map id="GC_nacl_shutdown_gc_thread" name="GC_nacl_shutdown_gc_thread">
+<area shape="rect" id="node2" href="$d6/d7c/pthread__support_8c.html#a2c2e8a11175bd98c23e030da1d598f36" title="GC_delete_thread" alt="" coords="211,81,337,108"/>
+<area shape="rect" id="node3" href="$d6/d7c/pthread__support_8c.html#a205389ad1bd657699c8cba09bc5967ee" title="GC_unregister_my_thread\l_inner" alt="" coords="385,74,560,115"/>
+<area shape="rect" id="node4" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#af34610f5c02b7721e5d3d0212442999a" title="GC_unregister_my_thread" alt="" coords="608,56,783,83"/>
+<area shape="rect" id="node9" href="$d6/d7c/pthread__support_8c.html#ad8f6d55cdb0d55de6849fbd56a41db31" title="GC_thread_exit_proc" alt="" coords="623,107,768,133"/>
+<area shape="rect" id="node5" href="$d0/d78/win32__threads_8c.html#ab8391ecea40b674c6967974a56b7e978" title="GC_win32_start_inner" alt="" coords="831,5,981,32"/>
+<area shape="rect" id="node7" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#a611dc0aa59e01d3f15c3dedd16eef204" title="GC_ExitThread" alt="" coords="850,56,962,83"/>
+<area shape="rect" id="node8" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#ae231bc843bf076f65aca996048ca8a67" title="GC_endthreadex" alt="" coords="846,107,966,133"/>
+<area shape="rect" id="node6" href="$d0/d78/win32__threads_8c.html#a249a2849c8c14703f8d555e6c037c38f" title="GC_win32_start" alt="" coords="1029,5,1145,32"/>
+</map>

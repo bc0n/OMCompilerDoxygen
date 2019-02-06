@@ -1,0 +1,23 @@
+digraph "omc_CodegenCppHpcom_generateAdditionalStructHeaders"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node5286 [label="omc_CodegenCppHpcom\l_generateAdditionalStructHeaders",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5286 -> Node5287 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5287 [label="omc_CodegenCppHpcom\l_fun__74",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/ddf/_codegen_cpp_hpcom_8c.html#a5f4c2cfd7ebddc934ec40118cb7850c8"];
+  Node5287 -> Node5288 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5288 [label="omc_CodegenCppHpcom\l_fun__75",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/ddf/_codegen_cpp_hpcom_8c.html#ae55393af6e15630aa971db4164044ce8"];
+  Node5288 -> Node5289 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5289 [label="omc_CodegenCppHpcom\l_generateAdditionalFunction\lHeaders",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d7b/_codegen_cpp_hpcom_8h.html#aa98f084551ca90fccadf20c75254c687"];
+  Node5289 -> Node5290 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5290 [label="omc_CodegenCppHpcom\l_fun__61",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/ddf/_codegen_cpp_hpcom_8c.html#ae45379c61f2fb20b455213a61d5b67d2"];
+  Node5290 -> Node5291 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5291 [label="omc_CodegenCppHpcom\l_additionalHpcomProtectedMember\lDeclaration",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d7b/_codegen_cpp_hpcom_8h.html#af60c261a3b91c1ef5dde1174daf6aad2"];
+  Node5291 -> Node5292 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5292 [label="boxptr_CodegenCppHpcom\l_additionalHpcomProtectedMember\lDeclaration",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d7b/_codegen_cpp_hpcom_8h.html#a97daa21c324bd98f77cc60b176d795d5"];
+  Node5291 -> Node5293 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5293 [label="omc_CodegenCppHpcom\l_translateModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d7b/_codegen_cpp_hpcom_8h.html#a423a0801fb73dbae738bcf88b4d4f9b1"];
+  Node5291 -> Node5294 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5294 [label="omc_CodegenFMUCppHpcom\l_translateModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d8c/_codegen_f_m_u_cpp_hpcom_8h.html#abed9b64290450d80d93f9ce199b9ecc5"];
+}

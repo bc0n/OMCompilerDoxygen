@@ -1,0 +1,6 @@
+<map id="fmi2_import_get_variable_aliases" name="fmi2_import_get_variable_aliases">
+<area shape="rect" id="node2" href="$df/dae/group__fmi2__import__varlist.html#ga2b7fa3edea0cdc7bcb2c52a6887be9e2" title="Allocate an empty list. " alt="" coords="220,5,420,32"/>
+<area shape="rect" id="node3" href="$df/dae/group__fmi2__import__varlist.html#ga1dcb75553b4e66d962f25f6472df602a" title="Free a variable list. Note that variable lists are allocated dynamically and must be freed when not n..." alt="" coords="468,31,663,57"/>
+<area shape="rect" id="node4" href="$d2/d92/group__fmi2__xml__variables.html#gac5e5bdede69c54937bd5e262f57ec04a" title="fmi2_xml_get_variable\l_aliases" alt="" coords="244,107,396,149"/>
+<area shape="rect" id="node5" href="$d2/d92/group__fmi2__xml__variables.html#ga51fe4bf857f5dd86808d2165d4a70f03" title="fmi2_xml_get_variable_vr" alt="" coords="480,115,651,141"/>
+</map>

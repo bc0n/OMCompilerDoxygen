@@ -1,0 +1,17 @@
+digraph "KINInfoHandler"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node8 [label="KINInfoHandler",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="KINCreate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d42/kinsol_8c.html#a27146be27fd9f93ed5bce8e208c35dd6"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="FKIN_MALLOC",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d62/fkinsol_8h.html#ac4472d20a632ed9e9605b6b445b8fa6b"];
+  Node9 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="Kinsol::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dad/group__solver_kinsol.html#ga056cece1b5bb225d876de901b8909efc",tooltip="(Re-) initialize the solver "];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="Kinsol::solve",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dad/group__solver_kinsol.html#ga8a18d3188ad48db47e0d37a29cdc33a2",tooltip="Solution of a (non-)linear system of equations. "];
+  Node12 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="Kinsol::solve",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dad/group__solver_kinsol.html#ga7f7e89f5594dff3c546c946054814a29"];
+}

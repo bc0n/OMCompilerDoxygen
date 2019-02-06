@@ -1,0 +1,21 @@
+<map id="omc_SCodeUtil_translateClass" name="omc_SCodeUtil_translateClass">
+<area shape="rect" id="node2" href="$d3/dbb/_s_code_util_8c.html#a40fad74d3334204916be50c4f44d438e" title="omc_SCodeUtil_translateClass2" alt="" coords="259,195,471,221"/>
+<area shape="rect" id="node18" href="$db/da1/_compiler_2boot_2build_2error_8c.html#ac11a0336d6d1bbdd9947ecd513e71673" title="omc_Error_getNumMessages" alt="" coords="267,271,462,297"/>
+<area shape="rect" id="node3" href="$d3/dbb/_s_code_util_8c.html#aed3fb2ebf587208c761fa0d9fef9f941" title="omc_SCodeUtil_translateRestriction" alt="" coords="519,64,753,91"/>
+<area shape="rect" id="node6" href="$d3/dbb/_s_code_util_8c.html#acd4fa42a8f592d8dfe845d573c6f56fe" title="omc_SCodeUtil_translateClassdef" alt="" coords="525,119,747,145"/>
+<area shape="rect" id="node15" href="$d9/d9e/_s_code_8c.html#a969cc240dcb359e1e1570e685a3c0678" title="omc_SCode_boolFinal" alt="" coords="559,169,713,196"/>
+<area shape="rect" id="node16" href="$d9/d9e/_s_code_8c.html#ab3873f88f906d91e7899ed068c94db36" title="omc_SCode_boolEncapsulated" alt="" coords="534,220,738,247"/>
+<area shape="rect" id="node17" href="$d9/d9e/_s_code_8c.html#a261584d130464963fda09a84923844e6" title="omc_SCode_boolPartial" alt="" coords="555,271,717,297"/>
+<area shape="rect" id="node4" href="$d3/dbb/_s_code_util_8c.html#af08a96b13bdef9761596c90ec093eb90" title="omc_SCodeUtil_translatePurity" alt="" coords="808,5,1013,32"/>
+<area shape="rect" id="node5" href="$d3/dbb/_s_code_util_8c.html#a92f7a8a3a58a32d462302b6e1bf2e5bc" title="omc_SCodeUtil_containsExternal\lFuncDecl" alt="" coords="801,57,1020,98"/>
+<area shape="rect" id="node7" href="$d3/dbb/_s_code_util_8c.html#ae82f48098731690cd37e1eed082091ef" title="omc_SCodeUtil_checkTypeSpec" alt="" coords="803,123,1018,149"/>
+<area shape="rect" id="node8" href="$d0/d78/_absyn_8c.html#a8bd5277343eec1fae42e56b26a919fa9" title="omc_Absyn_typeSpecString" alt="" coords="1068,123,1255,149"/>
+<area shape="rect" id="node9" href="$d8/d4d/_dump_8c.html#ace6372b58937e2b5da4b65aa15df1544" title="omc_Dump_unparseTypeSpec" alt="" coords="1303,123,1504,149"/>
+<area shape="rect" id="node10" href="$d7/d52/_tpl_8c.html#aa1d15a30935372710f07a5ba3276dc70" title="omc_Tpl_tplString" alt="" coords="1552,123,1679,149"/>
+<area shape="rect" id="node11" href="$db/da1/_compiler_2boot_2build_2error_8c.html#a6f9ff3d03e91883492e13af7fbc088ff" title="omc_Error_getNumErrorMessages" alt="" coords="1727,97,1949,124"/>
+<area shape="rect" id="node14" href="$d7/d52/_tpl_8c.html#a97b981684a5f0c8f870746abdde666d7" title="omc_Tpl_tplCallWithFailError" alt="" coords="1742,148,1934,175"/>
+<area shape="rect" id="node12" href="$d4/dce/_error_ext_8c.html#a0195f83af0487b3e7bf35deb4225e582" title="omc_ErrorExt_getNumError\lMessages" alt="" coords="1997,90,2180,131"/>
+<area shape="rect" id="node13" href="$d1/d40/boot_2build_2_error_ext_8h.html#a1206137921767ad0e49abe96adf7b5e3" title="ErrorImpl__getNumErrorMessages" alt="" coords="2228,97,2451,124"/>
+<area shape="rect" id="node19" href="$d4/dce/_error_ext_8c.html#a227e80202284e3caffcd8f4079790f50" title="omc_ErrorExt_getNumMessages" alt="" coords="529,321,743,348"/>
+<area shape="rect" id="node20" href="$d1/d40/boot_2build_2_error_ext_8h.html#af057d91806cdf4c9494e7491b4bbdbc9" title="Error_getNumMessages" alt="" coords="829,321,992,348"/>
+</map>

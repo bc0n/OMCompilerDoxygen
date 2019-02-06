@@ -1,0 +1,4 @@
+<map id="fmi2_import_create_var_list" name="fmi2_import_create_var_list">
+<area shape="rect" id="node2" href="$df/dae/group__fmi2__import__varlist.html#ga2b7fa3edea0cdc7bcb2c52a6887be9e2" title="Allocate an empty list. " alt="" coords="187,13,387,39"/>
+<area shape="rect" id="node3" href="$df/dae/group__fmi2__import__varlist.html#ga1dcb75553b4e66d962f25f6472df602a" title="Free a variable list. Note that variable lists are allocated dynamically and must be freed when not n..." alt="" coords="435,13,629,39"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="GC_register_my_thread" name="GC_register_my_thread">
+<area shape="rect" id="node2" href="$d6/d7c/pthread__support_8c.html#a3ddaa259239abd157952eb96daa3ba1e" title="GC_lookup_thread" alt="" coords="231,5,361,32"/>
+<area shape="rect" id="node3" href="$d6/d7c/pthread__support_8c.html#af8bf377d419cab6da54e4fd5ededdd89" title="GC_register_my_thread\l_inner" alt="" coords="216,107,376,149"/>
+<area shape="rect" id="node5" href="$d6/d7c/pthread__support_8c.html#ac293993b6525e9da55b0dab7cd48b1e2" title="GC_record_stack_base" alt="" coords="437,60,596,87"/>
+<area shape="rect" id="node6" href="$d0/d7e/pthread__support_8h.html#ad0334769d63958eeb45607212d48121b" title="GC_unblock_gc_signals" alt="" coords="435,167,598,193"/>
+<area shape="rect" id="node9" href="$d6/d02/thread__local__alloc_8h.html#a98f0458ad364e7b5a6405665e3fa4a25" title="GC_init_thread_local" alt="" coords="225,224,367,251"/>
+<area shape="rect" id="node10" href="$d9/d8b/gcj__mlc_8c.html#a60f0e6ff7ebbdbc61041da9f189ba473" title="UNLOCK" alt="" coords="257,275,335,301"/>
+<area shape="rect" id="node11" href="$d0/d78/win32__threads_8c.html#a75c620883a592872e9338f232b94ba6f" title="GC_lookup_thread_inner" alt="" coords="213,325,379,352"/>
+<area shape="rect" id="node4" href="$d6/d7c/pthread__support_8c.html#a18e542992bc965bd13f4282ff1f0c50a" title="GC_new_thread" alt="" coords="459,115,575,141"/>
+<area shape="rect" id="node7" href="$d6/d7c/pthread__support_8c.html#a867f4facb49996abbbdbada4463eaf7a" title="pthread_sigmask" alt="" coords="655,167,776,193"/>
+<area shape="rect" id="node8" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#a757c725e51b3c0df96860d67fffaed91" title="GC_get_suspend_signal" alt="" coords="828,167,992,193"/>
+<area shape="rect" id="node12" href="$d0/d78/win32__threads_8c.html#a0f0317da582c76761bffbafd4001ac3d" title="GC_get_max_thread_index" alt="" coords="427,375,607,401"/>
+<area shape="rect" id="node13" href="$de/d97/generalize-small_8h.html#a552b5194d8f47ddbcefed8530727b73b" title="AO_load_acquire" alt="" coords="456,324,577,351"/>
+<area shape="rect" id="node14" href="$de/d97/generalize-small_8h.html#ad40005bf02bced359697864d34ec1a4c" title="AO_load" alt="" coords="679,399,751,425"/>
+<area shape="rect" id="node16" href="$d5/d3a/generalize_8h.html#afe3a6778eacc82252ba138fc9a157b04" title="AO_nop_full" alt="" coords="669,323,762,349"/>
+<area shape="rect" id="node15" href="$d0/d4c/gc__atomic__ops_8h.html#ac44fca25bf925dc938812ae00a336926" title="AO_compare_and_swap" alt="" coords="828,424,992,451"/>
+<area shape="rect" id="node17" href="$d7/d6b/ipoma-dummy_8f.html#a14e68597ab81208552434ccd2a9e8f4f" title="dummy" alt="" coords="877,323,943,349"/>
+<area shape="rect" id="node18" href="$d5/d3a/generalize_8h.html#a9f485bd63ce5c6a017ec241906e2f651" title="AO_test_and_set_full" alt="" coords="837,373,983,400"/>
+<area shape="rect" id="node19" href="$d5/d3a/generalize_8h.html#a0af1bdd53473eb43906a057efe883f6d" title="AO_test_and_set_acquire" alt="" coords="824,221,996,248"/>
+<area shape="rect" id="node20" href="$d5/d3a/generalize_8h.html#a8ec1c2583e26c57a7b4d17f239fa41e8" title="AO_test_and_set" alt="" coords="849,272,971,299"/>
+</map>

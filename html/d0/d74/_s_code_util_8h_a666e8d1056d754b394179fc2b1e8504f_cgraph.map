@@ -1,0 +1,10 @@
+<map id="omc_SCodeUtil_addRedeclareAsElementsToExtends" name="omc_SCodeUtil_addRedeclareAsElementsToExtends">
+<area shape="rect" id="node2" href="$d3/dbb/_s_code_util_8c.html#a7b8a388a27e1ac2ae82f636ea9725e02" title="omc_SCodeUtil_makeElements\lIntoSubMods" alt="" coords="255,23,463,65"/>
+<area shape="rect" id="node3" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="585,5,683,32"/>
+<area shape="rect" id="node4" href="$d3/d3d/_s_code_dump_8c.html#ae08ddd034ea9a5fac610cc7a99d412d8" title="omc_SCodeDump_unparseElementStr" alt="" coords="511,56,757,83"/>
+<area shape="rect" id="node5" href="$d7/d52/_tpl_8c.html#af30b07362826b6e1bc2b230bea10991e" title="omc_Tpl_tplString3" alt="" coords="805,56,940,83"/>
+<area shape="rect" id="node6" href="$db/da1/_compiler_2boot_2build_2error_8c.html#a6f9ff3d03e91883492e13af7fbc088ff" title="omc_Error_getNumErrorMessages" alt="" coords="988,31,1211,57"/>
+<area shape="rect" id="node9" href="$d7/d52/_tpl_8c.html#acb518c04bc162e397ef83319ca3b65fa" title="omc_Tpl_tplCallWithFailError3" alt="" coords="1000,81,1199,108"/>
+<area shape="rect" id="node7" href="$d4/dce/_error_ext_8c.html#a0195f83af0487b3e7bf35deb4225e582" title="omc_ErrorExt_getNumError\lMessages" alt="" coords="1259,23,1441,65"/>
+<area shape="rect" id="node8" href="$d1/d40/boot_2build_2_error_ext_8h.html#a1206137921767ad0e49abe96adf7b5e3" title="ErrorImpl__getNumErrorMessages" alt="" coords="1489,31,1712,57"/>
+</map>

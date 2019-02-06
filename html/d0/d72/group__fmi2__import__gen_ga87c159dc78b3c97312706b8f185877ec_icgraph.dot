@@ -1,0 +1,11 @@
+digraph "fmi2_import_get_model_identifier_ME"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node144 [label="fmi2_import_get_model\l_identifier_ME",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node144 -> Node145 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node145 [label="fmi2_import_create\l_dllfmu",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d22/group__fmi2__import__capi__const__destroy.html#gada19e6b89423b688e0479a475d6cbf19",tooltip="Create a C-API struct. The C-API struct is a placeholder for the FMI DLL functions. "];
+  Node144 -> Node146 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node146 [label="FMIImpl__initializeFMI2Import",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d24/_f_m_i_impl_8c.html#aa232a019eadc7bda9f5bbf66fb274e7c"];
+}

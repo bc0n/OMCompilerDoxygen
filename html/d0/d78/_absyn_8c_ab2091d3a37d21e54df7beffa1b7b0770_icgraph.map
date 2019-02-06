@@ -1,0 +1,11 @@
+<map id="omc_Absyn_componentName" name="omc_Absyn_componentName">
+<area shape="rect" id="node2" href="$db/d73/_interactive_8c.html#abe124a8c98f9b303f13ec9adfdbc8bb8" title="omc_Interactive_setComponent\lDimensionsInCompitems" alt="" coords="256,39,463,80"/>
+<area shape="rect" id="node4" href="$d1/de1/_interactive_8h.html#a1c7f6af8d5f93d38327e18f013e158fd" title="omc_Interactive_getComponent\lInClass" alt="" coords="256,136,463,177"/>
+<area shape="rect" id="node7" href="$db/d73/_interactive_8c.html#a7bd438ac0033d1cd177cf7dc52a4e844" title="omc_Interactive_setComponent\lSubmodifierInCompitems" alt="" coords="256,205,463,247"/>
+<area shape="rect" id="node9" href="$db/d73/_interactive_8c.html#a891f00123fa62df0e31d88d9385e3b44" title="omc_Interactive_clearComponent\lModifiersInCompitems" alt="" coords="251,277,468,319"/>
+<area shape="rect" id="node3" href="$db/d73/_interactive_8c.html#a2d1cf7543efdd8f0be884237b44b9958" title="boxptr_Interactive\l_setComponentDimensionsInCompitems" alt="" coords="516,5,777,47"/>
+<area shape="rect" id="node5" href="$d1/de1/_interactive_8h.html#aeca97de653c310c344e6fc63560af597" title="omc_Interactive_getComponent\lBinding" alt="" coords="543,71,750,112"/>
+<area shape="rect" id="node6" href="$d1/de1/_interactive_8h.html#a2f93d4f1bfcf8ceba2f23d1813d5e12a" title="omc_Interactive_getComponent\lModifierValue" alt="" coords="543,136,750,177"/>
+<area shape="rect" id="node8" href="$db/d73/_interactive_8c.html#a12c37b10946c8d2c8e36793cb7f2f5a1" title="boxptr_Interactive\l_setComponentSubmodifierIn\lCompitems" alt="" coords="549,202,744,258"/>
+<area shape="rect" id="node10" href="$db/d73/_interactive_8c.html#a1a67a1196c3ac8d7480767037c70ba4a" title="boxptr_Interactive\l_clearComponentModifiersIn\lCompitems" alt="" coords="553,282,741,338"/>
+</map>

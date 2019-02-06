@@ -1,0 +1,13 @@
+<map id="UMF_free" name="UMF_free">
+<area shape="rect" id="node2" href="$d8/d9b/umfpack__free__numeric_8c.html#a4c8139d092d7854c757844b497a9eeec" title="UMFPACK_free_numeric" alt="" coords="141,5,312,32"/>
+<area shape="rect" id="node4" href="$d8/d03/umfpack__numeric_8c.html#aca07d6759a149fe812ad02f0fbb82787" title="free_work" alt="" coords="464,5,543,32"/>
+<area shape="rect" id="node7" href="$d1/d21/umfpack__free__symbolic_8c.html#a7192612b20d95fa8319aaad81b410829" title="UMFPACK_free_symbolic" alt="" coords="139,107,315,133"/>
+<area shape="rect" id="node10" href="$dc/d24/umfpack__report__numeric_8c.html#ac45428148bbc51f764b0648baffe6358" title="UMFPACK_report_numeric" alt="" coords="136,157,317,184"/>
+<area shape="rect" id="node11" href="$df/dba/umfpack__report__perm_8c.html#a0ca90827c946a0f84a2d966e308774d1" title="UMFPACK_report_perm" alt="" coords="145,208,309,235"/>
+<area shape="rect" id="node12" href="$d4/d99/umfpack__report__symbolic_8c.html#a8b4b261a2ea0d7fb089afae0badaca1f" title="UMFPACK_report_symbolic" alt="" coords="133,259,320,285"/>
+<area shape="rect" id="node3" href="$d8/d03/umfpack__numeric_8c.html#a8e7ddc8ca95bf3b1264d90fe18c8a405" title="error" alt="" coords="368,5,416,32"/>
+<area shape="rect" id="node5" href="$d8/d03/umfpack__numeric_8c.html#aea025aeba9087cbd24619241e3b38419" title="work_alloc" alt="" coords="591,5,675,32"/>
+<area shape="rect" id="node6" href="$d8/d03/umfpack__numeric_8c.html#a4529ca42cc469845b6e547fbb92dca84" title="numeric_alloc" alt="" coords="723,5,825,32"/>
+<area shape="rect" id="node8" href="$d5/d0e/umfpack__qsymbolic_8c.html#af1f2a741e3caf612832eaa0afeea8982" title="error" alt="" coords="368,107,416,133"/>
+<area shape="rect" id="node9" href="$d5/d0e/umfpack__qsymbolic_8c.html#a2fdf73c6629a79cca4287c39d1de3fbc" title="free_work" alt="" coords="464,107,543,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="fmi2_import_get_discrete_states_list" name="fmi2_import_get_discrete_states_list">
+<area shape="rect" id="node2" href="$d3/df2/fmi2__import_8c.html#a8081f28cd4f12875a98a03a4172dafe4" title="fmi2_import_check_has_FMU" alt="" coords="221,5,417,32"/>
+<area shape="rect" id="node4" href="$d3/df2/fmi2__import_8c.html#a642361f182b34d9bd8afd1c778fd8897" title="fmi2_import_vector\l_to_varlist" alt="" coords="253,57,386,98"/>
+<area shape="rect" id="node7" href="$de/d1e/group__fmi2__xml__gen.html#ga095552336ae1818a8de0f18e36e94275" title="Get the model structure pointer. NULL pointer means there was no information present in the XML..." alt="" coords="248,122,391,163"/>
+<area shape="rect" id="node3" href="$d6/dac/group__jm__callbacks.html#gada5096ac90f8adc61a90b76597c4ae05" title="Send a error message to the logger function. See jm_log() for details. " alt="" coords="519,5,612,32"/>
+<area shape="rect" id="node5" href="$df/dae/group__fmi2__import__varlist.html#ga2b7fa3edea0cdc7bcb2c52a6887be9e2" title="Allocate an empty list. " alt="" coords="465,64,665,91"/>
+<area shape="rect" id="node6" href="$df/dae/group__fmi2__import__varlist.html#ga1dcb75553b4e66d962f25f6472df602a" title="Free a variable list. Note that variable lists are allocated dynamically and must be freed when not n..." alt="" coords="713,64,908,91"/>
+</map>

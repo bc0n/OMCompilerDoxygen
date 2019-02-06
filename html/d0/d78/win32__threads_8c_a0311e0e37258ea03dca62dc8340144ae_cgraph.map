@@ -1,0 +1,15 @@
+<map id="GC_do_blocking_inner" name="GC_do_blocking_inner">
+<area shape="rect" id="node2" href="$dd/d79/gc__priv_8h.html#afc0163a408c2a2d0f1f9c470a5438f2d" title="GC_save_regs_in_stack" alt="" coords="207,5,372,32"/>
+<area shape="rect" id="node3" href="$d0/d78/win32__threads_8c.html#a75c620883a592872e9338f232b94ba6f" title="GC_lookup_thread_inner" alt="" coords="207,56,372,83"/>
+<area shape="rect" id="node13" href="$d9/d8b/gcj__mlc_8c.html#a60f0e6ff7ebbdbc61041da9f189ba473" title="UNLOCK" alt="" coords="250,107,329,133"/>
+<area shape="rect" id="node14" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#a233015def2a1752a7feb7c81d34f89e6" title="GC_noop1" alt="" coords="247,157,331,184"/>
+<area shape="rect" id="node4" href="$d0/d78/win32__threads_8c.html#a0f0317da582c76761bffbafd4001ac3d" title="GC_get_max_thread_index" alt="" coords="420,31,600,57"/>
+<area shape="rect" id="node5" href="$de/d97/generalize-small_8h.html#a552b5194d8f47ddbcefed8530727b73b" title="AO_load_acquire" alt="" coords="449,81,571,108"/>
+<area shape="rect" id="node6" href="$de/d97/generalize-small_8h.html#ad40005bf02bced359697864d34ec1a4c" title="AO_load" alt="" coords="659,31,731,57"/>
+<area shape="rect" id="node8" href="$d5/d3a/generalize_8h.html#afe3a6778eacc82252ba138fc9a157b04" title="AO_nop_full" alt="" coords="648,107,741,133"/>
+<area shape="rect" id="node7" href="$d0/d4c/gc__atomic__ops_8h.html#ac44fca25bf925dc938812ae00a336926" title="AO_compare_and_swap" alt="" coords="793,5,957,32"/>
+<area shape="rect" id="node9" href="$d7/d6b/ipoma-dummy_8f.html#a14e68597ab81208552434ccd2a9e8f4f" title="dummy" alt="" coords="843,56,908,83"/>
+<area shape="rect" id="node10" href="$d5/d3a/generalize_8h.html#a9f485bd63ce5c6a017ec241906e2f651" title="AO_test_and_set_full" alt="" coords="802,107,949,133"/>
+<area shape="rect" id="node11" href="$d5/d3a/generalize_8h.html#a0af1bdd53473eb43906a057efe883f6d" title="AO_test_and_set_acquire" alt="" coords="789,157,961,184"/>
+<area shape="rect" id="node12" href="$d5/d3a/generalize_8h.html#a8ec1c2583e26c57a7b4d17f239fa41e8" title="AO_test_and_set" alt="" coords="814,208,937,235"/>
+</map>

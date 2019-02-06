@@ -1,0 +1,13 @@
+<map id="GC_start_rtn_prepare_thread" name="GC_start_rtn_prepare_thread">
+<area shape="rect" id="node2" href="$dd/d79/gc__priv_8h.html#ada843fec7ffa10957a47951e0691f73b" title="GC_log_printf" alt="" coords="229,5,331,32"/>
+<area shape="rect" id="node3" href="$d6/d7c/pthread__support_8c.html#af8bf377d419cab6da54e4fd5ededdd89" title="GC_register_my_thread\l_inner" alt="" coords="200,57,360,98"/>
+<area shape="rect" id="node9" href="$d6/d02/thread__local__alloc_8h.html#a98f0458ad364e7b5a6405665e3fa4a25" title="GC_init_thread_local" alt="" coords="209,123,351,149"/>
+<area shape="rect" id="node10" href="$d9/d8b/gcj__mlc_8c.html#a60f0e6ff7ebbdbc61041da9f189ba473" title="UNLOCK" alt="" coords="241,173,319,200"/>
+<area shape="rect" id="node11" href="$d0/db9/darwin__semaphore_8h.html#ae120138c3a826af34586c320642094b3" title="sem_post" alt="" coords="241,224,319,251"/>
+<area shape="rect" id="node4" href="$d6/d7c/pthread__support_8c.html#a18e542992bc965bd13f4282ff1f0c50a" title="GC_new_thread" alt="" coords="431,13,547,40"/>
+<area shape="rect" id="node5" href="$d6/d7c/pthread__support_8c.html#ac293993b6525e9da55b0dab7cd48b1e2" title="GC_record_stack_base" alt="" coords="410,64,569,91"/>
+<area shape="rect" id="node6" href="$d0/d7e/pthread__support_8h.html#ad0334769d63958eeb45607212d48121b" title="GC_unblock_gc_signals" alt="" coords="408,115,571,141"/>
+<area shape="rect" id="node7" href="$d6/d7c/pthread__support_8c.html#a867f4facb49996abbbdbada4463eaf7a" title="pthread_sigmask" alt="" coords="619,115,740,141"/>
+<area shape="rect" id="node8" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#a757c725e51b3c0df96860d67fffaed91" title="GC_get_suspend_signal" alt="" coords="788,115,952,141"/>
+<area shape="rect" id="node12" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="466,224,513,251"/>
+</map>

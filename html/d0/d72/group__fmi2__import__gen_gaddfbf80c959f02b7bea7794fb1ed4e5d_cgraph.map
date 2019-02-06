@@ -1,0 +1,5 @@
+<map id="fmi2_import_get_model_name" name="fmi2_import_get_model_name">
+<area shape="rect" id="node2" href="$d3/df2/fmi2__import_8c.html#a8081f28cd4f12875a98a03a4172dafe4" title="fmi2_import_check_has_FMU" alt="" coords="249,5,445,32"/>
+<area shape="rect" id="node4" href="$de/d1e/group__fmi2__xml__gen.html#gaa7566ac31dc4475a8e62dda03419178a" title="fmi2_xml_get_model_name" alt="" coords="257,56,438,83"/>
+<area shape="rect" id="node3" href="$d6/dac/group__jm__callbacks.html#gada5096ac90f8adc61a90b76597c4ae05" title="Send a error message to the logger function. See jm_log() for details. " alt="" coords="493,5,587,32"/>
+</map>
