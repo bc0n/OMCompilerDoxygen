@@ -1,0 +1,11 @@
+digraph "omc_Patternm_makeTupleFromMetaTuple"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node4535 [label="omc_Patternm_makeTupleFrom\lMetaTuple",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4535 -> Node4536 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4536 [label="omc_Patternm_elabResultExp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d09/_patternm_8c.html#a4f54014af543f7eeac8874b993c0992d"];
+  Node4536 -> Node4537 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4537 [label="boxptr_Patternm_elabResultExp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d09/_patternm_8c.html#a7670fb18f40b92d14194aa57ef154e42"];
+}

@@ -1,0 +1,6 @@
+<map id="omc_Patternm_removeWildPatternColumnsFromMatrix" name="omc_Patternm_removeWildPatternColumnsFromMatrix">
+<area shape="rect" id="node2" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a81001ba45c298ade27540edd2589777c" title="listReverse" alt="" coords="525,5,613,32"/>
+<area shape="rect" id="node3" href="$d0/d09/_patternm_8c.html#a63f19c07f28fca9ee45be207ad33ee8e" title="omc_Patternm_allPatterns\lAlwaysMatch" alt="" coords="279,23,455,65"/>
+<area shape="rect" id="node4" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a47de3c80458e3f7efbe9c70194d15b8d" title="omc_List_stripLast" alt="" coords="301,89,433,116"/>
+<area shape="rect" id="node5" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#ad7cc5a28ee76a604bbbddfd643761734" title="listReverseInPlace" alt="" coords="503,89,635,116"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="omc_Patternm_useLocalCref" name="omc_Patternm_useLocalCref">
+<area shape="rect" id="node2" href="$d0/d09/_patternm_8c.html#afbec7e0961e24139740fe56542c58dd5" title="omc_Patternm_useLocalCref\lHelper" alt="" coords="263,5,454,47"/>
+<area shape="rect" id="node6" href="$d1/d5c/_avl_set_string_8c.html#af01c39ff009ddfb4a5b358dfd85af943" title="omc_AvlSetString_add" alt="" coords="556,67,711,94"/>
+<area shape="rect" id="node7" href="$d0/d09/_patternm_8c.html#a1d748dcac6df86fe1bf435d4b293f9cb" title="omc_Patternm_traversePattern" alt="" coords="793,147,996,174"/>
+<area shape="rect" id="node8" href="$d0/d09/_patternm_8c.html#a0590c8baf89fd3c9c2045d779c69244c" title="omc_Patternm_useCasesLocalCref" alt="" coords="244,173,473,199"/>
+<area shape="rect" id="node3" href="$d0/d09/_patternm_8c.html#a1ce4cb7161b432be816b2878687488c7" title="omc_Patternm_useLocalCrefSubs" alt="" coords="523,13,744,39"/>
+<area shape="rect" id="node4" href="$d1/d08/_expression_8c.html#aae2ed5a7c0c9b70b6c66638bc345357d" title="omc_Expression_traverseExp\lBottomUp" alt="" coords="797,5,993,47"/>
+<area shape="rect" id="node5" href="$d1/d08/_expression_8c.html#add3db321c96f54919494182b71eb10c7" title="omc_Expression_traverseExpClk" alt="" coords="1044,13,1260,39"/>
+<area shape="rect" id="node9" href="$d0/d09/_patternm_8c.html#a3a3370c89d09977d41078f956b4dab5d" title="omc_Patternm_traversePatternList" alt="" coords="521,173,745,199"/>
+</map>
