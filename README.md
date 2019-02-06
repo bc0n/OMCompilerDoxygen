@@ -1,8 +1,7 @@
 # OMCompilerDoxygen
-Doxygen with include graphs for the [OpenModelica Compiler](https://github.com/OpenModelica/OMCompiler/).
-OMCompiler built on linux x64 from a configuration similar to [OMCompilerDocker](https://github.com/bc0n/OMCompilerDocker); as configured, generating the documentation takes ~12hr.
+I haven't found a good description of the [OpenModelica Compiler](https://github.com/OpenModelica/OMCompiler/) source design, but the compiler is bootstrapped, able to self-compile from the originating Modelica sources.
+While successful, this produces an excessive amount of #defined code and a sprawling project.
+The best place to start is with the OpenModelica Compiler C API at [OMC.h](https://github.com/OpenModelica/OMCompiler/blob/master/SimulationRuntime/cpp/omcCAPI/include/OMC.h).
 
-Browse from [index.html](html/index.html).
-
-# OMCompiler
-I haven't found a good description to the OMCompiler source design, but the compiler is bootstrapped, able to self-compile from the originating Modelica sources.  While successful, this produces an excessive amount of #defined code.  The best place to start is with the OpenModelica Compiler C API at [OMC.h](html/d6/d75/_o_m_c_8h.html).
+This Doxygen configuration builds documentation with include graphs, to give some sense of the class relationships.
+OMCompiler is a large project and it takes ~12hr to generate the include graphs, doubtless the config could be improved.
