@@ -1,0 +1,6 @@
+<map id="zmq::io_thread_t::get_poller" name="zmq::io_thread_t::get_poller">
+<area shape="rect" id="node2" href="$de/da2/classzmq_1_1io__object__t.html#a76acb21c6ea229559c4404ef594e5b16" title="zmq::io_object_t::plug" alt="" coords="199,78,349,105"/>
+<area shape="rect" id="node3" href="$de/da2/classzmq_1_1io__object__t.html#a3ded9e1b9e8fea6c0f8491269c6555ce" title="zmq::io_object_t::io\l_object_t" alt="" coords="411,5,547,47"/>
+<area shape="rect" id="node4" href="$dc/df4/classzmq_1_1stream__engine__t.html#a0b3cc55088045c4cf9cf298d38dc91c7" title="zmq::stream_engine\l_t::plug" alt="" coords="409,71,549,112"/>
+<area shape="rect" id="node5" href="$d4/d63/classzmq_1_1udp__engine__t.html#a9355751a37b730e3861cd31f831e06c4" title="zmq::udp_engine_t::plug" alt="" coords="397,137,561,163"/>
+</map>

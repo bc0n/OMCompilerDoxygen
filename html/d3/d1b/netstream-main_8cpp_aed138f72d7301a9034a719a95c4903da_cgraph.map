@@ -1,0 +1,18 @@
+<map id="e" name="e">
+<area shape="rect" id="node2" href="$d4/df1/classnetstream_1_1_net_stream_sender.html#af4bf8f52ff00ceab000840351abf85f2" title="netstream::NetStreamSender\l::addNode" alt="" coords="92,214,284,255"/>
+<area shape="rect" id="node3" href="$d4/df1/classnetstream_1_1_net_stream_sender.html#ae220089713339b55993e8e6598334d44" title="netstream::NetStreamSender\l::_sendEvent" alt="" coords="332,214,524,255"/>
+<area shape="rect" id="node4" href="$d4/df7/classnetstream_1_1_net_stream_socket.html#a645d50725dd457bf27e4cefb7e368e97" title="netstream::NetStreamSocket\l::sendExact" alt="" coords="572,181,764,222"/>
+<area shape="rect" id="node17" href="$dc/dcc/classnetstream_1_1_net_stream_socket_exception.html#af809dc66e9a8672ec598b342dd490740" title="netstream::NetStreamSocket\lException::what" alt="" coords="572,246,764,287"/>
+<area shape="rect" id="node5" href="$db/d34/_k_i_n_set_options_8m.html#a5e0258c639a26425f868c8129a9a0329" title="length" alt="" coords="896,5,953,32"/>
+<area shape="rect" id="node6" href="$dc/d34/classnetstream_1_1_net_stream_storage.html#a6f14c29087e0722a57a0d8058a9391e4" title="netstream::NetStreamStorage\l::writeInt" alt="" coords="827,57,1023,98"/>
+<area shape="rect" id="node7" href="$dc/d34/classnetstream_1_1_net_stream_storage.html#a67ce714bd3eee14e85357e58d8ca6608" title="netstream::NetStreamStorage\l::begin" alt="" coords="827,122,1023,163"/>
+<area shape="rect" id="node8" href="$dc/d34/classnetstream_1_1_net_stream_storage.html#adc9c6116c6cd2b7f0ee8e5801b03dea7" title="netstream::NetStreamStorage::end" alt="" coords="812,188,1037,215"/>
+<area shape="rect" id="node9" href="$d4/df7/classnetstream_1_1_net_stream_socket.html#a4a2ddabf10d0325def678e6923c820bb" title="netstream::NetStreamSocket\l::send" alt="" coords="1569,243,1761,285"/>
+<area shape="rect" id="node10" href="$d4/df7/classnetstream_1_1_net_stream_socket.html#a0b9924cb5ab5053ae390e41a54c802de" title="netstream::NetStreamSocket\l::receive" alt="" coords="829,314,1021,355"/>
+<area shape="rect" id="node11" href="$d4/df7/classnetstream_1_1_net_stream_socket.html#a254e543232cdcf33db72457ac0d0bdf0" title="Connects to host_:port_. " alt="" coords="1085,314,1277,355"/>
+<area shape="rect" id="node13" href="$d4/df7/classnetstream_1_1_net_stream_socket.html#ab327bc27cc7b8dd2c1d9bb9a883ed36a" title="netstream::NetStreamSocket\l::receiveExact" alt="" coords="1085,379,1277,421"/>
+<area shape="rect" id="node12" href="$d4/df7/classnetstream_1_1_net_stream_socket.html#a67fe3753381e830320c2a0bee78a56e0" title="netstream::NetStreamSocket\l::close" alt="" coords="1327,314,1519,355"/>
+<area shape="rect" id="node14" href="$dc/d34/classnetstream_1_1_net_stream_storage.html#ad86e4d76a5a417508175d49153cb3699" title="netstream::NetStreamStorage\l::readInt" alt="" coords="1325,379,1521,421"/>
+<area shape="rect" id="node15" href="$d4/df7/classnetstream_1_1_net_stream_socket.html#ab31e945f7e39aaf411fd82d78ad872f6" title="netstream::NetStreamSocket\l::has_client_connection" alt="" coords="1327,445,1519,486"/>
+<area shape="rect" id="node16" href="$d4/df7/classnetstream_1_1_net_stream_socket.html#a4b562058823e26f68d3686f3042fbc54" title="netstream::NetStreamSocket\l::is_blocking" alt="" coords="1569,445,1761,486"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="GC_invoke_finalizers" name="GC_invoke_finalizers">
+<area shape="rect" id="node2" href="$d3/d1e/finalize_8c.html#a652fee6be5e9011d3b1a86941584170c" title="GC_finalize_all" alt="" coords="217,5,327,32"/>
+<area shape="rect" id="node5" href="$dd/d79/gc__priv_8h.html#a9a3b9b6bd4f97511d12a93222ab61049" title="GC_notify_or_invoke\l_finalizers" alt="" coords="200,57,344,98"/>
+<area shape="rect" id="node6" href="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a668cddfb86d2c85b386a9e873f0e7e3b" title="check_heap_stats" alt="" coords="208,123,336,149"/>
+<area shape="rect" id="node3" href="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a1441c77c68f4a3023b01ac675442c2da" title="WinMain" alt="" coords="392,47,465,73"/>
+<area shape="rect" id="node4" href="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a99b2e9cc4d3b5790643181ca7da1ba02" title="thr_window" alt="" coords="513,97,601,124"/>
+<area shape="rect" id="node7" href="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a1f3479a5eb21a215c63cfcd8876e3486" title="test" alt="" coords="407,97,451,124"/>
+<area shape="rect" id="node8" href="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="403,148,454,175"/>
+</map>

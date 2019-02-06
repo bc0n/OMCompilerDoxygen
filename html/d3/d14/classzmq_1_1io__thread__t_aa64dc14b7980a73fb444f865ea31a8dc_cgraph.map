@@ -1,0 +1,5 @@
+<map id="zmq::io_thread_t::stop" name="zmq::io_thread_t::stop">
+<area shape="rect" id="node2" href="$df/db7/classzmq_1_1object__t.html#a13fb25d46a714ae5efb51e25ad3fac38" title="zmq::object_t::send_stop" alt="" coords="205,5,375,32"/>
+<area shape="rect" id="node3" href="$d5/d71/classzmq_1_1ctx__t.html#a78f3ab6a392855392785c50d94d7eeee" title="zmq::ctx_t::send_command" alt="" coords="423,5,607,32"/>
+<area shape="rect" id="node4" href="$d1/d1a/classzmq_1_1i__mailbox.html#a8f286c7033043078510e781465cf673b" title="zmq::i_mailbox::send" alt="" coords="655,5,801,32"/>
+</map>

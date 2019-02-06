@@ -1,0 +1,12 @@
+<map id="zmq::devpoll_t::set_pollout" name="zmq::devpoll_t::set_pollout">
+<area shape="rect" id="node2" href="$de/da2/classzmq_1_1io__object__t.html#a58a130c19aeec9529c67cde2e980fd5b" title="zmq::io_object_t::set\l_pollout" alt="" coords="187,195,331,237"/>
+<area shape="rect" id="node3" href="$d2/df4/classzmq_1_1pgm__sender__t.html#ab49097cecef4b17855568ba744571334" title="zmq::pgm_sender_t::plug" alt="" coords="379,5,548,32"/>
+<area shape="rect" id="node4" href="$d2/df4/classzmq_1_1pgm__sender__t.html#a53fadaff65b57d305d41f6dcfafa1625" title="zmq::pgm_sender_t::\lrestart_output" alt="" coords="596,49,741,90"/>
+<area shape="rect" id="node5" href="$d2/df4/classzmq_1_1pgm__sender__t.html#abbf17574c7f2c80e3d733e32f9270ba6" title="zmq::pgm_sender_t::\lout_event" alt="" coords="391,107,536,149"/>
+<area shape="rect" id="node6" href="$d2/df4/classzmq_1_1pgm__sender__t.html#ad0ea6c58b0cb8d3fdf7f49e0c0db7a8a" title="zmq::pgm_sender_t::\ltimer_event" alt="" coords="596,166,741,207"/>
+<area shape="rect" id="node8" href="$d4/db4/classzmq_1_1socks__connecter__t.html#a0c674bdb7a75ad447ec6641875bb4491" title="zmq::socks_connecter\l_t::~socks_connecter_t" alt="" coords="384,225,543,266"/>
+<area shape="rect" id="node9" href="$dc/df4/classzmq_1_1stream__engine__t.html#abba7a9af365b09b1063b2a12ed4cc8af" title="zmq::stream_engine\l_t::restart_output" alt="" coords="393,290,533,331"/>
+<area shape="rect" id="node10" href="$d4/d63/classzmq_1_1udp__engine__t.html#a9355751a37b730e3861cd31f831e06c4" title="zmq::udp_engine_t::plug" alt="" coords="381,356,545,383"/>
+<area shape="rect" id="node11" href="$d4/d63/classzmq_1_1udp__engine__t.html#a1b546b34f5ac169a186f03653ca9d1eb" title="zmq::udp_engine_t::\lrestart_output" alt="" coords="393,407,533,449"/>
+<area shape="rect" id="node7" href="$d2/df4/classzmq_1_1pgm__sender__t.html#acfb592e0ffbe71ba7c8174b5ef392613" title="zmq::pgm_sender_t::\lzap_msg_available" alt="" coords="789,137,935,178"/>
+</map>

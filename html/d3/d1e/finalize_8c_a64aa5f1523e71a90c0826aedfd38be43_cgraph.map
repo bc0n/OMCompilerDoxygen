@@ -1,0 +1,6 @@
+<map id="GC_invoke_finalizers" name="GC_invoke_finalizers">
+<area shape="rect" id="node2" href="$d3/d1e/finalize_8c.html#abd0cfea0a537c9cf7309ce461a201db4" title="GC_should_invoke_finalizers" alt="" coords="200,5,391,32"/>
+<area shape="rect" id="node5" href="$d9/d8b/gcj__mlc_8c.html#a60f0e6ff7ebbdbc61041da9f189ba473" title="UNLOCK" alt="" coords="256,56,335,83"/>
+<area shape="rect" id="node3" href="$de/d97/generalize-small_8h.html#ad40005bf02bced359697864d34ec1a4c" title="AO_load" alt="" coords="439,5,511,32"/>
+<area shape="rect" id="node4" href="$d0/d4c/gc__atomic__ops_8h.html#ac44fca25bf925dc938812ae00a336926" title="AO_compare_and_swap" alt="" coords="559,5,723,32"/>
+</map>

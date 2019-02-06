@@ -1,0 +1,4 @@
+<map id="zmq::devpoll_t::stop" name="zmq::devpoll_t::stop">
+<area shape="rect" id="node2" href="$d3/d14/classzmq_1_1io__thread__t.html#ac268a27a58732bca3e6348e007f40b04" title="zmq::io_thread_t::process_stop" alt="" coords="193,5,399,32"/>
+<area shape="rect" id="node3" href="$db/d85/classzmq_1_1reaper__t.html#ab422eb720d77d5722c1181f345f4fdca" title="zmq::reaper_t::timer\l_event" alt="" coords="227,57,365,98"/>
+</map>

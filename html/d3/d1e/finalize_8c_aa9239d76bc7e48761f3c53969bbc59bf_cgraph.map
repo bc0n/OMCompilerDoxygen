@@ -1,0 +1,6 @@
+<map id="GC_process_togglerefs" name="GC_process_togglerefs">
+<area shape="rect" id="node2" href="$d9/d8b/gcj__mlc_8c.html#a32bcc58af257831ed343a7969fe5f7d0" title="GC_dirty" alt="" coords="243,5,317,32"/>
+<area shape="rect" id="node3" href="$d3/d1e/finalize_8c.html#ad08f29bfcd6a376a69cedd2f97586baa" title="GC_normal_finalize\l_mark_proc" alt="" coords="212,57,348,98"/>
+<area shape="rect" id="node4" href="$d8/d2e/gc__pmark_8h.html#a3bf1b3df20d6725c7b48570dc6334ae9" title="GC_push_obj" alt="" coords="396,64,497,91"/>
+<area shape="rect" id="node5" href="$d8/d2e/gc__pmark_8h.html#ac7235e2e6e7dee5b8d82acb48bbf7c47" title="GC_signal_mark_stack\l_overflow" alt="" coords="545,57,704,98"/>
+</map>

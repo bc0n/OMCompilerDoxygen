@@ -1,0 +1,8 @@
+<map id="flat_modelica_parser::component_clause" name="flat_modelica_parser::component_clause">
+<area shape="rect" id="node2" href="$d3/d1f/classflat__modelica__parser.html#a31818193bd0698f52704723d05bf0365" title="flat_modelica_parser\l::ANTLR_USE_NAMESPACE" alt="" coords="577,92,779,133"/>
+<area shape="rect" id="node4" href="$d3/d1f/classflat__modelica__parser.html#ac15aae3b2c3265c71cd5132a9e916686" title="flat_modelica_parser\l::type_prefix" alt="" coords="387,33,529,74"/>
+<area shape="rect" id="node5" href="$d3/d1f/classflat__modelica__parser.html#a74aa8b0bb30f33d6fa71275a76dab2d8" title="flat_modelica_parser\l::type_specifier" alt="" coords="196,92,339,133"/>
+<area shape="rect" id="node7" href="$d3/d1f/classflat__modelica__parser.html#a532a2c378b6ce209d9134adb1ee0eb4d" title="flat_modelica_parser\l::array_subscripts" alt="" coords="196,182,339,224"/>
+<area shape="rect" id="node3" href="$db/d21/flat__modelica__parser_8hpp.html#a3cc67195fc4368e8020566f42e07dc13" title="ANTLR_USE_NAMESPACE" alt="" coords="827,99,1020,126"/>
+<area shape="rect" id="node6" href="$d3/d1f/classflat__modelica__parser.html#a10bda66f67c44f39ea1463831f305c5b" title="flat_modelica_parser\l::name_path" alt="" coords="387,150,529,192"/>
+</map>

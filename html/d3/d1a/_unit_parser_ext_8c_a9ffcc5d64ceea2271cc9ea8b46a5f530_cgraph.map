@@ -1,0 +1,12 @@
+<map id="omc_UnitParserExt_addDerivedWeight" name="omc_UnitParserExt_addDerivedWeight">
+<area shape="rect" id="node2" href="$d6/d92/_unit_parser_ext_8h.html#a6eff6ed989c2e4cb195c4900d4d36ad2" title="UnitParserExtImpl_\l_addDerivedWeight" alt="" coords="263,74,399,115"/>
+<area shape="rect" id="node3" href="$d4/d0c/class_unit_parser.html#afd072f2b693cc424477d98bc5607fb00" title="UnitParser::addDerived" alt="" coords="447,81,605,108"/>
+<area shape="rect" id="node4" href="$dd/d6f/namespace_general_script_support.html#a22d3dca193e2e0d990757e8f758a5c02" title="GeneralScriptSupport.u" alt="" coords="653,31,811,57"/>
+<area shape="rect" id="node7" href="$de/db0/struct_unit_res.html#a0a20fff09982964a9c3a942db02fb3e1" title="UnitRes::Ok" alt="" coords="685,81,779,108"/>
+<area shape="rect" id="node8" href="$da/db7/class_unit.html#a7cde29c62ac9b1293f6760f03986e384" title="Unit::equalNoWeight" alt="" coords="661,132,803,159"/>
+<area shape="rect" id="node5" href="$dd/d6f/namespace_general_script_support.html#a0923113f2ed18150f5d9be71ba73986b" title="GeneralScriptSupport.b" alt="" coords="859,5,1016,32"/>
+<area shape="rect" id="node6" href="$dd/d6f/namespace_general_script_support.html#a0b29205f19d0441296f27f7fb76ba7ee" title="GeneralScriptSupport.s" alt="" coords="859,56,1016,83"/>
+<area shape="rect" id="node9" href="$db/dd0/class_rational.html#af6cea5d22ffb706aced332294fd26325" title="Rational::equal" alt="" coords="883,132,992,159"/>
+<area shape="rect" id="node10" href="$d9/d97/tweetnacl_8c.html#a476ab31266e769adc731ca48d5a8c0f2" title="add" alt="" coords="1064,107,1107,133"/>
+<area shape="rect" id="node11" href="$d9/d61/gzappend_8c.html#aab2f4ce94c55eee75c730ef29348b822" title="gcd" alt="" coords="1064,157,1107,184"/>
+</map>

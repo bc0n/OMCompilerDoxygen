@@ -1,0 +1,12 @@
+<map id="zmq::io_thread_t::io_thread_t" name="zmq::io_thread_t::io_thread_t">
+<area shape="rect" id="node2" href="$d3/d1f/classzmq_1_1devpoll__t.html#a20886757f34ec352a90da1d2453d32ce" title="zmq::devpoll_t::add_fd" alt="" coords="191,59,345,85"/>
+<area shape="rect" id="node9" href="$d7/d58/classzmq_1_1mailbox__t.html#aee764978879c32b362f5bef03471a82e" title="zmq::mailbox_t::get_fd" alt="" coords="191,113,345,140"/>
+<area shape="rect" id="node11" href="$d3/d1f/classzmq_1_1devpoll__t.html#ad81040f5b41d698cf78365041405d77a" title="zmq::devpoll_t::set\l_pollin" alt="" coords="201,165,335,206"/>
+<area shape="rect" id="node3" href="$d1/d83/classzmq_1_1poller__base__t.html#a61455c93d9d53ffe68b4e176892459c1" title="zmq::poller_base_t\l::adjust_load" alt="" coords="405,49,537,90"/>
+<area shape="rect" id="node4" href="$d9/d23/classzmq_1_1atomic__counter__t.html#ab11988f84d9cb8a58a4be3929c3db01a" title="zmq::atomic_counter\l_t::add" alt="" coords="596,17,740,58"/>
+<area shape="rect" id="node8" href="$d9/d23/classzmq_1_1atomic__counter__t.html#a0d29a10e45fc702fce16907cab738acb" title="zmq::atomic_counter\l_t::sub" alt="" coords="596,82,740,123"/>
+<area shape="rect" id="node5" href="$d2/d3c/os__dep_8c.html#aaa5bed87c5f571a4f368f9f5c8ccbc13" title="__asm__" alt="" coords="825,5,899,32"/>
+<area shape="rect" id="node6" href="$d2/da1/classzmq_1_1mutex__t.html#a1b03f33ec230b53bc2711151664abe5e" title="zmq::mutex_t::lock" alt="" coords="795,56,929,83"/>
+<area shape="rect" id="node7" href="$d2/da1/classzmq_1_1mutex__t.html#a3ec7cc522005f9e9105c1f23f93e4d60" title="zmq::mutex_t::unlock" alt="" coords="788,107,936,133"/>
+<area shape="rect" id="node10" href="$d5/d51/classzmq_1_1signaler__t.html#add17d42bcccd9251fa285491fa4037f2" title="zmq::signaler_t::get_fd" alt="" coords="393,115,548,141"/>
+</map>

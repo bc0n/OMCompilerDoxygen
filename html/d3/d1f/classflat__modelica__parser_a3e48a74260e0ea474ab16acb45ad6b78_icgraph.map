@@ -1,0 +1,10 @@
+<map id="flat_modelica_parser::annotation" name="flat_modelica_parser::annotation">
+<area shape="rect" id="node2" href="$d3/d1f/classflat__modelica__parser.html#ad7b4db7f3f7b2f3980eeaa1a30002d62" title="flat_modelica_parser\l::comment" alt="" coords="210,71,353,112"/>
+<area shape="rect" id="node6" href="$d3/d1f/classflat__modelica__parser.html#a16b9bdf942f4a225dc71a78329edfa87" title="flat_modelica_parser\l::element_list" alt="" coords="210,136,353,177"/>
+<area shape="rect" id="node9" href="$d3/d1f/classflat__modelica__parser.html#add7148c6c8954da13155648bc2862be8" title="flat_modelica_parser\l::equation_annotation_list" alt="" coords="196,201,367,243"/>
+<area shape="rect" id="node3" href="$d3/d1f/classflat__modelica__parser.html#aad1d8b0fdcb8be342d80102d6ef594d0" title="flat_modelica_parser\l::component_declaration" alt="" coords="415,71,579,112"/>
+<area shape="rect" id="node4" href="$d3/d1f/classflat__modelica__parser.html#a7df9b11d040b60e5b510771508747ad4" title="flat_modelica_parser\l::component_list" alt="" coords="629,5,771,47"/>
+<area shape="rect" id="node5" href="$d3/d1f/classflat__modelica__parser.html#af6c5c90546ea01baedddb1ab3cf85beb" title="flat_modelica_parser\l::component_clause1" alt="" coords="627,71,773,112"/>
+<area shape="rect" id="node7" href="$d3/d1f/classflat__modelica__parser.html#a2501f477f2faf6b6fccebbc1f42645c4" title="flat_modelica_parser\l::composition" alt="" coords="425,136,568,177"/>
+<area shape="rect" id="node8" href="$d3/d1f/classflat__modelica__parser.html#a3f84c213222246748b920c694e5901f5" title="flat_modelica_parser\l::class_specifier" alt="" coords="629,136,771,177"/>
+</map>

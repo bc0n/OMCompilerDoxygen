@@ -1,0 +1,8 @@
+<map id="zmq::devpoll_t::reset_pollin" name="zmq::devpoll_t::reset_pollin">
+<area shape="rect" id="node2" href="$de/da2/classzmq_1_1io__object__t.html#a0a5133d60f91ebe5e617f5056f5c4a35" title="zmq::io_object_t::reset\l_pollin" alt="" coords="197,104,352,145"/>
+<area shape="rect" id="node3" href="$d8/d71/classzmq_1_1pgm__receiver__t.html#a25a6bf0b0c56a30129167fee3f8e6bb1" title="zmq::pgm_receiver_t\l::in_event" alt="" coords="407,71,551,112"/>
+<area shape="rect" id="node7" href="$d4/db4/classzmq_1_1socks__connecter__t.html#a0c674bdb7a75ad447ec6641875bb4491" title="zmq::socks_connecter\l_t::~socks_connecter_t" alt="" coords="400,136,559,177"/>
+<area shape="rect" id="node4" href="$d8/d71/classzmq_1_1pgm__receiver__t.html#a32d7ca3963412b979660d0ee6db5c69f" title="zmq::pgm_receiver_t\l::restart_input" alt="" coords="607,5,751,47"/>
+<area shape="rect" id="node5" href="$d8/d71/classzmq_1_1pgm__receiver__t.html#a5fafb000a2127709af16a312dfbaf153" title="zmq::pgm_receiver_t\l::timer_event" alt="" coords="607,71,751,112"/>
+<area shape="rect" id="node6" href="$d8/d71/classzmq_1_1pgm__receiver__t.html#a01cab1c17ffdae67569cd4f003c466f6" title="zmq::pgm_receiver_t\l::zap_msg_available" alt="" coords="799,100,943,141"/>
+</map>
