@@ -1,0 +1,5 @@
+<map id="Teuchos::Details::MpiReductionOp&lt; OrdinalType &gt;" name="Teuchos::Details::MpiReductionOp&lt; OrdinalType &gt;">
+<area shape="rect" id="node2" href="$da/d77/class_teuchos_1_1_details_1_1_mpi_reduction_op_base.html" title="Base class for an MPI&#45;compatible reduction operator. " alt="" coords="5,155,215,196"/>
+<area shape="rect" id="node3" href="$de/d8a/class_teuchos_1_1_describable.html" title="Base class for all objects that can describe themselves. " alt="" coords="35,80,185,107"/>
+<area shape="rect" id="node4" href="$df/d61/class_teuchos_1_1_labeled_object.html" title="Base class for objects that contain a std::string label. " alt="" coords="29,5,191,32"/>
+</map>

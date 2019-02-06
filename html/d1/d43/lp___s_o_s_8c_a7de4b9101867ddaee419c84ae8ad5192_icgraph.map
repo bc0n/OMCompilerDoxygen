@@ -1,0 +1,9 @@
+<map id="SOS_member_delete" name="SOS_member_delete">
+<area shape="rect" id="node2" href="$d2/d22/build_2include_2omc_2lpsolve_2lp__presolve_8h.html#ac6578072e7ff84d280fc05f680b90a3f" title="presolve_colremove" alt="" coords="212,107,351,133"/>
+<area shape="rect" id="node5" href="$d3/da5/lp__presolve_8c.html#afe23851dfda31715aa642bf989e12ffc" title="presolve_fixSOS1" alt="" coords="417,157,543,184"/>
+<area shape="rect" id="node7" href="$d3/da5/lp__presolve_8c.html#a59de989fa2e2b3a1c70900138341444c" title="presolve_redundantSOS" alt="" coords="200,208,363,235"/>
+<area shape="rect" id="node8" href="$db/d6f/build_2include_2omc_2lpsolve_2lp___s_o_s_8h.html#a7de4b9101867ddaee419c84ae8ad5192" title="SOS_member_delete" alt="" coords="208,283,355,309"/>
+<area shape="rect" id="node3" href="$d2/d22/build_2include_2omc_2lpsolve_2lp__presolve_8h.html#a0af83f2ddc82962e4531d33df40823b4" title="presolve_shrink" alt="" coords="423,5,537,32"/>
+<area shape="rect" id="node4" href="$d3/da5/lp__presolve_8c.html#a7844c56aa332fe22274fffac21b497b8" title="presolve_elimeq2" alt="" coords="597,107,720,133"/>
+<area shape="rect" id="node6" href="$d3/da5/lp__presolve_8c.html#a4f192a0462d482c119b3966df893497c" title="presolve_rowfixzero" alt="" coords="411,107,549,133"/>
+</map>

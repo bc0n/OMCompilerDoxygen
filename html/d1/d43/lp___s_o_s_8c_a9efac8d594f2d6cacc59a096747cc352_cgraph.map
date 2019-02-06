@@ -1,0 +1,13 @@
+<map id="SOS_set_marked" name="SOS_set_marked">
+<area shape="rect" id="node2" href="$d3/d63/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__report_8h.html#a44ef60e159dc1290b7da87301e244357" title="report" alt="" coords="775,20,829,46"/>
+<area shape="rect" id="node3" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#a78eedf6afcdb64e1d214482fcaa34499" title="is_int" alt="" coords="237,248,291,274"/>
+<area shape="rect" id="node4" href="$d1/d43/lp___s_o_s_8c.html#abbee2bf44988064d59d83c7d0a0431fa" title="SOS_is_member_of_type" alt="" coords="179,96,349,122"/>
+<area shape="rect" id="node7" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#ab3ddb3000059d0f1975540149e46effa" title="MYBOOL" alt="" coords="599,146,677,173"/>
+<area shape="rect" id="node10" href="$d1/d43/lp___s_o_s_8c.html#a95fb8e4ce406207601c2b180c531ddc6" title="SOS_member_index" alt="" coords="567,197,709,224"/>
+<area shape="rect" id="node12" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#a69156d5f55a6988edd90e9fce2546226" title="set_int" alt="" coords="233,298,295,325"/>
+<area shape="rect" id="node5" href="$d1/d43/lp___s_o_s_8c.html#af29195c41d6c8427efe024669c1310e6" title="SOS_get_type" alt="" coords="405,20,511,46"/>
+<area shape="rect" id="node6" href="$d1/d43/lp___s_o_s_8c.html#ac6d92d690a02d843c7cbd098a8c1b7c8" title="SOS_is_member" alt="" coords="397,96,519,122"/>
+<area shape="rect" id="node8" href="$d1/d43/lp___s_o_s_8c.html#ab1059c5b07145c9e49bee497380ca083" title="SOS_memberships" alt="" coords="571,96,705,122"/>
+<area shape="rect" id="node9" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#a6b52f2979542d3a29dc0eb78b5ecb30b" title="SOS_count" alt="" coords="757,96,847,122"/>
+<area shape="rect" id="node11" href="$d1/daa/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__utils_8h.html#a0f73f0fbd9ba7ed88022e713a6fe9f1b" title="searchFor" alt="" coords="762,197,842,224"/>
+</map>

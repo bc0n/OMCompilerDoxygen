@@ -1,0 +1,8 @@
+<map id="SOS_get_type" name="SOS_get_type">
+<area shape="rect" id="node2" href="$d3/da5/lp__presolve_8c.html#a7844c56aa332fe22274fffac21b497b8" title="presolve_elimeq2" alt="" coords="184,5,307,32"/>
+<area shape="rect" id="node3" href="$db/d6f/build_2include_2omc_2lpsolve_2lp___s_o_s_8h.html#a4fad3beabe29e3827310b19664da9395" title="delete_SOSrec" alt="" coords="190,56,301,83"/>
+<area shape="rect" id="node5" href="$db/d6f/build_2include_2omc_2lpsolve_2lp___s_o_s_8h.html#abbee2bf44988064d59d83c7d0a0431fa" title="SOS_is_member_of_type" alt="" coords="160,107,331,133"/>
+<area shape="rect" id="node7" href="$db/d6f/build_2include_2omc_2lpsolve_2lp___s_o_s_8h.html#afc4e66753b4bfa3a3dc697d5ce2d0f71" title="SOS_is_satisfied" alt="" coords="184,181,307,208"/>
+<area shape="rect" id="node4" href="$db/d6f/build_2include_2omc_2lpsolve_2lp___s_o_s_8h.html#a52a43826278b99185c9325578c2aefed" title="clean_SOSgroup" alt="" coords="381,44,501,71"/>
+<area shape="rect" id="node6" href="$db/d6f/build_2include_2omc_2lpsolve_2lp___s_o_s_8h.html#a9efac8d594f2d6cacc59a096747cc352" title="SOS_set_marked" alt="" coords="379,119,504,145"/>
+</map>

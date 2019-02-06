@@ -1,0 +1,8 @@
+digraph "3rdParty/SuiteSparse/UMFPACK/Include/umfpack_solve.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="3rdParty/SuiteSparse\l/UMFPACK/Include/umfpack\l_solve.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="3rdParty/SuiteSparse\l/UMFPACK/Include/umfpack.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d83/3rd_party_2_suite_sparse_2_u_m_f_p_a_c_k_2_include_2umfpack_8h.html"];
+}
