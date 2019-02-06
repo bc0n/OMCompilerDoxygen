@@ -1,0 +1,5 @@
+<map id="Belos::PseudoBlockStochasticCGIter::initializeCG" name="Belos::PseudoBlockStochasticCGIter::initializeCG">
+<area shape="rect" id="node2" href="$d2/da5/class_belos_1_1_pseudo_block_stochastic_c_g_iter.html#ad7eb1dbb9fdf676b33039eea182fae9d" title="Destructor. " alt="" coords="757,5,1012,47"/>
+<area shape="rect" id="node3" href="$d2/da5/class_belos_1_1_pseudo_block_stochastic_c_g_iter.html#a267c0c399720b7704a5468f80c34aef6" title="Initialize the solver with the initial vectors from the linear problem or random data. " alt="" coords="256,35,459,76"/>
+<area shape="rect" id="node4" href="$d2/da5/class_belos_1_1_pseudo_block_stochastic_c_g_iter.html#a9f7431b3178322809cb7516faf8dc62e" title="This method performs stochastic CG iterations on each linear system until the status test indicates t..." alt="" coords="507,35,709,76"/>
+</map>

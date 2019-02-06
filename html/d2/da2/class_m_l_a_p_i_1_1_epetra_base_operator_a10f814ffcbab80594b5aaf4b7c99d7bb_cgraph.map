@@ -1,0 +1,10 @@
+<map id="MLAPI::EpetraBaseOperator::Comm" name="MLAPI::EpetraBaseOperator::Comm">
+<area shape="rect" id="node2" href="$d8/dc5/namespace_m_l_a_p_i.html#acbfef34e0a3fafbf63e44c4f792539de" title="Returns a reference to the Epetra_Comm object defined on MPI_COMM_WORLD. " alt="" coords="241,107,416,133"/>
+<area shape="rect" id="node3" href="$d8/dc5/namespace_m_l_a_p_i.html#af368e6d9fa55ccd00a482cf01dbb9828" title="Initialize the MLAPI workspace. " alt="" coords="464,107,552,133"/>
+<area shape="rect" id="node4" href="$db/d9d/ml__comm_8c.html#a3f5b4b43202f2266c66c03fbb9828ee9" title="ML_Comm_Create" alt="" coords="600,107,732,133"/>
+<area shape="rect" id="node5" href="$d8/d08/ml__memory_8c.html#ab656aed9d908a79217671761d4ba9a75" title="ML_memory_alloc" alt="" coords="795,5,923,32"/>
+<area shape="rect" id="node6" href="$db/d9d/ml__comm_8c.html#ab5e1732d86e453ee3ce38e90557769f4" title="ML_Comm_Send" alt="" coords="798,56,921,83"/>
+<area shape="rect" id="node7" href="$db/d9d/ml__comm_8c.html#a8277254ecafe9059965b2b80d5b23d91" title="ML_Comm_Irecv" alt="" coords="798,107,921,133"/>
+<area shape="rect" id="node8" href="$db/d9d/ml__comm_8c.html#a4828144003381d45a69f1248be36e3be" title="ML_Comm_Wait" alt="" coords="799,157,919,184"/>
+<area shape="rect" id="node9" href="$db/d9d/ml__comm_8c.html#a575a6d49ab2f64baf5f865987b30c577" title="ML_Comm_CheapWait" alt="" coords="780,208,939,235"/>
+</map>

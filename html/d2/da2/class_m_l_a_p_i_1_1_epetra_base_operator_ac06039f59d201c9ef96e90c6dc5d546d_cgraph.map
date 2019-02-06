@@ -1,0 +1,7 @@
+<map id="MLAPI::EpetraBaseOperator::Apply" name="MLAPI::EpetraBaseOperator::Apply">
+<area shape="rect" id="node2" href="$d8/dc5/namespace_m_l_a_p_i.html#a87e22df86365ec682bc1ebefd305bbe3" title="MLAPI::GetString" alt="" coords="270,5,395,32"/>
+<area shape="rect" id="node3" href="$db/de1/class_m_l_a_p_i_1_1_base_operator.html#a7ece6e211a0e513d892919d4cca471b9" title="Returns a copy of the domain space of this object. " alt="" coords="241,57,424,98"/>
+<area shape="rect" id="node4" href="$db/de1/class_m_l_a_p_i_1_1_base_operator.html#aa91af2dd30899bf451836cf3e8a12230" title="Returns a copy of the range space of this object. " alt="" coords="245,122,421,163"/>
+<area shape="rect" id="node5" href="$db/de1/class_m_l_a_p_i_1_1_base_operator.html#acaebd09b80d6ec504d9ba5f429e98451" title="Applies the operator to X, using Y as starting solution. Returns the solution in Y. " alt="" coords="257,187,408,229"/>
+<area shape="rect" id="node6" href="$d4/d2c/ml__lapack_8h.html#acdf4f23ecebd52b0f65f96a1b2ec8274" title="DCOPY_F77" alt="" coords="283,253,382,280"/>
+</map>
