@@ -1,0 +1,8 @@
+<map id="UA_ReferenceDescription" name="UA_ReferenceDescription">
+<area shape="rect" id="node2" href="$da/dfd/struct_u_a___node_id.html" title="UA_NodeId" alt="" coords="410,109,501,136"/>
+<area shape="rect" id="node7" href="$db/d03/struct_u_a___expanded_node_id.html" title="UA_ExpandedNodeId" alt="" coords="305,211,453,237"/>
+<area shape="rect" id="node3" href="$d3/dbd/struct_u_a___string.html" title="UA_String" alt="" coords="225,5,307,32"/>
+<area shape="rect" id="node5" href="$dc/d33/struct_u_a___localized_text.html" title="UA_LocalizedText" alt="" coords="5,160,135,187"/>
+<area shape="rect" id="node6" href="$d1/d78/struct_u_a___qualified_name.html" title="UA_QualifiedName" alt="" coords="141,160,276,187"/>
+<area shape="rect" id="node4" href="$db/d54/struct_u_a___guid.html" title="UA_Guid" alt="" coords="418,5,493,32"/>
+</map>

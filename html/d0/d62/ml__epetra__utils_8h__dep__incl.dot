@@ -1,0 +1,41 @@
+digraph "3rdParty/trilinos-nox/packages/ml/src/Utils/ml_epetra_utils.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node60 [label="3rdParty/trilinos-nox\l/packages/ml/src/Utils\l/ml_epetra_utils.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node60 -> Node61 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node61 [label="3rdParty/trilinos-nox\l/packages/ml/src/MLAPI\l/MLAPI_Operator.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d2e/_m_l_a_p_i___operator_8h.html",tooltip="Basic class to define operators within MLAPI. "];
+  Node61 -> Node62 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node62 [label="3rdParty/trilinos-nox\l/packages/ml/src/MLAPI\l/MLAPI.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d11/_m_l_a_p_i_8h.html"];
+  Node61 -> Node63 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node63 [label="3rdParty/trilinos-nox\l/packages/ml/src/MLAPI\l/MLAPI_Operator_Utils.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/de3/_m_l_a_p_i___operator___utils_8h.html",tooltip="Suite of utilities for MLAPI::Operator objects. "];
+  Node63 -> Node62 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node63 -> Node64 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node64 [label="3rdParty/trilinos-nox\l/packages/ml/src/MLAPI\l/MLAPI_MultiLevelSA.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d66/_m_l_a_p_i___multi_level_s_a_8h.html",tooltip="Standard smoothed aggregation multilevel preconditioner. "];
+  Node64 -> Node62 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node63 -> Node65 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node65 [label="3rdParty/trilinos-nox\l/packages/ml/src/MLAPI\l/MLAPI_MultiLevelAdaptiveSA.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d34/_m_l_a_p_i___multi_level_adaptive_s_a_8h.html",tooltip="Adaptive smoothed aggregation preconditioner. "];
+  Node65 -> Node62 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node61 -> Node66 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node66 [label="3rdParty/trilinos-nox\l/packages/ml/src/MLAPI\l/MLAPI_InverseOperator.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d94/_m_l_a_p_i___inverse_operator_8h.html",tooltip="Base class for smoothers and coarse solvers. "];
+  Node66 -> Node62 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node66 -> Node64 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node66 -> Node65 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node66 -> Node67 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node67 [label="3rdParty/trilinos-nox\l/packages/ml/src/MLAPI\l/MLAPI_LoadBalanceInverseOperator.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/dc7/_m_l_a_p_i___load_balance_inverse_operator_8h.html",tooltip="wraps an MLAPI inverseoperator with zero rows on some processors. "];
+  Node61 -> Node64 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node61 -> Node65 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node61 -> Node68 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node68 [label="3rdParty/trilinos-nox\l/packages/ml/src/MLAPI\l/MLAPI_MATLABStream.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d85/_m_l_a_p_i___m_a_t_l_a_b_stream_8h.html",tooltip="Basic stream to save in a MATLAB-compatible file MLAPI objects. "];
+  Node68 -> Node62 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node61 -> Node69 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node69 [label="3rdParty/trilinos-nox\l/packages/ml/src/MLAPI\l/MLAPI_SerialMatrix.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/da1/_m_l_a_p_i___serial_matrix_8h.html",tooltip="MATLAB-like serial matrix. "];
+  Node69 -> Node62 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node61 -> Node70 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node70 [label="3rdParty/trilinos-nox\l/packages/ml/src/MLAPI\l/MLAPI_DistributedMatrix.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d2a/_m_l_a_p_i___distributed_matrix_8h.html",tooltip="MLAPI wrapper for Epetra_FECrsMatrix, which allows MATLAB-like syntax. "];
+  Node70 -> Node62 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node61 -> Node71 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node71 [label="3rdParty/trilinos-nox\l/packages/ml/src/MLAPI\l/MLAPI_LoadBalanceOperator.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d07/_m_l_a_p_i___load_balance_operator_8h.html",tooltip="wraps an MLAPI operator with zero rows on some processors. "];
+  Node71 -> Node67 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node60 -> Node63 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

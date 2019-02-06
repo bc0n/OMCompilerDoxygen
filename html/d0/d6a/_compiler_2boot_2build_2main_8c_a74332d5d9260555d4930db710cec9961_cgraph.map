@@ -1,0 +1,14 @@
+<map id="omc_Main_main2" name="omc_Main_main2">
+<area shape="rect" id="node2" href="$d1/d5c/_config_8c.html#ae368b31e086091f71c17531af99d22f4" title="omc_Config_versionRequest" alt="" coords="177,5,368,32"/>
+<area shape="rect" id="node7" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="223,56,322,83"/>
+<area shape="rect" id="node8" href="$db/d8a/_settings_8c.html#a6a3f66c11e683f2988c66d2dd745890d" title="omc_Settings_getVersionNr" alt="" coords="180,107,365,133"/>
+<area shape="rect" id="node10" href="$d3/db3/_flags_8c.html#a1bdc57ee7db1a86ebd954e1aa4d04c0c" title="omc_Flags_getConfigString" alt="" coords="416,157,599,184"/>
+<area shape="rect" id="node11" href="$d1/d95/_system_8c.html#a813505c16cc41b2ea57dc26307915464" title="omc_System_userIsRoot" alt="" coords="187,208,358,235"/>
+<area shape="rect" id="node13" href="$d3/db3/_flags_8c.html#a34e6591659b1578969141a635ff24042" title="omc_Flags_isSet" alt="" coords="677,233,799,260"/>
+<area shape="rect" id="node3" href="$d3/db3/_flags_8c.html#abc3d84cf6e1cf18f0cec0f052e7c85d9" title="omc_Flags_getConfigBool" alt="" coords="420,31,595,57"/>
+<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="647,157,829,184"/>
+<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="877,208,1027,235"/>
+<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1075,208,1177,235"/>
+<area shape="rect" id="node9" href="$d4/d4a/_settings_8h.html#a3f7032c08fdc46fffb321e88f5f31a2e" title="Settings_getVersionNr" alt="" coords="431,107,584,133"/>
+<area shape="rect" id="node12" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a32ca9760ea8cdc5b8eeb8c1bf91341d7" title="System_userIsRoot" alt="" coords="438,208,577,235"/>
+</map>

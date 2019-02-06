@@ -1,0 +1,4 @@
+<map id="Belos::StatusTestImpResNorm::checkStatus" name="Belos::StatusTestImpResNorm::checkStatus">
+<area shape="rect" id="node2" href="$d0/d6b/class_belos_1_1_status_test_imp_res_norm.html#adae716113c9688aecaae5d2c64171aaf" title="Set whether the only maximum residual norm is displayed when the print() method is called..." alt="" coords="259,5,464,47"/>
+<area shape="rect" id="node3" href="$d0/d6b/class_belos_1_1_status_test_imp_res_norm.html#a63cfcd4961cd567a2ec025cced795fe3" title="Define form of the scaling, its norm, its optional weighting vector, or, alternatively, define an explicit value. " alt="" coords="259,71,464,112"/>
+</map>
