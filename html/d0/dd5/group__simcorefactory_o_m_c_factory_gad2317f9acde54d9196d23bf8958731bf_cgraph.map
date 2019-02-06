@@ -1,0 +1,10 @@
+<map id="OMCFactory::loadSimControllerLib" name="OMCFactory::loadSimControllerLib">
+<area shape="rect" id="node2" href="$d0/dd5/group__simcorefactory_o_m_c_factory.html#gacd6dd98f293e24b35d8ac0aa3fa5177e" title="OMCFactory::LoadLibrary" alt="" coords="279,71,451,98"/>
+<area shape="rect" id="node3" href="$dd/d7a/namespaceboost_1_1extensions.html#a36a273b9d27e52209f0b9ac163b1126f" title="Load factories from the given library and function. " alt="" coords="499,64,632,105"/>
+<area shape="rect" id="node4" href="$d9/d82/classboost_1_1extensions_1_1shared__library.html#ae73f5ac980f625505c9a757f5d062b9b" title="Open the shared library. " alt="" coords="680,35,819,76"/>
+<area shape="rect" id="node9" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="726,101,773,127"/>
+<area shape="rect" id="node5" href="$d9/d82/classboost_1_1extensions_1_1shared__library.html#a4807da520d970ad2f0cdea05a0c3c27c" title="Close the shared library. This calls the OS specific close function for shared libraries. Usually, this decrements the reference count of the shared library. Once a shared library has a reference count of 0, it can be actually unloaded at any time. " alt="" coords="867,5,1009,47"/>
+<area shape="rect" id="node7" href="$df/de7/namespaceboost_1_1extensions_1_1impl.html#ae82c0e6c973c8f4e807af2e0fa7a9350" title="boost::extensions::\limpl::load_shared_library" alt="" coords="1279,64,1445,105"/>
+<area shape="rect" id="node6" href="$df/de7/namespaceboost_1_1extensions_1_1impl.html#aca263a6bc60f52e9858c27fe71f54869" title="boost::extensions::\limpl::close_shared_library" alt="" coords="1057,5,1231,47"/>
+<area shape="rect" id="node8" href="$d1/d8d/gc__dlopen_8c.html#a928c57ce36931a093038a134de6b82d3" title="dlopen" alt="" coords="1332,13,1392,39"/>
+</map>

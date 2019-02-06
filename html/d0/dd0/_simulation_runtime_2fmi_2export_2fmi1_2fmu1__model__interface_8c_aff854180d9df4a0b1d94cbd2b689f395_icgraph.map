@@ -1,0 +1,4 @@
+<map id="fmiSetString" name="fmiSetString">
+<area shape="rect" id="node2" href="$d6/dc4/group__fmi1__capi__common.html#ga55ece9aa60b616fdc5b91ca36b6a1597" title="Calls the FMI function fmiSetDebugLogging(...) " alt="" coords="148,5,293,47"/>
+<area shape="rect" id="node3" href="$d1/dc6/group__fmi1__import__capi__common.html#ga5f568764d2b44d1ea8028d515b0d8e26" title="Wrapper for the FMI function fmiSetDebugLogging(...) " alt="" coords="341,5,499,47"/>
+</map>

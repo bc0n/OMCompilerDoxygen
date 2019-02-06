@@ -1,0 +1,5 @@
+<map id="zmq::i_poll_events::~i_poll_events" name="zmq::i_poll_events::~i_poll_events">
+<area shape="rect" id="node2" href="$d0/ddb/structzmq_1_1i__poll__events.html#a6a2db5ef57d3d5e16336be4f0dd5b7cb" title="zmq::i_poll_events\l::in_event" alt="" coords="184,5,315,47"/>
+<area shape="rect" id="node3" href="$d0/ddb/structzmq_1_1i__poll__events.html#ac02294c753e0ff56bdd1433c824d5076" title="zmq::i_poll_events\l::out_event" alt="" coords="184,71,315,112"/>
+<area shape="rect" id="node4" href="$d0/ddb/structzmq_1_1i__poll__events.html#a0d088aff6e763eda666ec60b29b75d4d" title="zmq::i_poll_events\l::timer_event" alt="" coords="184,136,315,177"/>
+</map>

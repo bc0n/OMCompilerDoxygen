@@ -1,0 +1,5 @@
+<map id="fmiGetStatus" name="fmiGetStatus">
+<area shape="rect" id="node2" href="$d1/df2/group__fmi1__capi__cs.html#gaceafb407ed837792db7e88bbebd31faa" title="Calls the FMI function fmiDoStep(...) " alt="" coords="152,5,283,32"/>
+<area shape="rect" id="node3" href="$d4/d92/group__fmi1__import__capi__cs.html#ga534a07f5d732312106aeda6caaae4a52" title="Wrapper for the FMI function fmiDoStep(...) " alt="" coords="331,5,473,32"/>
+<area shape="rect" id="node4" href="$d5/d4a/_f_m_i1_co_simulation_8c.html#aaa49554eece706d0990c11e5da097ff5" title="fmi1DoStep_OMC" alt="" coords="521,5,651,32"/>
+</map>
