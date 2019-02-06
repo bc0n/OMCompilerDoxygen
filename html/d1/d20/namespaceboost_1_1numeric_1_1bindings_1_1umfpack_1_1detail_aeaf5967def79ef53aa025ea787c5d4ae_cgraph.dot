@@ -1,0 +1,19 @@
+digraph "boost::numeric::bindings::umfpack::detail::report_matrix"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node99 [label="boost::numeric::bindings\l::umfpack::detail::report_matrix",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node99 -> Node100 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node100 [label="boost::numeric::bindings\l::detail::array::valid",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d6f/classboost_1_1numeric_1_1bindings_1_1detail_1_1array.html#a2663e7568256e96264861700f2237728"];
+  Node99 -> Node101 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node101 [label="boost::numeric::bindings\l::traits::detail::disentangle",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/db9/namespaceboost_1_1numeric_1_1bindings_1_1traits_1_1detail.html#ae26dbe0913c570b55dfc07ba7e2479ae"];
+  Node101 -> Node102 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node102 [label="boost::numeric::bindings\l::traits::real",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d51/namespaceboost_1_1numeric_1_1bindings_1_1traits.html#a66bbecab037d720ac6ce66fcd0c07a5e"];
+  Node101 -> Node103 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node103 [label="boost::numeric::bindings\l::traits::imag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d51/namespaceboost_1_1numeric_1_1bindings_1_1traits.html#a3111566b8a03b5858092b5e7f1e2d460"];
+  Node99 -> Node104 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node104 [label="boost::numeric::bindings\l::detail::array::storage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d6f/classboost_1_1numeric_1_1bindings_1_1detail_1_1array.html#a75434772764126db923d281f6dd47000"];
+  Node99 -> Node105 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node105 [label="umfpack_zi_report_matrix",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d98/3rd_party_2_suite_sparse_2_u_m_f_p_a_c_k_2_include_2umfpack__report__matrix_8h.html#aab2784235f787098ff0cd106820380ce"];
+}
