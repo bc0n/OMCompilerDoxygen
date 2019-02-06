@@ -1,0 +1,30 @@
+<map id="omc_Initialization_addExtObjToGlobalKnownVars" name="omc_Initialization_addExtObjToGlobalKnownVars">
+<area shape="rect" id="node2" href="$dd/db3/_backend_variable_8c.html#a5478e74919dd2caa18af318a847570e5" title="omc_BackendVariable\l_setVarFixed" alt="" coords="263,102,415,144"/>
+<area shape="rect" id="node3" href="$dd/db3/_backend_variable_8c.html#a3e1767b60fe237949f491c6b28cc1186" title="omc_BackendVariable\l_addVar" alt="" coords="263,168,415,209"/>
+<area shape="rect" id="node4" href="$d9/d14/_component_reference_8c.html#a6f879eba828b840c822e0260707473d0" title="omc_ComponentReference\l_hashComponentRefMod" alt="" coords="467,138,649,180"/>
+<area shape="rect" id="node29" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a67a5ace00ac694192758d21044e4fec7" title="omc_List_getMemberOnTrue" alt="" coords="463,204,653,231"/>
+<area shape="rect" id="node5" href="$d9/d14/_component_reference_8c.html#ae74cbba26ab2df5aaba0153c4e8e6277" title="omc_ComponentReference\l_hashComponentRef" alt="" coords="701,138,883,180"/>
+<area shape="rect" id="node6" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#aad622f4e050ebd3c1418cfa5b73b9176" title="stringHashDjb2" alt="" coords="2138,120,2250,147"/>
+<area shape="rect" id="node7" href="$d9/d14/_component_reference_8c.html#a5183165ccaeaa97fdbb121cd9a9dcf52" title="omc_ComponentReference\l_hashSubscripts" alt="" coords="931,138,1112,180"/>
+<area shape="rect" id="node8" href="$d9/d14/_component_reference_8c.html#a0baae23ebec1874dd15b1e08ba9bd02d" title="omc_ComponentReference\l_hashSubscripts2" alt="" coords="1160,80,1341,121"/>
+<area shape="rect" id="node27" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a8c9e2b478d3252270c7239515f609ce0" title="omc_List_fill" alt="" coords="1203,146,1298,172"/>
+<area shape="rect" id="node28" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a6983369f3c3e3e8cc41ac483c9a9baf1" title="listLength" alt="" coords="1211,196,1290,223"/>
+<area shape="rect" id="node9" href="$d9/d14/_component_reference_8c.html#ab2890f3ebfaf08ff1b6c6c2e878e103d" title="omc_ComponentReference\l_hashSubscript" alt="" coords="1389,130,1571,172"/>
+<area shape="rect" id="node10" href="$d1/d08/_expression_8c.html#ad0bacc9745bfbc09e8f7e33465cfaa57" title="omc_Expression_hashExp" alt="" coords="1619,247,1796,274"/>
+<area shape="rect" id="node11" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a751bf2360cb3df6de97811998890b7ea" title="intString" alt="" coords="1926,95,1997,122"/>
+<area shape="rect" id="node12" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a87fa8e77dec9dc00c51dc3bada543d0d" title="realString" alt="" coords="1923,146,2000,172"/>
+<area shape="rect" id="node13" href="$d1/d08/_expression_8c.html#ac2b7c4a7fe7aa9b36c38485bac5d7e03" title="omc_Expression_hashOp" alt="" coords="1876,196,2047,223"/>
+<area shape="rect" id="node14" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a2c574f0de0710caa8e977bd221cf7cdd" title="omc_List_reduce" alt="" coords="1901,247,2022,274"/>
+<area shape="rect" id="node15" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a70628b2c3fb199a118f80777135940ee" title="omc_List_map" alt="" coords="1908,298,2015,324"/>
+<area shape="rect" id="node16" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a65a694e3889f2f5d8af963dcfbbaf1cf" title="omc_List_flatten" alt="" coords="1902,399,2021,426"/>
+<area shape="rect" id="node19" href="$d1/d08/_expression_8c.html#afe8a8ed864b2b05fffd0eb24bbd56ed4" title="omc_Expression_hashReductionInfo" alt="" coords="1844,348,2079,375"/>
+<area shape="rect" id="node20" href="$d8/d16/_expression_dump_8c.html#ab1b14f2e6c847006a4235d1905bb2637" title="omc_ExpressionDump\l_printExpStr" alt="" coords="1884,450,2039,492"/>
+<area shape="rect" id="node26" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="1938,516,1985,543"/>
+<area shape="rect" id="node17" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a81001ba45c298ade27540edd2589777c" title="listReverse" alt="" coords="2150,352,2238,379"/>
+<area shape="rect" id="node18" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a56b7e8a835b2d388f5984ca7378bc1ec" title="listAppend" alt="" coords="2153,403,2235,430"/>
+<area shape="rect" id="node21" href="$d7/d52/_tpl_8c.html#a19e668217f7d6c0b176843e40633cae2" title="omc_Tpl_tplString2" alt="" coords="2127,458,2261,484"/>
+<area shape="rect" id="node22" href="$db/da1/_compiler_2boot_2build_2error_8c.html#a6f9ff3d03e91883492e13af7fbc088ff" title="omc_Error_getNumErrorMessages" alt="" coords="2309,432,2532,459"/>
+<area shape="rect" id="node25" href="$d7/d52/_tpl_8c.html#af79df210cda1bb788fce4ef64cb58a0f" title="omc_Tpl_tplCallWithFailError2" alt="" coords="2321,483,2520,510"/>
+<area shape="rect" id="node23" href="$d4/dce/_error_ext_8c.html#a0195f83af0487b3e7bf35deb4225e582" title="omc_ErrorExt_getNumError\lMessages" alt="" coords="2580,425,2763,466"/>
+<area shape="rect" id="node24" href="$d1/d40/boot_2build_2_error_ext_8h.html#a1206137921767ad0e49abe96adf7b5e3" title="ErrorImpl__getNumErrorMessages" alt="" coords="2811,432,3033,459"/>
+</map>

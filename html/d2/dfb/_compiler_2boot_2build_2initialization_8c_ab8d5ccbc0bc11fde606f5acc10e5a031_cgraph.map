@@ -1,0 +1,10 @@
+<map id="omc_Initialization_warnAboutIterationVariablesWithDefaultZeroStartAttribute" name="omc_Initialization_warnAboutIterationVariablesWithDefaultZeroStartAttribute">
+<area shape="rect" id="node2" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#a944f705009a3f62df0abe2a3a56c4ef7" title="omc_Initialization\l_warnAboutIterationVariables\lWithDefaultZeroStartAttribute0" alt="" coords="248,45,449,101"/>
+<area shape="rect" id="node7" href="$d3/db3/_flags_8c.html#a34e6591659b1578969141a635ff24042" title="omc_Flags_isSet" alt="" coords="287,125,410,152"/>
+<area shape="rect" id="node3" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#a8481d4f5d2e04bbc795c1b742c14b241" title="omc_Initialization\l_warnAboutIterationVariables\lWithDefaultZeroStartAttribute1" alt="" coords="497,45,699,101"/>
+<area shape="rect" id="node4" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a82a304d48e2d3a9aae9848f2c3dcadcb" title="omc_List_map1r" alt="" coords="763,5,882,32"/>
+<area shape="rect" id="node5" href="$dd/db3/_backend_variable_8c.html#accd8afcb1d80bdc6a2d3e2712aed2a77" title="omc_BackendVariable\l_varHasStartValue" alt="" coords="747,57,899,98"/>
+<area shape="rect" id="node6" href="$d0/d29/_d_a_e_util_8c.html#a351ae7f8c6f16f3e42fd0d279a262dd2" title="omc_DAEUtil_hasStartAttr" alt="" coords="947,64,1125,91"/>
+<area shape="rect" id="node8" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="523,125,673,152"/>
+<area shape="rect" id="node9" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="771,125,874,152"/>
+</map>

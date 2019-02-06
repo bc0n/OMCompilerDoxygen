@@ -1,0 +1,26 @@
+<map id="boxptr_NFExpression_compareOpt" name="boxptr_NFExpression_compareOpt">
+<area shape="rect" id="node2" href="$db/d0c/_n_f_expression_8c.html#adf54cd48cf92e77cd27777920e162f63" title="omc_NFExpression_compareOpt" alt="" coords="201,374,416,400"/>
+<area shape="rect" id="node3" href="$db/d0c/_n_f_expression_8c.html#a29247005017021d1563c08df473367c4" title="omc_NFExpression_compare" alt="" coords="464,374,659,400"/>
+<area shape="rect" id="node4" href="$d9/d7c/_compiler_2boot_2build_2util_8c.html#a8c1b9eb65476185bd4d9073249caefa4" title="omc_Util_intCompare" alt="" coords="1729,147,1877,174"/>
+<area shape="rect" id="node5" href="$d9/d7c/_compiler_2boot_2build_2util_8c.html#ad3153e4a426627a738650a4f34f9c2ce" title="omc_Util_realCompare" alt="" coords="731,424,886,451"/>
+<area shape="rect" id="node6" href="$d9/d7c/_compiler_2boot_2build_2util_8c.html#a6f55cec19f885ce4f99b4bfa140e48c0" title="omc_Util_boolCompare" alt="" coords="729,475,888,502"/>
+<area shape="rect" id="node7" href="$d0/d78/_absyn_8c.html#a32967c17d7e54d1e80801db59aa80bb5" title="omc_Absyn_pathCompare" alt="" coords="980,432,1156,459"/>
+<area shape="rect" id="node8" href="$d4/dc3/_n_f_type_8c.html#a4ab0aa4e9194285825c06c70aaa1ad0b" title="omc_NFType_enumName" alt="" coords="721,526,896,552"/>
+<area shape="rect" id="node9" href="$db/d0c/_n_f_expression_8c.html#ac35259fe4fa86d750fd03cfa24d8d567" title="omc_NFExpression_ClockKind\l_compare" alt="" coords="707,577,911,618"/>
+<area shape="rect" id="node10" href="$df/d26/_n_f_component_ref_8c.html#ab1971c29e5423e2686c708b0fbba97c3" title="omc_NFComponentRef\l_compare" alt="" coords="988,198,1148,240"/>
+<area shape="rect" id="node14" href="$d0/d93/_n_f_subscript_8c.html#a81da3d5c6f8994b7d853ba100a761cf8" title="omc_NFSubscript_compareList" alt="" coords="1235,147,1440,174"/>
+<area shape="rect" id="node17" href="$dc/dd0/build_2include_2omc_2c_2meta_2meta__modelica_8h.html#af129ecd241889f9515fe7ae33e186ea5" title="valueCompare" alt="" coords="755,643,862,670"/>
+<area shape="rect" id="node18" href="$db/d0c/_n_f_expression_8c.html#a694a0bc940c6a309f760e7f97a20ee60" title="omc_NFExpression_compareList" alt="" coords="961,147,1175,174"/>
+<area shape="rect" id="node19" href="$d9/dd8/_n_f_call_8c.html#a9ff815f0303d2d7b5237a383ddaca009" title="omc_NFCall_Call_compare" alt="" coords="717,272,900,299"/>
+<area shape="rect" id="node23" href="$dc/d36/_n_f_operator_8c.html#a757cf6e05d51c93a65e41c21b982f897" title="omc_NFOperator_compare" alt="" coords="1248,8,1427,35"/>
+<area shape="rect" id="node24" href="$d8/de3/_mutable_8c.html#a4d9367043438a5c1a24d17f1f9559996" title="omc_Mutable_access" alt="" coords="734,694,883,720"/>
+<area shape="rect" id="node25" href="$db/da1/_compiler_2boot_2build_2error_8c.html#a202663346d8015c6413dbcc62dff1933" title="omc_Error_assertion" alt="" coords="737,744,880,771"/>
+<area shape="rect" id="node11" href="$d7/d21/_n_f_inst_node_8c.html#a0448a520b8f4a2cf341ecde6c2f2fd93" title="omc_NFInstNode_InstNode_name" alt="" coords="1225,307,1449,334"/>
+<area shape="rect" id="node12" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a672ff4045e2d75c0029e6cc5d7f0a507" title="modelica_integer_to\l_modelica_string" alt="" coords="1520,300,1659,341"/>
+<area shape="rect" id="node13" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="1540,366,1639,392"/>
+<area shape="rect" id="node15" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a6983369f3c3e3e8cc41ac483c9a9baf1" title="listLength" alt="" coords="1550,198,1629,224"/>
+<area shape="rect" id="node16" href="$d0/d93/_n_f_subscript_8c.html#a02c756a4231e677f3c1512eac08695c0" title="omc_NFSubscript_compare" alt="" coords="1497,96,1681,123"/>
+<area shape="rect" id="node20" href="$d0/d18/_n_f_function_8c.html#ae4efe7d4abf1e8f9a763d59c1a75254f" title="omc_NFFunction_Function_name" alt="" coords="959,315,1177,342"/>
+<area shape="rect" id="node21" href="$df/d26/_n_f_component_ref_8c.html#acaced5774427acd4b9ac9d403c7acd97" title="omc_NFComponentRef\l_toPath" alt="" coords="988,366,1148,408"/>
+<area shape="rect" id="node22" href="$d9/dd8/_n_f_call_8c.html#aecda0913056549a7a9ca4f45a3aa3356" title="omc_NFCall_Call_arguments" alt="" coords="971,264,1165,291"/>
+</map>

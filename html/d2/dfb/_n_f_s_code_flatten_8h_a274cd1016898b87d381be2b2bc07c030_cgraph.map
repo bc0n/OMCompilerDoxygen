@@ -1,0 +1,30 @@
+<map id="omc_NFSCodeFlatten_flattenCompleteProgram" name="omc_NFSCodeFlatten_flattenCompleteProgram">
+<area shape="rect" id="node2" href="$da/db6/_n_f_s_code_env_8c.html#a7f0b1998286a6d66ec9960ae7bcd88d5" title="omc_NFSCodeEnv_buildInitialEnv" alt="" coords="224,166,447,193"/>
+<area shape="rect" id="node8" href="$da/db6/_n_f_s_code_env_8c.html#a526af24ae39b6e1ecbbc2518b3943fed" title="omc_NFSCodeEnv_extendEnv\lWithClasses" alt="" coords="1068,289,1272,331"/>
+<area shape="rect" id="node10" href="$d1/d2f/_n_f_env_extends_8c.html#a192085218a156ad3b43d1b09f5a59e09" title="omc_NFEnvExtends_update" alt="" coords="241,515,430,542"/>
+<area shape="rect" id="node20" href="$d3/db3/_flags_8c.html#a34e6591659b1578969141a635ff24042" title="omc_Flags_isSet" alt="" coords="841,355,964,382"/>
+<area shape="rect" id="node25" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="879,625,926,651"/>
+<area shape="rect" id="node27" href="$d0/df0/_n_f_s_code_flatten_imports_8c.html#a488753dbacb5268d7ccdcdd93a401657" title="omc_NFSCodeFlattenImports\l_flattenProgram" alt="" coords="237,715,433,756"/>
+<area shape="rect" id="node29" href="$d6/d1d/_compiler_2boot_2build_2debug_8c.html#a465f6e24432a8b1db4c7576ea09e7259" title="omc_Debug_trace" alt="" coords="271,651,399,678"/>
+<area shape="rect" id="node3" href="$da/db6/_n_f_s_code_env_8c.html#a549d015955b2216670fe53c10bf94ffa" title="omc_NFSCodeEnv_EnvTree_new" alt="" coords="505,254,727,281"/>
+<area shape="rect" id="node4" href="$da/db6/_n_f_s_code_env_8c.html#a375aa4b1f09b371d2aa08974628c25d6" title="omc_NFSCodeEnv_newExtends\lTable" alt="" coords="509,5,723,47"/>
+<area shape="rect" id="node5" href="$da/db6/_n_f_s_code_env_8c.html#a3a8faa9b258e6093f19be21496c6b60b" title="omc_NFSCodeEnv_newImport\lTable" alt="" coords="515,71,717,112"/>
+<area shape="rect" id="node6" href="$d8/de3/_mutable_8c.html#a5290f72aced3610e64bd77fb14ea6c1c" title="omc_Mutable_create" alt="" coords="545,137,687,163"/>
+<area shape="rect" id="node7" href="$da/db6/_n_f_s_code_env_8c.html#a942c357272d2fede5f2043c2a2ce1b81" title="omc_NFSCodeEnv_addDummyClass\lToTree" alt="" coords="495,188,737,229"/>
+<area shape="rect" id="node9" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1384,326,1487,353"/>
+<area shape="rect" id="node11" href="$d1/d2f/_n_f_env_extends_8c.html#af38b0de0f0deb0201c08b9f5e5d6cbc2" title="omc_NFEnvExtends_qualify" alt="" coords="522,490,710,517"/>
+<area shape="rect" id="node26" href="$d1/d2f/_n_f_env_extends_8c.html#af5036ec71bd6b7277cb80f67149c5ca2" title="omc_NFEnvExtends_update2" alt="" coords="518,541,714,567"/>
+<area shape="rect" id="node12" href="$d1/d95/_system_8c.html#a20b3030a9ff040efb53eeaa6f1f0eb5e" title="omc_System_tmpTickIndex" alt="" coords="810,406,995,433"/>
+<area shape="rect" id="node14" href="$d1/d2f/_n_f_env_extends_8c.html#a749461567d182d48a209840553d093dc" title="omc_NFEnvExtends_createExtends\lTable" alt="" coords="785,457,1020,499"/>
+<area shape="rect" id="node15" href="$d1/d2f/_n_f_env_extends_8c.html#a2ee549120b104fde7a52da21f425808d" title="omc_NFEnvExtends_qualify2" alt="" coords="805,523,1000,550"/>
+<area shape="rect" id="node22" href="$d6/d1d/_compiler_2boot_2build_2debug_8c.html#a39cb2cfbaaec041a9681a736f5faa624" title="omc_Debug_traceln" alt="" coords="833,574,972,601"/>
+<area shape="rect" id="node13" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a90c145e300ea9097787a310b2ba0deda" title="SystemImpl_tmpTickIndex" alt="" coords="1081,406,1259,433"/>
+<area shape="rect" id="node16" href="$d1/d2f/_n_f_env_extends_8c.html#affb3c76e710ab26fa7527b76aeb5a758" title="omc_NFEnvExtends_qualify\lLocalScope" alt="" coords="1076,516,1264,557"/>
+<area shape="rect" id="node17" href="$da/db6/_n_f_s_code_env_8c.html#aa775b219dcc3071d9cab4312720272b1" title="omc_NFSCodeEnv_getEnvExtends\lTable" alt="" coords="1320,473,1551,515"/>
+<area shape="rect" id="node18" href="$d1/d2f/_n_f_env_extends_8c.html#ad6ca2a8edcd439c980df3776542ff8d8" title="omc_NFEnvExtends_qualify\lExtendsList" alt="" coords="1341,539,1529,580"/>
+<area shape="rect" id="node19" href="$da/d72/_compiler_2boot_2build_2list_8c.html#aed14976ce5984b185e11f6f36eaf6395" title="omc_List_map2Reverse" alt="" coords="1599,546,1761,573"/>
+<area shape="rect" id="node21" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="1095,355,1245,382"/>
+<area shape="rect" id="node23" href="$dc/d4a/_print_8c.html#a136f27763cbad8fdab9e975d877aff4b" title="omc_Print_printErrorBuf" alt="" coords="1089,651,1251,678"/>
+<area shape="rect" id="node24" href="$db/def/_print_8h.html#ac4ef051f731ad4fd851c45be8d215b4c" title="Print_printErrorBuf" alt="" coords="1371,651,1500,678"/>
+<area shape="rect" id="node28" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a1ec2be963641d6c7da1bb856cc4339cc" title="omc_List_mapFold" alt="" coords="550,726,682,753"/>
+</map>

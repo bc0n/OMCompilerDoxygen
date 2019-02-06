@@ -1,0 +1,15 @@
+digraph "gc_cleanup::~gc_cleanup"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node7 [label="gc_cleanup::~gc_cleanup",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="GC_base",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#a8b93cd0c8d9c312bbdf0e679d10b680a"];
+  Node7 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="GC_register_finalizer\l_ignore_self",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d1e/finalize_8c.html#a8e941f295c39454e8adf37c19a9e52ea"];
+  Node9 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="GC_register_finalizer\l_inner",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d1e/finalize_8c.html#ab55c7b28e0047a802bf670c3240af122"];
+  Node9 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="GC_ignore_self_finalize\l_mark_proc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d1e/finalize_8c.html#a994744afd8aa6a32145f61e8d76e6a36"];
+}

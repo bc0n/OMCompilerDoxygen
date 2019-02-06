@@ -1,0 +1,24 @@
+<map id="boxptr_NFExpression_variabilityList" name="boxptr_NFExpression_variabilityList">
+<area shape="rect" id="node2" href="$db/d0c/_n_f_expression_8c.html#a04c987d27c2fc4e774ffbbf9eaa23606" title="omc_NFExpression_variabilityList" alt="" coords="201,239,421,265"/>
+<area shape="rect" id="node3" href="$d3/dc8/_n_f_prefixes_8c.html#a950ddc32bf152be5c44c4173e213077e" title="omc_NFPrefixes_variabilityMax" alt="" coords="1234,147,1441,173"/>
+<area shape="rect" id="node4" href="$db/d0c/_n_f_expression_8c.html#a28bf77124b3c1a7b0ddcd14801017819" title="omc_NFExpression_variability" alt="" coords="469,239,668,265"/>
+<area shape="rect" id="node5" href="$df/d26/_n_f_component_ref_8c.html#a9aaa7004c2ccff68028b1f311d83d867" title="omc_NFComponentRef\l_variability" alt="" coords="737,202,897,243"/>
+<area shape="rect" id="node12" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="766,268,869,295"/>
+<area shape="rect" id="node13" href="$d9/d7c/_compiler_2boot_2build_2util_8c.html#a049372c160fa344ce26314ee56987490" title="omc_Util_getOption" alt="" coords="749,319,886,345"/>
+<area shape="rect" id="node14" href="$d9/dd8/_n_f_call_8c.html#a3913f0b6e2361e99b12afcb6dbfb68b3" title="omc_NFCall_Call_variability" alt="" coords="724,420,911,447"/>
+<area shape="rect" id="node21" href="$db/da1/_compiler_2boot_2build_2error_8c.html#a202663346d8015c6413dbcc62dff1933" title="omc_Error_assertion" alt="" coords="1001,403,1143,429"/>
+<area shape="rect" id="node22" href="$d3/dc8/_n_f_prefixes_8c.html#af66fa9d29fb9ed8a877463033de42115" title="omc_NFPrefixes_variabilityMin" alt="" coords="716,100,919,127"/>
+<area shape="rect" id="node23" href="$d0/d93/_n_f_subscript_8c.html#a1d913255c99036be09f4acf739e5401a" title="omc_NFSubscript_variabilityList" alt="" coords="967,67,1177,93"/>
+<area shape="rect" id="node6" href="$df/d26/_n_f_component_ref_8c.html#af3f13fc7d5fe02473e06935f1c139ae1" title="omc_NFComponentRef\l_nodeVariability" alt="" coords="992,337,1152,378"/>
+<area shape="rect" id="node10" href="$df/d26/_n_f_component_ref_8c.html#a7ed367e9efcb8fe0b4f63fc13a91efe6" title="omc_NFComponentRef\l_subscriptsVariability" alt="" coords="992,169,1152,210"/>
+<area shape="rect" id="node7" href="$d2/dda/_n_f_component_8c.html#a60efd6d20fcd4f0cd209847cb49c6d97" title="omc_NFComponent_Component\l_variability" alt="" coords="1231,370,1444,411"/>
+<area shape="rect" id="node8" href="$d7/d21/_n_f_inst_node_8c.html#a954fb6baea5ff56cc2ffc0c0760f3c27" title="omc_NFInstNode_InstNode\l_component" alt="" coords="1245,305,1430,346"/>
+<area shape="rect" id="node9" href="$dc/d0e/_pointer_8c.html#aa5369c5410f4ad12957ad69be8ccc4e8" title="omc_Pointer_access" alt="" coords="1497,312,1641,339"/>
+<area shape="rect" id="node11" href="$d0/d93/_n_f_subscript_8c.html#a02f6467a653cca944d79807310707260" title="omc_NFSubscript_variability" alt="" coords="1243,67,1432,93"/>
+<area shape="rect" id="node15" href="$df/d26/_n_f_component_ref_8c.html#a93eed6759799f7a400d48548082e1631" title="omc_NFComponentRef\l_isSimple" alt="" coords="992,570,1152,611"/>
+<area shape="rect" id="node16" href="$df/d26/_n_f_component_ref_8c.html#a28f5907191c01a46cc7359605ea0e049" title="omc_NFComponentRef\l_firstName" alt="" coords="992,505,1152,546"/>
+<area shape="rect" id="node20" href="$d9/d7c/_compiler_2boot_2build_2util_8c.html#aba4a7f37305a10621a18bb3a87fa1076" title="omc_Util_tuple22" alt="" coords="1011,453,1133,480"/>
+<area shape="rect" id="node17" href="$d7/d21/_n_f_inst_node_8c.html#a0448a520b8f4a2cf341ecde6c2f2fd93" title="omc_NFInstNode_InstNode_name" alt="" coords="1225,512,1449,539"/>
+<area shape="rect" id="node18" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a672ff4045e2d75c0029e6cc5d7f0a507" title="modelica_integer_to\l_modelica_string" alt="" coords="1500,475,1639,517"/>
+<area shape="rect" id="node19" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="1520,541,1619,568"/>
+</map>

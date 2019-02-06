@@ -1,0 +1,10 @@
+<map id="boxptr_Initialization_warnAboutVars2Work" name="boxptr_Initialization_warnAboutVars2Work">
+<area shape="rect" id="node2" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#a80663d39f9654b6771ceaa1612ff7947" title="omc_Initialization\l_warnAboutVars2Work" alt="" coords="209,104,365,145"/>
+<area shape="rect" id="node3" href="$d1/d95/_system_8c.html#ad2e105aeacd5b1f062d1a0f82e45e34a" title="omc_System_StringAllocator\l_constructor" alt="" coords="413,5,604,47"/>
+<area shape="rect" id="node5" href="$d1/d95/_system_8c.html#af8847d2041f2dc8d967e8aecf3dc8c02" title="omc_System_stringAllocator\lStringCopy" alt="" coords="414,71,603,112"/>
+<area shape="rect" id="node7" href="$d1/d95/_system_8c.html#af314a780e1ba28e87940376fefe833ca" title="omc_System_stringAllocator\lResult" alt="" coords="414,136,603,177"/>
+<area shape="rect" id="node9" href="$d1/d95/_system_8c.html#abaad6ae894ae7b9dde52307668f61597" title="omc_System_StringAllocator\l_destructor" alt="" coords="413,201,604,243"/>
+<area shape="rect" id="node4" href="$dd/ddb/_system__includes_8h.html#a9f4da0f15063aa18a9e6ab5baa0ae36c" title="StringAllocator_constructor" alt="" coords="660,13,839,39"/>
+<area shape="rect" id="node6" href="$dd/ddb/_system__includes_8h.html#a8e19a7a58e3c6431947680216dd4fa2a" title="om_stringAllocatorStringCopy" alt="" coords="652,78,847,105"/>
+<area shape="rect" id="node8" href="$dd/ddb/_system__includes_8h.html#ac5166cb81d1b1b91e6d70ab97c6c9bc3" title="om_stringAllocatorResult" alt="" coords="665,143,833,170"/>
+</map>

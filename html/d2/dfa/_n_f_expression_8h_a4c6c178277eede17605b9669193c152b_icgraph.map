@@ -1,0 +1,6 @@
+<map id="omc_NFExpression_isInteger" name="omc_NFExpression_isInteger">
+<area shape="rect" id="node2" href="$d8/d8f/_n_f_ceval_8c.html#a26ab42f53bc473689e161f87329d538c" title="omc_NFCeval_evalBuiltinPromote" alt="" coords="248,5,471,32"/>
+<area shape="rect" id="node4" href="$d2/dfa/_n_f_expression_8h.html#a316afc6e4bb03f0b0254f415fc9a2c31" title="boxptr_NFExpression\l_isInteger" alt="" coords="285,57,433,98"/>
+<area shape="rect" id="node5" href="$db/d98/_n_f_typing_8h.html#a3db0c174a8eb36370675188eac895f14" title="omc_NFTyping_typeExternalArg" alt="" coords="254,123,465,149"/>
+<area shape="rect" id="node3" href="$de/d5c/_n_f_ceval_8h.html#abaca1fef7cbde1cffcb3b543e3ee74f6" title="omc_NFCeval_evalBuiltinCall" alt="" coords="519,5,715,32"/>
+</map>

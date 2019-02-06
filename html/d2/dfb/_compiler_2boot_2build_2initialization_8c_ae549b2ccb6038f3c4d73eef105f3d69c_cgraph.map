@@ -1,0 +1,19 @@
+<map id="omc_Initialization_inlineWhenForInitializationWhenAlgorithm" name="omc_Initialization_inlineWhenForInitializationWhenAlgorithm">
+<area shape="rect" id="node2" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a81001ba45c298ade27540edd2589777c" title="listReverse" alt="" coords="281,67,369,93"/>
+<area shape="rect" id="node3" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#a0462196eb3091b53b0986b5380953316" title="omc_Initialization\l_inlineWhenForInitialization\lWhenStmt" alt="" coords="235,117,416,173"/>
+<area shape="rect" id="node4" href="$d1/d08/_expression_8c.html#aa4d571fe58ec0ae39cdf3bb8c8b23fb7" title="omc_Expression_containsInitialCall" alt="" coords="464,15,693,41"/>
+<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a731bde27578c8f39abcc504555f1dd6b" title="omc_List_foldr" alt="" coords="525,73,632,100"/>
+<area shape="rect" id="node7" href="$d1/d2f/_check_model_8c.html#aab3b85174355ececd694b44724c8d37b" title="omc_CheckModel_algorithm\lStatementListOutputs" alt="" coords="485,125,672,166"/>
+<area shape="rect" id="node13" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1709,233,1812,260"/>
+<area shape="rect" id="node14" href="$db/da1/_compiler_2boot_2build_2error_8c.html#af2095b97605381e4a896bbbf299ba506" title="omc_Error_addInternalError" alt="" coords="488,259,669,285"/>
+<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a569518617f343ed742f8de370e354a41" title="omc_List_mapBoolOr" alt="" coords="777,5,924,32"/>
+<area shape="rect" id="node8" href="$d4/d56/_hash_set_8c.html#a41350a282f20f60b82480d318be5fcbd" title="omc_HashSet_emptyHashSet" alt="" coords="751,56,950,83"/>
+<area shape="rect" id="node10" href="$da/d72/_compiler_2boot_2build_2list_8c.html#af662481432a99cb6b0204d4bad3a8e48" title="omc_List_fold1" alt="" coords="795,107,906,133"/>
+<area shape="rect" id="node11" href="$d0/dae/_base_hash_set_8c.html#a52d1e6d7b16c383603c307359c7daed1" title="omc_BaseHashSet_hashSetList" alt="" coords="745,157,956,184"/>
+<area shape="rect" id="node9" href="$d4/d56/_hash_set_8c.html#a18638b7ab8025fc00fd14335d580fffc" title="omc_HashSet_emptyHashSet\lSized" alt="" coords="1021,49,1220,90"/>
+<area shape="rect" id="node12" href="$d0/dae/_base_hash_set_8c.html#ad78a1419d70dd522cb634c5106a6daab" title="omc_BaseHashSet_valueArrayList" alt="" coords="1008,157,1233,184"/>
+<area shape="rect" id="node15" href="$d1/d5c/_config_8c.html#afa2f208e09cd9979df49295043109099" title="omc_Config_getRunningTestsuite" alt="" coords="741,259,960,285"/>
+<area shape="rect" id="node16" href="$d3/db3/_flags_8c.html#a1bdc57ee7db1a86ebd954e1aa4d04c0c" title="omc_Flags_getConfigString" alt="" coords="1029,259,1212,285"/>
+<area shape="rect" id="node17" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="1281,259,1464,285"/>
+<area shape="rect" id="node18" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="1512,259,1661,285"/>
+</map>

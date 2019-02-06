@@ -1,0 +1,22 @@
+<map id="omc_Initialization_removeInitializationStuff" name="omc_Initialization_removeInitializationStuff">
+<area shape="rect" id="node2" href="$d4/dac/_backend_d_a_e_util_8c.html#af7e4817ccd06ef0e9565d2838b5befd8" title="omc_BackendDAEUtil\l_traverseBackendDAEExpsEqns" alt="" coords="223,5,437,47"/>
+<area shape="rect" id="node4" href="$d2/ddf/_backend_equation_8c.html#a0abfa61a7a3f92bf8084d92e473d2783" title="omc_BackendEquation\l_equationList" alt="" coords="252,71,408,112"/>
+<area shape="rect" id="node6" href="$d2/ddf/_backend_equation_8c.html#a5b259e19b239b4023327d51af9bd2243" title="omc_BackendEquation\l_equationKind" alt="" coords="252,136,408,177"/>
+<area shape="rect" id="node13" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#a0177c30cf5edf7548e3b2895830a10c8" title="omc_Initialization\l_filterWhenEquation" alt="" coords="261,204,399,245"/>
+<area shape="rect" id="node3" href="$d0/d79/_expandable_array_8c.html#a51fbd8fcf5dd51e9daca628bacca1b66" title="omc_ExpandableArray\l_getLastUsedIndex" alt="" coords="499,5,653,47"/>
+<area shape="rect" id="node5" href="$d0/d79/_expandable_array_8c.html#ac0872cf94bb0f7d2fd6d0de34e2c000a" title="omc_ExpandableArray\l_toList" alt="" coords="499,71,653,112"/>
+<area shape="rect" id="node7" href="$db/da1/_compiler_2boot_2build_2error_8c.html#af2095b97605381e4a896bbbf299ba506" title="omc_Error_addInternalError" alt="" coords="485,143,667,170"/>
+<area shape="rect" id="node8" href="$d1/d5c/_config_8c.html#afa2f208e09cd9979df49295043109099" title="omc_Config_getRunningTestsuite" alt="" coords="715,142,933,169"/>
+<area shape="rect" id="node9" href="$d3/db3/_flags_8c.html#a1bdc57ee7db1a86ebd954e1aa4d04c0c" title="omc_Flags_getConfigString" alt="" coords="981,142,1164,169"/>
+<area shape="rect" id="node10" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="1222,142,1405,169"/>
+<area shape="rect" id="node11" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="1489,141,1639,167"/>
+<area shape="rect" id="node12" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1773,141,1876,167"/>
+<area shape="rect" id="node14" href="$d4/dac/_backend_d_a_e_util_8c.html#afe6455a864ef7897c7d39b2638aa9bf2" title="omc_BackendDAEUtil\l_getConditionList" alt="" coords="499,208,653,249"/>
+<area shape="rect" id="node15" href="$d4/dac/_backend_d_a_e_util_8c.html#a101503dc0ba2ef37963c3f6644fb09af" title="omc_BackendDAEUtil\l_getConditionList1" alt="" coords="747,216,901,257"/>
+<area shape="rect" id="node16" href="$d1/d08/_expression_8c.html#a4853e51167b9a82e33c0a3ef891b0763" title="omc_Expression_isConst" alt="" coords="987,241,1158,267"/>
+<area shape="rect" id="node17" href="$d1/d08/_expression_8c.html#a39215e53d9016b476087f501ca51cf4c" title="omc_Expression_isConstWork" alt="" coords="1212,274,1415,301"/>
+<area shape="rect" id="node18" href="$d1/d08/_expression_8c.html#a40995c4d638faf58a829d251e0180d6c" title="omc_Expression_isConstWorkList" alt="" coords="1713,203,1936,230"/>
+<area shape="rect" id="node19" href="$d1/d08/_expression_8c.html#a1e693c45bb00bf492a9b08f89f816743" title="omc_Expression_isConstWork\lListList" alt="" coords="1463,267,1665,308"/>
+<area shape="rect" id="node20" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a339b6737229642944fcc2ea39346daea" title="listMember" alt="" coords="1521,333,1607,359"/>
+<area shape="rect" id="node21" href="$d0/d78/_absyn_8c.html#a6744a7f65f2c6b34ca52d4506d096371" title="omc_Absyn_pathFirstIdent" alt="" coords="1475,383,1653,410"/>
+</map>

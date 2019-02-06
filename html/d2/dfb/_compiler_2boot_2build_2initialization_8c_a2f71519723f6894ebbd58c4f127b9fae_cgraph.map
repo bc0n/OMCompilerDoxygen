@@ -1,0 +1,9 @@
+<map id="boxptr_Initialization_applyVarReplacements" name="boxptr_Initialization_applyVarReplacements">
+<area shape="rect" id="node2" href="$d2/dfb/_compiler_2boot_2build_2initialization_8c.html#a8fed674f61d0f4260a27700312f80b20" title="omc_Initialization\l_applyVarReplacements" alt="" coords="217,35,381,76"/>
+<area shape="rect" id="node3" href="$d2/ddf/_backend_equation_8c.html#a42065ba861eafcc811d239db16a8a616" title="omc_BackendEquation\l_copyEquationArray" alt="" coords="442,5,598,47"/>
+<area shape="rect" id="node6" href="$d2/ddf/_backend_equation_8c.html#a04a8b99d4d53d2b7ee6d5a3250a8a582" title="omc_BackendEquation_get" alt="" coords="429,71,611,98"/>
+<area shape="rect" id="node4" href="$d0/d79/_expandable_array_8c.html#afc8c6a9335c6191d85abbc0d3472ff1a" title="omc_ExpandableArray_copy" alt="" coords="659,13,847,39"/>
+<area shape="rect" id="node5" href="$d0/d79/_expandable_array_8c.html#a618eeaec12f9bd192deddeccd49802b4" title="omc_ExpandableArray_new" alt="" coords="895,13,1079,39"/>
+<area shape="rect" id="node7" href="$d0/d79/_expandable_array_8c.html#ad94983f3b21b1abd767b1b8d2185dca4" title="omc_ExpandableArray_get" alt="" coords="663,71,842,98"/>
+<area shape="rect" id="node8" href="$d0/d79/_expandable_array_8c.html#abed51ef3d85cdd2ee6a6fbbd9dedf1b3" title="omc_ExpandableArray\l_occupied" alt="" coords="910,64,1063,105"/>
+</map>

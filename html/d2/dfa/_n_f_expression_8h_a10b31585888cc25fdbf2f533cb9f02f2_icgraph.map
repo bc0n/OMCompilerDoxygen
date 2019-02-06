@@ -1,0 +1,7 @@
+<map id="omc_NFExpression_isEmpty" name="omc_NFExpression_isEmpty">
+<area shape="rect" id="node2" href="$d2/dfa/_n_f_expression_8h.html#a8fc13422bd1e1fbedc3fbbb028d3d7ed" title="boxptr_NFExpression\l_isEmpty" alt="" coords="286,5,434,47"/>
+<area shape="rect" id="node3" href="$d4/d7c/_n_f_flatten_8c.html#a737d8ffa159dbb240e71d8f163426620" title="omc_NFFlatten_getRecordBindings" alt="" coords="245,71,475,98"/>
+<area shape="rect" id="node4" href="$d4/d7c/_n_f_flatten_8c.html#aefcc9da709fc23c9e51c5207f03adf54" title="omc_NFFlatten_flattenClass" alt="" coords="523,71,712,98"/>
+<area shape="rect" id="node5" href="$d4/d7c/_n_f_flatten_8c.html#a73529cb6811eb41510f7097e22369737" title="boxptr_NFFlatten_flatten\lClass" alt="" coords="760,35,927,76"/>
+<area shape="rect" id="node6" href="$de/d2b/_n_f_flatten_8h.html#ac014dce8583ea981ebea5c711b315506" title="omc_NFFlatten_flatten" alt="" coords="766,101,921,127"/>
+</map>
