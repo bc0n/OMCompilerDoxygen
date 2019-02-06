@@ -1,0 +1,17 @@
+<map id="inflateStateCheck" name="inflateStateCheck">
+<area shape="rect" id="node2" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#a999219816122f73a0e1af7191ad91146" title="inflateResetKeep" alt="" coords="187,5,310,32"/>
+<area shape="rect" id="node3" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#adb02c2100f9179f4075b220395b1553c" title="inflateReset" alt="" coords="203,56,295,83"/>
+<area shape="rect" id="node4" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#af5a145c15cfb580ef24ce3fc4d292a02" title="inflateReset2" alt="" coords="199,107,298,133"/>
+<area shape="rect" id="node5" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#a67fe72a5001252fee87757fa6a215d61" title="inflatePrime" alt="" coords="203,157,294,184"/>
+<area shape="rect" id="node6" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#aed3136bc8afc3ef309b731b4ad724534" title="inflateEnd" alt="" coords="209,208,289,235"/>
+<area shape="rect" id="node7" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#a2f6a2c3d1472e476adc01c2d634c0212" title="inflateGetDictionary" alt="" coords="180,259,317,285"/>
+<area shape="rect" id="node8" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#a0e7de2db7d65e00a99bea217653b152e" title="inflateSetDictionary" alt="" coords="181,309,317,336"/>
+<area shape="rect" id="node9" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#a7a24a91914357dc95ee94bb30fe2ba57" title="inflateGetHeader" alt="" coords="189,360,309,387"/>
+<area shape="rect" id="node10" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#a91828dbb3f427115719a892872b414a4" title="inflateSync" alt="" coords="205,411,292,437"/>
+<area shape="rect" id="node11" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#a4499ff5c57a6da7b10a834e82c3e5ab8" title="inflateSyncPoint" alt="" coords="190,461,307,488"/>
+<area shape="rect" id="node12" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#aed5ce4086853dcd68479b936c516ac09" title="inflateCopy" alt="" coords="205,512,293,539"/>
+<area shape="rect" id="node13" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#a8975366f04bd9e4adefd64f6ad6ce362" title="inflateUndermine" alt="" coords="189,563,309,589"/>
+<area shape="rect" id="node14" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#af02af8a2a156dbfd8ff2d5018214fd20" title="inflateValidate" alt="" coords="197,613,301,640"/>
+<area shape="rect" id="node15" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#a2e07af688276b7ee6ace646d7ce8a4af" title="inflateMark" alt="" coords="205,664,292,691"/>
+<area shape="rect" id="node16" href="$d0/d03/_modelica_external_c_2_c-_sources_2zlib_2inflate_8c.html#a0e55a49d3b481776126891b641238aff" title="inflateCodesUsed" alt="" coords="185,715,312,741"/>
+</map>

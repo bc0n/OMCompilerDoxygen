@@ -1,0 +1,26 @@
+<map id="Ipopt::TSymLinearSolver::ProvidesDegeneracyDetection" name="Ipopt::TSymLinearSolver::ProvidesDegeneracyDetection">
+<area shape="rect" id="node2" href="$d0/d03/class_ipopt_1_1_t_sym_linear_solver.html#a7a3881ac535b4974b065ec931f6839e0" title="Ipopt::TSymLinearSolver\l::DetermineDependentRows" alt="" coords="260,333,447,375"/>
+<area shape="rect" id="node3" href="$d6/d4a/class_ipopt_1_1_algorithm_strategy_object.html#a5f6310084b90871ee4eec3d89bb407ee" title="Ipopt::AlgorithmStrategy\lObject::HaveIpData" alt="" coords="533,119,695,160"/>
+<area shape="rect" id="node4" href="$d7/db2/namespace_ipopt.html#a412b04fd3180a55969ff76224d5bfec6" title="Ipopt::IsValid" alt="" coords="837,61,936,87"/>
+<area shape="rect" id="node7" href="$d6/d4a/class_ipopt_1_1_algorithm_strategy_object.html#a8b39e20ef00543ac41de1e4bb8a75930" title="Ipopt::AlgorithmStrategy\lObject::IpData" alt="" coords="533,53,695,95"/>
+<area shape="rect" id="node8" href="$de/dd4/class_ipopt_1_1_ipopt_data.html#a53fde5ffec9d56518fb90db19d39aac7" title="Ipopt::IpoptData::Timing\lStats" alt="" coords="533,184,695,225"/>
+<area shape="rect" id="node9" href="$de/d34/class_ipopt_1_1_timing_statistics.html#ade119ee2ae23004f29ea4b4192b8ae03" title="Ipopt::TimingStatistics\l::LinearSystemStructureConverter" alt="" coords="504,249,724,291"/>
+<area shape="rect" id="node10" href="$de/df0/class_ipopt_1_1_timed_task.html#afb6b9e7754f57ded5c93b58123eed42c" title="Ipopt::TimedTask::Start" alt="" coords="534,315,694,342"/>
+<area shape="rect" id="node15" href="$de/d34/class_ipopt_1_1_timing_statistics.html#a5ce24e5212b5aa5de1721b871ab25b97" title="Ipopt::TimingStatistics\l::LinearSystemStructureConverterInit" alt="" coords="495,417,733,459"/>
+<area shape="rect" id="node16" href="$de/df0/class_ipopt_1_1_timed_task.html#a6827517c3cce99921a870411c1d36b1d" title="Ipopt::TimedTask::End" alt="" coords="537,366,691,393"/>
+<area shape="rect" id="node17" href="$de/d34/class_ipopt_1_1_timing_statistics.html#a99ec797abaadd1b30ebb7fb57c320665" title="Ipopt::TimingStatistics\l::LinearSystemScaling" alt="" coords="537,483,691,524"/>
+<area shape="rect" id="node18" href="$d7/db2/namespace_ipopt.html#a8819db25f87f934920bfbdea7591263a" title="Ipopt::IpBlasDcopy" alt="" coords="547,549,681,575"/>
+<area shape="rect" id="node23" href="$d6/d4a/class_ipopt_1_1_algorithm_strategy_object.html#af33506203825c1679fdb8e3b02df0cd7" title="Ipopt::AlgorithmStrategy\lObject::Jnlst" alt="" coords="533,600,695,641"/>
+<area shape="rect" id="node24" href="$d0/d1d/class_ipopt_1_1_journalist.html#af36c292ab2c6708c5585f5fdeca2f91c" title="Ipopt::Journalist::\lPrintf" alt="" coords="553,665,675,707"/>
+<area shape="rect" id="node6" href="$d6/d4a/class_ipopt_1_1_algorithm_strategy_object.html#af2d972f86eec83a96682bd6741a1d265" title="Ipopt::AlgorithmStrategy\lObject::AlgorithmStrategyObject" alt="" coords="781,119,992,160"/>
+<area shape="rect" id="node5" href="$d7/db2/namespace_ipopt.html#acfc346e8412ed6def2dc1858b78bde1b" title="Ipopt::IsNull" alt="" coords="1067,61,1161,87"/>
+<area shape="rect" id="node11" href="$d7/db2/namespace_ipopt.html#a0e00edb9cdae73cd02665950f0fdd2d2" title="Ipopt::CpuTime" alt="" coords="831,290,943,317"/>
+<area shape="rect" id="node12" href="$d7/db2/namespace_ipopt.html#a515733f54c02a37932dee7b5196bbd93" title="Ipopt::SysTime" alt="" coords="831,341,942,367"/>
+<area shape="rect" id="node13" href="$d7/db2/namespace_ipopt.html#a3f01a06ffec7ca3063c795befe7d8d65" title="Ipopt::WallclockTime" alt="" coords="814,391,959,418"/>
+<area shape="rect" id="node14" href="$db/d8f/_ip_utils_8cpp.html#adf087c0fc1da06470ed777cfd20fce3b" title="IpCoinGetTimeOfDay" alt="" coords="1040,391,1188,418"/>
+<area shape="rect" id="node19" href="$d2/d14/_ip_blas_8cpp.html#a04bfb053ba5cd6866db3124e7fd9533f" title="F77_FUNC" alt="" coords="842,498,931,525"/>
+<area shape="rect" id="node20" href="$d6/dcf/dlinpk_8f.html#a8945bed1d0150e1818e5b164815f79ec" title="dcopy" alt="" coords="858,549,915,575"/>
+<area shape="rect" id="node22" href="$d5/dd9/_dummy_8c.html#a193db2e55e075dc582447a7b5119819f" title="DCOPY" alt="" coords="851,599,922,626"/>
+<area shape="rect" id="node21" href="$dd/dc0/commonlib_8c.html#a4672811a4aa0edd5eea4910c53803529" title="mod" alt="" coords="1091,549,1137,575"/>
+<area shape="rect" id="node25" href="$d0/d1d/class_ipopt_1_1_journalist.html#a0246a370d7fc421484490bd90604e4d7" title="Ipopt::Journalist::\lVPrintf" alt="" coords="825,665,948,707"/>
+</map>
