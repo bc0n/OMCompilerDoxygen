@@ -1,0 +1,26 @@
+digraph "mat_transpose"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2757 [label="mat_transpose",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2757 -> Node2758 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2758 [label="dualize_lp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/df7/lp__lib_8h.html#a812e116d6c53282e82fbab4b8ecb3ff8"];
+  Node2758 -> Node2759 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2759 [label="set_callbacks",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/df7/lp__lib_8h.html#a929e8acb9704f61e16927c915c15cd07"];
+  Node2759 -> Node2760 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2760 [label="make_lp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/df7/lp__lib_8h.html#a68a0333d84dd944f67e2a0ec72e346a9"];
+  Node2760 -> Node2761 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2761 [label="copy_lp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/df7/lp__lib_8h.html#aca83ecdbc200b414db491306f3070ae9"];
+  Node2761 -> Node2759 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2760 -> Node2759 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2760 -> Node2762 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2762 [label="read_XLI",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/df7/lp__lib_8h.html#a351dd803960ab0dae2b39f2c65d3a58d"];
+  Node2762 -> Node2759 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2757 -> Node2763 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2763 [label="set_add_rowmode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/df7/lp__lib_8h.html#a552546dcebe7cc57d1c0720fe36ef034"];
+  Node2763 -> Node2764 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2764 [label="solve",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/df7/lp__lib_8h.html#a0f4da3a192397e77e6fe92704d4fad3f"];
+  Node2764 -> Node2759 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2763 -> Node2759 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

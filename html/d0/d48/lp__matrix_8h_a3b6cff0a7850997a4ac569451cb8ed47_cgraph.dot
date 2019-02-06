@@ -1,0 +1,13 @@
+digraph "mat_validate"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2765 [label="mat_validate",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2765 -> Node2766 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2766 [label="allocINT",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d18/lp__utils_8c.html#a2081b8e14a0691b7e3931fa280ad9e63"];
+  Node2765 -> Node2767 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2767 [label="mat_nonzeros",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d9a/lp__matrix_8c.html#a9430c42ed7853fd8dd6463ed7165f243"];
+  Node2765 -> Node2768 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2768 [label="mat_set_rowmap",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d9a/lp__matrix_8c.html#a11d446e1461f23530cf5dc5b8e0a3b6a"];
+}

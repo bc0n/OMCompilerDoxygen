@@ -1,0 +1,5 @@
+<map id="ML_Operator_ExplicitlyScale" name="ML_Operator_ExplicitlyScale">
+<area shape="rect" id="node2" href="$d8/dc5/namespace_m_l_a_p_i.html#a89f0cce653d7c8e7002e7bc73c7c9dc3" title="Multiply A by a double value, alpha. " alt="" coords="244,31,425,57"/>
+<area shape="rect" id="node3" href="$d8/dc5/namespace_m_l_a_p_i.html#a78a3aeda702aaa0d5b4a71943127c58a" title="Creates a new Operator, defined as A * alpha. " alt="" coords="475,5,597,32"/>
+<area shape="rect" id="node4" href="$d8/dc5/namespace_m_l_a_p_i.html#a580aefe59d91fce2b76a69d342e8b444" title="Duplicates a given operator. " alt="" coords="473,56,599,83"/>
+</map>

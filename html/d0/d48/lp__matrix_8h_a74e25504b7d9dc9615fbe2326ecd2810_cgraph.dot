@@ -1,0 +1,21 @@
+digraph "mat_create"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1454 [label="mat_create",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1454 -> Node1455 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1455 [label="inc_matrow_space",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d9a/lp__matrix_8c.html#abf3d05d4e087dfe244d940213aea309e"];
+  Node1455 -> Node1456 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1456 [label="allocINT",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d18/lp__utils_8c.html#a2081b8e14a0691b7e3931fa280ad9e63"];
+  Node1454 -> Node1457 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1457 [label="inc_matcol_space",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d9a/lp__matrix_8c.html#a71e24efc6f48aa6fb098d9f471574d1c"];
+  Node1457 -> Node1456 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1454 -> Node1458 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1458 [label="inc_mat_space",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d9a/lp__matrix_8c.html#a2239ebb44f76930fc243a0457c8c94d9"];
+  Node1458 -> Node1459 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1459 [label="mat_nonzeros",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d9a/lp__matrix_8c.html#a9430c42ed7853fd8dd6463ed7165f243"];
+  Node1458 -> Node1456 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1458 -> Node1460 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1460 [label="allocREAL",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d18/lp__utils_8c.html#a7b25e1f9aee74052b4b6df28443ebf48"];
+}

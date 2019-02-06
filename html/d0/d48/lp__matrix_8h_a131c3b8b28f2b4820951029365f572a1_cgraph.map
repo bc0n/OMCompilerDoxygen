@@ -1,0 +1,23 @@
+<map id="mat_appendrow" name="mat_appendrow">
+<area shape="rect" id="node2" href="$d4/d48/_i_d_a_monitor_fn_8m.html#afa6b300532919819c897ecee0bde326e" title="saved" alt="" coords="867,904,925,931"/>
+<area shape="rect" id="node3" href="$dc/d9a/lp__matrix_8c.html#a8bcc9358a01916afef7fed8b255d202a" title="mat_appendcol" alt="" coords="168,1132,279,1159"/>
+<area shape="rect" id="node5" href="$dd/dc0/commonlib_8c.html#a281dd1ace50072b542ebfa26f457e107" title="sortREALByINT" alt="" coords="837,436,955,463"/>
+<area shape="rect" id="node6" href="$d9/d18/lp__utils_8c.html#a2c162041be8905b58450d17662096994" title="roundToPrecision" alt="" coords="835,360,957,387"/>
+<area shape="rect" id="node8" href="$de/d15/lp__scale_8c.html#ab844fade2ace63a627736cf4887942d4" title="scaled_mat" alt="" coords="851,1233,941,1260"/>
+<area shape="rect" id="node9" href="$d9/d18/lp__utils_8c.html#a0f35a721d2c3a4beea00b2840c2bea30" title="allocMYBOOL" alt="" coords="843,955,949,981"/>
+<area shape="rect" id="node10" href="$dc/d9a/lp__matrix_8c.html#a2239ebb44f76930fc243a0457c8c94d9" title="inc_mat_space" alt="" coords="841,651,951,677"/>
+<area shape="rect" id="node11" href="$dc/d9a/lp__matrix_8c.html#a9430c42ed7853fd8dd6463ed7165f243" title="mat_nonzeros" alt="" coords="1005,1005,1109,1032"/>
+<area shape="rect" id="node14" href="$d4/d79/lp__lib_8c.html#a93ed2e8f778b6340d960f732e9c0f9f6" title="is_chsign" alt="" coords="857,1107,935,1133"/>
+<area shape="rect" id="node4" href="$dc/d9a/lp__matrix_8c.html#a131c3b8b28f2b4820951029365f572a1" title="mat_appendrow" alt="" coords="668,1005,783,1032"/>
+<area shape="rect" id="node15" href="$dc/d9a/lp__matrix_8c.html#aab440ee37c802fe888336d4e153af77e" title="mat_nz_unused" alt="" coords="327,828,441,855"/>
+<area shape="rect" id="node7" href="$dc/de2/mcvs_atm_disp__kry__bbd__p_8m.html#a532be631bf22af7829394ffbd4ad7894" title="floor" alt="" coords="1034,360,1081,387"/>
+<area shape="rect" id="node12" href="$d9/d18/lp__utils_8c.html#a2081b8e14a0691b7e3931fa280ad9e63" title="allocINT" alt="" coords="1022,701,1093,728"/>
+<area shape="rect" id="node13" href="$d9/d18/lp__utils_8c.html#a7b25e1f9aee74052b4b6df28443ebf48" title="allocREAL" alt="" coords="1015,625,1099,652"/>
+<area shape="rect" id="node16" href="$dc/d9a/lp__matrix_8c.html#a5837615af370330b157d64f375718962" title="mat_setrow" alt="" coords="507,752,598,779"/>
+<area shape="rect" id="node17" href="$dc/d9a/lp__matrix_8c.html#a71e7dd8e4b57b44fa4edffdffd67436a" title="mat_setcol" alt="" coords="682,803,769,829"/>
+<area shape="rect" id="node19" href="$dc/d9a/lp__matrix_8c.html#a3b6cff0a7850997a4ac569451cb8ed47" title="mat_validate" alt="" coords="677,1512,773,1539"/>
+<area shape="rect" id="node21" href="$dc/d9a/lp__matrix_8c.html#a775830bba58140ea21b45ed391ad9efd" title="mat_zerocompact" alt="" coords="489,423,616,449"/>
+<area shape="rect" id="node18" href="$dc/d9a/lp__matrix_8c.html#a258da1c9a3b1fedd9704451f7ab7e6f4" title="mat_collength" alt="" coords="845,803,947,829"/>
+<area shape="rect" id="node20" href="$dc/d9a/lp__matrix_8c.html#a11d446e1461f23530cf5dc5b8e0a3b6a" title="mat_set_rowmap" alt="" coords="835,1461,957,1488"/>
+<area shape="rect" id="node22" href="$dc/d9a/lp__matrix_8c.html#aa254555483d8d735f93622ab6d83f584" title="mat_rowcompact" alt="" coords="664,397,787,424"/>
+</map>

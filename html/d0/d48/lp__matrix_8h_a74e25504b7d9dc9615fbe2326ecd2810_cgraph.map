@@ -1,0 +1,8 @@
+<map id="mat_create" name="mat_create">
+<area shape="rect" id="node2" href="$dc/d9a/lp__matrix_8c.html#abf3d05d4e087dfe244d940213aea309e" title="inc_matrow_space" alt="" coords="140,5,271,32"/>
+<area shape="rect" id="node4" href="$dc/d9a/lp__matrix_8c.html#a71e24efc6f48aa6fb098d9f471574d1c" title="inc_matcol_space" alt="" coords="142,56,269,83"/>
+<area shape="rect" id="node5" href="$dc/d9a/lp__matrix_8c.html#a2239ebb44f76930fc243a0457c8c94d9" title="inc_mat_space" alt="" coords="150,107,261,133"/>
+<area shape="rect" id="node3" href="$d9/d18/lp__utils_8c.html#a2081b8e14a0691b7e3931fa280ad9e63" title="allocINT" alt="" coords="335,56,406,83"/>
+<area shape="rect" id="node6" href="$dc/d9a/lp__matrix_8c.html#a9430c42ed7853fd8dd6463ed7165f243" title="mat_nonzeros" alt="" coords="319,107,423,133"/>
+<area shape="rect" id="node7" href="$d9/d18/lp__utils_8c.html#a7b25e1f9aee74052b4b6df28443ebf48" title="allocREAL" alt="" coords="329,157,413,184"/>
+</map>

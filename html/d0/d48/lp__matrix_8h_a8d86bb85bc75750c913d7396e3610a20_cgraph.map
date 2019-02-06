@@ -1,0 +1,6 @@
+<map id="mat_multrow" name="mat_multrow">
+<area shape="rect" id="node2" href="$dc/d9a/lp__matrix_8c.html#a3b6cff0a7850997a4ac569451cb8ed47" title="mat_validate" alt="" coords="151,56,247,83"/>
+<area shape="rect" id="node3" href="$d9/d18/lp__utils_8c.html#a2081b8e14a0691b7e3931fa280ad9e63" title="allocINT" alt="" coords="321,5,391,32"/>
+<area shape="rect" id="node4" href="$dc/d9a/lp__matrix_8c.html#a9430c42ed7853fd8dd6463ed7165f243" title="mat_nonzeros" alt="" coords="304,56,408,83"/>
+<area shape="rect" id="node5" href="$dc/d9a/lp__matrix_8c.html#a11d446e1461f23530cf5dc5b8e0a3b6a" title="mat_set_rowmap" alt="" coords="295,107,417,133"/>
+</map>

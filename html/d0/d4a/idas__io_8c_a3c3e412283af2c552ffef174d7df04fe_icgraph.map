@@ -1,0 +1,7 @@
+<map id="IDASetMaxStep" name="IDASetMaxStep">
+<area shape="rect" id="node2" href="$d9/dde/fida_8h.html#a842d5a42671cd1fe13e03fd9a3b8af48" title="FIDA_SETRIN" alt="" coords="179,5,289,32"/>
+<area shape="rect" id="node3" href="$de/ddc/build_2include_2omc_2c_2sundials_2idas_2idas_8h.html#a4faadd34f37bd335eab9e99eeff1c0aa" title="IDASetMaxStepB" alt="" coords="171,56,297,83"/>
+<area shape="rect" id="node4" href="$d1/d0d/class_ida.html#a076ebddc85a48c81623e205f2ca9874a" title="Spezielle Solvereinstellungen setzten (default oder user defined) " alt="" coords="187,107,281,133"/>
+<area shape="rect" id="node5" href="$d1/d0d/class_ida.html#a289cf95889af136a4bb11e4c537daa78" title="Berechung der numerischen Lösung innerhalb eines gegebenen Zeitintervalls. " alt="" coords="345,107,424,133"/>
+<area shape="rect" id="node6" href="$d1/d0d/class_ida.html#ad186bf83203716276cc87d63dcac2cec" title="Setzen der initialen Schrittweite (z.B. auch nach Nullstelle) " alt="" coords="472,107,609,133"/>
+</map>
