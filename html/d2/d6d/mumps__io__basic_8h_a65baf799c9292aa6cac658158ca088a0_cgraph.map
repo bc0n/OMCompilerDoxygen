@@ -1,0 +1,9 @@
+<map id="mumps_io_alloc_pointers" name="mumps_io_alloc_pointers">
+<area shape="rect" id="node2" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="438,6,498,33"/>
+<area shape="rect" id="node3" href="$d0/d58/mumps__io__err_8c.html#a2e8fdf3ea4c54c2237714f16c4b970ab" title="mumps_io_error" alt="" coords="411,93,525,120"/>
+<area shape="rect" id="node7" href="$d1/d6a/mumps__io__basic_8c.html#ae823a511fc52f74bf720389902bfc729" title="mumps_io_init_file\l_struct" alt="" coords="227,94,358,135"/>
+<area shape="rect" id="node8" href="$d1/d6a/mumps__io__basic_8c.html#ac2aacc1f2e12335ac0ae6666d6c2e5db" title="mumps_io_alloc_file\l_struct" alt="" coords="223,28,363,70"/>
+<area shape="rect" id="node4" href="$d0/d58/mumps__io__err_8c.html#ae359b055e5eb9e74782eae78d3593533" title="mumps_io_protect_err" alt="" coords="581,42,731,69"/>
+<area shape="rect" id="node5" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="629,93,683,120"/>
+<area shape="rect" id="node6" href="$d0/d58/mumps__io__err_8c.html#a075daa4b786a77f4a7e8c42723ebcb56" title="mumps_io_unprotect_err" alt="" coords="573,144,739,170"/>
+</map>

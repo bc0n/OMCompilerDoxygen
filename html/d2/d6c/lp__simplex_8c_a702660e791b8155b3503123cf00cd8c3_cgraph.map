@@ -1,0 +1,13 @@
+<map id="heuristics" name="heuristics">
+<area shape="rect" id="node2" href="$d2/d6c/lp__simplex_8c.html#a1220bccd183bf2a00e735a475ac982bd" title="make_lag" alt="" coords="132,132,211,159"/>
+<area shape="rect" id="node12" href="$dd/dc0/commonlib_8c.html#a27e32f680bca968d7155347aa07ee3c8" title="timeNow" alt="" coords="134,183,209,209"/>
+<area shape="rect" id="node3" href="$d4/d79/lp__lib_8c.html#adf404d01bb0e497e22b77fb59c53f02f" title="inc_lag_space" alt="" coords="259,132,364,159"/>
+<area shape="rect" id="node4" href="$d4/d79/lp__lib_8c.html#a4976f1e0605a15976a65b995d3baa1dc" title="get_Lrows" alt="" coords="414,5,497,32"/>
+<area shape="rect" id="node5" href="$d9/d18/lp__utils_8c.html#a7b25e1f9aee74052b4b6df28443ebf48" title="allocREAL" alt="" coords="735,56,819,83"/>
+<area shape="rect" id="node6" href="$d9/d18/lp__utils_8c.html#a2081b8e14a0691b7e3931fa280ad9e63" title="allocINT" alt="" coords="742,183,813,209"/>
+<area shape="rect" id="node7" href="$dc/d9a/lp__matrix_8c.html#a74e25504b7d9dc9615fbe2326ecd2810" title="mat_create" alt="" coords="412,157,499,184"/>
+<area shape="rect" id="node8" href="$dc/d9a/lp__matrix_8c.html#abf3d05d4e087dfe244d940213aea309e" title="inc_matrow_space" alt="" coords="547,157,677,184"/>
+<area shape="rect" id="node9" href="$dc/d9a/lp__matrix_8c.html#a71e24efc6f48aa6fb098d9f471574d1c" title="inc_matcol_space" alt="" coords="549,208,675,235"/>
+<area shape="rect" id="node10" href="$dc/d9a/lp__matrix_8c.html#a2239ebb44f76930fc243a0457c8c94d9" title="inc_mat_space" alt="" coords="557,107,667,133"/>
+<area shape="rect" id="node11" href="$dc/d9a/lp__matrix_8c.html#a9430c42ed7853fd8dd6463ed7165f243" title="mat_nonzeros" alt="" coords="725,107,829,133"/>
+</map>
