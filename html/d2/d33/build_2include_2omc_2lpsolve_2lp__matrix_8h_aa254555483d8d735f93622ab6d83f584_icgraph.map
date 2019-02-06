@@ -1,0 +1,6 @@
+<map id="mat_rowcompact" name="mat_rowcompact">
+<area shape="rect" id="node2" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#a775830bba58140ea21b45ed391ad9efd" title="mat_zerocompact" alt="" coords="176,5,303,32"/>
+<area shape="rect" id="node3" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#a5837615af370330b157d64f375718962" title="mat_setrow" alt="" coords="351,5,441,32"/>
+<area shape="rect" id="node4" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#a71e7dd8e4b57b44fa4edffdffd67436a" title="mat_setcol" alt="" coords="489,5,576,32"/>
+<area shape="rect" id="node5" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#a8025e5e32b2dc272bdd7ad3b6381d314" title="mat_mergemat" alt="" coords="624,5,733,32"/>
+</map>

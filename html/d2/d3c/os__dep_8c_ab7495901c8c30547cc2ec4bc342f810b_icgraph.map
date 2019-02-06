@@ -1,0 +1,8 @@
+<map id="GC_find_limit" name="GC_find_limit">
+<area shape="rect" id="node2" href="$d2/d3c/os__dep_8c.html#a44a5cc5a0f6f1feb06475b6d7f880c0d" title="GC_init_linux_data\l_start" alt="" coords="179,5,311,47"/>
+<area shape="rect" id="node3" href="$d2/d3c/os__dep_8c.html#aef752e3909398a4bb747538a746e24ab" title="GC_init_netbsd_elf" alt="" coords="178,71,311,98"/>
+<area shape="rect" id="node4" href="$d2/d3c/os__dep_8c.html#af9cca322f452a3242d4ddae4f582ace7" title="GC_get_main_stack_base" alt="" coords="157,122,333,149"/>
+<area shape="rect" id="node6" href="$d2/d3c/os__dep_8c.html#ab184d85856e1baa95ca4271954305ac6" title="GC_SysVGetDataStart" alt="" coords="165,173,324,199"/>
+<area shape="rect" id="node7" href="$d2/d3c/os__dep_8c.html#a91340395b546f981b76f893400389cfc" title="GC_FreeBSDGetDataStart" alt="" coords="155,223,335,250"/>
+<area shape="rect" id="node5" href="$d2/d3c/os__dep_8c.html#a09251998bd28d60637173777b72fec2f" title="GC_get_stack_base" alt="" coords="383,122,524,149"/>
+</map>

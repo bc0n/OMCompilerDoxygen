@@ -1,0 +1,24 @@
+digraph "ML_Aggregate_AnalyzeLocalGraphDec"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="ML_Aggregate_AnalyzeLocal\lGraphDec",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="sum",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d3c/examplehs071_8m.html#ad1d7e10c2dad1043eb0e1b51f99f1b31"];
+  Node0 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="ML_gsum_int",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/de2/ml__utils_8c.html#aa6d1397a2d84bb92040aa1131f07394e"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="ML_gsum_scalar_int",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/de2/ml__utils_8c.html#a8113147d48fc7d46cf8117c0698fdad0"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="MPI_Allreduce",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d91/_n___v_dot_prod_8m.html#ada2f602fc0ac693d1c0f4cd1a2fb0d50"];
+  Node0 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="ML_gmin_int",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/de2/ml__utils_8c.html#a6dc39bbf388de3b503d28100abb0064e"];
+  Node5 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="ML_gmax_int",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/de2/ml__utils_8c.html#acebad6609ad7d983059a576227273c92"];
+  Node6 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="ML_gsum_double",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/de2/ml__utils_8c.html#aa8205be523aca7a93bc89cbdee3b1c40"];
+  Node7 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

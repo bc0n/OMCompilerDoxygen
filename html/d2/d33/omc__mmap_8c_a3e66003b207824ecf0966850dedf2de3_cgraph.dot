@@ -1,0 +1,11 @@
+digraph "omc_mmap_close_write_inmemory"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2 [label="omc_mmap_close_write\l_inmemory",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="throwStreamPrint",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d3d/omc__error_8c.html#ace3549ed53d1ce9f60bcdfe2f941a592"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="va_throwStreamPrint",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d3d/omc__error_8c.html#aa11774b25878a13bb0b79660763b3ca4"];
+}

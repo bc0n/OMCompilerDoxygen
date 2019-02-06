@@ -1,0 +1,9 @@
+<map id="IDASensResDQ" name="IDASensResDQ">
+<area shape="rect" id="node2" href="$dc/df1/idas_8c.html#aea616b87835666c5c1cef97508855744" title="IDACreate" alt="" coords="177,56,261,83"/>
+<area shape="rect" id="node8" href="$de/ddc/build_2include_2omc_2c_2sundials_2idas_2idas_8h.html#afd7aae32ec4410c690b76c629161334e" title="IDASensInit" alt="" coords="172,107,265,133"/>
+<area shape="rect" id="node3" href="$d9/dde/fida_8h.html#ab02edc3fef187debf42b292c58d3ae85" title="FIDA_MALLOC" alt="" coords="313,5,428,32"/>
+<area shape="rect" id="node4" href="$de/ddc/build_2include_2omc_2c_2sundials_2idas_2idas_8h.html#a6f2970e813b3484cea40c467ac186fce" title="IDACreateB" alt="" coords="324,56,417,83"/>
+<area shape="rect" id="node5" href="$d1/d0d/class_ida.html#a076ebddc85a48c81623e205f2ca9874a" title="Spezielle Solvereinstellungen setzten (default oder user defined) " alt="" coords="323,107,418,133"/>
+<area shape="rect" id="node6" href="$d1/d0d/class_ida.html#a289cf95889af136a4bb11e4c537daa78" title="Berechung der numerischen Lösung innerhalb eines gegebenen Zeitintervalls. " alt="" coords="476,107,555,133"/>
+<area shape="rect" id="node7" href="$d1/d0d/class_ida.html#ad186bf83203716276cc87d63dcac2cec" title="Setzen der initialen Schrittweite (z.B. auch nach Nullstelle) " alt="" coords="603,107,740,133"/>
+</map>

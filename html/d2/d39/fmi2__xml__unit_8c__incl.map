@@ -1,0 +1,26 @@
+<map id="OMCompiler/3rdParty/FMIL/src/XML/src/FMI2/fmi2_xml_unit.c" name="OMCompiler/3rdParty/FMIL/src/XML/src/FMI2/fmi2_xml_unit.c">
+<area shape="rect" id="node2" href="$da/d37/fmi2__xml__model__description__impl_8h.html" title="fmi2_xml_model_description\l_impl.h" alt="" coords="513,109,700,151"/>
+<area shape="rect" id="node27" href="$d5/d64/fmi2__xml__unit__impl_8h.html" title="fmi2_xml_unit_impl.h" alt="" coords="301,273,446,300"/>
+<area shape="rect" id="node4" href="$dd/d42/jm__callbacks_8h.html" title="JM/jm_callbacks.h" alt="" coords="893,661,1024,688"/>
+<area shape="rect" id="node8" href="$d9/d78/jm__vector_8h.html" title="JM/jm_vector.h" alt="" coords="123,587,235,613"/>
+<area shape="rect" id="node11" href="$d8/d33/jm__named__ptr_8h.html" title="JM/jm_named_ptr.h" alt="" coords="403,512,541,539"/>
+<area shape="rect" id="node12" href="$da/de6/jm__string__set_8h.html" title="JM/jm_string_set.h" alt="" coords="245,512,379,539"/>
+<area shape="rect" id="node14" href="$d8/d60/fmi2__xml__model__description_8h.html" title="Public interface to the FMI XML C&#45;library. " alt="" coords="1155,423,1306,464"/>
+<area shape="rect" id="node31" href="$df/da3/fmi2__xml__type__impl_8h.html" title="fmi2_xml_type_impl.h" alt="" coords="532,273,681,300"/>
+<area shape="rect" id="node32" href="$d4/d3d/fmi2__xml__variable__impl_8h.html" title="fmi2_xml_variable_impl.h" alt="" coords="583,199,753,225"/>
+<area shape="rect" id="node7" href="$d2/d4d/jm__types_8h.html" title="jm_types.h" alt="" coords="834,736,921,763"/>
+<area shape="rect" id="node15" href="$d2/d74/fmi__xml__context_8h.html" title="XML context is the entry point to the library. It is used to initialize, get FMI version and start pa..." alt="" coords="1457,587,1613,613"/>
+<area shape="rect" id="node17" href="$d1/dac/fmi2__types_8h.html" title="FMI2/fmi2_types.h" alt="" coords="1959,512,2089,539"/>
+<area shape="rect" id="node19" href="$d8/d6c/fmi2__enums_8h.html" title="Definions the enum types used with FMI 2.0 libs. " alt="" coords="772,512,911,539"/>
+<area shape="rect" id="node20" href="$d0/d4f/fmi2__xml__callbacks_8h.html" title="FMI2/fmi2_xml_callbacks.h" alt="" coords="565,512,747,539"/>
+<area shape="rect" id="node21" href="$d6/d34/fmi2__xml__type_8h.html" title="Public interface to the FMI XML C&#45;library: variable types handling. " alt="" coords="1314,587,1433,613"/>
+<area shape="rect" id="node22" href="$d5/d19/fmi2__xml__unit_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of variable units. " alt="" coords="1636,512,1751,539"/>
+<area shape="rect" id="node23" href="$da/d95/fmi2__xml__variable_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of model variables. " alt="" coords="1423,512,1561,539"/>
+<area shape="rect" id="node24" href="$d8/d30/fmi2__xml__capabilities_8h.html" title="fmi2_xml_capabilities.h" alt="" coords="1775,512,1934,539"/>
+<area shape="rect" id="node25" href="$dc/d0b/fmi2__xml__cosim_8h.html" title="fmi2_xml_cosim.h" alt="" coords="985,512,1113,539"/>
+<area shape="rect" id="node26" href="$df/d50/fmi2__xml__model__structure_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of vendor annotations. " alt="" coords="1137,512,1324,539"/>
+<area shape="rect" id="node16" href="$dc/dd6/fmi__version_8h.html" title="Enum defining supported FMI versions. " alt="" coords="1173,736,1299,763"/>
+<area shape="rect" id="node18" href="$da/d5b/3rd_party_2_f_m_i_l_2_third_party_2_f_m_i_2default_2_f_m_i2_2fmi2_types_platform_8h.html" title="FMI2/fmi2TypesPlatform.h" alt="" coords="1911,587,2089,613"/>
+<area shape="rect" id="node28" href="$d0/de5/fmi2__xml__parser_8h.html" title="fmi2_xml_parser.h" alt="" coords="430,348,559,375"/>
+<area shape="rect" id="node30" href="$d3/d98/jm__stack_8h.html" title="JM/jm_stack.h" alt="" coords="246,430,354,457"/>
+</map>

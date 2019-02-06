@@ -1,0 +1,35 @@
+digraph "bsolve_xA2"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node76 [label="bsolve_xA2",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node76 -> Node77 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node77 [label="prod_xA",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d9a/lp__matrix_8c.html#af9acadda0286df191bd2b08c7811336b"];
+  Node77 -> Node78 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node78 [label="mempool_obtainVector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/daa/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__utils_8h.html#a233b90f38c3d8ee45f68c6cf2a52f6c7"];
+  Node77 -> Node79 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node79 [label="get_colIndexA",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d9a/lp__matrix_8c.html#a00e1a47f99bafc7bc525936719053bb6"];
+  Node79 -> Node80 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node80 [label="partial_blockStart",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d69/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__price_8h.html#aad871e7628dd08ee91e5186e24673d5a"];
+  Node79 -> Node81 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node81 [label="partial_blockEnd",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d69/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__price_8h.html#a6494d316c18292fc4f62ad39591a383a"];
+  Node79 -> Node82 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node82 [label="mat_collength",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d9a/lp__matrix_8c.html#a258da1c9a3b1fedd9704451f7ab7e6f4"];
+  Node77 -> Node83 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node83 [label="mempool_releaseVector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/daa/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__utils_8h.html#a0e98bd3eae05375391aa13a79dc248f9"];
+  Node77 -> Node84 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84 [label="vec_compress",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d9a/lp__matrix_8c.html#a1236d2af75570c5f158edcc0583233a5"];
+  Node77 -> Node85 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node85 [label="get_OF_active",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#aaf55ff4edccac8bf6e8f9345d46e8e50"];
+  Node77 -> Node86 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node86 [label="get_basisOF",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#a1cfe6e6d89b2bd0ab58d3fa4f41db876"];
+  Node76 -> Node86 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node76 -> Node87 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87 [label="prod_xA2",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d9a/lp__matrix_8c.html#aa1da2f4aedeaee78fffe05110935f7ab"];
+  Node87 -> Node78 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87 -> Node79 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87 -> Node83 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87 -> Node85 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87 -> Node86 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

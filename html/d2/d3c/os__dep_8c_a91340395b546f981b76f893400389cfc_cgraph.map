@@ -1,0 +1,22 @@
+<map id="GC_FreeBSDGetDataStart" name="GC_FreeBSDGetDataStart">
+<area shape="rect" id="node2" href="$d2/d3c/os__dep_8c.html#a2acd39a73b53bb325724abfa3415b95a" title="GC_setup_temporary\l_fault_handler" alt="" coords="711,23,858,64"/>
+<area shape="rect" id="node6" href="$d2/d3c/os__dep_8c.html#a4be675d8de4fc54eb1a553a4f79abdb6" title="GC_reset_fault_handler" alt="" coords="705,144,864,170"/>
+<area shape="rect" id="node7" href="$d2/d3c/os__dep_8c.html#ab7495901c8c30547cc2ec4bc342f810b" title="GC_find_limit" alt="" coords="277,90,378,117"/>
+<area shape="rect" id="node10" href="$d2/d3c/os__dep_8c.html#a3d0d3f82fd76148cd7432d53d70b1fc6" title="GC_register_data_segments" alt="" coords="233,297,421,324"/>
+<area shape="rect" id="node13" href="$dd/d79/gc__priv_8h.html#a75a78418f0a04f04ffd9edd82461f646" title="GC_add_roots_inner" alt="" coords="493,398,634,425"/>
+<area shape="rect" id="node15" href="$d2/d3c/os__dep_8c.html#aa6d7b4a55525af07d9bf41f51e2bad27" title="GC_find_limit_openbsd" alt="" coords="249,398,406,425"/>
+<area shape="rect" id="node17" href="$d2/d3c/os__dep_8c.html#a9650ec89c5263c94d5feb7501aa0586e" title="GC_skip_hole_openbsd" alt="" coords="247,449,407,476"/>
+<area shape="rect" id="node18" href="$d2/d3c/os__dep_8c.html#ac80b49905a0968edf0b541007d552a55" title="sbrk" alt="" coords="304,500,351,526"/>
+<area shape="rect" id="node19" href="$de/d92/_mac_o_s_8c.html#af0f592ca26979a59bef5485b6b146f17" title="GC_MacGetDataStart" alt="" coords="252,550,403,577"/>
+<area shape="rect" id="node21" href="$de/d92/_mac_o_s_8c.html#a5ac01b6a3dd7ce87c9c1bd6bd561284b" title="GC_MacGetDataEnd" alt="" coords="254,601,401,628"/>
+<area shape="rect" id="node3" href="$d2/d3c/os__dep_8c.html#a6e8698284deaaa0c9d8e90692e82fd3f" title="GC_set_and_save_fault\l_handler" alt="" coords="912,23,1075,64"/>
+<area shape="rect" id="node5" href="$d2/d3c/os__dep_8c.html#a203e7f4517d4a77161a06f4fd15a960f" title="GC_fault_handler" alt="" coords="932,89,1055,116"/>
+<area shape="rect" id="node4" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="1123,144,1169,170"/>
+<area shape="rect" id="node8" href="$d2/d3c/os__dep_8c.html#a977e7c413d4183ccfebdee4ad7c05c28" title="GC_find_limit_with\l_bound" alt="" coords="497,79,629,120"/>
+<area shape="rect" id="node9" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#a233015def2a1752a7feb7c81d34f89e6" title="GC_noop1" alt="" coords="743,89,827,116"/>
+<area shape="rect" id="node11" href="$da/d6c/group__jm__vector.html#gaac2916bbf5bdc0c66a10d0bd32c9134b" title="if" alt="" coords="544,246,583,273"/>
+<area shape="rect" id="node12" href="$df/db9/_amiga_o_s_8c.html#ac369a2cb5b5f0a977e2c7080b6266199" title="GC_register_data_segments" alt="" coords="469,297,657,324"/>
+<area shape="rect" id="node14" href="$dd/d79/gc__priv_8h.html#a515817b1cc28538efe42e953361e6cb1" title="GC_err_printf" alt="" coords="513,348,613,374"/>
+<area shape="rect" id="node16" href="$d2/d3c/os__dep_8c.html#ae039e9eafc764e0edd206527092241b5" title="GC_fault_handler_openbsd" alt="" coords="474,449,653,476"/>
+<area shape="rect" id="node20" href="$d4/d98/g_09_09malloc_8c.html#a49f789e614e57e410f598885b800c2df" title="fprintf" alt="" coords="536,576,591,602"/>
+</map>

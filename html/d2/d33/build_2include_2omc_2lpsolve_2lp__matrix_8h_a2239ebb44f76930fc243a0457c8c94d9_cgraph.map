@@ -1,0 +1,6 @@
+<map id="inc_mat_space" name="inc_mat_space">
+<area shape="rect" id="node2" href="$dc/d9a/lp__matrix_8c.html#a9430c42ed7853fd8dd6463ed7165f243" title="mat_nonzeros" alt="" coords="164,5,268,32"/>
+<area shape="rect" id="node3" href="$dc/d51/mallocx_8c.html#a107a5b003f5c4846342feae2c4b5e379" title="realloc" alt="" coords="186,56,246,83"/>
+<area shape="rect" id="node4" href="$d1/daa/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__utils_8h.html#a2081b8e14a0691b7e3931fa280ad9e63" title="allocINT" alt="" coords="181,107,251,133"/>
+<area shape="rect" id="node5" href="$d1/daa/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__utils_8h.html#a7b25e1f9aee74052b4b6df28443ebf48" title="allocREAL" alt="" coords="174,157,258,184"/>
+</map>

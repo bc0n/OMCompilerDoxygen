@@ -1,0 +1,9 @@
+<map id="mat_set_rowmap" name="mat_set_rowmap">
+<area shape="rect" id="node2" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#a3b6cff0a7850997a4ac569451cb8ed47" title="mat_validate" alt="" coords="176,81,272,108"/>
+<area shape="rect" id="node3" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#adbd1aad8dd9973d9fcb55ffe330bcf4c" title="mat_rowlength" alt="" coords="324,5,431,32"/>
+<area shape="rect" id="node4" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#a331839e0f42ab0c1d448bc60992236a3" title="mat_indexrange" alt="" coords="320,56,435,83"/>
+<area shape="rect" id="node5" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#a5837615af370330b157d64f375718962" title="mat_setrow" alt="" coords="332,107,423,133"/>
+<area shape="rect" id="node8" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#a8d86bb85bc75750c913d7396e3610a20" title="mat_multrow" alt="" coords="329,157,426,184"/>
+<area shape="rect" id="node6" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#a71e7dd8e4b57b44fa4edffdffd67436a" title="mat_setcol" alt="" coords="483,107,569,133"/>
+<area shape="rect" id="node7" href="$d2/d33/build_2include_2omc_2lpsolve_2lp__matrix_8h.html#a8025e5e32b2dc272bdd7ad3b6381d314" title="mat_mergemat" alt="" coords="617,107,727,133"/>
+</map>

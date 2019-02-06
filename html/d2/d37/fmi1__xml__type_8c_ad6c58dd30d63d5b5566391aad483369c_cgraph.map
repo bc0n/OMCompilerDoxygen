@@ -1,0 +1,9 @@
+<map id="fmi1_xml_handle_EnumerationType" name="fmi1_xml_handle_EnumerationType">
+<area shape="rect" id="node2" href="$da/d6c/group__jm__vector.html#ga171c1408355aadd57d55422aaa313ede" title="jm_vector" alt="" coords="326,5,405,32"/>
+<area shape="rect" id="node3" href="$d2/d37/fmi1__xml__type_8c.html#a074c0e6112ef44e1365fc2a6f4c9db81" title="fmi1_check_last_elem\l_is_specific_type" alt="" coords="289,57,441,98"/>
+<area shape="rect" id="node6" href="$d2/d37/fmi1__xml__type_8c.html#a41b3601629adb96e800c6980e031c5d4" title="fmi1_xml_alloc_variable\l_type_props" alt="" coords="285,122,446,163"/>
+<area shape="rect" id="node8" href="$d0/d34/fmi1__xml__parser_8c.html#a01b3caf9e88651c7db8bb114e45bc3b9" title="fmi1_xml_set_attr_string" alt="" coords="283,188,448,215"/>
+<area shape="rect" id="node4" href="$d0/d34/fmi1__xml__parser_8c.html#a094720ead8128988a23de837e2543d98" title="fmi1_xml_parse_fatal" alt="" coords="498,64,645,91"/>
+<area shape="rect" id="node5" href="$d6/dac/group__jm__callbacks.html#gaba6d03fb084724a1a8928e59fe5b6e39" title="Send a fatal error message to the logger function. See jm_log() for details. " alt="" coords="695,64,801,91"/>
+<area shape="rect" id="node7" href="$d2/d37/fmi1__xml__type_8c.html#a2d2fd56af076efae36c984a6de87487b" title="fmi1_xml_init_variable\l_type_base" alt="" coords="496,122,647,163"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="GC_init_linux_data_start" name="GC_init_linux_data_start">
+<area shape="rect" id="node2" href="$dd/d79/gc__priv_8h.html#ada843fec7ffa10957a47951e0691f73b" title="GC_log_printf" alt="" coords="185,21,288,47"/>
+<area shape="rect" id="node3" href="$d2/d3c/os__dep_8c.html#ab7495901c8c30547cc2ec4bc342f810b" title="GC_find_limit" alt="" coords="186,71,287,98"/>
+<area shape="rect" id="node4" href="$d2/d3c/os__dep_8c.html#a977e7c413d4183ccfebdee4ad7c05c28" title="GC_find_limit_with\l_bound" alt="" coords="336,64,468,105"/>
+<area shape="rect" id="node5" href="$d2/d3c/os__dep_8c.html#a2acd39a73b53bb325724abfa3415b95a" title="GC_setup_temporary\l_fault_handler" alt="" coords="516,5,663,47"/>
+<area shape="rect" id="node9" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#a233015def2a1752a7feb7c81d34f89e6" title="GC_noop1" alt="" coords="547,71,631,98"/>
+<area shape="rect" id="node10" href="$d2/d3c/os__dep_8c.html#a4be675d8de4fc54eb1a553a4f79abdb6" title="GC_reset_fault_handler" alt="" coords="713,122,871,149"/>
+<area shape="rect" id="node6" href="$d2/d3c/os__dep_8c.html#a6e8698284deaaa0c9d8e90692e82fd3f" title="GC_set_and_save_fault\l_handler" alt="" coords="711,5,873,47"/>
+<area shape="rect" id="node8" href="$d2/d3c/os__dep_8c.html#a203e7f4517d4a77161a06f4fd15a960f" title="GC_fault_handler" alt="" coords="731,71,853,98"/>
+<area shape="rect" id="node7" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="921,67,968,94"/>
+</map>

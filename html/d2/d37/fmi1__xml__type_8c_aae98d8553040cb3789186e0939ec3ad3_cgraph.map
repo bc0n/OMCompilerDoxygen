@@ -1,0 +1,5 @@
+<map id="fmi1_get_declared_type" name="fmi1_get_declared_type">
+<area shape="rect" id="node2" href="$da/d6c/group__jm__vector.html#ga171c1408355aadd57d55422aaa313ede" title="jm_vector" alt="" coords="257,5,335,32"/>
+<area shape="rect" id="node3" href="$d0/d34/fmi1__xml__parser_8c.html#a01b3caf9e88651c7db8bb114e45bc3b9" title="fmi1_xml_set_attr_string" alt="" coords="213,56,379,83"/>
+<area shape="rect" id="node4" href="$d6/dac/group__jm__callbacks.html#gada5096ac90f8adc61a90b76597c4ae05" title="Send a error message to the logger function. See jm_log() for details. " alt="" coords="249,107,343,133"/>
+</map>

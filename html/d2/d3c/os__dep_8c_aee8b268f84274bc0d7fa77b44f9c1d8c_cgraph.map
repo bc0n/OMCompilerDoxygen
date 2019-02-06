@@ -1,0 +1,5 @@
+<map id="GC_push_old_obj" name="GC_push_old_obj">
+<area shape="rect" id="node2" href="$dd/d79/gc__priv_8h.html#a3ff4a0804ef33fd7475e417db3ecbd3e" title="GC_push_all_stack" alt="" coords="179,31,315,57"/>
+<area shape="rect" id="node3" href="$d1/db7/mark_8c.html#af985b9923fd6f23c352a65578f37358a" title="GC_push_all" alt="" coords="382,5,479,32"/>
+<area shape="rect" id="node4" href="$d1/db7/mark_8c.html#aea25a91d1528ab707729b8b1d8bfb7c7" title="GC_push_all_eager" alt="" coords="363,56,499,83"/>
+</map>

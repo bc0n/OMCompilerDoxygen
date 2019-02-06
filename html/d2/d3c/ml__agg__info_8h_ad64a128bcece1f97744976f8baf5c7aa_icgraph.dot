@@ -1,0 +1,11 @@
+digraph "ML_Info_DomainDecomp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node214 [label="ML_Info_DomainDecomp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node214 -> Node215 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node215 [label="ML_Aggregate_VizAndStats\l_Compute",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d3c/ml__agg__info_8h.html#a8fdd4dec8e67a35b8d673b9b521c6f01",tooltip="visualize aggregates and compute some statistics on the aggregates, like their diameter and number of..."];
+  Node214 -> Node216 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node216 [label="ML_Aggregate_Stats\l_Analyze",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d3c/ml__agg__info_8h.html#abd27d374c828bffaf682d13c9edf6dee"];
+}

@@ -1,0 +1,9 @@
+digraph "pANTLR3_INPUT_STREAM - Input Stream Implementation"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir=LR;
+  Node0 [label="pANTLR3_INPUT_STREAM\l - Input Stream Implementation",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 [label="API Implementation\l functions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/de9/group__apiimplementations.html"];
+  Node1->Node0 [shape=plaintext, dir="back", style="solid"];
+}

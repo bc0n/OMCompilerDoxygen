@@ -1,0 +1,5 @@
+<map id="GC_save_callers" name="GC_save_callers">
+<area shape="rect" id="node2" href="$d6/da5/msvc__dbg_8c.html#a8f59b8dfd01e3b622213a1d3b7472e47" title="backtrace" alt="" coords="219,5,298,32"/>
+<area shape="rect" id="node4" href="$dd/d79/gc__priv_8h.html#afc0163a408c2a2d0f1f9c470a5438f2d" title="GC_save_regs_in_stack" alt="" coords="176,56,341,83"/>
+<area shape="rect" id="node3" href="$d6/da5/msvc__dbg_8c.html#add7e9e82f3de93b831426352b0641938" title="GetStackFrames" alt="" coords="389,5,511,32"/>
+</map>

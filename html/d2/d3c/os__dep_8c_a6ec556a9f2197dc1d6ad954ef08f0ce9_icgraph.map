@@ -1,0 +1,5 @@
+<map id="GC_init_win32" name="GC_init_win32">
+<area shape="rect" id="node2" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#a16a0e282a07c598595436b79e88d6e00" title="GC_init" alt="" coords="160,31,227,57"/>
+<area shape="rect" id="node3" href="$de/dd3/gc_2misc_8c.html#af2180ba22a6f398984e28ed2008b5580" title="GC_set_handle_fork" alt="" coords="275,5,416,32"/>
+<area shape="rect" id="node4" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#a7fe7bcb1af1dff6ae34b93f15ef80c40" title="GC_set_warn_proc" alt="" coords="278,56,413,83"/>
+</map>

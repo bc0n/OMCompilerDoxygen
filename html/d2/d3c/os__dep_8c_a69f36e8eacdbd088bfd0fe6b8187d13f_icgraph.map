@@ -1,0 +1,10 @@
+<map id="GC_setpagesize" name="GC_setpagesize">
+<area shape="rect" id="node2" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#a16a0e282a07c598595436b79e88d6e00" title="GC_init" alt="" coords="633,120,699,147"/>
+<area shape="rect" id="node5" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#a28b48d7c528209a6158075c4e15852d5" title="GC_enable_incremental" alt="" coords="585,196,747,223"/>
+<area shape="rect" id="node6" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#ae072af1dbf9cb7301ded40fd4d0ff3e9" title="GC_get_stack_base" alt="" coords="172,107,313,133"/>
+<area shape="rect" id="node3" href="$de/dd3/gc_2misc_8c.html#af2180ba22a6f398984e28ed2008b5580" title="GC_set_handle_fork" alt="" coords="795,95,936,121"/>
+<area shape="rect" id="node4" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#a7fe7bcb1af1dff6ae34b93f15ef80c40" title="GC_set_warn_proc" alt="" coords="798,145,933,172"/>
+<area shape="rect" id="node7" href="$dd/d79/gc__priv_8h.html#a69f36e8eacdbd088bfd0fe6b8187d13f" title="GC_setpagesize" alt="" coords="390,107,509,133"/>
+<area shape="rect" id="node8" href="$d2/d3c/os__dep_8c.html#af9cca322f452a3242d4ddae4f582ace7" title="GC_get_main_stack_base" alt="" coords="361,5,537,32"/>
+<area shape="rect" id="node9" href="$d2/d3c/os__dep_8c.html#a09251998bd28d60637173777b72fec2f" title="GC_get_stack_base" alt="" coords="595,31,737,57"/>
+</map>

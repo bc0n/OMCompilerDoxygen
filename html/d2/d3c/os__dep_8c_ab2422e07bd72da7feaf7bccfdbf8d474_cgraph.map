@@ -1,0 +1,6 @@
+<map id="GC_mprotect_thread" name="GC_mprotect_thread">
+<area shape="rect" id="node2" href="$d8/d7f/darwin__stop__world_8c.html#a48fdc23192e25e0af79da27d7e153426" title="GC_darwin_register\l_mach_handler_thread" alt="" coords="196,5,349,47"/>
+<area shape="rect" id="node3" href="$d2/d3c/os__dep_8c.html#a7337535380a5882b5a8038d1bedd96a5" title="GC_mprotect_thread\l_reply" alt="" coords="201,71,344,112"/>
+<area shape="rect" id="node4" href="$d2/d3c/os__dep_8c.html#a7bdb5edb350559e5326031014896b19a" title="exc_server" alt="" coords="229,137,316,163"/>
+<area shape="rect" id="node5" href="$dd/d79/gc__priv_8h.html#a515817b1cc28538efe42e953361e6cb1" title="GC_err_printf" alt="" coords="223,187,323,214"/>
+</map>

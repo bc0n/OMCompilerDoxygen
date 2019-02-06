@@ -1,0 +1,10 @@
+<map id="GC_setup_temporary_fault_handler" name="GC_setup_temporary_fault_handler">
+<area shape="rect" id="node2" href="$d2/d3c/os__dep_8c.html#a977e7c413d4183ccfebdee4ad7c05c28" title="GC_find_limit_with\l_bound" alt="" coords="200,107,332,149"/>
+<area shape="rect" id="node8" href="$d2/d3c/os__dep_8c.html#ab184d85856e1baa95ca4271954305ac6" title="GC_SysVGetDataStart" alt="" coords="540,173,699,200"/>
+<area shape="rect" id="node9" href="$d2/d3c/os__dep_8c.html#a91340395b546f981b76f893400389cfc" title="GC_FreeBSDGetDataStart" alt="" coords="529,224,709,251"/>
+<area shape="rect" id="node3" href="$d2/d3c/os__dep_8c.html#ab7495901c8c30547cc2ec4bc342f810b" title="GC_find_limit" alt="" coords="380,115,481,141"/>
+<area shape="rect" id="node6" href="$d2/d3c/os__dep_8c.html#af9cca322f452a3242d4ddae4f582ace7" title="GC_get_main_stack_base" alt="" coords="531,5,707,32"/>
+<area shape="rect" id="node4" href="$d2/d3c/os__dep_8c.html#a44a5cc5a0f6f1feb06475b6d7f880c0d" title="GC_init_linux_data\l_start" alt="" coords="553,107,685,149"/>
+<area shape="rect" id="node5" href="$d2/d3c/os__dep_8c.html#aef752e3909398a4bb747538a746e24ab" title="GC_init_netbsd_elf" alt="" coords="553,56,686,83"/>
+<area shape="rect" id="node7" href="$d2/d3c/os__dep_8c.html#a09251998bd28d60637173777b72fec2f" title="GC_get_stack_base" alt="" coords="757,5,899,32"/>
+</map>
