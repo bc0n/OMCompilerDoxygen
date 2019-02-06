@@ -1,0 +1,5 @@
+<map id="zmq::i_mailbox::~i_mailbox" name="zmq::i_mailbox::~i_mailbox">
+<area shape="rect" id="node2" href="$d1/d1a/classzmq_1_1i__mailbox.html#a8f286c7033043078510e781465cf673b" title="zmq::i_mailbox::send" alt="" coords="187,5,333,32"/>
+<area shape="rect" id="node3" href="$d1/d1a/classzmq_1_1i__mailbox.html#a527b09a493c997e05f18b21626f19f53" title="zmq::i_mailbox::recv" alt="" coords="189,56,331,83"/>
+<area shape="rect" id="node4" href="$d1/d1a/classzmq_1_1i__mailbox.html#a39e1eed422efe5cd579120a4fb9eb446" title="zmq::i_mailbox::forked" alt="" coords="183,107,337,133"/>
+</map>

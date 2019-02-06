@@ -1,0 +1,25 @@
+<map id="lis_matrix_solve" name="lis_matrix_solve">
+<area shape="rect" id="node2" href="$d5/d58/lis__matrix__ops_8c.html#a70de9958e9fb04d432eea2bf0a454cef" title="lis_matrix_split" alt="" coords="187,259,297,285"/>
+<area shape="rect" id="node14" href="$d1/d1f/lis__matrix_8h.html#a7a7f24815ab8ee86363e8ace8ab7e1e0" title="lis_matrix_solve_csr" alt="" coords="171,309,313,336"/>
+<area shape="rect" id="node15" href="$d1/d1f/lis__matrix_8h.html#ae140cf2b2f4d6ea229a69ec3a12af9b6" title="lis_matrix_solve_bsr" alt="" coords="171,360,313,387"/>
+<area shape="rect" id="node16" href="$d1/d1f/lis__matrix_8h.html#ae87bdac6d2cc118388c79b6f9d7842cc" title="lis_matrix_solve_csc" alt="" coords="170,411,314,437"/>
+<area shape="rect" id="node17" href="$d1/d1f/lis__matrix_8h.html#a83af1b51e74328a1ddedf76c66a8e40b" title="lis_matrix_solve_msr" alt="" coords="169,461,315,488"/>
+<area shape="rect" id="node18" href="$d1/d1f/lis__matrix_8h.html#a46c0cbdda64eae5a45113b6aedfab2f1" title="lis_matrix_solve_ell" alt="" coords="174,512,310,539"/>
+<area shape="rect" id="node19" href="$d1/d1f/lis__matrix_8h.html#acfb4e9fa56f700a7fbdc1fd5db5ecfb8" title="lis_matrix_solve_jad" alt="" coords="172,563,312,589"/>
+<area shape="rect" id="node20" href="$d1/d1f/lis__matrix_8h.html#a3dcc34eb6830a263fbf11f3946377c7c" title="lis_matrix_solve_dia" alt="" coords="172,613,312,640"/>
+<area shape="rect" id="node21" href="$d1/d1f/lis__matrix_8h.html#a34d20dba116c41900f3e0df2cc2a1e9c" title="lis_matrix_solve_dns" alt="" coords="170,664,314,691"/>
+<area shape="rect" id="node22" href="$d1/d1f/lis__matrix_8h.html#abc111804701862820327f900601df29d" title="lis_matrix_solve_bsc" alt="" coords="170,715,314,741"/>
+<area shape="rect" id="node23" href="$d1/d1f/lis__matrix_8h.html#a16a92e2829bf93644193e722d6af4099" title="lis_matrix_solve_vbr" alt="" coords="171,765,313,792"/>
+<area shape="rect" id="node3" href="$d1/d1f/lis__matrix_8h.html#a22eabdda11d230c9e2d1449e2725a946" title="lis_matrix_split_csr" alt="" coords="365,5,499,32"/>
+<area shape="rect" id="node4" href="$d1/d1f/lis__matrix_8h.html#a743c420c3b0178941cd19a578e5bc379" title="lis_matrix_split_csc" alt="" coords="363,56,501,83"/>
+<area shape="rect" id="node5" href="$d1/d1f/lis__matrix_8h.html#abba8f95c1a28437503762658c21f5ac4" title="lis_matrix_split_bsr" alt="" coords="365,107,499,133"/>
+<area shape="rect" id="node6" href="$d1/d1f/lis__matrix_8h.html#ad9f269a595901ea6159dffb2b0139887" title="lis_matrix_split_msr" alt="" coords="363,157,501,184"/>
+<area shape="rect" id="node7" href="$d1/d1f/lis__matrix_8h.html#a5153e93afd10dd7042a1c7dac25eada0" title="lis_matrix_split_ell" alt="" coords="367,208,497,235"/>
+<area shape="rect" id="node8" href="$d1/d1f/lis__matrix_8h.html#aacbe2273941459e25844561d702b83c3" title="lis_matrix_split_dia" alt="" coords="365,259,499,285"/>
+<area shape="rect" id="node9" href="$d1/d1f/lis__matrix_8h.html#a344983a4b07c419fc74e0142afe9b2d9" title="lis_matrix_split_jad" alt="" coords="365,309,499,336"/>
+<area shape="rect" id="node10" href="$d1/d1f/lis__matrix_8h.html#a48a156335bab7834610cb3fc64e52c52" title="lis_matrix_split_bsc" alt="" coords="363,360,501,387"/>
+<area shape="rect" id="node11" href="$d1/d1f/lis__matrix_8h.html#a19bd9e1a855c6df7806b0823065859fd" title="lis_matrix_split_dns" alt="" coords="363,411,501,437"/>
+<area shape="rect" id="node12" href="$d1/d1f/lis__matrix_8h.html#ac9a703446bfb3200b9dc9180fa150194" title="lis_matrix_split_coo" alt="" coords="363,461,501,488"/>
+<area shape="rect" id="node13" href="$d1/d1f/lis__matrix_8h.html#a4ddff51e99960a51168ef43521588959" title="lis_matrix_split_vbr" alt="" coords="365,512,499,539"/>
+<area shape="rect" id="node24" href="$d3/d33/lis_8h.html#abff0c4f94df1aa3723b22c7cb1725916" title="lis_vector_copy" alt="" coords="375,765,489,792"/>
+</map>

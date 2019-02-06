@@ -1,0 +1,6 @@
+<map id="ARKodeSetInitStep" name="ARKodeSetInitStep">
+<area shape="rect" id="node2" href="$d7/d4c/farkode_8h.html#aab59c9d3babea978bd285407d84186b7" title="FARK_SETRIN" alt="" coords="191,5,306,32"/>
+<area shape="rect" id="node3" href="$da/d06/class_arkode.html#a3eff384d3099f447d376ff5493ab9e82" title="Spezielle Solvereinstellungen setzten (default oder user defined) " alt="" coords="189,56,308,83"/>
+<area shape="rect" id="node4" href="$da/d06/class_arkode.html#a39e6c051c6e46ad0070349f50dc95748" title="Berechung der numerischen Lösung innerhalb eines gegebenen Zeitintervalls. " alt="" coords="356,81,459,108"/>
+<area shape="rect" id="node5" href="$da/d06/class_arkode.html#a34a4e2f71a785e57d9a1527be1fa9590" title="Setzen der initialen Schrittweite (z.B. auch nach Nullstelle) " alt="" coords="507,81,667,108"/>
+</map>

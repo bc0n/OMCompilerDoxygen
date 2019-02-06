@@ -1,0 +1,4 @@
+<map id="zmq_setsockopt" name="zmq_setsockopt">
+<area shape="rect" id="node2" href="$de/dbd/classzmq_1_1socket__base__t.html#a0132b8b5c53dcc84fb497ff9c5c52b3b" title="zmq::socket_base_t\l::setsockopt" alt="" coords="172,5,312,47"/>
+<area shape="rect" id="node3" href="$de/dbd/classzmq_1_1socket__base__t.html#a5c97142fa941153f7245671a769e0143" title="zmq::socket_base_t\l::xsetsockopt" alt="" coords="360,5,500,47"/>
+</map>

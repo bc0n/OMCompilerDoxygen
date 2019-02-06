@@ -1,0 +1,6 @@
+<map id="zmq::vmci_connecter_t" name="zmq::vmci_connecter_t">
+<area shape="rect" id="node2" href="$d3/d86/classzmq_1_1own__t.html" title="zmq::own_t" alt="" coords="16,80,107,107"/>
+<area shape="rect" id="node3" href="$df/db7/classzmq_1_1object__t.html" title="zmq::object_t" alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node4" href="$de/da2/classzmq_1_1io__object__t.html" title="zmq::io_object_t" alt="" coords="134,80,253,107"/>
+<area shape="rect" id="node5" href="$d0/ddb/structzmq_1_1i__poll__events.html" title="zmq::i_poll_events" alt="" coords="131,5,261,32"/>
+</map>

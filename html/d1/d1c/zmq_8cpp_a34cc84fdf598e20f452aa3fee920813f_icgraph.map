@@ -1,0 +1,14 @@
+<map id="zmq_poller_add" name="zmq_poller_add">
+<area shape="rect" id="node2" href="$d1/d1c/zmq_8cpp.html#aa864a83b64fa629d975cdf757c99103c" title="zmq_poller_poll" alt="" coords="167,136,279,163"/>
+<area shape="rect" id="node13" href="$d3/dc7/test__poller_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="197,187,248,213"/>
+<area shape="rect" id="node3" href="$d1/d1c/zmq_8cpp.html#aa4c0179dfd34c1cf2067caf4f4789cd5" title="zmq_poll" alt="" coords="327,136,401,163"/>
+<area shape="rect" id="node4" href="$d0/db9/namespacezmq.html#a2d97f33f204f77605c9fb11b0b63753e" title="zmq::proxy" alt="" coords="479,56,565,83"/>
+<area shape="rect" id="node10" href="$d4/d21/test__disconnect__inproc_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="497,107,547,133"/>
+<area shape="rect" id="node11" href="$d5/dfd/test__spec__dealer_8cpp.html#aee2e5c6b78c09d0301d275727dc379b1" title="test_destroy_queue\l_on_disconnect" alt="" coords="454,158,590,199"/>
+<area shape="rect" id="node12" href="$d4/da2/test__spec__req_8cpp.html#a1665afbd7f43c16f8ae74fce63fd485e" title="test_req_only_listens\l_to_current_peer" alt="" coords="449,223,595,265"/>
+<area shape="rect" id="node5" href="$d1/d1c/zmq_8cpp.html#aee963009061c3f59d6befde10d47178c" title="zmq_proxy" alt="" coords="673,5,759,32"/>
+<area shape="rect" id="node6" href="$d1/d1c/zmq_8cpp.html#a93f9ac03d78b97cc192da74642682126" title="zmq_proxy_steerable" alt="" coords="643,56,789,83"/>
+<area shape="rect" id="node9" href="$d1/d1c/zmq_8cpp.html#a03b48afb80a321dbf3bfb93058b9f12c" title="zmq_device" alt="" coords="670,107,762,133"/>
+<area shape="rect" id="node7" href="$d5/db9/test__proxy__single__socket_8cpp.html#a84b30fc6a056459780231065612934bb" title="server_task" alt="" coords="837,56,928,83"/>
+<area shape="rect" id="node8" href="$d5/db9/test__proxy__single__socket_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="976,56,1027,83"/>
+</map>
