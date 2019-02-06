@@ -1,0 +1,4 @@
+<map id="Teuchos::Details::Allocator::allocate" name="Teuchos::Details::Allocator::allocate">
+<area shape="rect" id="node2" href="$dd/deb/class_teuchos_1_1_details_1_1_allocation_logger.html#a9470b4629c1b72c20c9c0c706f429dc3" title="Log an allocation. " alt="" coords="233,5,420,47"/>
+<area shape="rect" id="node3" href="$dd/deb/class_teuchos_1_1_details_1_1_allocation_logger.html#acf13ee37a913f150b446645033e5cda5" title="Log a deallocation, that was previously logged using logAllocation(). " alt="" coords="468,5,655,47"/>
+</map>

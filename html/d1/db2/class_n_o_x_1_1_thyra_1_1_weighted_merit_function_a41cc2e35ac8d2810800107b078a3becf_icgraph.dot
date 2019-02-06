@@ -1,0 +1,22 @@
+digraph "NOX::Thyra::WeightedMeritFunction::computeQuadraticModel"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node247 [label="NOX::Thyra::WeightedMerit\lFunction::computeQuadraticModel",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node247 -> Node248 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node248 [label="NOX::Thyra::WeightedMerit\lFunction::computeGradient",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db2/class_n_o_x_1_1_thyra_1_1_weighted_merit_function.html#aac5270af738a59972f09445db8680792"];
+  Node248 -> Node249 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node249 [label="NOX::Thyra::WeightedMerit\lFunction::computeSlope",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db2/class_n_o_x_1_1_thyra_1_1_weighted_merit_function.html#a69fe0914e12a3d220813ba72b8822b89"];
+  Node249 -> Node250 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node250 [label="NOX::Thyra::WeightedMerit\lFunction::computef",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db2/class_n_o_x_1_1_thyra_1_1_weighted_merit_function.html#a8416ca98c1848fb61e1db9dd618aa81f"];
+  Node250 -> Node251 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node251 [label="NOX::Thyra::WeightedMerit\lFunction::print",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db2/class_n_o_x_1_1_thyra_1_1_weighted_merit_function.html#a13de7dec05df0c33217e37aeebcefcd5"];
+  Node250 -> Node247 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node248 -> Node247 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node248 -> Node252 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node252 [label="NOX::Thyra::WeightedMerit\lFunction::computeSteepestDescentDir",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db2/class_n_o_x_1_1_thyra_1_1_weighted_merit_function.html#a67bac713f486601fe0dec44cae134ae5"];
+  Node252 -> Node253 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node253 [label="NOX::Thyra::WeightedMerit\lFunction::computeQuadraticMinimizer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db2/class_n_o_x_1_1_thyra_1_1_weighted_merit_function.html#a79f9ac2f80a620adbe6191f16286ba45"];
+  Node253 -> Node247 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

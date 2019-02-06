@@ -1,0 +1,5 @@
+<map id="NOX::Thyra::WeightedMeritFunction::computeGradient" name="NOX::Thyra::WeightedMeritFunction::computeGradient">
+<area shape="rect" id="node2" href="$d1/db2/class_n_o_x_1_1_thyra_1_1_weighted_merit_function.html#a69fe0914e12a3d220813ba72b8822b89" title="NOX::Thyra::WeightedMerit\lFunction::computeSlope" alt="" coords="269,5,453,47"/>
+<area shape="rect" id="node3" href="$d1/db2/class_n_o_x_1_1_thyra_1_1_weighted_merit_function.html#a67bac713f486601fe0dec44cae134ae5" title="NOX::Thyra::WeightedMerit\lFunction::computeSteepestDescentDir" alt="" coords="237,71,485,112"/>
+<area shape="rect" id="node4" href="$d1/db2/class_n_o_x_1_1_thyra_1_1_weighted_merit_function.html#a79f9ac2f80a620adbe6191f16286ba45" title="NOX::Thyra::WeightedMerit\lFunction::computeQuadraticMinimizer" alt="" coords="533,71,776,112"/>
+</map>

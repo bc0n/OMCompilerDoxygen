@@ -1,0 +1,13 @@
+digraph "build/include/omc/c/util/ringbuffer.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="build/include/omc/c\l/util/ringbuffer.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="build/include/omc/c\l/simulation_data.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d28/build_2include_2omc_2c_2simulation__data_8h.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="build/include/omc/c\l/openmodelica_func.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d4a/build_2include_2omc_2c_2openmodelica__func_8h.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="build/include/omc/c\l/util/ringbuffer.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d77/build_2include_2omc_2c_2util_2ringbuffer_8c.html"];
+}

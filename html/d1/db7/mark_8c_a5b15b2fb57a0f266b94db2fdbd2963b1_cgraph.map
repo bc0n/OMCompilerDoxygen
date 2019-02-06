@@ -1,0 +1,15 @@
+<map id="GC_wait_for_markers_init" name="GC_wait_for_markers_init">
+<area shape="rect" id="node2" href="$d9/d39/alloc_8c.html#a310b68ad1e244421385d6914babef72f" title="GC_add_to_our_memory" alt="" coords="227,31,393,57"/>
+<area shape="rect" id="node3" href="$dd/d79/gc__priv_8h.html#aa7b265bebad4b809068fdb8b6c6d422f" title="GC_acquire_mark_lock" alt="" coords="441,56,600,83"/>
+<area shape="rect" id="node10" href="$dd/d79/gc__priv_8h.html#a8cc8de044e9b85ed50e5d75373d2375e" title="GC_release_mark_lock" alt="" coords="231,183,389,209"/>
+<area shape="rect" id="node11" href="$dd/d79/gc__priv_8h.html#ad0d8174a58a15c9bffde1503c2703c12" title="GC_wait_for_reclaim" alt="" coords="238,132,382,159"/>
+<area shape="rect" id="node4" href="$d6/d7c/pthread__support_8c.html#a4e4ff10770a822a04c7bbd7a968c50d7" title="GC_generic_lock" alt="" coords="648,107,771,133"/>
+<area shape="rect" id="node5" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="865,56,912,83"/>
+<area shape="rect" id="node6" href="$d2/df0/arm__v6_8h.html#aed7620e3ec2f164643dfc17bf5eaf6c1" title="AO_fetch_and_add1" alt="" coords="819,5,959,32"/>
+<area shape="rect" id="node8" href="$d6/d7c/pthread__support_8c.html#af9bdb8c84fbd05676dfe5fe401a8d7bc" title="GC_pause" alt="" coords="847,107,931,133"/>
+<area shape="rect" id="node7" href="$d9/d97/tweetnacl_8c.html#a476ab31266e769adc731ca48d5a8c0f2" title="add" alt="" coords="1027,5,1070,32"/>
+<area shape="rect" id="node9" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#a233015def2a1752a7feb7c81d34f89e6" title="GC_noop1" alt="" coords="1007,107,1091,133"/>
+<area shape="rect" id="node12" href="$d6/d7c/pthread__support_8c.html#aa7b265bebad4b809068fdb8b6c6d422f" title="GC_acquire_mark_lock" alt="" coords="441,107,600,133"/>
+<area shape="rect" id="node13" href="$d6/d7c/pthread__support_8c.html#a57f9c36e7e6ed2b863a53c1a15e95be2" title="GC_wait_builder" alt="" coords="461,157,580,184"/>
+<area shape="rect" id="node14" href="$d6/d7c/pthread__support_8c.html#a8cc8de044e9b85ed50e5d75373d2375e" title="GC_release_mark_lock" alt="" coords="441,208,600,235"/>
+</map>

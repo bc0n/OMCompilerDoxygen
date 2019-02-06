@@ -1,0 +1,5 @@
+<map id="GC_scratch_recycle_inner" name="GC_scratch_recycle_inner">
+<area shape="rect" id="node2" href="$d9/d39/alloc_8c.html#a371d93c26d1af8244a341fbecb0dc120" title="GC_add_to_heap" alt="" coords="195,31,317,57"/>
+<area shape="rect" id="node3" href="$d2/d22/headers_8c.html#a35a484969203faacc72e0504354ebdb9" title="GC_install_header" alt="" coords="365,5,495,32"/>
+<area shape="rect" id="node4" href="$d8/d86/allchblk_8c.html#a2c41d1fbfff96311052f54041d5c659a" title="GC_freehblk" alt="" coords="383,56,477,83"/>
+</map>

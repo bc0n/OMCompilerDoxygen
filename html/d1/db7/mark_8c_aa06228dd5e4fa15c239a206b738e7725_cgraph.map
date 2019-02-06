@@ -1,0 +1,12 @@
+<map id="GC_mark_and_push" name="GC_mark_and_push">
+<area shape="rect" id="node2" href="$d2/d22/headers_8c.html#a819e690aff231c01469ac1517b8ffcc6" title="GET_HDR" alt="" coords="605,5,691,32"/>
+<area shape="rect" id="node3" href="$d2/d22/headers_8c.html#a82a38fd3345ecdd1ab8e84422ed16022" title="GC_find_header" alt="" coords="401,56,517,83"/>
+<area shape="rect" id="node5" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#a8b93cd0c8d9c312bbdf0e679d10b680a" title="GC_base" alt="" coords="609,299,687,325"/>
+<area shape="rect" id="node6" href="$d8/d2e/gc__pmark_8h.html#a15efcca7e0fe64720b14f9b12b2bab7e" title="GC_push_contents_hdr" alt="" coords="195,145,353,172"/>
+<area shape="rect" id="node4" href="$d2/d22/headers_8c.html#af4cc0ff756f32819661677aab84c57fd" title="GC_header_cache_miss" alt="" coords="565,56,731,83"/>
+<area shape="rect" id="node7" href="$da/d6c/group__jm__vector.html#gaac2916bbf5bdc0c66a10d0bd32c9134b" title="if" alt="" coords="440,107,479,133"/>
+<area shape="rect" id="node8" href="$dd/d79/gc__priv_8h.html#ada843fec7ffa10957a47951e0691f73b" title="GC_log_printf" alt="" coords="597,227,699,253"/>
+<area shape="rect" id="node9" href="$d8/d2e/gc__pmark_8h.html#a3bf1b3df20d6725c7b48570dc6334ae9" title="GC_push_obj" alt="" coords="409,157,510,184"/>
+<area shape="rect" id="node11" href="$d8/d2e/gc__pmark_8h.html#afdb53ed1be406ed00b33350c3106d59b" title="GC_mark_from" alt="" coords="404,259,515,285"/>
+<area shape="rect" id="node10" href="$d8/d2e/gc__pmark_8h.html#ac7235e2e6e7dee5b8d82acb48bbf7c47" title="GC_signal_mark_stack\l_overflow" alt="" coords="569,150,727,191"/>
+</map>

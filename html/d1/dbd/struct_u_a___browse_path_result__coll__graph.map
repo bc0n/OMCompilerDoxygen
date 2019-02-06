@@ -1,0 +1,7 @@
+<map id="UA_BrowsePathResult" name="UA_BrowsePathResult">
+<area shape="rect" id="node2" href="$d5/d56/struct_u_a___browse_path_target.html" title="UA_BrowsePathTarget" alt="" coords="6,288,162,315"/>
+<area shape="rect" id="node3" href="$db/d03/struct_u_a___expanded_node_id.html" title="UA_ExpandedNodeId" alt="" coords="10,199,158,225"/>
+<area shape="rect" id="node4" href="$da/dfd/struct_u_a___node_id.html" title="UA_NodeId" alt="" coords="176,109,267,136"/>
+<area shape="rect" id="node5" href="$d3/dbd/struct_u_a___string.html" title="UA_String" alt="" coords="49,5,132,32"/>
+<area shape="rect" id="node6" href="$db/d54/struct_u_a___guid.html" title="UA_Guid" alt="" coords="184,5,259,32"/>
+</map>

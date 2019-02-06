@@ -1,0 +1,10 @@
+<map id="gk_strdup" name="gk_strdup">
+<area shape="rect" id="node2" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="145,81,200,108"/>
+<area shape="rect" id="node3" href="$d3/d5a/gk__proto_8h.html#aba6f76f5c67b9b7e9c2e45988d3d3e9d" title="gk_malloc" alt="" coords="132,132,213,159"/>
+<area shape="rect" id="node4" href="$d6/d0e/class_teuchos_1_1_ptr.html#af7234a3ac243772a707da53d011276fb" title="Create a pointer to an object from a raw pointer. " alt="" coords="285,5,405,32"/>
+<area shape="rect" id="node5" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="315,56,375,83"/>
+<area shape="rect" id="node6" href="$d4/d98/g_09_09malloc_8c.html#a49f789e614e57e410f598885b800c2df" title="fprintf" alt="" coords="476,183,531,209"/>
+<area shape="rect" id="node7" href="$df/dd5/memory_8c.html#ad2327b94227019b6753b6b09400c0522" title="gk_GetCurMemoryUsed" alt="" coords="263,157,426,184"/>
+<area shape="rect" id="node8" href="$df/dd5/memory_8c.html#a656fd5266ae12a96e53125486f8fea52" title="gk_GetMaxMemoryUsed" alt="" coords="261,208,428,235"/>
+<area shape="rect" id="node9" href="$d0/d3e/3rd_party_2metis-5_81_80_2_g_klib_2error_8c.html#a4c320c13bcdc9967613253ef4c73f59f" title="gk_errexit" alt="" coords="305,259,384,285"/>
+</map>

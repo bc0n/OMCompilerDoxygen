@@ -1,0 +1,5 @@
+<map id="boost::extensions::type_info_handler::get_class_type" name="boost::extensions::type_info_handler::get_class_type">
+<area shape="rect" id="node2" href="$d6/d36/classboost_1_1extensions_1_1generic__parameter.html#aab715ab15c2fb89b9a036a562d737892" title="Returns true if the parameter can convert to T. " alt="" coords="204,5,395,47"/>
+<area shape="rect" id="node3" href="$d6/d36/classboost_1_1extensions_1_1generic__parameter.html#a521f433188666ae026dba0d3d07ed161" title="Returns a type S, converted from the type in the parameter. " alt="" coords="218,71,381,112"/>
+<area shape="rect" id="node4" href="$d4/d0d/classboost_1_1extensions_1_1parameter.html#a08225eccc461fb917cee3efe74d6576c" title="boost::extensions::\lparameter::type" alt="" coords="233,136,366,177"/>
+</map>

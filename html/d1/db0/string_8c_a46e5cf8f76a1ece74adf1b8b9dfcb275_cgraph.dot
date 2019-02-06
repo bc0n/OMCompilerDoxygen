@@ -1,0 +1,35 @@
+digraph "gk_strstr_replace"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node46 [label="gk_strstr_replace",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node46 -> Node47 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node47 [label="regcomp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d08/gkregex_8h.html#a430f0c9389ac6c08be2286257691317b"];
+  Node46 -> Node48 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node48 [label="regerror",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d08/gkregex_8h.html#a0284fc25f2802396427939f37caccc1c"];
+  Node46 -> Node49 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node49 [label="strlen",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d57/iregex_8c.html#a492442620ce65db20fe7297b43cbca65"];
+  Node46 -> Node50 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node50 [label="regexec",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d08/gkregex_8h.html#a179877eb45bb29da01e5101325554d73"];
+  Node46 -> Node51 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node51 [label="gk_free",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d5a/gk__proto_8h.html#ac8df62c4e3d0910711a9874f9cc58884"];
+  Node46 -> Node52 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node52 [label="gk_strdup",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db0/string_8c.html#af62038e97ca55f14ec2557a01bd85ca2",tooltip="Duplicates a string. "];
+  Node52 -> Node49 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node52 -> Node53 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node53 [label="gk_malloc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d5a/gk__proto_8h.html#aba6f76f5c67b9b7e9c2e45988d3d3e9d"];
+  Node53 -> Node54 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node54 [label="fprintf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d8c/examplehs038_8m.html#ae272956ea74f28b2f067d455fead331f"];
+  Node53 -> Node55 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node55 [label="gk_GetCurMemoryUsed",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dd5/memory_8c.html#ad2327b94227019b6753b6b09400c0522"];
+  Node53 -> Node56 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node56 [label="gk_GetMaxMemoryUsed",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dd5/memory_8c.html#a656fd5266ae12a96e53125486f8fea52"];
+  Node53 -> Node57 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node57 [label="gk_errexit",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/dcc/error_8c.html#a4c320c13bcdc9967613253ef4c73f59f"];
+  Node57 -> Node54 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node46 -> Node58 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node58 [label="regfree",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d08/gkregex_8h.html#a87e79b6d048a32ffbfdb234c4166e769"];
+  Node46 -> Node59 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node59 [label="gk_realloc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d5a/gk__proto_8h.html#ab76a07ccd25288dd9acc99f5f24a7600"];
+}

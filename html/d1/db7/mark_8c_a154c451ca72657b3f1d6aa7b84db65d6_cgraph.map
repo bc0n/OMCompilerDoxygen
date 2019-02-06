@@ -1,0 +1,27 @@
+<map id="GC_do_parallel_mark" name="GC_do_parallel_mark">
+<area shape="rect" id="node2" href="$dd/d79/gc__priv_8h.html#aa7b265bebad4b809068fdb8b6c6d422f" title="GC_acquire_mark_lock" alt="" coords="772,56,931,83"/>
+<area shape="rect" id="node9" href="$dd/d79/gc__priv_8h.html#aea557ea3c4b30b413c166172d9a9ea31" title="GC_notify_all_marker" alt="" coords="777,107,925,133"/>
+<area shape="rect" id="node10" href="$d1/db7/mark_8c.html#a01c89cd0f36f2ccd7f45d1ce0a455322" title="GC_mark_local" alt="" coords="200,335,312,361"/>
+<area shape="rect" id="node13" href="$dd/d79/gc__priv_8h.html#a8cc8de044e9b85ed50e5d75373d2375e" title="GC_release_mark_lock" alt="" coords="772,360,931,387"/>
+<area shape="rect" id="node20" href="$dd/d79/gc__priv_8h.html#a51346acd2630a2345bf4d47636766563" title="GC_wait_marker" alt="" coords="376,563,496,589"/>
+<area shape="rect" id="node3" href="$d6/d7c/pthread__support_8c.html#a4e4ff10770a822a04c7bbd7a968c50d7" title="GC_generic_lock" alt="" coords="1006,56,1129,83"/>
+<area shape="rect" id="node4" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="1244,107,1291,133"/>
+<area shape="rect" id="node5" href="$d2/df0/arm__v6_8h.html#aed7620e3ec2f164643dfc17bf5eaf6c1" title="AO_fetch_and_add1" alt="" coords="1197,5,1337,32"/>
+<area shape="rect" id="node7" href="$d6/d7c/pthread__support_8c.html#af9bdb8c84fbd05676dfe5fe401a8d7bc" title="GC_pause" alt="" coords="1225,56,1309,83"/>
+<area shape="rect" id="node6" href="$d9/d97/tweetnacl_8c.html#a476ab31266e769adc731ca48d5a8c0f2" title="add" alt="" coords="1406,5,1449,32"/>
+<area shape="rect" id="node8" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#a233015def2a1752a7feb7c81d34f89e6" title="GC_noop1" alt="" coords="1385,56,1469,83"/>
+<area shape="rect" id="node11" href="$de/d97/generalize-small_8h.html#ad40005bf02bced359697864d34ec1a4c" title="AO_load" alt="" coords="815,309,887,336"/>
+<area shape="rect" id="node12" href="$d0/d4c/gc__atomic__ops_8h.html#ac44fca25bf925dc938812ae00a336926" title="AO_compare_and_swap" alt="" coords="985,461,1149,488"/>
+<area shape="rect" id="node14" href="$de/d97/generalize-small_8h.html#a552b5194d8f47ddbcefed8530727b73b" title="AO_load_acquire" alt="" coords="375,461,497,488"/>
+<area shape="rect" id="node21" href="$d1/db7/mark_8c.html#a9d8c4cef66c513cf9c926b23bb06fca7" title="GC_steal_mark_stack" alt="" coords="360,309,512,336"/>
+<area shape="rect" id="node22" href="$d1/db7/mark_8c.html#a0d943db1d2af796b8ffc6ba8dc2eecc6" title="GC_do_local_mark" alt="" coords="369,259,503,285"/>
+<area shape="rect" id="node15" href="$d5/d3a/generalize_8h.html#afe3a6778eacc82252ba138fc9a157b04" title="AO_nop_full" alt="" coords="592,563,685,589"/>
+<area shape="rect" id="node16" href="$d7/d6b/ipoma-dummy_8f.html#a14e68597ab81208552434ccd2a9e8f4f" title="dummy" alt="" coords="819,512,884,539"/>
+<area shape="rect" id="node17" href="$d5/d3a/generalize_8h.html#a9f485bd63ce5c6a017ec241906e2f651" title="AO_test_and_set_full" alt="" coords="778,563,925,589"/>
+<area shape="rect" id="node18" href="$d5/d3a/generalize_8h.html#a0af1bdd53473eb43906a057efe883f6d" title="AO_test_and_set_acquire" alt="" coords="765,411,937,437"/>
+<area shape="rect" id="node19" href="$d5/d3a/generalize_8h.html#a8ec1c2583e26c57a7b4d17f239fa41e8" title="AO_test_and_set" alt="" coords="790,461,913,488"/>
+<area shape="rect" id="node23" href="$d1/db7/mark_8c.html#aa97750d0bca12814100e6b4d861fc3af" title="GC_mark_from" alt="" coords="583,259,694,285"/>
+<area shape="rect" id="node26" href="$d1/db7/mark_8c.html#aa52577fc0f68ee6bb3bcbabdfdc88eed" title="GC_return_mark_stack" alt="" coords="560,208,717,235"/>
+<area shape="rect" id="node24" href="$dd/d79/gc__priv_8h.html#ada843fec7ffa10957a47951e0691f73b" title="GC_log_printf" alt="" coords="800,259,903,285"/>
+<area shape="rect" id="node25" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#a8b93cd0c8d9c312bbdf0e679d10b680a" title="GC_base" alt="" coords="813,208,890,235"/>
+</map>

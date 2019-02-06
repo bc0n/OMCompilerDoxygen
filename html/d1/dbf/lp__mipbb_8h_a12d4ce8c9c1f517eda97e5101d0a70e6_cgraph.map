@@ -1,0 +1,19 @@
+<map id="pop_BB" name="pop_BB">
+<area shape="rect" id="node2" href="$dc/d9a/lp__matrix_8c.html#a261a7d9c880748f30b8a6bc3706f3b75" title="restoreUndoLadder" alt="" coords="132,5,264,32"/>
+<area shape="rect" id="node6" href="$dc/d9a/lp__matrix_8c.html#a1edf6e8e5fda6dd00a72a30f2d7f8059" title="decrementUndoLadder" alt="" coords="121,56,275,83"/>
+<area shape="rect" id="node7" href="$de/d84/lp__mipbb_8c.html#a259dc5a0b6b79af2494f6d80c3eebd5f" title="freecuts_BB" alt="" coords="151,107,245,133"/>
+<area shape="rect" id="node8" href="$d4/d79/lp__lib_8c.html#a453e84198cc843b3c31ab445fb628e06" title="free_pseudocost" alt="" coords="139,157,257,184"/>
+<area shape="rect" id="node10" href="$d4/d79/lp__lib_8c.html#a62aed04dfd5200825d92bee30cc8119e" title="pop_basis" alt="" coords="157,208,239,235"/>
+<area shape="rect" id="node14" href="$d1/d43/lp___s_o_s_8c.html#a6ce4f6cd67a1430e82a41e4bd1af06fe" title="SOS_unmark" alt="" coords="148,283,248,309"/>
+<area shape="rect" id="node18" href="$de/d84/lp__mipbb_8c.html#a560e15ad8bd032b6ecab5d7a76ebf656" title="free_BB" alt="" coords="163,333,233,360"/>
+<area shape="rect" id="node3" href="$dc/d9a/lp__matrix_8c.html#a4b382fbfc70092747f60017cdf62e1e6" title="mat_shiftcols" alt="" coords="344,56,444,83"/>
+<area shape="rect" id="node4" href="$d9/d18/lp__utils_8c.html#a183f62e53061778d4fdb381e27d8cf4c" title="isActiveLink" alt="" coords="519,56,612,83"/>
+<area shape="rect" id="node5" href="$dc/d9a/lp__matrix_8c.html#a9430c42ed7853fd8dd6463ed7165f243" title="mat_nonzeros" alt="" coords="513,107,617,133"/>
+<area shape="rect" id="node9" href="$d4/d79/lp__lib_8c.html#a9a6f6fe0107348b6ce6435d352698ddf" title="free_pseudoclass" alt="" coords="332,157,456,184"/>
+<area shape="rect" id="node11" href="$d4/d79/lp__lib_8c.html#a813f387194d0ca35c45cc01427be785e" title="restore_basis" alt="" coords="344,208,444,235"/>
+<area shape="rect" id="node12" href="$d6/d2f/lp__bit_8h.html#aa1525260dfa7e8679d16ed29883f7209" title="is_biton" alt="" coords="532,157,599,184"/>
+<area shape="rect" id="node13" href="$d4/d79/lp__lib_8c.html#ad4fefd09a7c66c454785da9ec150ecc1" title="set_action" alt="" coords="524,208,607,235"/>
+<area shape="rect" id="node15" href="$d1/d43/lp___s_o_s_8c.html#a95fb8e4ce406207601c2b180c531ddc6" title="SOS_member_index" alt="" coords="323,271,465,297"/>
+<area shape="rect" id="node17" href="$d1/d43/lp___s_o_s_8c.html#a2b0601aeda1bdff5d53ce43c72c5b2b6" title="SOS_is_active" alt="" coords="339,345,449,372"/>
+<area shape="rect" id="node16" href="$d9/d18/lp__utils_8c.html#a0f73f0fbd9ba7ed88022e713a6fe9f1b" title="searchFor" alt="" coords="525,271,605,297"/>
+</map>
