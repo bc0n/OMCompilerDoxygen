@@ -1,0 +1,8 @@
+<map id="omc_VisualXML_setVisVarsPublic" name="omc_VisualXML_setVisVarsPublic">
+<area shape="rect" id="node2" href="$d0/d2a/_visual_x_m_l_8c.html#a3388cca3ce631f3933b82d015fa8ac45" title="omc_VisualXML_isVisualizationVar" alt="" coords="241,27,469,54"/>
+<area shape="rect" id="node4" href="$d0/d2a/_visual_x_m_l_8c.html#a892cd8d856e06b29d5ee646544fbe095" title="omc_VisualXML_makeVarPublic\lHideResultFalse" alt="" coords="249,93,461,135"/>
+<area shape="rect" id="node3" href="$dc/dd3/_element_source_8c.html#a16dcd5721c7c8d4735559986d524fbfc" title="omc_ElementSource_getElement\lSourceTypes" alt="" coords="517,5,733,47"/>
+<area shape="rect" id="node5" href="$d0/d29/_d_a_e_util_8c.html#ae74d23558b5e277475b89cf71a0b5947" title="omc_DAEUtil_setProtectedAttr" alt="" coords="523,71,727,98"/>
+<area shape="rect" id="node6" href="$dd/db3/_backend_variable_8c.html#a22527eaf001763f71f39da6fd4a813ac" title="omc_BackendVariable\l_setVarAttributes" alt="" coords="549,123,701,164"/>
+<area shape="rect" id="node7" href="$dd/db3/_backend_variable_8c.html#a1f5657a92bd5a8fc73d6612b5cba6843" title="omc_BackendVariable\l_setHideResult" alt="" coords="549,188,701,229"/>
+</map>

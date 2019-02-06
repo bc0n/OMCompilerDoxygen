@@ -1,0 +1,4 @@
+<map id="checkSumResult" name="checkSumResult">
+<area shape="rect" id="node2" href="$d3/dc8/class_teuchos_1_1_comm.html#a18fe0c90972473e9aa0d2d4c9c4e5575" title="Wrapper for MPI_Allreduce that takes a custom reduction operator. " alt="" coords="176,5,357,32"/>
+<area shape="rect" id="node3" href="$d3/dc8/class_teuchos_1_1_comm.html#a346c8703a1ee3cb18cf3c812678cb01c" title="Get the number of processes in the communicator. " alt="" coords="191,56,342,83"/>
+</map>

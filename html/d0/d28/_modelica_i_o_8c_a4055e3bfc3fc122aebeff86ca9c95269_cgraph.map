@@ -1,0 +1,11 @@
+<map id="ModelicaIO_writeRealMatrix" name="ModelicaIO_writeRealMatrix">
+<area shape="rect" id="node2" href="$db/d13/_c_vode_get_8m.html#ab022bbe018438998408fda94a327a547" title="strcmp" alt="" coords="280,5,343,32"/>
+<area shape="rect" id="node3" href="$d7/dcd/group__core_utils.html#ga1493e0104e8df9b2e165387b982f7566" title="Output the error message under the same format control as the C&#45;function printf. This function never ..." alt="" coords="240,56,383,83"/>
+<area shape="rect" id="node4" href="$dd/dc8/group___m_a_t.html#ga22d404f203af7869c841400e7ad247cf" title="Creates a new Matlab MAT file. " alt="" coords="431,107,541,133"/>
+<area shape="rect" id="node5" href="$dd/dc8/group___m_a_t.html#gafbfedb5636a99f0ef867520c47f77d18" title="Opens an existing Matlab MAT file. " alt="" coords="270,157,353,184"/>
+<area shape="rect" id="node8" href="$d0/daa/gc_8h.html#a7e0f997409f0b1753e44b648fcd6fc39" title="void" alt="" coords="288,208,335,235"/>
+<area shape="rect" id="node9" href="$dd/dc8/group___m_a_t.html#ga101c92ff7bde4a2d4615661beba09262" title="Closes an open Matlab MAT file. " alt="" coords="269,259,354,285"/>
+<area shape="rect" id="node10" href="$d7/dcd/group__core_utils.html#gac7e22913e06245f747f5f778467f19ac" title="Output the error message string (no format control). This function never returns to the calling funct..." alt="" coords="260,309,363,336"/>
+<area shape="rect" id="node6" href="$d1/dfd/group__mat__util.html#gaf51f2bfbb5580f575e4dd79757e2b80c" title="Logs a Critical message and aborts the program. " alt="" coords="440,157,532,184"/>
+<area shape="rect" id="node7" href="$d7/dcd/group__core_utils.html#gadc125348e5e058ba38f3fe02feeea234" title="Output the error message under the same format control as the C&#45;function vprintf. This function never..." alt="" coords="589,157,741,184"/>
+</map>

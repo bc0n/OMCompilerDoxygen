@@ -1,0 +1,28 @@
+<map id="omc_DAEUtil_joinDaes" name="omc_DAEUtil_joinDaes">
+<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#ac701f768c16113ffdee047e0fdf8137d" title="omc_ConnectUtil_equations\lDispatch" alt="" coords="227,5,414,47"/>
+<area shape="rect" id="node3" href="$da/df9/_connect_util_8h.html#a1e6af227db592e6ea1b19c26260c486a" title="omc_ConnectUtil_equations" alt="" coords="504,57,691,83"/>
+<area shape="rect" id="node5" href="$dd/d15/_d_a_e_util_8h.html#a7a78ae5d350ee24d7ab4811319bbe8eb" title="omc_DAEUtil_joinDaeLst" alt="" coords="235,146,406,173"/>
+<area shape="rect" id="node8" href="$db/d26/_inner_outer_8h.html#aea5eaa9ada771e1bedfcc01289084da7" title="omc_InnerOuter_handleInner\lOuterEquations" alt="" coords="226,197,415,239"/>
+<area shape="rect" id="node9" href="$dd/d26/_inst_8c.html#a1680bf1f71210160d9d0b8b378949c8f" title="omc_Inst_instConstraints" alt="" coords="235,263,406,290"/>
+<area shape="rect" id="node11" href="$d9/d5c/_inst_8h.html#a996206a46273752dfe06157e6a6e8c5e" title="omc_Inst_instList" alt="" coords="258,338,383,365"/>
+<area shape="rect" id="node21" href="$d9/d88/_inst_section_8c.html#af5ad32b5a58ec6de0b069bac19259a9f" title="omc_InstSection_connectVars" alt="" coords="221,389,421,415"/>
+<area shape="rect" id="node22" href="$d9/d88/_inst_section_8c.html#aec3b0ba2ce783b8e37c864078af20717" title="omc_InstSection_connectArray\lComponents" alt="" coords="219,440,423,481"/>
+<area shape="rect" id="node23" href="$d9/d88/_inst_section_8c.html#a2cdecb7275d691863030a3b6d04c9e2a" title="omc_InstSection_daeDeclareList" alt="" coords="213,506,428,533"/>
+<area shape="rect" id="node25" href="$d9/d88/_inst_section_8c.html#a9f15e42cb7fc3ce57a920d2bec09b0bc" title="omc_InstSection_instArrayElEq" alt="" coords="217,557,424,583"/>
+<area shape="rect" id="node26" href="$d6/d54/_inst_var_8c.html#aa80aea534de7832b3901383128a7b677" title="omc_InstVar_instScalar2" alt="" coords="237,607,405,634"/>
+<area shape="rect" id="node4" href="$da/df9/_connect_util_8h.html#a03e679bc32122873a3be9d77d9393c16" title="boxptr_ConnectUtil\l_equations" alt="" coords="789,49,923,91"/>
+<area shape="rect" id="node6" href="$d9/d88/_inst_section_8c.html#a155f97dc02cf3847d003ed61ab836f7e" title="omc_InstSection_instEqEquation2List" alt="" coords="476,110,719,137"/>
+<area shape="rect" id="node7" href="$da/d17/_inst_util_8h.html#a70324072e65746daf529c2929d17f6c2" title="omc_InstUtil_handleUnitChecking" alt="" coords="487,161,707,187"/>
+<area shape="rect" id="node10" href="$dd/d26/_inst_8c.html#a446325410017f5d5fba9c5742eb9348b" title="boxptr_Inst_instConstraints" alt="" coords="506,246,689,273"/>
+<area shape="rect" id="node12" href="$d9/d5c/_inst_8h.html#a655c85d3d4fcb479060aba38f7dee2d5" title="boxptr_Inst_instList" alt="" coords="529,297,665,323"/>
+<area shape="rect" id="node13" href="$d9/d88/_inst_section_8c.html#a75b8b464b61e534d64d10e88b72f6f6d" title="omc_InstSection_instInitial\lIfEqBranch" alt="" coords="508,348,687,389"/>
+<area shape="rect" id="node17" href="$d9/d88/_inst_section_8c.html#ab6a667bdcd3d9fba520835ab193e08e1" title="omc_InstSection_instIfEq\lBranch" alt="" coords="511,413,683,455"/>
+<area shape="rect" id="node14" href="$d9/d88/_inst_section_8c.html#ae9a6791117d02e9ddc8a659419d3d7f7" title="omc_InstSection_instInitial\lIfEqBranches" alt="" coords="767,283,945,324"/>
+<area shape="rect" id="node16" href="$d9/d88/_inst_section_8c.html#a1fcb49e34198128bec09f25e2f5cb04e" title="boxptr_InstSection\l_instInitialIfEqBranch" alt="" coords="783,348,929,389"/>
+<area shape="rect" id="node15" href="$d9/d88/_inst_section_8c.html#a610da94740ddd9727d480cd68a7eef62" title="boxptr_InstSection\l_instInitialIfEqBranches" alt="" coords="993,283,1153,324"/>
+<area shape="rect" id="node18" href="$d9/d88/_inst_section_8c.html#aa65cd5b675a1acaa0393e85ee0b16378" title="omc_InstSection_instIfEq\lBranches" alt="" coords="770,413,942,455"/>
+<area shape="rect" id="node20" href="$d9/d88/_inst_section_8c.html#a5e70567cc56d17467df77e1dbefc0258" title="boxptr_InstSection\l_instIfEqBranch" alt="" coords="791,479,921,520"/>
+<area shape="rect" id="node19" href="$d9/d88/_inst_section_8c.html#a4f6f759178ddd034680e26f2576fee30" title="boxptr_InstSection\l_instIfEqBranches" alt="" coords="1008,413,1139,455"/>
+<area shape="rect" id="node24" href="$d9/d88/_inst_section_8c.html#ac6939f28ff8e091dfe88178986ff92c4" title="omc_InstSection_generate\lExpandableDAE" alt="" coords="509,499,686,540"/>
+<area shape="rect" id="node27" href="$d6/d54/_inst_var_8c.html#a866aefb76684d82bc0be4616dbe907be" title="boxptr_InstVar_instScalar2" alt="" coords="508,607,687,634"/>
+</map>

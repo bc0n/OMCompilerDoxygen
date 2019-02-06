@@ -1,0 +1,13 @@
+digraph "division_error"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="division_error",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="warningStreamPrint",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d3d/omc__error_8c.html#abe18b369e6a69395e9a328507f9548b9"];
+  Node0 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="throwStreamPrint",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d3d/omc__error_8c.html#ace3549ed53d1ce9f60bcdfe2f941a592"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="va_throwStreamPrint",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d3d/omc__error_8c.html#aa11774b25878a13bb0b79660763b3ca4"];
+}

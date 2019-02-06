@@ -1,0 +1,7 @@
+<map id="omc_DAEUtil_getAttrDirection" name="omc_DAEUtil_getAttrDirection">
+<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#a1a8a4c4c3d2e2e66562f732a7742ea01" title="omc_ConnectUtil_countConnectorVars" alt="" coords="253,46,503,73"/>
+<area shape="rect" id="node3" href="$d3/d5a/_connect_util_8c.html#ab659562197eb989aa3f6d39343bc7061" title="boxptr_ConnectUtil\l_countConnectorVars" alt="" coords="589,5,737,47"/>
+<area shape="rect" id="node4" href="$da/df9/_connect_util_8h.html#a779f879f956f00681e416f597a491c9a" title="omc_ConnectUtil_checkConnector\lBalance" alt="" coords="551,71,776,112"/>
+<area shape="rect" id="node5" href="$da/df9/_connect_util_8h.html#a74022d15bda993cf79ffd555b21a95c7" title="omc_ConnectUtil_addConnector\lVariablesFromDAE" alt="" coords="824,71,1035,112"/>
+<area shape="rect" id="node6" href="$da/df9/_connect_util_8h.html#a066f1cea0d4eb419504a0707324360d2" title="boxptr_ConnectUtil\l_addConnectorVariablesFromDAE" alt="" coords="1083,71,1305,112"/>
+</map>

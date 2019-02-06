@@ -1,0 +1,5 @@
+<map id="Belos::SimpleOrthoManager::norm" name="Belos::SimpleOrthoManager::norm">
+<area shape="rect" id="node2" href="$da/d9b/class_belos_1_1_multi_vec_traits.html#acfa426fdc3c86b33a76b5fcfa5f445a9" title="Obtain the number of vectors in mv. " alt="" coords="239,5,385,47"/>
+<area shape="rect" id="node4" href="$da/d9b/class_belos_1_1_multi_vec_traits.html#a68fc592be25e2c463dd9489f7a96c50d" title="Compute the norm of each individual vector of mv. Upon return, normvec[i] holds the value of ..." alt="" coords="239,71,385,112"/>
+<area shape="rect" id="node3" href="$d6/d04/struct_belos_1_1_undefined_multi_vec_traits.html#a885cabada2e3e7479a240f169e88f984" title="Any attempt to compile this method will result in a compile&#45;time error. " alt="" coords="433,39,607,80"/>
+</map>
