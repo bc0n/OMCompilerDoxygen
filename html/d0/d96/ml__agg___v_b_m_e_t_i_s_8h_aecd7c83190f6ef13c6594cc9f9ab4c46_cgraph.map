@@ -1,0 +1,26 @@
+<map id="ML_Operator_AmalgamateAndDropWeak_VBlocks" name="ML_Operator_AmalgamateAndDropWeak_VBlocks">
+<area shape="rect" id="node2" href="$d2/d8c/examplehs038_8m.html#ae272956ea74f28b2f067d455fead331f" title="fprintf" alt="" coords="1069,93,1124,120"/>
+<area shape="rect" id="node3" href="$db/d67/ml__memory_8h.html#a811b25127e31df6b13643586ea6ccdc6" title="ML_allocate" alt="" coords="1051,676,1143,702"/>
+<area shape="rect" id="node4" href="$d6/de2/ml__utils_8c.html#a84a03c2d5c462ed7c0de12bc3384d576" title="pr_error" alt="" coords="866,93,933,120"/>
+<area shape="rect" id="node5" href="$d1/da9/ml__comminfoop_8c.html#a54d54632421530b8d261e1d9388c51b8" title="ML_exchange_bdry" alt="" coords="571,600,706,626"/>
+<area shape="rect" id="node8" href="$db/d67/ml__memory_8h.html#a8977b8b65adf77545ebe88fcd1f6889a" title="ML_free" alt="" coords="865,448,934,474"/>
+<area shape="rect" id="node9" href="$d1/da9/ml__comminfoop_8c.html#a25cef348c6124167ce17f935bcf8f995" title="ML_CommInfoOP_Get_Nneighbors" alt="" coords="253,904,481,930"/>
+<area shape="rect" id="node10" href="$d1/da9/ml__comminfoop_8c.html#ab7e315e7a31febfebcfe56df61d4f92c" title="ML_CommInfoOP_Get_neighbors" alt="" coords="529,346,748,373"/>
+<area shape="rect" id="node11" href="$d1/da9/ml__comminfoop_8c.html#a2ce8d1bb74c5d417d9289e8cf8cb2827" title="ML_CommInfoOP_Get_Nrcvlist" alt="" coords="264,954,471,981"/>
+<area shape="rect" id="node12" href="$d1/da9/ml__comminfoop_8c.html#a6f8ee7ba79d4edb0a165f275dba43950" title="ML_CommInfoOP_Get_rcvlist" alt="" coords="801,853,998,880"/>
+<area shape="rect" id="node13" href="$db/d64/ml__rap_8h.html#a2adecc67a57fe78355d69c97e16b0ed9" title="ML_get_matrix_row" alt="" coords="299,1005,435,1032"/>
+<area shape="rect" id="node14" href="$d8/d08/ml__memory_8c.html#ab656aed9d908a79217671761d4ba9a75" title="ML_memory_alloc" alt="" coords="303,1056,431,1082"/>
+<area shape="rect" id="node15" href="$d8/dbe/ml__operator_8c.html#a49dca38f1d43d7ea7ffb96cbd258e4b8" title="ML_Operator_Set_Getrow" alt="" coords="281,1106,454,1133"/>
+<area shape="rect" id="node16" href="$d7/dac/ml__agg___v_b_m_e_t_i_s_8c.html#a11891763f3d4014aedf4788f693ae17f" title="Getrow function for amalgamteded variable block row matrix. " alt="" coords="287,238,447,279"/>
+<area shape="rect" id="node20" href="$d1/da9/ml__comminfoop_8c.html#aabeb13d15d5e9952cf434d54eb38ef20" title="ML_CommInfoOP_Clone" alt="" coords="283,650,451,677"/>
+<area shape="rect" id="node23" href="$d1/da9/ml__comminfoop_8c.html#af1c53a07be65fd4c52e4f678bcae1fd3" title="ML_CommInfoOP_Set_exch_info" alt="" coords="530,498,747,525"/>
+<area shape="rect" id="node24" href="$d1/da9/ml__comminfoop_8c.html#a890f0287db2558dd69b214b70d5c804f" title="ML_CommInfoOP_Get_Nsendlist" alt="" coords="259,1157,476,1184"/>
+<area shape="rect" id="node25" href="$d1/da9/ml__comminfoop_8c.html#a67a78761b73abd34be6371c791363a23" title="ML_CommInfoOP_Get_sendlist" alt="" coords="796,904,1003,930"/>
+<area shape="rect" id="node6" href="$d6/de2/ml__utils_8c.html#ab9104f4e136b1a0627c2b3e23d1a003c" title="GetClock" alt="" coords="861,549,938,576"/>
+<area shape="rect" id="node7" href="$d1/da9/ml__comminfoop_8c.html#a4d86925c1126ff715612eb2e7a0bc6de" title="ML_Comm_Envelope_Get_Tag" alt="" coords="797,600,1001,626"/>
+<area shape="rect" id="node17" href="$de/def/kim__info_8m.html#a667852275f03fbdf41ab7ff7de2045c2" title="bsize" alt="" coords="612,194,665,221"/>
+<area shape="rect" id="node18" href="$d6/de2/ml__utils_8c.html#a8aec88752eebca9578c6d38133b02605" title="ML_find_index" alt="" coords="585,245,692,272"/>
+<area shape="rect" id="node19" href="$d8/dbe/ml__operator_8c.html#a9031c5ef369cea12e948feac0eb0343a" title="ML_Operator_Getrow" alt="" coords="565,93,712,120"/>
+<area shape="rect" id="node21" href="$d1/da9/ml__comminfoop_8c.html#a90a2d898b28ee1754a68fab0f0d58503" title="ML_CommInfoOP_Set_neighbors" alt="" coords="530,701,747,728"/>
+<area shape="rect" id="node22" href="$d1/da9/ml__comminfoop_8c.html#a2356cfac70c23c3898fd629386ce3851" title="ML_CommInfoOP_Create" alt="" coords="813,701,986,728"/>
+</map>

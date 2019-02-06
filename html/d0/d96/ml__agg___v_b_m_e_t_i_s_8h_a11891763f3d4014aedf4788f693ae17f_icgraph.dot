@@ -1,0 +1,46 @@
+digraph "ML_amalg_drop_getrow_VBlocks"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node77 [label="ML_amalg_drop_getrow\l_VBlocks",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node77 -> Node78 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node78 [label="ML_Operator_AmalgamateAnd\lDropWeak_VBlocks",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d96/ml__agg___v_b_m_e_t_i_s_8h.html#aecd7c83190f6ef13c6594cc9f9ab4c46",tooltip="Modify matrix so that it uses a getrow wrapper. "];
+  Node78 -> Node79 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node79 [label="ML_Aggregate_CoarsenVBMETIS",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d96/ml__agg___v_b_m_e_t_i_s_8h.html#a6f546763a82ed9f0c6cd72f63c094566",tooltip="create non-smoothed aggregates using METIS "];
+  Node79 -> Node80 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node80 [label="ML_Aggregate_Coarsen",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/da4/ml__aggregate_8h.html#a26c58349c770e0946c656ad9d299dc9a"];
+  Node80 -> Node81 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node81 [label="ML_AGG_Gen_Prolongator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#a54a698830512f930ca438a23b3c26a2f"];
+  Node81 -> Node82 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node82 [label="ML_Gen_MGHierarchy\l_UsingAggregation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#ae9980b6a4d94d467d5865727725cb1b8"];
+  Node82 -> Node83 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node83 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d8c/mlguide_8c.html#a0ddf1224851353fc92bfbff6f499fa97"];
+  Node82 -> Node84 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84 [label="ML_AGG_Gen_DDProlongator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#a55f0768e24055d7d503b95ad16e63a39"];
+  Node84 -> Node82 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node82 -> Node85 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node85 [label="ML_AGG_Gen_DDProlongator2",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#a1c6a82c0137de25725bc1708adb0f65e"];
+  Node82 -> Node86 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node86 [label="ML_Gen_MGHierarchy\l_UsingReitzinger",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d9b/ml__agg__reitzinger_8h.html#a109c0acc3b9efbf213a9f49d756cdda1"];
+  Node86 -> Node87 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d21/ml__simple__max_8c.html#a0ddf1224851353fc92bfbff6f499fa97"];
+  Node82 -> Node88 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node88 [label="ML_Setup",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/de5/ml__struct_8h.html#a3e510083e545d8f69ebf2c7904c2ad92"];
+  Node82 -> Node89 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node89 [label="ML_build_ggb_fat",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/de5/ml__struct_8h.html#a29c5797e6cbb5e0a36b743546c60a979"];
+  Node81 -> Node90 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node90 [label="ML_Gen_MGHierarchy\l_UsingSmoothedAggr_ReuseExistingAgg",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#a5f5a51370590a53ee4a81315f3d2109e"];
+  Node81 -> Node91 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node91 [label="ML_MultiLevel_Gen_Prolongator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#a69d5fe24f9b1bfc2267c54124b8d6e54"];
+  Node91 -> Node92 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node92 [label="ML_Gen_MultiLevelHierarchy\l_UsingAggregation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#ae7d1b526f0441504fca9924114c35306"];
+  Node91 -> Node93 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node93 [label="ML_Gen_MultiLevelHierarchy\l_UsingSmoothedAggr_ReuseExistingAgg",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#a401a0ca1f24bd136d5fcf880b4a85a2e"];
+  Node81 -> Node86 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node80 -> Node94 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node94 [label="ML_AGG_Gen_Prolongator\l_MinEnergy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d4f/ml__agg__min__energy_8h.html#a5cd54c03ba7c3c66bb2c5e755f04c916"];
+  Node80 -> Node95 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node95 [label="ML_AGG_Gen_Prolongator\l_MandelMinEnergy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d4f/ml__agg__min__energy_8h.html#ad06158a73f2f0dddc7afa10c21f8c1fe"];
+  Node95 -> Node91 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

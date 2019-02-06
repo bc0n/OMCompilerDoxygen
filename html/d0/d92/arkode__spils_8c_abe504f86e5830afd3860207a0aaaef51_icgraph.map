@@ -1,0 +1,12 @@
+<map id="ARKSpilsSetMassEpsLin" name="ARKSpilsSetMassEpsLin">
+<area shape="rect" id="node2" href="$d7/d4c/farkode_8h.html#aa9267b6d10a9649d6d56baf6dbd15c46" title="FARK_MASSSPGMR" alt="" coords="255,5,407,32"/>
+<area shape="rect" id="node3" href="$d7/d4c/farkode_8h.html#ac3cfab64bb683c4ca08b6181fd5b696a" title="FARK_MASSSPBCG" alt="" coords="255,56,406,83"/>
+<area shape="rect" id="node4" href="$d7/d4c/farkode_8h.html#a1b8df6095fd475c5483d03d21dc7c477" title="FARK_MASSSPTFQMR" alt="" coords="247,107,415,133"/>
+<area shape="rect" id="node5" href="$d7/d4c/farkode_8h.html#aa51a0be34e2f06a532e1fc73232938a3" title="FARK_MASSSPFGMR" alt="" coords="251,157,411,184"/>
+<area shape="rect" id="node6" href="$d7/d4c/farkode_8h.html#ad45112ae6ff4e3d13607e8c273b621b6" title="FARK_MASSPCG" alt="" coords="265,208,397,235"/>
+<area shape="rect" id="node7" href="$d7/d4c/farkode_8h.html#a1cdba838b5231bb66a9b95bfa2889dd9" title="FARK_MASSSPGMRREINIT" alt="" coords="232,259,429,285"/>
+<area shape="rect" id="node8" href="$d7/d4c/farkode_8h.html#a33914b893bf0be0faf318ec1271a8d68" title="FARK_MASSSPBCGREINIT" alt="" coords="233,309,428,336"/>
+<area shape="rect" id="node9" href="$d7/d4c/farkode_8h.html#a9bda6f9243d285d28a6c501e7f02aaa2" title="FARK_MASSSPTFQMRREINIT" alt="" coords="224,360,437,387"/>
+<area shape="rect" id="node10" href="$d7/d4c/farkode_8h.html#a5a103e5f04dfcb71032e7af03f99c775" title="FARK_MASSSPFGMRREINIT" alt="" coords="228,411,433,437"/>
+<area shape="rect" id="node11" href="$d7/d4c/farkode_8h.html#ae84e252cb488b9a695f4af542b113187" title="FARK_MASSPCGREINIT" alt="" coords="242,461,419,488"/>
+</map>

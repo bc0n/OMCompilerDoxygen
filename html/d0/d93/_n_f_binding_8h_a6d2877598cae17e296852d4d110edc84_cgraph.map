@@ -1,0 +1,12 @@
+<map id="boxptr_NFBinding_Binding_countPropagatedDims" name="boxptr_NFBinding_Binding_countPropagatedDims">
+<area shape="rect" id="node2" href="$d3/dcf/_n_f_binding_8c.html#a25e360f570f3bf92e83b46193bbbd338" title="omc_NFBinding_Binding\l_countPropagatedDims" alt="" coords="229,111,395,153"/>
+<area shape="rect" id="node3" href="$d4/dc3/_n_f_type_8c.html#a2914885cd4dd1b244067729718e343f3" title="omc_NFType_dimensionCount" alt="" coords="443,64,645,91"/>
+<area shape="rect" id="node6" href="$d7/d21/_n_f_inst_node_8c.html#ae5940953d517719f39a339e2c618c331" title="omc_NFInstNode_InstNode\l_getType" alt="" coords="451,166,637,207"/>
+<area shape="rect" id="node4" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a6983369f3c3e3e8cc41ac483c9a9baf1" title="listLength" alt="" coords="761,5,839,32"/>
+<area shape="rect" id="node5" href="$d0/d18/_n_f_function_8c.html#aae69cc226b1a0aa4a0b10d706367e116" title="omc_NFFunction_Function\l_returnType" alt="" coords="711,57,889,98"/>
+<area shape="rect" id="node7" href="$d5/ddb/_n_f_class_8c.html#ac23d3aa7b0619f3bda890410f64af293" title="omc_NFClass_Class_getType" alt="" coords="699,123,901,149"/>
+<area shape="rect" id="node9" href="$dc/d0e/_pointer_8c.html#aa5369c5410f4ad12957ad69be8ccc4e8" title="omc_Pointer_access" alt="" coords="1223,173,1367,200"/>
+<area shape="rect" id="node11" href="$d2/dda/_n_f_component_8c.html#af6aac1e4dc7e3464364e05728993beca" title="omc_NFComponent_Component\l_getType" alt="" coords="693,225,907,266"/>
+<area shape="rect" id="node8" href="$d7/d21/_n_f_inst_node_8c.html#a840047a70bed69a6b747a8bbec33e15b" title="omc_NFInstNode_InstNode\l_getClass" alt="" coords="955,107,1140,149"/>
+<area shape="rect" id="node10" href="$d2/dda/_n_f_component_8c.html#aebc936a63cf3faa7877ddb75a6ba16cb" title="omc_NFComponent_Component\l_classInstance" alt="" coords="1188,107,1401,149"/>
+</map>

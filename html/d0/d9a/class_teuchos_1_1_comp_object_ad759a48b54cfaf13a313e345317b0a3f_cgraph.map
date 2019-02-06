@@ -1,0 +1,4 @@
+<map id="Teuchos::CompObject::setFlopCounter" name="Teuchos::CompObject::setFlopCounter">
+<area shape="rect" id="node2" href="$d0/d9a/class_teuchos_1_1_comp_object.html#ab18f24c06b25589226dcbbaa1e460d81" title="Get the pointer to the Teuchos::Flops() object associated with this object, returns 0 if none..." alt="" coords="207,5,360,47"/>
+<area shape="rect" id="node3" href="$d1/d4a/class_teuchos_1_1_flops.html#acee7c8a79b57fa8eac61b745026f357a" title="Resets the number of floating point operations to zero for this multi&#45;std::vector. " alt="" coords="408,13,589,39"/>
+</map>

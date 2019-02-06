@@ -1,0 +1,13 @@
+digraph "omc_CodegenJava_initVals"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node9584 [label="omc_CodegenJava_initVals",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node9584 -> Node9585 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9585 [label="omc_CodegenJava_simulation\lInitFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d9d/_codegen_java_8h.html#ae82bf5bcec6d2420ae503d9e57ef86f7"];
+  Node9585 -> Node9586 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9586 [label="omc_CodegenJava_fun__36",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/ddc/_codegen_java_8c.html#a19abe962d3af8368ab6e75879ef58d9e"];
+  Node9586 -> Node9587 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9587 [label="omc_CodegenJava_translate\lModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d9d/_codegen_java_8h.html#a2ae089b5ca780e26e13c152451429993"];
+}

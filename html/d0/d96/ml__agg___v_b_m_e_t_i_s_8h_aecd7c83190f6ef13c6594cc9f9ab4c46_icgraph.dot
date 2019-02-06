@@ -1,0 +1,44 @@
+digraph "ML_Operator_AmalgamateAndDropWeak_VBlocks"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node121 [label="ML_Operator_AmalgamateAnd\lDropWeak_VBlocks",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node121 -> Node122 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node122 [label="ML_Aggregate_CoarsenVBMETIS",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d96/ml__agg___v_b_m_e_t_i_s_8h.html#a6f546763a82ed9f0c6cd72f63c094566",tooltip="create non-smoothed aggregates using METIS "];
+  Node122 -> Node123 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node123 [label="ML_Aggregate_Coarsen",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/da4/ml__aggregate_8h.html#a26c58349c770e0946c656ad9d299dc9a"];
+  Node123 -> Node124 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node124 [label="ML_AGG_Gen_Prolongator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#a54a698830512f930ca438a23b3c26a2f"];
+  Node124 -> Node125 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node125 [label="ML_Gen_MGHierarchy\l_UsingAggregation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#ae9980b6a4d94d467d5865727725cb1b8"];
+  Node125 -> Node126 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node126 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d8c/mlguide_8c.html#a0ddf1224851353fc92bfbff6f499fa97"];
+  Node125 -> Node127 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node127 [label="ML_AGG_Gen_DDProlongator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#a55f0768e24055d7d503b95ad16e63a39"];
+  Node127 -> Node125 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node125 -> Node128 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node128 [label="ML_AGG_Gen_DDProlongator2",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#a1c6a82c0137de25725bc1708adb0f65e"];
+  Node125 -> Node129 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node129 [label="ML_Gen_MGHierarchy\l_UsingReitzinger",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d9b/ml__agg__reitzinger_8h.html#a109c0acc3b9efbf213a9f49d756cdda1"];
+  Node129 -> Node130 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node130 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d21/ml__simple__max_8c.html#a0ddf1224851353fc92bfbff6f499fa97"];
+  Node125 -> Node131 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node131 [label="ML_Setup",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/de5/ml__struct_8h.html#a3e510083e545d8f69ebf2c7904c2ad92"];
+  Node125 -> Node132 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node132 [label="ML_build_ggb_fat",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/de5/ml__struct_8h.html#a29c5797e6cbb5e0a36b743546c60a979"];
+  Node124 -> Node133 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node133 [label="ML_Gen_MGHierarchy\l_UsingSmoothedAggr_ReuseExistingAgg",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#a5f5a51370590a53ee4a81315f3d2109e"];
+  Node124 -> Node134 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node134 [label="ML_MultiLevel_Gen_Prolongator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#a69d5fe24f9b1bfc2267c54124b8d6e54"];
+  Node134 -> Node135 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node135 [label="ML_Gen_MultiLevelHierarchy\l_UsingAggregation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#ae7d1b526f0441504fca9924114c35306"];
+  Node134 -> Node136 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node136 [label="ML_Gen_MultiLevelHierarchy\l_UsingSmoothedAggr_ReuseExistingAgg",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#a401a0ca1f24bd136d5fcf880b4a85a2e"];
+  Node124 -> Node129 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node123 -> Node137 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node137 [label="ML_AGG_Gen_Prolongator\l_MinEnergy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d4f/ml__agg__min__energy_8h.html#a5cd54c03ba7c3c66bb2c5e755f04c916"];
+  Node123 -> Node138 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node138 [label="ML_AGG_Gen_Prolongator\l_MandelMinEnergy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d4f/ml__agg__min__energy_8h.html#ad06158a73f2f0dddc7afa10c21f8c1fe"];
+  Node138 -> Node134 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

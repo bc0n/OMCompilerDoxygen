@@ -1,0 +1,22 @@
+<map id="collectMinorVar" name="collectMinorVar">
+<area shape="rect" id="node2" href="$d2/d46/lp__price_8c.html#a8fc54250c356a36337ad8cb137a42f8c" title="validSubstitutionVar" alt="" coords="379,7,518,33"/>
+<area shape="rect" id="node4" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#ab3ddb3000059d0f1975540149e46effa" title="MYBOOL" alt="" coords="586,159,665,185"/>
+<area shape="rect" id="node5" href="$d2/d46/lp__price_8c.html#a5df5ab010f62adaee447bee6d84282c4" title="multi_truncatingvar" alt="" coords="383,564,515,591"/>
+<area shape="rect" id="node7" href="$dd/dc0/commonlib_8c.html#ab126b4e74d395602c673f9ed1e4c11f9" title="QS_execute" alt="" coords="401,615,496,641"/>
+<area shape="rect" id="node11" href="$d2/d46/lp__price_8c.html#ae1186631781911be5a6607169328b245" title="compareSubstitutionQS" alt="" coords="165,57,325,84"/>
+<area shape="rect" id="node14" href="$d2/d46/lp__price_8c.html#a8ba3de3a79ac3da343cc665b5de3774e" title="multi_recompute" alt="" coords="186,235,305,261"/>
+<area shape="rect" id="node17" href="$d2/d46/lp__price_8c.html#afb197219ba224df3e8dc60d442faffbc" title="addCandidateVar" alt="" coords="184,424,307,451"/>
+<area shape="rect" id="node3" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#aabeea9518b446124eae99d84b94661ed" title="REAL" alt="" coords="737,83,795,109"/>
+<area shape="rect" id="node6" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#af1f43f5cde845d006008580d54b475bb" title="is_infinite" alt="" coords="587,564,664,591"/>
+<area shape="rect" id="node8" href="$dd/dc0/commonlib_8c.html#a86623d24776b1bd93b3d2b5f07fcaeae" title="QS_sort" alt="" coords="590,615,661,641"/>
+<area shape="rect" id="node10" href="$dd/dc0/commonlib_8c.html#a666802923a838f9d770e37a56fbf0c46" title="QS_finish" alt="" coords="586,665,665,692"/>
+<area shape="rect" id="node9" href="$dd/dc0/commonlib_8c.html#a68b0dd61c7ac1ba5677019afc2a3fa57" title="QS_swap" alt="" coords="727,615,805,641"/>
+<area shape="rect" id="node12" href="$d2/d46/lp__price_8c.html#acf62e41599f79d133b0d07b1a49fa80a" title="compareBoundFlipVar" alt="" coords="373,57,524,84"/>
+<area shape="rect" id="node13" href="$dd/dc0/commonlib_8c.html#a93d4c70d927944172ef9dacecaf053c5" title="compareREAL" alt="" coords="572,57,679,84"/>
+<area shape="rect" id="node15" href="$d3/d63/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__report_8h.html#a44ef60e159dc1290b7da87301e244357" title="report" alt="" coords="421,311,476,337"/>
+<area shape="rect" id="node16" href="$dc/de4/3rd_party_2lpsolve_2build_2include_2lpsolve_2lp__lib_8h.html#a4420367bb02b46947d64dfbd59b1119b" title="get_total_iter" alt="" coords="400,260,497,287"/>
+<area shape="rect" id="node18" href="$dd/dc0/commonlib_8c.html#ae19d89c33fe0cfd0bfb9e45afe9029c7" title="findIndexEx" alt="" coords="403,412,494,439"/>
+<area shape="rect" id="node19" href="$dd/dc0/commonlib_8c.html#a40c60524b51009cc37d49eb4e3a9ea15" title="QS_append" alt="" coords="403,463,494,489"/>
+<area shape="rect" id="node21" href="$dd/dc0/commonlib_8c.html#a68c04b9ad371e9c1b9291d2dead4cf25" title="QS_insert" alt="" coords="409,513,489,540"/>
+<area shape="rect" id="node20" href="$dd/dc0/commonlib_8c.html#afbde7f8244e8f2454e7d67e3a17e61b6" title="QS_addfirst" alt="" coords="580,463,671,489"/>
+</map>
