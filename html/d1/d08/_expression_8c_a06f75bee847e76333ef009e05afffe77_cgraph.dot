@@ -1,0 +1,27 @@
+digraph "omc_Expression_sconstEnumNameString"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node84620 [label="omc_Expression_sconstEnum\lNameString",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node84620 -> Node84621 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84621 [label="omc_Absyn_pathString",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d78/_absyn_8c.html#a8019d89e43bec6f522ed51a5feceeb83"];
+  Node84621 -> Node84622 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84622 [label="omc_Absyn_makeNotFullyQualified",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d78/_absyn_8c.html#aa90ee78f7c8fc6fd5b988d9d6eadda59"];
+  Node84621 -> Node84623 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84623 [label="omc_Absyn_pathStringWork",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d78/_absyn_8c.html#a5ac0f205a03658465c7029ab9217dc20"];
+  Node84623 -> Node84624 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84624 [label="omc_System_StringAllocator\l_constructor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d95/_system_8c.html#ad2e105aeacd5b1f062d1a0f82e45e34a"];
+  Node84624 -> Node84625 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84625 [label="StringAllocator_constructor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/ddb/_system__includes_8h.html#a9f4da0f15063aa18a9e6ab5baa0ae36c"];
+  Node84623 -> Node84626 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84626 [label="omc_System_stringAllocator\lStringCopy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d95/_system_8c.html#af8847d2041f2dc8d967e8aecf3dc8c02"];
+  Node84626 -> Node84627 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84627 [label="om_stringAllocatorStringCopy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/ddb/_system__includes_8h.html#a8e19a7a58e3c6431947680216dd4fa2a"];
+  Node84623 -> Node84628 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84628 [label="omc_System_stringAllocator\lResult",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d95/_system_8c.html#af314a780e1ba28e87940376fefe833ca"];
+  Node84628 -> Node84629 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84629 [label="om_stringAllocatorResult",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/ddb/_system__includes_8h.html#ac5166cb81d1b1b91e6d70ab97c6c9bc3"];
+  Node84623 -> Node84630 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84630 [label="omc_System_StringAllocator\l_destructor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d95/_system_8c.html#abaad6ae894ae7b9dde52307668f61597"];
+}

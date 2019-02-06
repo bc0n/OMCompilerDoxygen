@@ -1,0 +1,10 @@
+<map id="boxptr_IOStream_print" name="boxptr_IOStream_print">
+<area shape="rect" id="node2" href="$d1/d0b/_i_o_stream_8c.html#a81ddf78e043ddf793e8f481332ae4e0e" title="omc_IOStream_print" alt="" coords="207,56,349,83"/>
+<area shape="rect" id="node3" href="$d6/d96/boot_2build_2_i_o_stream_ext_8c.html#a397ae7a9ec9b865775494bbaa971c63c" title="omc_IOStreamExt_printFile" alt="" coords="425,5,608,32"/>
+<area shape="rect" id="node6" href="$d6/d96/boot_2build_2_i_o_stream_ext_8c.html#a38f72ae8f66551eed1fdfa057cd55e7a" title="omc_IOStreamExt_printBuffer" alt="" coords="418,56,615,83"/>
+<area shape="rect" id="node8" href="$d6/d96/boot_2build_2_i_o_stream_ext_8c.html#a2e860fe33b124696a327d745a22722ec" title="omc_IOStreamExt_printReversedList" alt="" coords="397,107,636,133"/>
+<area shape="rect" id="node4" href="$d3/d9e/_i_o_stream_ext_8h.html#aa14bf4ad47016338753e9e0a39603bae" title="IOStreamExt_printFile" alt="" coords="712,5,863,32"/>
+<area shape="rect" id="node5" href="$d4/d98/g_09_09malloc_8c.html#a49f789e614e57e410f598885b800c2df" title="fprintf" alt="" coords="939,31,993,57"/>
+<area shape="rect" id="node7" href="$d3/d9e/_i_o_stream_ext_8h.html#aadec86cdb9704975a085542e32dcbf23" title="IOStreamExt_printBuffer" alt="" coords="705,56,870,83"/>
+<area shape="rect" id="node9" href="$d3/d9e/_i_o_stream_ext_8h.html#ab8f03eada7f54661de7d4374b7f5075f" title="IOStreamExt_printReversedList" alt="" coords="684,107,891,133"/>
+</map>

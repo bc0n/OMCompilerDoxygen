@@ -1,0 +1,11 @@
+<map id="omc_Refactor_getCoordsInClass" name="omc_Refactor_getCoordsInClass">
+<area shape="rect" id="node2" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a65a694e3889f2f5d8af963dcfbbaf1cf" title="omc_List_flatten" alt="" coords="268,56,387,83"/>
+<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a70628b2c3fb199a118f80777135940ee" title="omc_List_map" alt="" coords="274,111,381,137"/>
+<area shape="rect" id="node6" href="$d1/d0b/_refactor_8c.html#acf27f6b0a4bd438ca0fb07e659567814" title="omc_Refactor_getCoordsIn\lAnnList" alt="" coords="236,169,419,210"/>
+<area shape="rect" id="node3" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a81001ba45c298ade27540edd2589777c" title="listReverse" alt="" coords="523,5,611,32"/>
+<area shape="rect" id="node4" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a56b7e8a835b2d388f5984ca7378bc1ec" title="listAppend" alt="" coords="526,56,609,83"/>
+<area shape="rect" id="node7" href="$d1/d0b/_refactor_8c.html#ae3b451b8fc9850efa104f1af7bfa9137" title="omc_Refactor_getCoordsFrom\lCoordSysArgs" alt="" coords="467,107,668,149"/>
+<area shape="rect" id="node8" href="$d1/d0b/_refactor_8c.html#a268493e9595ebde473a894b1dede2a4c" title="omc_Refactor_getCoordsFrom\lLayerArgs" alt="" coords="467,173,668,214"/>
+<area shape="rect" id="node10" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="811,235,858,261"/>
+<area shape="rect" id="node9" href="$d1/d0b/_refactor_8c.html#a5624936f6bb61f278bef7ff69830d70f" title="omc_Refactor_getExtentModification" alt="" coords="716,180,953,207"/>
+</map>

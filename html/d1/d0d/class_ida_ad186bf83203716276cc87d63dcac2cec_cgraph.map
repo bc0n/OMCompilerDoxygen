@@ -1,0 +1,64 @@
+<map id="Ida::setInitStepSize" name="Ida::setInitStepSize">
+<area shape="rect" id="node2" href="$dc/d46/group__core_solver.html#gab9156d92dd5de1b3a555c7520d61c615" title="Set the initial step size (needed for reinitialization after external zero search) ..." alt="" coords="191,1877,381,1919"/>
+<area shape="rect" id="node3" href="$d1/d0d/class_ida.html#a289cf95889af136a4bb11e4c537daa78" title="Berechung der numerischen Lösung innerhalb eines gegebenen Zeitintervalls. " alt="" coords="247,1943,325,1970"/>
+<area shape="rect" id="node4" href="$d9/d56/class_i_solver_settings.html#acd9b997fd991c229bfbbec8f3de17560" title="Global simulation settings. " alt="" coords="938,5,1113,47"/>
+<area shape="rect" id="node5" href="$d2/dc2/class_i_global_settings.html#a513c6f10bffd92121baa561183c7ae94" title="IGlobalSettings::getOutput\lPointType" alt="" coords="937,71,1113,112"/>
+<area shape="rect" id="node6" href="$d6/df2/class_measure_time.html#a81c5c6b887f2294c2d863e560626c8c2" title="MeasureTime::getInstance" alt="" coords="693,1789,871,1815"/>
+<area shape="rect" id="node7" href="$d1/d0d/class_ida.html#a076ebddc85a48c81623e205f2ca9874a" title="Spezielle Solvereinstellungen setzten (default oder user defined) " alt="" coords="481,934,575,961"/>
+<area shape="rect" id="node10" href="$dc/d98/class_i_time.html#aee4919bed7918250678421574392641d" title="Set current integration time. " alt="" coords="970,1669,1081,1695"/>
+<area shape="rect" id="node22" href="$d9/de6/class_i_continuous.html#a1e8200161ff4181afb162dd0498deeaa" title="Provide boolean variables. " alt="" coords="690,121,874,163"/>
+<area shape="rect" id="node23" href="$df/d86/class_i_mixed_system.html#a5d86876110378654c1b4ab5d6e693d24" title="IMixedSystem::getAlgebraic\lDAEVars" alt="" coords="689,187,875,228"/>
+<area shape="rect" id="node30" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#a8759373e2cb2f5ee73004d6092e6faa7" title="IDASetInitStep" alt="" coords="727,1567,837,1594"/>
+<area shape="rect" id="node31" href="$d3/d1b/netstream-main_8cpp.html#aed138f72d7301a9034a719a95c4903da" title="e" alt="" coords="763,1618,801,1645"/>
+<area shape="rect" id="node42" href="$dc/d46/group__core_solver.html#ga933a13033aca8ce531c6b121f1130553" title="Called by solver after every successful integration step (calls writeOutput) " alt="" coords="433,1700,623,1741"/>
+<area shape="rect" id="node43" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#a140129eba8ba4398a5239d4c66f4bd34" title="IDAGetIntegratorStats" alt="" coords="452,1766,604,1793"/>
+<area shape="rect" id="node44" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#ab8c0460e23bb33731f5386009a6615cf" title="IDAGetNonlinSolvStats" alt="" coords="448,1817,608,1843"/>
+<area shape="rect" id="node45" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#a7860d65787c96eb9fa4574b21d3df586" title="IDAReInit" alt="" coords="488,1867,568,1894"/>
+<area shape="rect" id="node46" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#ac5effa0bd89c83ad4dbaea051e0e8fe4" title="IDASetStopTime" alt="" coords="467,1918,589,1945"/>
+<area shape="rect" id="node47" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#af7526aace556d392f66201a0a110cad2" title="IDASolve" alt="" coords="489,1969,567,1995"/>
+<area shape="rect" id="node48" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#ae1b7f1544928be62305d95e5428fd4c5" title="IDAGetNumSteps" alt="" coords="464,2019,592,2046"/>
+<area shape="rect" id="node49" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#a832d8f2203c74a0e0e2513bd1f7d4f11" title="IDAGetLastStep" alt="" coords="469,2070,587,2097"/>
+<area shape="rect" id="node50" href="$d9/de6/class_i_continuous.html#aa5e014d635e7257c0f5f4ca95251555e" title="IContinuous::stepCompleted" alt="" coords="434,2121,622,2147"/>
+<area shape="rect" id="node51" href="$d1/d0d/class_ida.html#ab796544128f7cd74b8568493b9e93ed1" title="Ida::stateSelection" alt="" coords="463,2222,593,2249"/>
+<area shape="rect" id="node53" href="$d9/de6/class_i_continuous.html#ad430948b6b4a58c3d7890a5c9b37f285" title="Provide boolean variables. " alt="" coords="690,1980,874,2021"/>
+<area shape="rect" id="node54" href="$d9/de6/class_i_continuous.html#a5846100f24cdbcbdeeb6959085bb9cd4" title="Provide the right hand side. " alt="" coords="675,2265,889,2291"/>
+<area shape="rect" id="node55" href="$df/d86/class_i_mixed_system.html#aa631818ab0c3808e5b9d873cb9a3e143" title="IMixedSystem::setAlgebraic\lDAEVars" alt="" coords="689,2316,875,2357"/>
+<area shape="rect" id="node56" href="$d9/de6/class_i_continuous.html#a7f9f082ef0371b3823c74ee6bf9ab7cd" title="IContinuous::evaluateDAE" alt="" coords="693,2382,871,2409"/>
+<area shape="rect" id="node59" href="$d9/de6/class_i_continuous.html#aaa95c3ec0ba3066b1919bc0a44692912" title="Provide the right hand side. " alt="" coords="709,2433,855,2459"/>
+<area shape="rect" id="node60" href="$d5/def/socket__unix_8cpp.html#af709baf4d595b037d8a5ba0e83361943" title="to_string" alt="" coords="492,2475,564,2502"/>
+<area shape="rect" id="node61" href="$d9/de6/class_i_continuous.html#a61706f73b6978a59e959bce5d80f6d2b" title="Update transfer behavior of the system of equations according to command given by solver..." alt="" coords="446,2526,610,2553"/>
+<area shape="rect" id="node62" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#aac878461d31a122dfa7cfc9ed02bad6a" title="IDAGetRootInfo" alt="" coords="470,2577,586,2603"/>
+<area shape="rect" id="node63" href="$df/d86/class_i_mixed_system.html#a4ce38e71ba1fbcf44d0238798276bee0" title="Called to handle all events occured at same time. " alt="" coords="429,2628,627,2669"/>
+<area shape="rect" id="node8" href="$dc/d46/group__core_solver.html#gac349bb550974c9257ade5bd99d34ef92" title="Assemble system and (re&#45;)initialize solver. " alt="" coords="687,304,877,345"/>
+<area shape="rect" id="node12" href="$d1/d08/class_i_event.html#a312c25d74ac7a74c25e10508da5c23f5" title="Provide number (dimension) of zero functions. " alt="" coords="943,370,1108,397"/>
+<area shape="rect" id="node15" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a9bb523029391a4525c52a8e90e877692" title="memcpy" alt="" coords="989,421,1061,447"/>
+<area shape="rect" id="node16" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a362b656d9de3289b55b1035d14cb4b5d" title="memset" alt="" coords="991,471,1060,498"/>
+<area shape="rect" id="node17" href="$d9/de6/class_i_continuous.html#aa58cfacc1b669c1b658dffda1da2cc6c" title="Provide number (dimension) of states. " alt="" coords="678,523,886,564"/>
+<area shape="rect" id="node18" href="$d9/de6/class_i_continuous.html#aeec86c30df8fb5ab66211692bccc9581" title="Provide number (dimension) of states. " alt="" coords="702,589,862,615"/>
+<area shape="rect" id="node19" href="$d9/d56/class_i_solver_settings.html#a5d7490d6385261a5d8fd3479b2dcb438" title="ISolverSettings::getDense\lOutput" alt="" coords="695,640,869,681"/>
+<area shape="rect" id="node20" href="$d2/dc2/class_i_global_settings.html#a3e63683e9046bd3df6600b0fdc7c7f59" title="IGlobalSettings::gethOutput" alt="" coords="691,706,873,733"/>
+<area shape="rect" id="node21" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#a8943b59cf79907a6977b257eb0535bde" title="IDACreate" alt="" coords="740,757,824,783"/>
+<area shape="rect" id="node24" href="$d9/de6/class_i_continuous.html#a772821beb18095d1cf79dfc19cb94767" title="IContinuous::getNominalStates" alt="" coords="680,807,884,834"/>
+<area shape="rect" id="node25" href="$dc/d0a/3rd_party_2sundials_2build_2include_2nvector_2nvector__serial_8h.html#a688a531ed29d81abeca46b4e222b79d0" title="N_VMake_Serial" alt="" coords="722,858,842,885"/>
+<area shape="rect" id="node26" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#a75c850e7cdf1aeab3de5437d1458c0f0" title="IDAInit" alt="" coords="751,909,813,935"/>
+<area shape="rect" id="node27" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#acc0b6db1bac0275bd98594f4223541d8" title="IDASetErrHandlerFn" alt="" coords="711,959,853,986"/>
+<area shape="rect" id="node28" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#ae14fe5bca69de989e1ef5252101086fc" title="IDASVtolerances" alt="" coords="721,1010,843,1037"/>
+<area shape="rect" id="node29" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#a1311828129d38635f64f1cf1e2a0d5dd" title="IDASetUserData" alt="" coords="721,1061,843,1087"/>
+<area shape="rect" id="node32" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#a259a4d9efa0ca06e4c9b5db5438be751" title="IDASetMaxStep" alt="" coords="723,1111,841,1138"/>
+<area shape="rect" id="node33" href="$d2/dc2/class_i_global_settings.html#a2049e78cc0adbe5c5e198cc50492de38" title="IGlobalSettings::getEndTime" alt="" coords="687,1162,877,1189"/>
+<area shape="rect" id="node34" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#a27e443096605facc541147e9a7510c4b" title="IDASetMaxNonlinIters" alt="" coords="705,1213,859,1239"/>
+<area shape="rect" id="node35" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#aafae90973ffe9a5bd492e66b739a7501" title="IDASetMaxErrTestFails" alt="" coords="701,1263,863,1290"/>
+<area shape="rect" id="node36" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#a1bb070052185de0577334d00c929feed" title="IDASetMaxNumSteps" alt="" coords="706,1314,858,1341"/>
+<area shape="rect" id="node37" href="$db/d06/3rd_party_2sundials_2build_2include_2ida_2ida__dense_8h.html#ada198efe3d8ba412200f8bbe4529b467" title="IDADense" alt="" coords="741,1365,823,1391"/>
+<area shape="rect" id="node38" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#ab6df50a502697c80e79ffe1e335354f0" title="IDASetSuppressAlg" alt="" coords="713,1415,851,1442"/>
+<area shape="rect" id="node39" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#a009302d036d6e6ef2f74578d917159b2" title="IDASetId" alt="" coords="744,1466,820,1493"/>
+<area shape="rect" id="node40" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#af37ea22a2f4ee44073b0b40fccee8b79" title="IDARootInit" alt="" coords="737,1517,827,1543"/>
+<area shape="rect" id="node41" href="$d1/dda/3rd_party_2sundials_2build_2include_2ida_2ida_8h.html#a4968b475bad2aeee89e97c826321caad" title="IDASetRootDirection" alt="" coords="709,253,855,279"/>
+<area shape="rect" id="node9" href="$dc/d46/group__core_solver.html#ga77ff2025a7aa18893a127f4b646c164c" title="SimulationMonitor::\linitialize" alt="" coords="958,253,1093,295"/>
+<area shape="rect" id="node11" href="$dc/d70/class_i_write_output.html#af7e96a04ac8563b59a6b128c93d1d7c5" title="Output routine (to be called by the solver after every successful integration step) ..." alt="" coords="940,319,1111,346"/>
+<area shape="rect" id="node13" href="$d9/de6/class_i_continuous.html#a5aec0cca01e86e9c55849b6dddcac1a6" title="IContinuous::evaluateZero\lFuncs" alt="" coords="938,136,1113,177"/>
+<area shape="rect" id="node14" href="$d1/d08/class_i_event.html#a1b9b09beed3290e820bc908f8a089329" title="Provides current values of root/zero functions. " alt="" coords="955,202,1096,229"/>
+<area shape="rect" id="node52" href="$dc/d46/group__core_solver.html#ga22a476f2f7b70a626a5353ab78472259" title="SolverDefaultImplementation\l::stateSelection" alt="" coords="687,2199,877,2240"/>
+<area shape="rect" id="node57" href="$df/d86/class_i_mixed_system.html#a7d03ccf7cb518d166f6733ec04daba33" title="IMixedSystem::getResidual" alt="" coords="691,2046,873,2073"/>
+<area shape="rect" id="node58" href="$d9/de6/class_i_continuous.html#a8029e06c561c6948a9363049c790a99f" title="IContinuous::evaluateODE" alt="" coords="693,2097,871,2123"/>
+</map>

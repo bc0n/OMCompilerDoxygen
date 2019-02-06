@@ -1,0 +1,11 @@
+<map id="omc_Expression_realToIntIfPossible" name="omc_Expression_realToIntIfPossible">
+<area shape="rect" id="node2" href="$d6/d99/_expression_8h.html#a7444b1189b9f43fc3bdc6b73bb09d9d5" title="boxptr_Expression_realTo\lIntIfPossible" alt="" coords="231,5,404,47"/>
+<area shape="rect" id="node3" href="$d9/dc1/_expression_simplify_8h.html#ac2ffd82aa6f79cf833630cd4946fa3cb" title="omc_ExpressionSimplify\l_safeIntOp" alt="" coords="234,71,401,112"/>
+<area shape="rect" id="node4" href="$d9/dc1/_expression_simplify_8h.html#ade9fe0ae7e2160988f408e2c1abcf0b7" title="boxptr_ExpressionSimplify\l_safeIntOp" alt="" coords="466,5,643,47"/>
+<area shape="rect" id="node5" href="$d3/da5/_expression_simplify_8c.html#a936013e108edc8d6517aaa077543fa25" title="omc_ExpressionSimplify\l_simplifyBinaryConst" alt="" coords="471,71,638,112"/>
+<area shape="rect" id="node9" href="$da/d88/_values_util_8h.html#a5081ee7f5e4f1c747e30dfaa614d15fa" title="omc_ValuesUtil_safeIntRealOp" alt="" coords="452,138,657,165"/>
+<area shape="rect" id="node6" href="$d3/da5/_expression_simplify_8c.html#af59cf70c8b3e0c9137bbf55907a46441" title="omc_ExpressionSimplify\l_simplifyBinary" alt="" coords="707,68,874,109"/>
+<area shape="rect" id="node7" href="$d9/dc1/_expression_simplify_8h.html#a8e09d941b82766054fa687140503d8fe" title="omc_ExpressionSimplify\l_simplifyWork" alt="" coords="924,36,1091,77"/>
+<area shape="rect" id="node8" href="$d9/dc1/_expression_simplify_8h.html#a8ae0418d3631ca94a4c0e989b30fb51a" title="omc_ExpressionSimplify\l_simplifyBinaryExp" alt="" coords="924,101,1091,143"/>
+<area shape="rect" id="node10" href="$db/d73/_interactive_8c.html#aa4f6ea1098e5822254ab68a1f63bf7c7" title="omc_Interactive_evaluate\lForStmtRangeOpt" alt="" coords="705,133,876,175"/>
+</map>

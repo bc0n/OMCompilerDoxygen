@@ -1,0 +1,5 @@
+<map id="omc_Expression_emptyToWild" name="omc_Expression_emptyToWild">
+<area shape="rect" id="node2" href="$d1/d08/_expression_8c.html#a007abae479310b1b518673105ceba117" title="omc_Expression_typeof" alt="" coords="276,5,439,32"/>
+<area shape="rect" id="node3" href="$d3/df6/_types_8c.html#a3ed5e2a31b99546496488f0e4503c6ae" title="omc_Types_isZeroLengthArray" alt="" coords="256,56,459,83"/>
+<area shape="rect" id="node4" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="507,56,609,83"/>
+</map>

@@ -1,0 +1,44 @@
+digraph "SimulationRuntime/cpp/Include/Core/Solver/SystemStateSelection.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node3 [label="SimulationRuntime/cpp\l/Include/Core/Solver\l/SystemStateSelection.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="SimulationRuntime/cpp\l/Core/Solver/SystemStateSelection.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/de3/_system_state_selection_8cpp.html"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="SimulationRuntime/cpp\l/Include/Core/Solver\l/SolverDefaultImplementation.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d06/_solver_default_implementation_8h.html"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="SimulationRuntime/cpp\l/Core/Solver/SolverDefaultImplementation.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d54/_solver_default_implementation_8cpp.html"];
+  Node5 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="SimulationRuntime/cpp\l/Include/Solver/ARKode\l/ARKode.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d98/_simulation_runtime_2cpp_2_include_2_solver_2_a_r_kode_2arkode_8h.html"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="SimulationRuntime/cpp\l/Solver/ARKode/ARKode.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d63/_a_r_kode_8cpp.html"];
+  Node5 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="SimulationRuntime/cpp\l/Include/Solver/CppDASSL\l/CppDASSL.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/df5/_cpp_d_a_s_s_l_8h.html"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="SimulationRuntime/cpp\l/Solver/CppDASSL/CppDASSL.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d19/_cpp_d_a_s_s_l_8cpp.html"];
+  Node5 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="SimulationRuntime/cpp\l/Include/Solver/CVode\l/CVode.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d98/_simulation_runtime_2cpp_2_include_2_solver_2_c_vode_2cvode_8h.html"];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="SimulationRuntime/cpp\l/Solver/CVode/CVode.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d14/_c_vode_8cpp.html"];
+  Node5 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="SimulationRuntime/cpp\l/Include/Solver/Euler\l/Euler.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dd3/_euler_8h.html"];
+  Node13 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="SimulationRuntime/cpp\l/Solver/Euler/Euler.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dc8/_euler_8cpp.html"];
+  Node5 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="SimulationRuntime/cpp\l/Include/Solver/IDA/IDA.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d3a/_simulation_runtime_2cpp_2_include_2_solver_2_i_d_a_2ida_8h.html"];
+  Node15 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="SimulationRuntime/cpp\l/Solver/IDA/IDA.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d7a/_i_d_a_8cpp.html"];
+  Node5 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="SimulationRuntime/cpp\l/Include/Solver/Peer\l/Peer.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d07/_peer_8h.html"];
+  Node17 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="SimulationRuntime/cpp\l/Solver/Peer/Peer.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/df9/_peer_8cpp.html"];
+  Node5 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="SimulationRuntime/cpp\l/Include/Solver/RK12\l/RK12.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dc5/_r_k12_8h.html"];
+  Node19 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="SimulationRuntime/cpp\l/Solver/RK12/RK12.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/db9/_r_k12_8cpp.html"];
+  Node5 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="SimulationRuntime/cpp\l/Include/Solver/RTEuler\l/RTEuler.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d32/_r_t_euler_8h.html"];
+  Node21 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node22 [label="SimulationRuntime/cpp\l/Solver/RTEuler/RTEuler.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d96/_r_t_euler_8cpp.html"];
+}

@@ -1,0 +1,13 @@
+digraph "va_infoStreamPrint"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node207 [label="va_infoStreamPrint",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node207 -> Node208 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node208 [label="ModelicaVFormatMessage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dcd/group__core_utils.html#ga5a547ca027ee10985fac385086dea82c",tooltip="Output the message under the same format control as the C-function vprintf. "];
+  Node208 -> Node209 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node209 [label="ModelicaFormatMessage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dcd/group__core_utils.html#gae6e511105d798b01659cfd79696023f6",tooltip="Output the message under the same format control as the C-function printf. "];
+  Node209 -> Node210 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node210 [label="ModelicaMessage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dcd/group__core_utils.html#ga43924242047cc607eb4fd320a2010b2f",tooltip="Output the message string (no format control). "];
+}

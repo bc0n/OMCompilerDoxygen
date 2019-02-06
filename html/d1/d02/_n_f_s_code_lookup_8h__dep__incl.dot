@@ -1,0 +1,35 @@
+digraph "Compiler/boot/build/NFSCodeLookup.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node6 [label="Compiler/boot/build\l/NFSCodeLookup.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="Compiler/boot/build\l/CevalScriptBackend\l_includes.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d81/_ceval_script_backend__includes_8h.html"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="Compiler/boot/build\l/CevalScriptBackend.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/de6/_ceval_script_backend_8c.html"];
+  Node6 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Compiler/boot/build\l/NFEnvExtends_includes.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d8d/_n_f_env_extends__includes_8h.html"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="Compiler/boot/build\l/NFEnvExtends.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2f/_n_f_env_extends_8c.html"];
+  Node6 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="Compiler/boot/build\l/NFSCodeDependency_includes.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d04/_n_f_s_code_dependency__includes_8h.html"];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="Compiler/boot/build\l/NFSCodeDependency.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/df9/_n_f_s_code_dependency_8c.html"];
+  Node6 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="Compiler/boot/build\l/NFSCodeEnv_includes.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dcd/_n_f_s_code_env__includes_8h.html"];
+  Node13 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="Compiler/boot/build\l/NFSCodeEnv.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/db6/_n_f_s_code_env_8c.html"];
+  Node6 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="Compiler/boot/build\l/NFSCodeFlattenImports\l_includes.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dfc/_n_f_s_code_flatten_imports__includes_8h.html"];
+  Node15 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="Compiler/boot/build\l/NFSCodeFlattenImports.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/df0/_n_f_s_code_flatten_imports_8c.html"];
+  Node6 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="Compiler/boot/build\l/NFSCodeFlattenRedeclare\l_includes.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df4/_n_f_s_code_flatten_redeclare__includes_8h.html"];
+  Node17 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="Compiler/boot/build\l/NFSCodeFlattenRedeclare.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dd2/_n_f_s_code_flatten_redeclare_8c.html"];
+  Node6 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="Compiler/boot/build\l/NFSCodeLookup.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d84/_n_f_s_code_lookup_8c.html"];
+  Node6 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="Compiler/boot/build\l/NFSCodeLookup_includes.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d30/_n_f_s_code_lookup__includes_8h.html"];
+  Node20 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}
