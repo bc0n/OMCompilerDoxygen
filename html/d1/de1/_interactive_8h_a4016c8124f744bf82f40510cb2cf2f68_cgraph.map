@@ -1,0 +1,31 @@
+<map id="boxptr_Interactive_setClassComment" name="boxptr_Interactive_setClassComment">
+<area shape="rect" id="node2" href="$db/d73/_interactive_8c.html#ab5e82847309586ac3aaf632a23f587e1" title="omc_Interactive_setClass\lComment" alt="" coords="192,333,367,374"/>
+<area shape="rect" id="node3" href="$db/d73/_interactive_8c.html#a6fbcf90560afec65156acb876da0db65" title="omc_Interactive_buildWithin" alt="" coords="415,195,601,221"/>
+<area shape="rect" id="node5" href="$db/d73/_interactive_8c.html#a6725f24e4d4d6fb348c2918fecfb9092" title="omc_Interactive_getPathed\lClassInProgram" alt="" coords="417,333,599,374"/>
+<area shape="rect" id="node29" href="$db/d73/_interactive_8c.html#acdff519532f4673c0b17d10bb00988bb" title="omc_Interactive_setClass\lCommentInClass" alt="" coords="421,453,595,494"/>
+<area shape="rect" id="node4" href="$d0/d78/_absyn_8c.html#a101585ea1e4328015378ba92518493a5" title="omc_Absyn_stripLast" alt="" coords="681,107,829,133"/>
+<area shape="rect" id="node6" href="$db/d73/_interactive_8c.html#a94088fd09396293fce13cc6f42b0f8fa" title="omc_Interactive_getPathed\lClassInProgramWork" alt="" coords="664,333,845,374"/>
+<area shape="rect" id="node15" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="1932,405,1979,432"/>
+<area shape="rect" id="node17" href="$d7/d1c/_f_builtin_8c.html#a39ccd88d72001ca29a15abe18a97d4c4" title="omc_FBuiltin_getInitialFunctions" alt="" coords="649,157,860,184"/>
+<area shape="rect" id="node7" href="$db/d73/_interactive_8c.html#a0decc2aabeed83ab0e2d11f7c5f7078a" title="omc_Interactive_getClass\lInProgram" alt="" coords="1160,339,1335,381"/>
+<area shape="rect" id="node9" href="$db/d73/_interactive_8c.html#a53acc6f98f291721c9a118bb4afe429c" title="omc_Interactive_getPathed\lClassInProgramWorkNoThrow" alt="" coords="908,391,1108,433"/>
+<area shape="rect" id="node16" href="$db/d73/_interactive_8c.html#a9f36d43b7641634cb0d9a738c7ed88c5" title="omc_Interactive_getPathed\lClassInProgramWorkThrow" alt="" coords="917,274,1099,315"/>
+<area shape="rect" id="node8" href="$da/d72/_compiler_2boot_2build_2list_8c.html#aaa81bbdddf6ecc72a7ba180a14e0458b" title="omc_List_find1" alt="" coords="1427,345,1537,372"/>
+<area shape="rect" id="node10" href="$db/d73/_interactive_8c.html#ab1a6c5772a699f50ca691f1b72680977" title="omc_Interactive_getClass\lInClass" alt="" coords="1160,274,1335,315"/>
+<area shape="rect" id="node11" href="$db/d73/_interactive_8c.html#aa82da3f923157554cf2609abe0034767" title="omc_Interactive_getClasses\lInClass" alt="" coords="1388,277,1576,318"/>
+<area shape="rect" id="node12" href="$db/d73/_interactive_8c.html#a59cd6bddf2c4370dc4579f063e2f1930" title="omc_Interactive_getClasses\lInParts" alt="" coords="1625,294,1813,335"/>
+<area shape="rect" id="node13" href="$db/d73/_interactive_8c.html#a8cd7c2589481fea8e60d03ad82def175" title="omc_Interactive_getClasses\lInElts" alt="" coords="1861,323,2049,365"/>
+<area shape="rect" id="node14" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a56b7e8a835b2d388f5984ca7378bc1ec" title="listAppend" alt="" coords="1914,272,1997,299"/>
+<area shape="rect" id="node18" href="$d3/db3/_flags_8c.html#a34e6591659b1578969141a635ff24042" title="omc_Flags_isSet" alt="" coords="1186,81,1309,108"/>
+<area shape="rect" id="node21" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="959,56,1057,83"/>
+<area shape="rect" id="node22" href="$db/d8a/_settings_8c.html#a50f4b9de23b5202f6ee4225b4e08b2d2" title="omc_Settings_getInstallation\lDirectoryPath" alt="" coords="913,209,1103,250"/>
+<area shape="rect" id="node25" href="$d9/d7c/_compiler_2boot_2build_2util_8c.html#ad68c3faf9201d411f2989d49f79a146a" title="omc_Util_assoc" alt="" coords="950,157,1066,184"/>
+<area shape="rect" id="node27" href="$d3/db3/_flags_8c.html#add52ff282ca5df852c1905fabb4571c9" title="omc_Flags_getConfigEnum" alt="" coords="917,5,1099,32"/>
+<area shape="rect" id="node19" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="1407,51,1557,77"/>
+<area shape="rect" id="node20" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1668,51,1771,77"/>
+<area shape="rect" id="node23" href="$d4/d4a/_settings_8h.html#aa560265d614bc84fcd9a24b5e7911902" title="Settings_getInstallation\lDirectoryPath" alt="" coords="1168,209,1327,250"/>
+<area shape="rect" id="node24" href="$d9/d08/settingsimpl_8c.html#add138f2c89e6604d53c1adf2d64fe2e3" title="SettingsImpl__getInstallation\lDirectoryPath" alt="" coords="1387,209,1577,250"/>
+<area shape="rect" id="node26" href="$dc/dd0/build_2include_2omc_2c_2meta_2meta__modelica_8h.html#a053b78d26cb7fe728aa97ab1a575f7ad" title="valueEq" alt="" coords="1213,157,1282,184"/>
+<area shape="rect" id="node28" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="1156,19,1339,45"/>
+<area shape="rect" id="node30" href="$db/d73/_interactive_8c.html#a78c0c09761275c0ce051630ff67fc0d2" title="omc_Interactive_setClass\lCommentInClassdef" alt="" coords="667,509,842,550"/>
+</map>

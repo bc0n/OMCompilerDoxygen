@@ -1,0 +1,20 @@
+<map id="omc_Interactive_getProtectedList" name="omc_Interactive_getProtectedList">
+<area shape="rect" id="node2" href="$d1/de1/_interactive_8h.html#a20bb8b9dfab9f1a443c212a276799ef6" title="omc_Interactive_getElements\lOfVisType" alt="" coords="287,5,482,47"/>
+<area shape="rect" id="node3" href="$db/d73/_interactive_8c.html#acab60d75eac0cec2876ab8193d6a616d" title="omc_Interactive_getInner\lClass" alt="" coords="300,71,469,112"/>
+<area shape="rect" id="node8" href="$db/d73/_interactive_8c.html#ac8555c0d1997a94eb3568bac7105585f" title="omc_Interactive_addToProtected" alt="" coords="277,137,492,163"/>
+<area shape="rect" id="node9" href="$db/d73/_interactive_8c.html#ad58494b638ba1072aa571e4972392752" title="omc_Interactive_updateComponent" alt="" coords="271,187,499,214"/>
+<area shape="rect" id="node10" href="$db/d73/_interactive_8c.html#a58c933cb6c491a3a60d781d604474cc0" title="omc_Interactive_deleteOr\lUpdateComponentFromClass" alt="" coords="287,239,482,280"/>
+<area shape="rect" id="node12" href="$d1/de1/_interactive_8h.html#a5e7bb2ab8fc483cad48995328c07b24c" title="omc_Interactive_isProtected\lClass" alt="" coords="291,304,479,345"/>
+<area shape="rect" id="node15" href="$db/d73/_interactive_8c.html#aa59b60b7469d3086541d3af76b1f15e9" title="omc_Interactive_isReplaceable" alt="" coords="283,370,487,397"/>
+<area shape="rect" id="node17" href="$db/d73/_interactive_8c.html#a197d867ad16dca8eb9c8bcf4196898d1" title="omc_Interactive_isProtected" alt="" coords="291,421,479,447"/>
+<area shape="rect" id="node19" href="$db/d73/_interactive_8c.html#a0fcdb0a453910717e5dc5867c9bf7d5a" title="omc_Interactive_getElementsInfo" alt="" coords="276,471,493,498"/>
+<area shape="rect" id="node4" href="$db/d73/_interactive_8c.html#a577a52a82bbace3416a93c1b37f118b6" title="omc_Interactive_insertClass\lInClass" alt="" coords="547,71,735,112"/>
+<area shape="rect" id="node5" href="$db/d73/_interactive_8c.html#a1f572f85ec2721e52c7085c93ab96bee" title="boxptr_Interactive\l_insertClassInClass" alt="" coords="807,39,947,80"/>
+<area shape="rect" id="node6" href="$db/d73/_interactive_8c.html#a69f22ead2027e0a862edffff96e62922" title="omc_Interactive_insertClass\lInProgram" alt="" coords="783,104,971,145"/>
+<area shape="rect" id="node7" href="$db/d73/_interactive_8c.html#a7aa051cce0d37c3cbd188f6e248e4a83" title="boxptr_Interactive\l_insertClassInProgram" alt="" coords="1019,104,1173,145"/>
+<area shape="rect" id="node11" href="$db/d73/_interactive_8c.html#aef114a2296d9da47c4e2a856cf1ef697" title="omc_Interactive_deleteOr\lUpdateComponent" alt="" coords="555,173,726,215"/>
+<area shape="rect" id="node13" href="$d8/de6/_ceval_script_backend_8c.html#ade6b5dc407ad04f6d6bacfd5c8c86f47" title="omc_CevalScriptBackend\l_getClassInformation" alt="" coords="554,239,727,280"/>
+<area shape="rect" id="node14" href="$d1/de1/_interactive_8h.html#a3bb375526573e1752e081bb3cf7e040c" title="boxptr_Interactive\l_isProtectedClass" alt="" coords="576,304,705,345"/>
+<area shape="rect" id="node16" href="$db/d73/_interactive_8c.html#a451e86dd151a3be556241bdfd9478b20" title="boxptr_Interactive\l_isReplaceable" alt="" coords="577,369,704,411"/>
+<area shape="rect" id="node18" href="$db/d73/_interactive_8c.html#a991523bf3ef968df522999a265c0f412" title="boxptr_Interactive\l_isProtected" alt="" coords="577,435,704,476"/>
+</map>

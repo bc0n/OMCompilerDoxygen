@@ -1,0 +1,28 @@
+<map id="omc_Interactive_keywordReplaceable" name="omc_Interactive_keywordReplaceable">
+<area shape="rect" id="node2" href="$d1/de1/_interactive_8h.html#a20496f182218aa58dd53e38e7bde99c9" title="boxptr_Interactive\l_keywordReplaceable" alt="" coords="335,92,486,133"/>
+<area shape="rect" id="node3" href="$db/d73/_interactive_8c.html#a738de97b70ad6b57755bc52f32ec1c6a" title="omc_Interactive_getComponentInfo" alt="" coords="296,158,525,185"/>
+<area shape="rect" id="node21" href="$db/d73/_interactive_8c.html#a73a85946940337fd945847994f4a3a79" title="omc_Interactive_isReplaceable\lInElements" alt="" coords="309,212,513,253"/>
+<area shape="rect" id="node25" href="$db/d73/_interactive_8c.html#a69b37fe1ec746ce135c439236308aafa" title="omc_Interactive_getElementInfo" alt="" coords="305,307,516,334"/>
+<area shape="rect" id="node4" href="$db/d73/_interactive_8c.html#aceea4f7960369d6c9809b1186426411a" title="omc_Interactive_getComponents\lInfo2" alt="" coords="573,81,788,123"/>
+<area shape="rect" id="node20" href="$db/d73/_interactive_8c.html#a9453c0208c2def8f64f02f9d51b0c333" title="boxptr_Interactive\l_getComponentInfo" alt="" coords="613,147,749,188"/>
+<area shape="rect" id="node5" href="$db/d73/_interactive_8c.html#a29b5e8d07f0051299c754a179b6bd271" title="boxptr_Interactive\l_getComponentsInfo2" alt="" coords="879,52,1029,93"/>
+<area shape="rect" id="node6" href="$db/d73/_interactive_8c.html#a1c8ab9061301dd6ed07a84682688c802" title="omc_Interactive_getComponentsInfo" alt="" coords="836,118,1072,145"/>
+<area shape="rect" id="node7" href="$db/d73/_interactive_8c.html#a65c9dfa9394b434fb7b55ef9cab05a2a" title="omc_Interactive_getLocal\lVariablesInAlgorithmItem" alt="" coords="1145,45,1316,87"/>
+<area shape="rect" id="node15" href="$db/d73/_interactive_8c.html#a99dc72136ca76b8c2c53f11fd22b4bd3" title="boxptr_Interactive\l_getComponentsInfo" alt="" coords="1159,111,1302,152"/>
+<area shape="rect" id="node16" href="$db/d73/_interactive_8c.html#a64a9624b040609a202ddf1cb2ac1a038" title="omc_Interactive_getComponents2" alt="" coords="1120,177,1341,203"/>
+<area shape="rect" id="node8" href="$db/d73/_interactive_8c.html#a6840b2cf95f89513e8872bab2445daed" title="boxptr_Interactive\l_getLocalVariablesInAlgorithmItem" alt="" coords="1389,5,1613,47"/>
+<area shape="rect" id="node9" href="$db/d73/_interactive_8c.html#a005bb37290e2f6fb910f2fbc47d228a0" title="omc_Interactive_getLocal\lVariablesInAlgorithmsItems" alt="" coords="1410,71,1593,112"/>
+<area shape="rect" id="node10" href="$db/d73/_interactive_8c.html#a5945b3de1da35cdb7dbf2ec520003ce0" title="boxptr_Interactive\l_getLocalVariablesInAlgorithms\lItems" alt="" coords="1661,23,1867,79"/>
+<area shape="rect" id="node11" href="$db/d73/_interactive_8c.html#a11445e1dd7db7ef3d9126f1b11a513de" title="omc_Interactive_getLocal\lVariablesInClassParts" alt="" coords="1679,104,1849,145"/>
+<area shape="rect" id="node12" href="$db/d73/_interactive_8c.html#a9c34797f3b4820f27f297d72eea623ca" title="boxptr_Interactive\l_getLocalVariablesInClassParts" alt="" coords="1915,72,2123,113"/>
+<area shape="rect" id="node13" href="$db/d73/_interactive_8c.html#a40829ab3dbac6bbe4d08957db47a9dff" title="omc_Interactive_getLocal\lVariables" alt="" coords="1933,137,2104,179"/>
+<area shape="rect" id="node14" href="$db/d73/_interactive_8c.html#ad0c5d15d0ec8190e1fab437b94a05001" title="boxptr_Interactive\l_getLocalVariables" alt="" coords="2171,137,2303,179"/>
+<area shape="rect" id="node17" href="$db/d73/_interactive_8c.html#a4325ab542c88aa72d158c79bcea8d0f7" title="boxptr_Interactive\l_getComponents2" alt="" coords="1437,143,1565,184"/>
+<area shape="rect" id="node18" href="$d1/de1/_interactive_8h.html#a15dd9d86febe497e6f16e75683b097d3" title="omc_Interactive_getComponents" alt="" coords="1394,209,1609,235"/>
+<area shape="rect" id="node19" href="$d1/de1/_interactive_8h.html#a82e62758ce7b7add90bdae2609f80361" title="boxptr_Interactive\l_getComponents" alt="" coords="1701,201,1827,243"/>
+<area shape="rect" id="node22" href="$db/d73/_interactive_8c.html#a63f851f82c6486b74422cee90b3320d3" title="boxptr_Interactive\l_isReplaceableInElements" alt="" coords="592,212,769,253"/>
+<area shape="rect" id="node23" href="$db/d73/_interactive_8c.html#aa59b60b7469d3086541d3af76b1f15e9" title="omc_Interactive_isReplaceable" alt="" coords="579,278,783,305"/>
+<area shape="rect" id="node24" href="$db/d73/_interactive_8c.html#a451e86dd151a3be556241bdfd9478b20" title="boxptr_Interactive\l_isReplaceable" alt="" coords="891,271,1017,312"/>
+<area shape="rect" id="node26" href="$db/d73/_interactive_8c.html#aae0865bdf2db3ab44c0d5b0138c11728" title="omc_Interactive_construct\lElementsInfo" alt="" coords="593,329,769,371"/>
+<area shape="rect" id="node27" href="$db/d73/_interactive_8c.html#a0fcdb0a453910717e5dc5867c9bf7d5a" title="omc_Interactive_getElementsInfo" alt="" coords="845,337,1063,363"/>
+</map>
