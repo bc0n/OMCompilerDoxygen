@@ -1,0 +1,17 @@
+<map id="omc_NFEnvExtends_lookupInLocalScope" name="omc_NFEnvExtends_lookupInLocalScope">
+<area shape="rect" id="node2" href="$d1/d2f/_n_f_env_extends_8c.html#a91d0cc3927464f7e2ab5e42c83016898" title="omc_NFEnvExtends_lookupFully\lQualified2" alt="" coords="275,76,491,117"/>
+<area shape="rect" id="node6" href="$d1/d2f/_n_f_env_extends_8c.html#abe53f923e5063d8b962fbcc1f4a3a9cc" title="omc_NFEnvExtends_lookupIn\lBaseClasses2" alt="" coords="827,136,1025,177"/>
+<area shape="rect" id="node8" href="$d1/d2f/_n_f_env_extends_8c.html#adc9a068525bf48decc0ada00084cde30" title="boxptr_NFEnvExtends\l_lookupInLocalScope" alt="" coords="306,193,461,235"/>
+<area shape="rect" id="node9" href="$d1/d2f/_n_f_env_extends_8c.html#a5567ac35badee9b0f2acd885a332c377" title="omc_NFEnvExtends_lookupSimpleName" alt="" coords="252,259,515,286"/>
+<area shape="rect" id="node3" href="$d1/d2f/_n_f_env_extends_8c.html#a5d53d912803b45de5d4bf29ca90975b8" title="omc_NFEnvExtends_lookupFully\lQualified" alt="" coords="563,73,779,115"/>
+<area shape="rect" id="node4" href="$d1/d2f/_n_f_env_extends_8c.html#a7cced16d683374dbbcb32bc7f7d4b41e" title="omc_NFEnvExtends_lookupIn\lUnqualifiedImports" alt="" coords="827,5,1025,47"/>
+<area shape="rect" id="node5" href="$d1/d2f/_n_f_env_extends_8c.html#a5ead3667481713b0ffbd081de5e47316" title="omc_NFEnvExtends_lookupIn\lQualifiedImports" alt="" coords="827,71,1025,112"/>
+<area shape="rect" id="node7" href="$d1/d2f/_n_f_env_extends_8c.html#aacee3eb54e1d9ad4beec9a0464ac3fc6" title="omc_NFEnvExtends_lookupIn\lBaseClasses" alt="" coords="1309,172,1508,213"/>
+<area shape="rect" id="node10" href="$d1/d2f/_n_f_env_extends_8c.html#af1395ab3dea8fcec13ca0d0895bcdd16" title="boxptr_NFEnvExtends\l_lookupSimpleName" alt="" coords="593,196,748,237"/>
+<area shape="rect" id="node11" href="$d1/d2f/_n_f_env_extends_8c.html#a9de4f4a8569878bd9bf59c55e72e276a" title="omc_NFEnvExtends_qualify\lExtendsPart" alt="" coords="577,261,765,303"/>
+<area shape="rect" id="node12" href="$d1/d2f/_n_f_env_extends_8c.html#ad9fb41f2a1943e60b49050b0b40f0408" title="boxptr_NFEnvExtends\l_qualifyExtendsPart" alt="" coords="849,201,1003,243"/>
+<area shape="rect" id="node13" href="$d1/d2f/_n_f_env_extends_8c.html#afd7bc17a1ca445d52b6adbe204025f32" title="omc_NFEnvExtends_qualify\lExtends3" alt="" coords="832,267,1020,308"/>
+<area shape="rect" id="node14" href="$d1/d2f/_n_f_env_extends_8c.html#a6189130f6345ae09f23239d549b03eff" title="boxptr_NFEnvExtends\l_qualifyExtends3" alt="" coords="1090,201,1245,243"/>
+<area shape="rect" id="node15" href="$d1/d2f/_n_f_env_extends_8c.html#afc5d68ae0d1ddeda270b5109ad8c08dc" title="omc_NFEnvExtends_qualify\lExtends2" alt="" coords="1073,267,1261,308"/>
+<area shape="rect" id="node16" href="$d1/d2f/_n_f_env_extends_8c.html#a401371e530f0ac3417e8abba190b0ca5" title="omc_NFEnvExtends_qualify\lExtends" alt="" coords="1315,267,1503,308"/>
+</map>
