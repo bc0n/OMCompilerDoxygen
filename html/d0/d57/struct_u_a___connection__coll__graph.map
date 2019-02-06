@@ -1,0 +1,7 @@
+<map id="UA_Connection" name="UA_Connection">
+<area shape="rect" id="node2" href="$d3/da5/struct_u_a___secure_channel.html" title="UA_SecureChannel" alt="" coords="316,243,453,269"/>
+<area shape="rect" id="node3" href="$df/dbe/struct_u_a___asymmetric_algorithm_security_header.html" title="UA_AsymmetricAlgorithmSecurity\lHeader" alt="" coords="102,124,323,165"/>
+<area shape="rect" id="node4" href="$d3/dbd/struct_u_a___string.html" title="UA_String" alt="" coords="81,5,163,32"/>
+<area shape="rect" id="node5" href="$d2/d4b/struct_u_a___channel_security_token.html" title="UA_ChannelSecurityToken" alt="" coords="487,131,667,158"/>
+<area shape="rect" id="node6" href="$d4/d16/struct_u_a___connection_config.html" title="UA_ConnectionConfig" alt="" coords="405,5,557,32"/>
+</map>
