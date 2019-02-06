@@ -1,0 +1,12 @@
+<map id="SimulationRuntime/c/util/read_matlab4.h" name="SimulationRuntime/c/util/read_matlab4.h">
+<area shape="rect" id="node2" href="$d0/d1d/build_2include_2omc_2c_2simulation_2solver_2initialization_2initialization_8c.html" title="build/include/omc/c\l/simulation/solver/initialization\l/initialization.c" alt="" coords="5,95,201,151"/>
+<area shape="rect" id="node3" href="$df/d8d/runtime_2_simulation_results_8c.html" title="Compiler/runtime/Simulation\lResults.c" alt="" coords="226,102,413,143"/>
+<area shape="rect" id="node5" href="$d0/d3a/modelinfo_8c.html" title="SimulationRuntime/c\l/simulation/modelinfo.c" alt="" coords="437,102,593,143"/>
+<area shape="rect" id="node6" href="$d9/d48/external__input_8c.html" title="SimulationRuntime/c\l/simulation/solver/external\l_input.c" alt="" coords="617,95,792,151"/>
+<area shape="rect" id="node7" href="$d6/d72/_simulation_runtime_2c_2simulation_2solver_2initialization_2initialization_8c.html" title="SimulationRuntime/c\l/simulation/solver/initialization\l/initialization.c" alt="" coords="816,95,1012,151"/>
+<area shape="rect" id="node8" href="$d1/d45/_simulation_runtime_2c_2util_2read__csv_8c.html" title="SimulationRuntime/c\l/util/read_csv.c" alt="" coords="1036,102,1179,143"/>
+<area shape="rect" id="node10" href="$d5/dd6/_simulation_runtime_2c_2util_2read__matlab4_8c.html" title="SimulationRuntime/c\l/util/read_matlab4.c" alt="" coords="1203,102,1345,143"/>
+<area shape="rect" id="node11" href="$d4/d6b/write__matlab4_8c.html" title="SimulationRuntime/c\l/util/write_matlab4.c" alt="" coords="1369,102,1512,143"/>
+<area shape="rect" id="node4" href="$dd/d3d/_simulation_results__omc_8c.html" title="Compiler/runtime/Simulation\lResults_omc.c" alt="" coords="226,199,413,240"/>
+<area shape="rect" id="node9" href="$d9/d9d/read__csv_8cpp.html" title="SimulationRuntime/c\l/util/read_csv.cpp" alt="" coords="1036,199,1179,240"/>
+</map>

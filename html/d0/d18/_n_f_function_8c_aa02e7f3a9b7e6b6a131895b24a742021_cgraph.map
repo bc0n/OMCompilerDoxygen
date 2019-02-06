@@ -1,0 +1,14 @@
+<map id="omc_NFFunction_Function_new" name="omc_NFFunction_Function_new">
+<area shape="rect" id="node2" href="$d0/d18/_n_f_function_8c.html#ab42a6ead498d7dd1023cadd2e6508d41" title="omc_NFFunction_Function\l_collectParams" alt="" coords="264,97,443,139"/>
+<area shape="rect" id="node8" href="$d0/d18/_n_f_function_8c.html#ae8ecd4d4713f76efa9e1e7b9778ddf25" title="omc_NFFunction_Function\l_makeAttributes" alt="" coords="264,188,443,229"/>
+<area shape="rect" id="node13" href="$d0/d18/_n_f_function_8c.html#a508de61794d71fd7030a2603f68c080d" title="omc_NFFunction_Function\l_isBuiltinAttr" alt="" coords="264,253,443,295"/>
+<area shape="rect" id="node3" href="$db/da1/_compiler_2boot_2build_2error_8c.html#a202663346d8015c6413dbcc62dff1933" title="omc_Error_assertion" alt="" coords="531,137,674,163"/>
+<area shape="rect" id="node4" href="$d7/d21/_n_f_inst_node_8c.html#a70ee44b0f48e02585e96f713b32e25ee" title="omc_NFInstNode_InstNode\l_isClass" alt="" coords="510,5,695,47"/>
+<area shape="rect" id="node5" href="$d7/d21/_n_f_inst_node_8c.html#a840047a70bed69a6b747a8bbec33e15b" title="omc_NFInstNode_InstNode\l_getClass" alt="" coords="510,71,695,112"/>
+<area shape="rect" id="node6" href="$dc/d0e/_pointer_8c.html#aa5369c5410f4ad12957ad69be8ccc4e8" title="omc_Pointer_access" alt="" coords="797,137,941,163"/>
+<area shape="rect" id="node7" href="$d2/dda/_n_f_component_8c.html#aebc936a63cf3faa7877ddb75a6ba16cb" title="omc_NFComponent_Component\l_classInstance" alt="" coords="763,71,976,112"/>
+<area shape="rect" id="node9" href="$d7/d21/_n_f_inst_node_8c.html#aa55ac4de2ad82657bcef63d7eb2e3f64" title="omc_NFInstNode_InstNode\l_definition" alt="" coords="510,188,695,229"/>
+<area shape="rect" id="node11" href="$d9/d9e/_s_code_8c.html#a59beac384e2d377adc0181efe2f48d2e" title="omc_SCode_getClassRestriction" alt="" coords="495,254,711,281"/>
+<area shape="rect" id="node12" href="$d9/d9e/_s_code_8c.html#a797083a7fa4e05b88314b2ac9b21fc6b" title="omc_SCode_isFunctionRestriction" alt="" coords="491,305,715,331"/>
+<area shape="rect" id="node10" href="$d2/dda/_n_f_component_8c.html#aec664af20d33addcc2bc69026d7c9e79" title="omc_NFComponent_Component\l_definition" alt="" coords="763,188,976,229"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="boxptr_NFFunction_Function_isSpecialBuiltin" name="boxptr_NFFunction_Function_isSpecialBuiltin">
+<area shape="rect" id="node2" href="$d0/d18/_n_f_function_8c.html#a80251159288f48fd8405fb5b19278488" title="omc_NFFunction_Function\l_isSpecialBuiltin" alt="" coords="244,129,423,171"/>
+<area shape="rect" id="node3" href="$d0/d18/_n_f_function_8c.html#ae32d04eb2462df827c3c693615524572" title="omc_NFFunction_Function\l_isBuiltin" alt="" coords="471,5,649,47"/>
+<area shape="rect" id="node5" href="$d0/d18/_n_f_function_8c.html#ab738d83b3c16fdace5fa70c880a9e6aa" title="omc_NFFunction_Function\l_nameConsiderBuiltin" alt="" coords="471,71,649,112"/>
+<area shape="rect" id="node6" href="$d0/d78/_absyn_8c.html#a96813be6225063910fb7e394801f9ea5" title="omc_Absyn_pathIsIdent" alt="" coords="479,137,641,163"/>
+<area shape="rect" id="node7" href="$d0/d78/_absyn_8c.html#a6744a7f65f2c6b34ca52d4506d096371" title="omc_Absyn_pathFirstIdent" alt="" coords="471,187,649,214"/>
+<area shape="rect" id="node8" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a71a925de64a6f26ca5ef2903b616e73d" title="stringHashDjb2Mod" alt="" coords="491,238,629,265"/>
+<area shape="rect" id="node4" href="$d0/d18/_n_f_function_8c.html#a508de61794d71fd7030a2603f68c080d" title="omc_NFFunction_Function\l_isBuiltinAttr" alt="" coords="697,5,876,47"/>
+</map>

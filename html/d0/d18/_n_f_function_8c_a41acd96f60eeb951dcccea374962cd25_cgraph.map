@@ -1,0 +1,7 @@
+<map id="omc_NFFunction_Function_paramDirection" name="omc_NFFunction_Function_paramDirection">
+<area shape="rect" id="node2" href="$d2/dda/_n_f_component_8c.html#a1c87fd94d1e33e159ed8dc4039a0f5cb" title="omc_NFComponent_Component\l_getAttributes" alt="" coords="232,5,445,47"/>
+<area shape="rect" id="node3" href="$d7/d21/_n_f_inst_node_8c.html#a954fb6baea5ff56cc2ffc0c0760f3c27" title="omc_NFInstNode_InstNode\l_component" alt="" coords="246,71,431,112"/>
+<area shape="rect" id="node5" href="$d7/d21/_n_f_inst_node_8c.html#a0064d4029920d3f996b617d1890be3ca" title="omc_NFInstNode_InstNode\l_visibility" alt="" coords="246,136,431,177"/>
+<area shape="rect" id="node6" href="$d2/dda/_n_f_component_8c.html#a60efd6d20fcd4f0cd209847cb49c6d97" title="omc_NFComponent_Component\l_variability" alt="" coords="232,201,445,243"/>
+<area shape="rect" id="node4" href="$dc/d0e/_pointer_8c.html#aa5369c5410f4ad12957ad69be8ccc4e8" title="omc_Pointer_access" alt="" coords="493,78,637,105"/>
+</map>

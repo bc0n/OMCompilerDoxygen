@@ -1,0 +1,8 @@
+<map id="omc_NFFunction_Function_isExternal" name="omc_NFFunction_Function_isExternal">
+<area shape="rect" id="node2" href="$d7/d14/_n_f_call_8h.html#ae837e4ef892219fa9076b551a24f362c" title="omc_NFCall_Call_isExternal" alt="" coords="232,67,423,94"/>
+<area shape="rect" id="node5" href="$d4/df7/_n_f_eval_function_8h.html#a97cdb539974cce95e3335d493de0613d" title="omc_NFEvalFunction\l_evaluate" alt="" coords="253,119,401,160"/>
+<area shape="rect" id="node7" href="$d9/d01/_n_f_function_8h.html#a91f1324b69b80c63ae174066816533e4" title="boxptr_NFFunction_Function\l_isExternal" alt="" coords="232,184,423,225"/>
+<area shape="rect" id="node3" href="$d7/d14/_n_f_call_8h.html#ac43f53b2e32cfc2cdc6d6fbd678557ed" title="boxptr_NFCall_Call\l_isExternal" alt="" coords="511,5,647,47"/>
+<area shape="rect" id="node4" href="$de/de5/_n_f_simplify_exp_8h.html#a86ad15468addfb67e2305abefc959cef" title="omc_NFSimplifyExp_simplifyCall" alt="" coords="471,71,688,98"/>
+<area shape="rect" id="node6" href="$de/d5c/_n_f_ceval_8h.html#a01c81c871baeb87d49a38a06f0b5fcba" title="omc_NFCeval_evalNormalCall" alt="" coords="478,126,681,153"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="omc_Lookup_moreLookupUnqualifiedImportedVarInFrame" name="omc_Lookup_moreLookupUnqualifiedImportedVarInFrame">
+<area shape="rect" id="node2" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a81001ba45c298ade27540edd2589777c" title="listReverse" alt="" coords="339,5,427,32"/>
+<area shape="rect" id="node3" href="$d8/de4/_f_graph_8c.html#a036581a7cb87b6a6e3e9898752006eea" title="omc_FGraph_currentScope" alt="" coords="292,56,473,83"/>
+<area shape="rect" id="node4" href="$d9/d14/_component_reference_8c.html#abc305c2d2bda451a68b0197561aaf8b5" title="omc_ComponentReference\l_pathToCref" alt="" coords="292,131,473,173"/>
+<area shape="rect" id="node7" href="$d9/d14/_component_reference_8c.html#ac13040cb1d63d3d5f2083ed3cfb1f76b" title="omc_ComponentReference\l_crefPrependIdent" alt="" coords="292,221,473,262"/>
+<area shape="rect" id="node5" href="$d9/d14/_component_reference_8c.html#a99f05249d0101f2fc925a24367484623" title="omc_ComponentReference\l_makeCrefIdent" alt="" coords="521,138,703,179"/>
+<area shape="rect" id="node6" href="$d9/d14/_component_reference_8c.html#a7432b89e50552d0f7590711f64ca96e8" title="omc_ComponentReference\l_makeCrefQual" alt="" coords="521,209,703,250"/>
+</map>
