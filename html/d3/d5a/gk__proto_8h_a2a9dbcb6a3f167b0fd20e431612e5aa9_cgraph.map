@@ -1,0 +1,10 @@
+<map id="gk_dreadfilebin" name="gk_dreadfilebin">
+<area shape="rect" id="node2" href="$d2/d5a/fs_8c.html#ab8e9c3fc4ed1161501b51e445afde0e5" title="Returns the size of the file in bytes. " alt="" coords="163,5,252,32"/>
+<area shape="rect" id="node3" href="$d0/d3e/3rd_party_2metis-5_81_80_2_g_klib_2error_8c.html#a4c320c13bcdc9967613253ef4c73f59f" title="gk_errexit" alt="" coords="168,56,247,83"/>
+<area shape="rect" id="node5" href="$dc/db3/_g_klib_2io_8c.html#abff04948821f625a3e59666e61c70e2f" title="gk_fopen" alt="" coords="170,107,245,133"/>
+<area shape="rect" id="node6" href="$d3/d5a/gk__proto_8h.html#ac8df62c4e3d0910711a9874f9cc58884" title="gk_free" alt="" coords="175,157,240,184"/>
+<area shape="rect" id="node9" href="$dc/db3/_g_klib_2io_8c.html#a70dec19fefaf0c84f3948b4679a73fec" title="gk_fclose" alt="" coords="168,208,247,235"/>
+<area shape="rect" id="node4" href="$d4/d98/g_09_09malloc_8c.html#a49f789e614e57e410f598885b800c2df" title="fprintf" alt="" coords="333,56,387,83"/>
+<area shape="rect" id="node7" href="$d6/d0e/class_teuchos_1_1_ptr.html#af7234a3ac243772a707da53d011276fb" title="Create a pointer to an object from a raw pointer. " alt="" coords="300,132,420,159"/>
+<area shape="rect" id="node8" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="338,183,382,209"/>
+</map>

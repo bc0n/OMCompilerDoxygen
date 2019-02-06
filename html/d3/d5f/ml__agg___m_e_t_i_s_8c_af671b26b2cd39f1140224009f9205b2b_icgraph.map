@@ -1,0 +1,8 @@
+<map id="ML_Aggregate_Options_Defaults" name="ML_Aggregate_Options_Defaults">
+<area shape="rect" id="node2" href="$d6/d76/ml__agg___m_e_t_i_s_8h.html#a0d75e2406c4c136c6288755415f9f023" title="Set the number of nodes for each aggregate (for graph&#45;based decompositions). " alt="" coords="213,5,439,32"/>
+<area shape="rect" id="node4" href="$d6/d76/ml__agg___m_e_t_i_s_8h.html#ae9062a3e0ca9999eea63dc7b8c486403" title="stored the required number of local aggregates for the specified level " alt="" coords="217,56,435,83"/>
+<area shape="rect" id="node5" href="$d6/d76/ml__agg___m_e_t_i_s_8h.html#af3228d9869bc1704d5c5c1adb08b21b6" title="ML_Aggregate_Set_GlobalNumber" alt="" coords="215,107,437,133"/>
+<area shape="rect" id="node6" href="$d6/d76/ml__agg___m_e_t_i_s_8h.html#a12d8909eaede682521c893855b2936ce" title="Set the reordering flag for METIS decompositions. " alt="" coords="212,157,440,184"/>
+<area shape="rect" id="node7" href="$d2/d13/ml__agg___par_m_e_t_i_s_8h.html#aa3e034da10298d0fd4d60605d88d9524" title="Set the required number of aggregates to be assigned to each processor. " alt="" coords="229,209,423,250"/>
+<area shape="rect" id="node3" href="$dd/d39/ml__aztec__utils_8h.html#a0062bc88448c5f17831e5a080546d280" title="MLAZ_Setup_MLandAggregate" alt="" coords="488,81,691,108"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="gk_readfile" name="gk_readfile">
+<area shape="rect" id="node2" href="$d2/d5a/fs_8c.html#a739112cb142f2e96d6952140c66cd31c" title="gk_getfilestats" alt="" coords="139,56,245,83"/>
+<area shape="rect" id="node5" href="$d3/d5a/gk__proto_8h.html#aba6f76f5c67b9b7e9c2e45988d3d3e9d" title="gk_malloc" alt="" coords="293,259,375,285"/>
+<area shape="rect" id="node12" href="$dc/db3/_g_klib_2io_8c.html#abff04948821f625a3e59666e61c70e2f" title="gk_fopen" alt="" coords="155,411,229,437"/>
+<area shape="rect" id="node13" href="$dc/db3/_g_klib_2io_8c.html#ad8263f64108434d7ebab9799b5ab9632" title="gk_getline" alt="" coords="151,208,233,235"/>
+<area shape="rect" id="node15" href="$d3/d5a/gk__proto_8h.html#a3090611e4e08f52edd87b455dcb420c8" title="Prunes characters from the end of the string. " alt="" coords="145,360,239,387"/>
+<area shape="rect" id="node17" href="$d3/d5a/gk__proto_8h.html#af62038e97ca55f14ec2557a01bd85ca2" title="Duplicates a string. " alt="" coords="153,309,231,336"/>
+<area shape="rect" id="node18" href="$dc/db3/_g_klib_2io_8c.html#a70dec19fefaf0c84f3948b4679a73fec" title="gk_fclose" alt="" coords="153,461,231,488"/>
+<area shape="rect" id="node19" href="$d3/d5a/gk__proto_8h.html#ac8df62c4e3d0910711a9874f9cc58884" title="gk_free" alt="" coords="159,157,225,184"/>
+<area shape="rect" id="node3" href="$d3/d5a/gk__proto_8h.html#a8a46625a5f56bc498ab1f4d9acc8daff" title="gk_fopen" alt="" coords="297,56,371,83"/>
+<area shape="rect" id="node4" href="$d3/d5a/gk__proto_8h.html#a0fd03cab5187904b005485109d9fa2b5" title="gk_fclose" alt="" coords="295,5,373,32"/>
+<area shape="rect" id="node6" href="$d6/d0e/class_teuchos_1_1_ptr.html#af7234a3ac243772a707da53d011276fb" title="Create a pointer to an object from a raw pointer. " alt="" coords="446,132,566,159"/>
+<area shape="rect" id="node7" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="476,183,536,209"/>
+<area shape="rect" id="node8" href="$d4/d98/g_09_09malloc_8c.html#a49f789e614e57e410f598885b800c2df" title="fprintf" alt="" coords="637,259,692,285"/>
+<area shape="rect" id="node9" href="$df/dd5/memory_8c.html#ad2327b94227019b6753b6b09400c0522" title="gk_GetCurMemoryUsed" alt="" coords="425,335,587,361"/>
+<area shape="rect" id="node10" href="$df/dd5/memory_8c.html#a656fd5266ae12a96e53125486f8fea52" title="gk_GetMaxMemoryUsed" alt="" coords="423,385,589,412"/>
+<area shape="rect" id="node11" href="$d0/d3e/3rd_party_2metis-5_81_80_2_g_klib_2error_8c.html#a4c320c13bcdc9967613253ef4c73f59f" title="gk_errexit" alt="" coords="467,284,545,311"/>
+<area shape="rect" id="node14" href="$d3/d5a/gk__proto_8h.html#ab76a07ccd25288dd9acc99f5f24a7600" title="gk_realloc" alt="" coords="293,208,375,235"/>
+<area shape="rect" id="node16" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="307,335,361,361"/>
+<area shape="rect" id="node20" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="312,157,356,184"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="gk_getline" name="gk_getline">
+<area shape="rect" id="node2" href="$d3/d5a/gk__proto_8h.html#aba6f76f5c67b9b7e9c2e45988d3d3e9d" title="gk_malloc" alt="" coords="135,107,216,133"/>
+<area shape="rect" id="node9" href="$d3/d5a/gk__proto_8h.html#ab76a07ccd25288dd9acc99f5f24a7600" title="gk_realloc" alt="" coords="135,31,216,57"/>
+<area shape="rect" id="node3" href="$d6/d0e/class_teuchos_1_1_ptr.html#af7234a3ac243772a707da53d011276fb" title="Create a pointer to an object from a raw pointer. " alt="" coords="287,5,407,32"/>
+<area shape="rect" id="node4" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="317,56,377,83"/>
+<area shape="rect" id="node5" href="$d4/d98/g_09_09malloc_8c.html#a49f789e614e57e410f598885b800c2df" title="fprintf" alt="" coords="479,183,533,209"/>
+<area shape="rect" id="node6" href="$df/dd5/memory_8c.html#ad2327b94227019b6753b6b09400c0522" title="gk_GetCurMemoryUsed" alt="" coords="266,157,429,184"/>
+<area shape="rect" id="node7" href="$df/dd5/memory_8c.html#a656fd5266ae12a96e53125486f8fea52" title="gk_GetMaxMemoryUsed" alt="" coords="264,208,431,235"/>
+<area shape="rect" id="node8" href="$d0/d3e/3rd_party_2metis-5_81_80_2_g_klib_2error_8c.html#a4c320c13bcdc9967613253ef4c73f59f" title="gk_errexit" alt="" coords="308,259,387,285"/>
+</map>

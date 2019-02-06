@@ -1,0 +1,156 @@
+<map id="3rdParty/trilinos&#45;nox/packages/belos/src/Belos_Details_registerLinearSolverFactory.cpp" name="3rdParty/trilinos&#45;nox/packages/belos/src/Belos_Details_registerLinearSolverFactory.cpp">
+<area shape="rect" id="node2" href="$d6/d9a/_belos___details__register_linear_solver_factory_8hpp.html" title="Declaration of Belos::Details::registerLinearSolverFactory. " alt="" coords="16241,199,16429,240"/>
+<area shape="rect" id="node5" href="$d5/d3c/_teuchos___config_defs_8hpp.html" title="Teuchos header file which uses auto&#45;configuration information to include necessary C++ headers..." alt="" coords="6423,2377,6593,2404"/>
+<area shape="rect" id="node10" href="$d1/de3/_belos___details___linear_solver_factory_8hpp.html" title="Implementation of Trilinos::Details::LinearSolverFactory. " alt="" coords="15881,109,16063,151"/>
+<area shape="rect" id="node3" href="$d9/da2/_belos_config_defs_8hpp.html" title="Belos header file which uses auto&#45;configuration information to include necessary C++ headers..." alt="" coords="10091,922,10237,949"/>
+<area shape="rect" id="node9" href="$d2/dd7/_teuchos___d_l_l_export_macro_8h.html" title="Teuchos_DLLExportMacro.h" alt="" coords="6567,2452,6755,2479"/>
+<area shape="rect" id="node11" href="$da/d4e/_belos_solver_factory_8hpp.html" title="BelosSolverFactory.hpp" alt="" coords="10118,288,10279,315"/>
+<area shape="rect" id="node175" href="$d2/d2c/_belos___details___linear_solver_8hpp.html" title="Implementation of Trilinos::Details::LinearSolver. " alt="" coords="15798,206,16005,233"/>
+<area shape="rect" id="node178" href="$db/d1e/_trilinos___details___linear_solver_factory_8hpp.html" title="Declaration and definition of linear solver factory, and &quot;factory of factories&quot;. " alt="" coords="15947,527,16138,568"/>
+<area shape="rect" id="node12" href="$d0/db2/_belos_output_manager_8hpp.html" title="Class which manages the output and verbosity of the Belos solvers. " alt="" coords="9494,691,9663,717"/>
+<area shape="rect" id="node16" href="$dc/dc1/_teuchos___type_name_traits_8hpp.html" title="Defines basic traits returning the name of a type in a portable and readable way. ..." alt="" coords="7593,2228,7794,2255"/>
+<area shape="rect" id="node35" href="$d9/de2/_belos_solver_manager_8hpp.html" title="Pure virtual base class which describes the basic interface for a solver manager. ..." alt="" coords="9958,452,10125,479"/>
+<area shape="rect" id="node59" href="$d8/d2e/_teuchos___describable_8hpp.html" title="Teuchos_Describable.hpp" alt="" coords="10356,1325,10529,1351"/>
+<area shape="rect" id="node99" href="$da/d79/_belos_block_c_g_sol_mgr_8hpp.html" title="The Belos::BlockCGSolMgr provides a solver manager for the BlockCG linear solver. ..." alt="" coords="3627,370,3802,397"/>
+<area shape="rect" id="node121" href="$d6/d92/_belos_block_gmres_sol_mgr_8hpp.html" title="The Belos::BlockGmresSolMgr provides a solver manager for the BlockGmres linear solver. " alt="" coords="7519,370,7713,397"/>
+<area shape="rect" id="node126" href="$d3/dd2/_belos_g_c_r_o_d_r_sol_mgr_8hpp.html" title="Declaration and definition of Belos::GCRODRSolMgr, which implements the GCRODR (recycling GMRES) solv..." alt="" coords="4004,370,4185,397"/>
+<area shape="rect" id="node129" href="$da/db6/_teuchos___standard_catch_macros_8hpp.html" title="Teuchos_StandardCatchMacros.hpp" alt="" coords="2324,1325,2559,1351"/>
+<area shape="rect" id="node132" href="$de/d01/_belos_pseudo_block_c_g_sol_mgr_8hpp.html" title="The Belos::PseudoBlockCGSolMgr provides a solver manager for the BlockCG linear solver. " alt="" coords="10439,370,10657,397"/>
+<area shape="rect" id="node134" href="$d5/d61/_belos_pseudo_block_gmres_sol_mgr_8hpp.html" title="The Belos::PseudoBlockGmresSolMgr provides a solver manager for the BlockGmres linear solver..." alt="" coords="5585,363,5775,404"/>
+<area shape="rect" id="node138" href="$d7/d38/_belos_pseudo_block_stochastic_c_g_sol_mgr_8hpp.html" title="The Belos::PseudoBlockStochasticCGSolMgr provides a solver manager for the stochastic BlockCG linear ..." alt="" coords="10927,363,11121,404"/>
+<area shape="rect" id="node141" href="$d8/daa/_belos_l_s_q_r_sol_mgr_8hpp.html" title="LSQRSolMgr: interface to the LSQR method. " alt="" coords="10257,370,10415,397"/>
+<area shape="rect" id="node145" href="$d1/d93/_belos_minres_sol_mgr_8hpp.html" title="Solver manager for the MINRES linear solver. " alt="" coords="13001,370,13161,397"/>
+<area shape="rect" id="node153" href="$dd/d95/_belos_gmres_poly_sol_mgr_8hpp.html" title="Declaration and definition of Belos::GmresPolySolMgr (hybrid block GMRES linear solver). " alt="" coords="6768,370,6955,397"/>
+<area shape="rect" id="node155" href="$db/d1c/_belos_p_c_p_g_sol_mgr_8hpp.html" title="Declaration and definition of Belos::PCPGSolMgr (PCPG iterative linear solver). " alt="" coords="5145,370,5303,397"/>
+<area shape="rect" id="node158" href="$df/dee/_belos_r_c_g_sol_mgr_8hpp.html" title="The Belos::RCGSolMgr provides a solver manager for the RCG (Recycling Conjugate Gradient) linear solv..." alt="" coords="3133,370,3283,397"/>
+<area shape="rect" id="node162" href="$dd/dba/_belos_t_f_q_m_r_sol_mgr_8hpp.html" title="The Belos::TFQMRSolMgr provides a solver manager for the TFQMR linear solver. " alt="" coords="11591,370,11759,397"/>
+<area shape="rect" id="node164" href="$d4/dfc/_belos_pseudo_block_t_f_q_m_r_sol_mgr_8hpp.html" title="The Belos::PseudoBlockTFQMRSolMgr provides a solver manager for the pseudo&#45;block TFQMR linear solver..." alt="" coords="10703,363,10902,404"/>
+<area shape="rect" id="node166" href="$d0/d69/_belos_fixed_point_sol_mgr_8hpp.html" title="The Belos::FixedPointSolMgr provides a solver manager for the FixedPoint linear solver. " alt="" coords="9497,370,9679,397"/>
+<area shape="rect" id="node169" href="$db/d14/_belos_bi_c_g_stab_sol_mgr_8hpp.html" title="The Belos::BiCGStabSolMgr provides a solver manager for the BiCGStab linear solver. " alt="" coords="8337,370,8517,397"/>
+<area shape="rect" id="node171" href="$d1/de7/_belos___details___e_belos_solver_type_8hpp.html" title="Declaration of Belos::Details::EBelosSolverType enum, and associated functions. " alt="" coords="10685,527,10875,568"/>
+<area shape="rect" id="node13" href="$d1/d5d/_belos_types_8hpp.html" title="Collection of types and exceptions used within the Belos solvers. " alt="" coords="9413,840,9529,867"/>
+<area shape="rect" id="node19" href="$da/df2/_teuchos__oblackholestream_8hpp.html" title="Teuchos_oblackholestream.hpp" alt="" coords="9265,1481,9471,1508"/>
+<area shape="rect" id="node21" href="$d5/de4/_teuchos___r_c_p_8hpp.html" title="Reference&#45;counted pointer class and non&#45;member templated function implementations. " alt="" coords="7639,1631,7772,1657"/>
+<area shape="rect" id="node14" href="$d1/d94/_teuchos___assert_8hpp.html" title="Teuchos_Assert.hpp" alt="" coords="6810,2079,6953,2105"/>
+<area shape="rect" id="node15" href="$d5/d6b/_teuchos___test_for_exception_8hpp.html" title="Standard test and throw macros. " alt="" coords="6746,2153,6953,2180"/>
+<area shape="rect" id="node18" href="$dd/d97/_teuchos__stacktrace_8hpp.html" title="Functions for returning stacktrace info (GCC only initially). " alt="" coords="5781,2228,5947,2255"/>
+<area shape="rect" id="node17" href="$d1/db4/_teuchos___const_type_traits_8hpp.html" title="Teuchos_ConstTypeTraits.hpp" alt="" coords="7130,2303,7331,2329"/>
+<area shape="rect" id="node20" href="$d2/de6/_teuchos__basic__oblackholestream_8hpp.html" title="Teuchos_basic_oblackholestream.hpp" alt="" coords="9177,1780,9421,1807"/>
+<area shape="rect" id="node22" href="$d0/dbc/_teuchos___r_c_p_decl_8hpp.html" title="Reference&#45;counted pointer class and non&#45;member templated function implementations. " alt="" coords="7503,1855,7663,1881"/>
+<area shape="rect" id="node25" href="$da/df9/_teuchos__map_8hpp.html" title="Provides std::map class for deficient platforms. " alt="" coords="9882,2004,10011,2031"/>
+<area shape="rect" id="node27" href="$d2/d66/_teuchos___exceptions_8hpp.html" title="Teuchos_Exceptions.hpp" alt="" coords="7742,2004,7911,2031"/>
+<area shape="rect" id="node32" href="$dc/dc8/_teuchos___ptr_8hpp.html" title="Teuchos_Ptr.hpp" alt="" coords="7741,1705,7862,1732"/>
+<area shape="rect" id="node34" href="$d9/d17/_teuchos__dyn__cast_8hpp.html" title="Teuchos_dyn_cast.hpp" alt="" coords="7321,1855,7479,1881"/>
+<area shape="rect" id="node23" href="$d3/d30/_teuchos___r_c_p_node_8hpp.html" title="Reference&#45;counted pointer node classes. " alt="" coords="7501,1929,7665,1956"/>
+<area shape="rect" id="node26" href="$d7/d37/_teuchos___e_null_8hpp.html" title="Teuchos_ENull.hpp" alt="" coords="7028,2004,7164,2031"/>
+<area shape="rect" id="node31" href="$d6/d76/_teuchos___null_iterator_traits_8hpp.html" title="Teuchos_NullIteratorTraits.hpp" alt="" coords="7223,1929,7425,1956"/>
+<area shape="rect" id="node24" href="$d9/dc9/_teuchos__any_8hpp.html" title="Modified boost::any class for holding a templated value. " alt="" coords="8037,2004,8163,2031"/>
+<area shape="rect" id="node28" href="$de/d8b/_teuchos__to_string_8hpp.html" title="Teuchos_toString.hpp" alt="" coords="9632,2004,9781,2031"/>
+<area shape="rect" id="node29" href="$db/ddb/_teuchos__get_base_obj_void_ptr_8hpp.html" title="Teuchos_getBaseObjVoidPtr.hpp" alt="" coords="7189,2004,7403,2031"/>
+<area shape="rect" id="node30" href="$d1/d38/_teuchos_core___config_defs_8hpp.html" title="TeuchosCore_ConfigDefs.hpp" alt="" coords="6273,2079,6471,2105"/>
+<area shape="rect" id="node33" href="$df/dbd/_teuchos___ptr_decl_8hpp.html" title="Teuchos_PtrDecl.hpp" alt="" coords="7466,1780,7614,1807"/>
+<area shape="rect" id="node36" href="$d3/d76/_belos_linear_problem_8hpp.html" title="Class which describes the linear problem to be solved by the iterative solver. " alt="" coords="8056,691,8219,717"/>
+<area shape="rect" id="node41" href="$df/d49/_teuchos___parameter_list_8hpp.html" title="Templated Parameter List class. " alt="" coords="7934,1004,8119,1031"/>
+<area shape="rect" id="node95" href="$d4/da8/_belos_status_test_combo_8hpp.html" title="Belos::StatusTest for logically combining several status tests. " alt="" coords="9175,616,9361,643"/>
+<area shape="rect" id="node37" href="$d0/dc8/_belos_multi_vec_traits_8hpp.html" title="Declaration of basic traits for the multivector type. " alt="" coords="5798,765,5962,792"/>
+<area shape="rect" id="node80" href="$d8/de4/_belos_operator_traits_8hpp.html" title="Class which defines basic traits for the operator type. " alt="" coords="6616,765,6779,792"/>
+<area shape="rect" id="node81" href="$d7/d89/_teuchos___time_monitor_8hpp.html" title="Scope protection wrapper for Teuchos::Time, with timer reporting functionality. " alt="" coords="7259,765,7435,792"/>
+<area shape="rect" id="node38" href="$db/d53/_belos_stub_tsqr_adapter_8hpp.html" title="&quot;Stub&quot; TSQR adapter for unsupported multivector types. " alt="" coords="5664,840,5843,867"/>
+<area shape="rect" id="node69" href="$d3/d68/_teuchos___serial_dense_matrix_8hpp.html" title="Templated serial dense matrix class. " alt="" coords="5125,922,5336,949"/>
+<area shape="rect" id="node79" href="$dd/d66/_teuchos___range1_d_8hpp.html" title="Teuchos_Range1D.hpp" alt="" coords="6019,1086,6178,1113"/>
+<area shape="rect" id="node39" href="$df/d69/_teuchos___parameter_list_acceptor_default_base_8hpp.html" title="Teuchos_ParameterListAcceptor\lDefaultBase.hpp" alt="" coords="2511,915,2723,956"/>
+<area shape="rect" id="node67" href="$d2/d50/_teuchos___scalar_traits_8hpp.html" title="Defines basic traits for the scalar field type. " alt="" coords="5742,1168,5917,1195"/>
+<area shape="rect" id="node40" href="$dd/d80/_teuchos___parameter_list_acceptor_8hpp.html" title="Teuchos_ParameterListAcceptor.hpp" alt="" coords="2048,2303,2285,2329"/>
+<area shape="rect" id="node42" href="$dd/d54/_teuchos___parameter_list_exceptions_8hpp.html" title="Teuchos_ParameterListExceptions.hpp" alt="" coords="14427,1086,14677,1113"/>
+<area shape="rect" id="node43" href="$d9/daf/_teuchos___parameter_entry_8hpp.html" title="Object held as the &quot;value&quot; in the Teuchos::ParameterList std::map. " alt="" coords="7929,1086,8124,1113"/>
+<area shape="rect" id="node45" href="$df/d74/_teuchos___array_8hpp.html" title="Templated array class derived from the STL std::vector. " alt="" coords="9598,1407,9733,1433"/>
+<area shape="rect" id="node65" href="$da/d7f/_teuchos___string_indexed_ordered_value_object_container_8hpp.html" title="Teuchos_StringIndexedOrdered\lValueObjectContainer.hpp" alt="" coords="9411,1317,9616,1359"/>
+<area shape="rect" id="node44" href="$d1/da5/_teuchos___parameter_entry_validator_8hpp.html" title="Teuchos_ParameterEntryValidator.hpp" alt="" coords="10806,1168,11053,1195"/>
+<area shape="rect" id="node57" href="$d5/d86/_teuchos___x_m_l_object_8hpp.html" title="An object representation of a subset of XML data. " alt="" coords="11053,1243,11222,1269"/>
+<area shape="rect" id="node46" href="$dc/dde/_teuchos___array_r_c_p_8hpp.html" title="Teuchos_ArrayRCP.hpp" alt="" coords="6973,1481,7137,1508"/>
+<area shape="rect" id="node55" href="$dd/deb/_teuchos___tuple_8hpp.html" title="Teuchos_Tuple.hpp" alt="" coords="6812,1481,6948,1508"/>
+<area shape="rect" id="node56" href="$da/d13/_teuchos___utils_8hpp.html" title="A utilities class for Teuchos. " alt="" coords="10516,1481,10647,1508"/>
+<area shape="rect" id="node47" href="$d6/d98/_teuchos___array_r_c_p_decl_8hpp.html" title="Teuchos_ArrayRCPDecl.hpp" alt="" coords="7021,1556,7211,1583"/>
+<area shape="rect" id="node49" href="$df/d54/_teuchos___array_view_8hpp.html" title="Teuchos_ArrayView.hpp" alt="" coords="6629,1556,6793,1583"/>
+<area shape="rect" id="node50" href="$d2/db9/_teuchos__as_8hpp.html" title="Definition of Teuchos::as, for conversions between types. " alt="" coords="5013,1631,5131,1657"/>
+<area shape="rect" id="node48" href="$dd/d83/_teuchos___array_view_decl_8hpp.html" title="Teuchos_ArrayViewDecl.hpp" alt="" coords="7009,1855,7199,1881"/>
+<area shape="rect" id="node58" href="$d9/d6a/_teuchos___x_m_l_object_implem_8hpp.html" title="Low level implementation of XMLObject. " alt="" coords="10806,1325,11018,1351"/>
+<area shape="rect" id="node60" href="$d8/d4f/_teuchos___verbosity_level_8hpp.html" title="Teuchos_VerbosityLevel.hpp" alt="" coords="10946,1407,11137,1433"/>
+<area shape="rect" id="node62" href="$d2/d6a/_teuchos___fancy_o_stream_8hpp.html" title="Teuchos_FancyOStream.hpp" alt="" coords="6439,1407,6631,1433"/>
+<area shape="rect" id="node64" href="$d2/de2/_teuchos___labeled_object_8hpp.html" title="Teuchos_LabeledObject.hpp" alt="" coords="10673,2079,10860,2105"/>
+<area shape="rect" id="node61" href="$de/dad/_teuchos__iostream__helpers_8hpp.html" title="Teuchos_iostream_helpers.hpp" alt="" coords="10855,1556,11057,1583"/>
+<area shape="rect" id="node63" href="$d4/df8/_teuchos___global_m_p_i_session_8hpp.html" title="A MPI utilities class, providing methods for initializing, finalizing, and querying the global MPI se..." alt="" coords="6425,1481,6637,1508"/>
+<area shape="rect" id="node66" href="$d9/d7d/_teuchos___filtered_iterator_8hpp.html" title="Teuchos_FilteredIterator.hpp" alt="" coords="8073,1929,8261,1956"/>
+<area shape="rect" id="node68" href="$d2/d8b/_teuchos___scalar_traits_decl_8hpp.html" title="Declaration and default implementation for basic traits for the scalar field type. " alt="" coords="5713,2153,5914,2180"/>
+<area shape="rect" id="node70" href="$d9/d2e/_teuchos___comp_object_8hpp.html" title="Object for storing data and providing functionality that is common to all computational classes..." alt="" coords="1417,1086,1594,1113"/>
+<area shape="rect" id="node72" href="$de/d96/_teuchos___data_access_8hpp.html" title="Teuchos::DataAccess Mode enumerable type. " alt="" coords="2563,1243,2739,1269"/>
+<area shape="rect" id="node74" href="$d1/dd9/_teuchos___b_l_a_s_8hpp.html" title="Templated interface class to BLAS routines. " alt="" coords="5113,1086,5252,1113"/>
+<area shape="rect" id="node77" href="$db/d6c/_teuchos___serial_sym_dense_matrix_8hpp.html" title="Templated serial, dense, symmetric matrix class. " alt="" coords="961,1004,1199,1031"/>
+<area shape="rect" id="node71" href="$df/db3/_teuchos___object_8hpp.html" title="The base Teuchos object. " alt="" coords="2667,1168,2810,1195"/>
+<area shape="rect" id="node73" href="$d3/dae/_teuchos___flops_8hpp.html" title="Object for providing basic support and consistent interfaces for counting/reporting floating&#45;point op..." alt="" coords="1437,1168,1573,1195"/>
+<area shape="rect" id="node75" href="$d2/dc5/_teuchos___ordinal_traits_8hpp.html" title="Defines basic traits for the ordinal field type. " alt="" coords="5156,1631,5335,1657"/>
+<area shape="rect" id="node76" href="$d1/d30/_teuchos___b_l_a_s__types_8hpp.html" title="Enumerated types for BLAS input characters. " alt="" coords="5271,1168,5449,1195"/>
+<area shape="rect" id="node82" href="$da/dfd/_teuchos___performance_monitor_base_8hpp.html" title="Provides common capabilities for collecting and reporting performance data across processors..." alt="" coords="7101,1079,7297,1120"/>
+<area shape="rect" id="node83" href="$d6/d50/_teuchos___comm_8hpp.html" title="Teuchos_Comm.hpp" alt="" coords="7474,1168,7617,1195"/>
+<area shape="rect" id="node89" href="$d2/db3/_teuchos___time_8hpp.html" title="Basic wall&#45;clock timer class. " alt="" coords="6576,840,6709,867"/>
+<area shape="rect" id="node93" href="$d5/d29/_teuchos___command_line_processor_8hpp.html" title="Basic command line parser for input from (argc,argv[]) " alt="" coords="9957,1631,10203,1657"/>
+<area shape="rect" id="node85" href="$d9/de6/_teuchos___table_format_8hpp.html" title="Provides utilities for formatting tabular output. " alt="" coords="7106,1168,7283,1195"/>
+<area shape="rect" id="node84" href="$de/d7c/_teuchos___reduction_op_8hpp.html" title="Teuchos_ReductionOp.hpp" alt="" coords="9691,1243,9871,1269"/>
+<area shape="rect" id="node86" href="$dc/d23/_teuchos___table_column_8hpp.html" title="A column of TableEntry objects. " alt="" coords="7153,1243,7335,1269"/>
+<area shape="rect" id="node87" href="$d7/d9c/_teuchos___table_entry_8hpp.html" title="Base class for representing compound entries in a printed table of data. &quot;Compound&quot; means that each e..." alt="" coords="7202,1325,7369,1351"/>
+<area shape="rect" id="node94" href="$d8/d6d/_teuchos___compile_time_assert_8hpp.html" title="Template classes for testing assertions at compile time. " alt="" coords="10059,1780,10277,1807"/>
+<area shape="rect" id="node96" href="$dd/dfb/_belos_status_test_8hpp.html" title="Pure virtual base class for defining the status testing capabilities of Belos. " alt="" coords="9325,691,9469,717"/>
+<area shape="rect" id="node97" href="$d1/dad/_belos_iteration_8hpp.html" title="Pure virtual base class which describes the basic interface to the linear solver iteration. " alt="" coords="12325,765,12451,792"/>
+<area shape="rect" id="node100" href="$d4/d54/_belos_c_g_iter_8hpp.html" title="Belos concrete class for performing the conjugate&#45;gradient (CG) iteration. " alt="" coords="6581,616,6699,643"/>
+<area shape="rect" id="node103" href="$d8/d06/_belos_block_c_g_iter_8hpp.html" title="Belos concrete class for performing the block conjugate&#45;gradient (CG) iteration. " alt="" coords="2087,616,2239,643"/>
+<area shape="rect" id="node106" href="$d8/d6c/_teuchos___l_a_p_a_c_k_8hpp.html" title="Templated interface class to LAPACK routines. " alt="" coords="1723,922,1880,949"/>
+<area shape="rect" id="node109" href="$d7/d80/_belos_d_g_k_s_ortho_manager_8hpp.html" title="Classical Gram&#45;Schmidt (with DGKS correction) implementation of the Belos::OrthoManager class..." alt="" coords="4027,616,4227,643"/>
+<area shape="rect" id="node110" href="$d3/db7/_belos_i_c_g_s_ortho_manager_8hpp.html" title="Iterated Classical Gram&#45;Schmidt (ICGS) implementation of the Belos::OrthoManager class. " alt="" coords="4251,616,4445,643"/>
+<area shape="rect" id="node111" href="$d0/dd0/_belos_i_m_g_s_ortho_manager_8hpp.html" title="Iterated Modified Gram&#45;Schmidt (IMGS) implementation of the Belos::OrthoManager class. " alt="" coords="4521,616,4717,643"/>
+<area shape="rect" id="node112" href="$de/d33/_belos_status_test_max_iters_8hpp.html" title="Belos::StatusTest class for specifying a maximum number of iterations. " alt="" coords="8652,616,8847,643"/>
+<area shape="rect" id="node113" href="$da/dc4/_belos_status_test_gen_res_norm_8hpp.html" title="Belos::StatusTestResNorm for specifying general residual norm stopping criteria. " alt="" coords="7608,534,7832,561"/>
+<area shape="rect" id="node115" href="$df/d97/_belos_status_test_output_factory_8hpp.html" title="A factory class for generating StatusTestOutput objects. " alt="" coords="9009,452,9236,479"/>
+<area shape="rect" id="node101" href="$d0/d86/_belos_c_g_iteration_8hpp.html" title="Pure virtual base class which augments the basic interface for a conjugate gradient linear solver ite..." alt="" coords="8901,691,9048,717"/>
+<area shape="rect" id="node102" href="$d7/db7/_teuchos___serial_dense_vector_8hpp.html" title="Templated serial dense vector class. " alt="" coords="6461,691,6675,717"/>
+<area shape="rect" id="node104" href="$d3/da1/_belos_mat_ortho_manager_8hpp.html" title="Templated virtual class for providing orthogonalization/orthonormalization methods with matrix&#45;based ..." alt="" coords="5291,691,5475,717"/>
+<area shape="rect" id="node107" href="$d9/d25/_teuchos___serial_spd_dense_solver_8hpp.html" title="Templated class for constructing and using Hermitian positive definite dense matrices. " alt="" coords="707,765,941,792"/>
+<area shape="rect" id="node105" href="$d4/d0b/_belos_ortho_manager_8hpp.html" title="Templated virtual class for providing orthogonalization/orthonormalization methods. " alt="" coords="3584,765,3747,792"/>
+<area shape="rect" id="node108" href="$da/d15/_teuchos___serial_dense_solver_8hpp.html" title="Templated class for solving dense linear problems. " alt="" coords="909,840,1121,867"/>
+<area shape="rect" id="node114" href="$d7/d00/_belos_status_test_res_norm_8hpp.html" title="Belos::StatusTest abstract class for specifying a residual norm stopping criteria. " alt="" coords="7585,616,7785,643"/>
+<area shape="rect" id="node116" href="$de/d25/_belos_status_test_res_norm_output_8hpp.html" title="Special StatusTest for printing status tests in simple format for residuals. " alt="" coords="10017,534,10255,561"/>
+<area shape="rect" id="node118" href="$d9/ddc/_belos_status_test_user_output_8hpp.html" title="Special StatusTest for printing status tests in simple format for residuals. " alt="" coords="8971,534,9181,561"/>
+<area shape="rect" id="node119" href="$d1/dd7/_belos_status_test_general_output_8hpp.html" title="Special StatusTest for printing any kind of status test. " alt="" coords="10331,534,10559,561"/>
+<area shape="rect" id="node117" href="$de/d0d/_belos_status_test_output_8hpp.html" title="Virtual base class for StatusTest that printing status tests. " alt="" coords="9893,616,10075,643"/>
+<area shape="rect" id="node122" href="$dc/d6b/_belos_gmres_iteration_8hpp.html" title="Pure virtual base class which augments the basic interface for a Gmres linear solver iteration..." alt="" coords="7763,691,7930,717"/>
+<area shape="rect" id="node123" href="$d6/d42/_belos_block_gmres_iter_8hpp.html" title="Belos concrete class for performing the block GMRES iteration. " alt="" coords="6385,616,6556,643"/>
+<area shape="rect" id="node124" href="$d1/dc3/_belos_block_f_gmres_iter_8hpp.html" title="Belos concrete class for performing the block, flexible GMRES iteration. " alt="" coords="5437,616,5616,643"/>
+<area shape="rect" id="node125" href="$dc/d00/_belos_status_test_imp_res_norm_8hpp.html" title="Belos::StatusTest for specifying an implicit residual norm stopping criteria that checks for loss of ..." alt="" coords="5981,534,6203,561"/>
+<area shape="rect" id="node127" href="$db/d04/_belos_ortho_manager_factory_8hpp.html" title="BelosOrthoManagerFactory.hpp" alt="" coords="3926,534,4133,561"/>
+<area shape="rect" id="node131" href="$de/d61/_belos_g_c_r_o_d_r_iter_8hpp.html" title="Belos concrete class for performing the GCRO&#45;DR iteration. " alt="" coords="3011,616,3170,643"/>
+<area shape="rect" id="node128" href="$da/d5a/_belos_simple_ortho_manager_8hpp.html" title="Simple OrthoManager implementation for benchmarks. " alt="" coords="3445,616,3648,643"/>
+<area shape="rect" id="node133" href="$de/df3/_belos_pseudo_block_c_g_iter_8hpp.html" title="Belos concrete class for performing the pseudo&#45;block CG iteration. " alt="" coords="11191,616,11387,643"/>
+<area shape="rect" id="node135" href="$d5/d40/_belos_pseudo_block_gmres_iter_8hpp.html" title="Belos concrete class for performing the pseudo&#45;block GMRES iteration. " alt="" coords="5641,616,5855,643"/>
+<area shape="rect" id="node136" href="$d1/da0/_belos_status_test_factory_8hpp.html" title="BelosStatusTestFactory.hpp" alt="" coords="6427,452,6615,479"/>
+<area shape="rect" id="node137" href="$d0/d1a/_belos_status_test_gen_res_sub_norm_8hpp.html" title="Belos::StatusTestResSubNorm for specifying general residual norm of sub&#45;residual vectors stopping cri..." alt="" coords="6227,527,6418,568"/>
+<area shape="rect" id="node139" href="$de/d19/_belos_pseudo_block_stochastic_c_g_iter_8hpp.html" title="Belos concrete class for performing the stochastic pseudo&#45;block CG iteration. " alt="" coords="12061,527,12256,568"/>
+<area shape="rect" id="node140" href="$d2/d55/_belos_stochastic_c_g_iteration_8hpp.html" title="Pure virtual base class which augments the basic interface for a stochastic conjugate gradient linear..." alt="" coords="12417,616,12626,643"/>
+<area shape="rect" id="node142" href="$d8/da3/_belos_l_s_q_r_iteration_8hpp.html" title="IterationState contains the data that defines the state of the LSQR solver at any given time..." alt="" coords="12163,691,12325,717"/>
+<area shape="rect" id="node143" href="$d9/d1b/_belos_l_s_q_r_iter_8hpp.html" title="Belos concrete class that iterates LSQR. " alt="" coords="11801,616,11935,643"/>
+<area shape="rect" id="node144" href="$dd/d5a/_belos_l_s_q_r_status_test_8hpp.html" title="Belos::StatusTest class defining LSQR convergence. " alt="" coords="11153,534,11333,561"/>
+<area shape="rect" id="node146" href="$d1/d9a/_belos_minres_iter_8hpp.html" title="MINRES iteration implementation. " alt="" coords="13372,616,13511,643"/>
+<area shape="rect" id="node148" href="$da/d66/_teuchos___standard_parameter_entry_validators_8hpp.html" title="Teuchos_StandardParameter\lEntryValidators.hpp" alt="" coords="14630,915,14821,956"/>
+<area shape="rect" id="node147" href="$d0/d97/_belos_minres_iteration_8hpp.html" title="Pure virtual base class which augments the basic interface for a minimal residual linear solver itera..." alt="" coords="13414,691,13581,717"/>
+<area shape="rect" id="node149" href="$d5/d5c/_teuchos___two_d_array_8hpp.html" title="A thin wrapper around the Teuchos Array class that allows for 2 dimensional arrays. " alt="" coords="10857,1243,11028,1269"/>
+<area shape="rect" id="node150" href="$d2/d7d/_teuchos___str_utils_8hpp.html" title="A std::string utilities class for Teuchos. " alt="" coords="11171,1325,11319,1351"/>
+<area shape="rect" id="node151" href="$d6/d9f/_teuchos___dummy_object_getter_8hpp.html" title="Teuchos_DummyObjectGetter.hpp" alt="" coords="14427,1004,14651,1031"/>
+<area shape="rect" id="node154" href="$db/d6a/_belos_gmres_poly_op_8hpp.html" title="Defines the GMRES polynomial operator hybrid&#45;GMRES iterative linear solver. " alt="" coords="6148,616,6311,643"/>
+<area shape="rect" id="node156" href="$dc/d69/_belos_p_c_p_g_iter_8hpp.html" title="Belos concrete class to iterate Preconditioned Conjugate Projected Gradients. " alt="" coords="5271,616,5409,643"/>
+<area shape="rect" id="node157" href="$dd/d67/_teuchos___type_traits_8hpp.html" title="Defines basic traits allowing evaluation of type equality. " alt="" coords="4867,452,5034,479"/>
+<area shape="rect" id="node159" href="$d0/d93/_belos_r_c_g_iter_8hpp.html" title="Belos concrete class for performing the RCG iteration. " alt="" coords="1541,616,1670,643"/>
+<area shape="rect" id="node163" href="$de/d8b/_belos_t_f_q_m_r_iter_8hpp.html" title="Belos concrete class for generating iterations with the preconditioned tranpose&#45;free QMR (TFQMR) meth..." alt="" coords="12897,616,13044,643"/>
+<area shape="rect" id="node165" href="$d3/d3e/_belos_pseudo_block_t_f_q_m_r_iter_8hpp.html" title="Belos concrete class for generating iterations with the preconditioned tranpose&#45;free QMR (TFQMR) meth..." alt="" coords="12650,616,12873,643"/>
+<area shape="rect" id="node167" href="$de/d04/_belos_fixed_point_iter_8hpp.html" title="Belos concrete class for performing fixed point iteration iteration. " alt="" coords="11411,616,11573,643"/>
+<area shape="rect" id="node168" href="$d1/d11/_belos_fixed_point_iteration_8hpp.html" title="Pure virtual base class which augments the basic interface for a fixed point linear solver iteration..." alt="" coords="11595,691,11784,717"/>
+<area shape="rect" id="node170" href="$dd/dd5/_belos_bi_c_g_stab_iter_8hpp.html" title="Belos concrete class for performing the pseudo&#45;block BiCGStab iteration. " alt="" coords="8013,616,8171,643"/>
+<area shape="rect" id="node176" href="$d7/dc4/_trilinos___details___linear_solver_8hpp.html" title="Declaration of linear solver interface. " alt="" coords="16163,534,16379,561"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="omc_ConnectUtil_sizeOfType" name="omc_ConnectUtil_sizeOfType">
+<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#ac40c36800eaa1d8fff43c211dfb2bdd7" title="boxptr_ConnectUtil\l_sizeOfType" alt="" coords="308,5,443,47"/>
+<area shape="rect" id="node3" href="$d3/d5a/_connect_util_8c.html#a17c1ac12dc0e315d88af7bb43cd1fa0f" title="omc_ConnectUtil_sizeOfVariableList" alt="" coords="257,71,493,98"/>
+<area shape="rect" id="node5" href="$d3/d5a/_connect_util_8c.html#a1a8a4c4c3d2e2e66562f732a7742ea01" title="omc_ConnectUtil_countConnectorVars" alt="" coords="251,129,500,155"/>
+<area shape="rect" id="node4" href="$d3/d5a/_connect_util_8c.html#a6888e6bb50bd22685c0ba59f14ab0a7c" title="boxptr_ConnectUtil\l_sizeOfVariableList" alt="" coords="593,56,728,97"/>
+<area shape="rect" id="node6" href="$d3/d5a/_connect_util_8c.html#ab659562197eb989aa3f6d39343bc7061" title="boxptr_ConnectUtil\l_countConnectorVars" alt="" coords="587,121,735,163"/>
+<area shape="rect" id="node7" href="$da/df9/_connect_util_8h.html#a779f879f956f00681e416f597a491c9a" title="omc_ConnectUtil_checkConnector\lBalance" alt="" coords="548,187,773,228"/>
+<area shape="rect" id="node8" href="$da/df9/_connect_util_8h.html#a74022d15bda993cf79ffd555b21a95c7" title="omc_ConnectUtil_addConnector\lVariablesFromDAE" alt="" coords="821,187,1032,228"/>
+<area shape="rect" id="node9" href="$da/df9/_connect_util_8h.html#a066f1cea0d4eb419504a0707324360d2" title="boxptr_ConnectUtil\l_addConnectorVariablesFromDAE" alt="" coords="1080,187,1303,228"/>
+</map>

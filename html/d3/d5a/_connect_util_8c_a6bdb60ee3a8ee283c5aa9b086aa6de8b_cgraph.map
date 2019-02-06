@@ -1,0 +1,20 @@
+<map id="omc_ConnectUtil_addOuterConnectToSets2" name="omc_ConnectUtil_addOuterConnectToSets2">
+<area shape="rect" id="node2" href="$d3/d5a/_connect_util_8c.html#ab69264bc22df5b921df838cda90878b7" title="omc_ConnectUtil_setTrieGet" alt="" coords="987,71,1177,98"/>
+<area shape="rect" id="node6" href="$d3/d5a/_connect_util_8c.html#a9db51fc4ddfb25e71fc0788c19978c4d" title="omc_ConnectUtil_collectOuter\lElements" alt="" coords="236,341,436,383"/>
+<area shape="rect" id="node14" href="$d3/d5a/_connect_util_8c.html#abeb5f7bb90e014859a1ef8e3482d5b3c" title="omc_ConnectUtil_findInner\lElement" alt="" coords="246,241,426,283"/>
+<area shape="rect" id="node3" href="$d9/d14/_component_reference_8c.html#a5f491f186f674efb30ec59575fc6a9a5" title="omc_ComponentReference\l_crefFirstIdent" alt="" coords="1225,5,1407,47"/>
+<area shape="rect" id="node4" href="$da/d72/_compiler_2boot_2build_2list_8c.html#ac6039d0bf54fda4c417fe289f1aa7d89" title="omc_List_toString" alt="" coords="1253,71,1379,98"/>
+<area shape="rect" id="node5" href="$d9/d14/_component_reference_8c.html#aa35e5ff682246bd0230b0110bb113c33" title="omc_ComponentReference\l_crefFirstSubs" alt="" coords="1225,123,1407,164"/>
+<area shape="rect" id="node7" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a1af0b27447c47ebfbf8edc487dfd04ad" title="omc_List_map2Flat" alt="" coords="767,399,903,426"/>
+<area shape="rect" id="node10" href="$d3/d5a/_connect_util_8c.html#aeaa3dde836da1001f1faa4cc10a5af8a" title="omc_ConnectUtil_collectOuter\lElements2" alt="" coords="484,341,684,383"/>
+<area shape="rect" id="node8" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a56b7e8a835b2d388f5984ca7378bc1ec" title="listAppend" alt="" coords="1041,389,1123,415"/>
+<area shape="rect" id="node9" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#ad7cc5a28ee76a604bbbddfd643761734" title="listReverseInPlace" alt="" coords="1016,439,1148,466"/>
+<area shape="rect" id="node11" href="$d3/d5a/_connect_util_8c.html#a8076dff05095c78a1fca6047fda642ae" title="omc_ConnectUtil_optPrefixCref" alt="" coords="732,345,939,371"/>
+<area shape="rect" id="node12" href="$d9/d14/_component_reference_8c.html#ac66614569946c421790b3ecac98debde" title="omc_ComponentReference\l_joinCrefs" alt="" coords="991,297,1173,339"/>
+<area shape="rect" id="node13" href="$d9/d14/_component_reference_8c.html#a7432b89e50552d0f7590711f64ca96e8" title="omc_ComponentReference\l_makeCrefQual" alt="" coords="1225,297,1407,339"/>
+<area shape="rect" id="node15" href="$d3/d5a/_connect_util_8c.html#ad736d630bf1f0cc3a5b6997e886dd87f" title="omc_ConnectUtil_findElement" alt="" coords="485,214,683,241"/>
+<area shape="rect" id="node16" href="$d3/d5a/_connect_util_8c.html#aa4ca4949859e3236bf53bf5a9abc1b02" title="omc_ConnectUtil_setTrieGet\lElement" alt="" coords="740,123,931,164"/>
+<area shape="rect" id="node18" href="$d3/d5a/_connect_util_8c.html#a5f751c34f0ca0fb0c6c91d587fa923bc" title="omc_ConnectUtil_newElement" alt="" coords="734,189,937,215"/>
+<area shape="rect" id="node19" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="812,239,859,266"/>
+<area shape="rect" id="node17" href="$d3/d5a/_connect_util_8c.html#a4668b1b5155ee0712c3895e643c0848c" title="omc_ConnectUtil_setTrieGet\lLeafElement" alt="" coords="987,123,1177,164"/>
+</map>

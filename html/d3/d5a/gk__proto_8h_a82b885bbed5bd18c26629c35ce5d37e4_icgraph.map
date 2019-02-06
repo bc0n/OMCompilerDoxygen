@@ -1,0 +1,13 @@
+<map id="gk_csr_Create" name="gk_csr_Create">
+<area shape="rect" id="node2" href="$d3/d5a/gk__proto_8h.html#a24144cf4c30d5ec4ed8b488d371476b3" title="gk_csr_Dup" alt="" coords="199,5,291,32"/>
+<area shape="rect" id="node3" href="$d3/d5a/gk__proto_8h.html#a0b106b838c4dc370c32a47aaaf990375" title="gk_csr_ExtractSubmatrix" alt="" coords="160,56,329,83"/>
+<area shape="rect" id="node4" href="$d3/d5a/gk__proto_8h.html#aaa2391cce5eb8291e65f6dc4d8e252fd" title="gk_csr_ExtractRows" alt="" coords="173,107,317,133"/>
+<area shape="rect" id="node5" href="$d3/d5a/gk__proto_8h.html#ac59047c4a89fa4680d746fcdce4aa1a7" title="gk_csr_ExtractPartition" alt="" coords="165,157,324,184"/>
+<area shape="rect" id="node6" href="$d3/d5a/gk__proto_8h.html#ac438fca404c3f1ff6989aa68f83ed241" title="gk_csr_Split" alt="" coords="197,208,292,235"/>
+<area shape="rect" id="node7" href="$d3/d5a/gk__proto_8h.html#a06edc174c5986841b589900ffce6600f" title="gk_csr_Prune" alt="" coords="193,259,296,285"/>
+<area shape="rect" id="node8" href="$d3/d5a/gk__proto_8h.html#a66729af11e7dee3585d6191661757c37" title="gk_csr_LowFilter" alt="" coords="184,309,305,336"/>
+<area shape="rect" id="node9" href="$d3/d5a/gk__proto_8h.html#ad6f2c5699b47e1bc2285a1b391d7c7da" title="gk_csr_TopKPlusFilter" alt="" coords="167,360,322,387"/>
+<area shape="rect" id="node10" href="$d3/d5a/gk__proto_8h.html#a193f32ef7dd91c2c633157bafea26080" title="gk_csr_ZScoreFilter" alt="" coords="175,411,314,437"/>
+<area shape="rect" id="node11" href="$d8/d38/itemsets_8c.html#ab348ad8f89d70692400d7602e3a824bf" title="itemsets_project_matrix" alt="" coords="164,461,325,488"/>
+<area shape="rect" id="node12" href="$d8/d38/itemsets_8c.html#ab19ae99e1e3ba575373cf0fe846a8cd9" title="itemsets_find_frequent\l_itemsets" alt="" coords="377,454,532,495"/>
+</map>
