@@ -1,0 +1,12 @@
+<map id="retrieve_screen_line" name="retrieve_screen_line">
+<area shape="rect" id="node2" href="$d4/d90/de_8c.html#aa304e397de91e00515e2b8086b25e8ba" title="retrieve_line" alt="" coords="192,56,284,83"/>
+<area shape="rect" id="node7" href="$d2/d4e/de__win_8h.html#ac996a0edf7f6d6736f7f2920665a453d" title="WndProc" alt="" coords="729,56,805,83"/>
+<area shape="rect" id="node3" href="$d4/d90/de_8c.html#a807cd26affc5b4a4c68ef501ca826d93" title="redisplay" alt="" coords="332,56,407,83"/>
+<area shape="rect" id="node4" href="$d4/d90/de_8c.html#a8f2bd7af6763736f33707e901df7ce8c" title="fix_cursor" alt="" coords="455,56,533,83"/>
+<area shape="rect" id="node5" href="$d2/d4e/de__win_8h.html#ad7472f0f4c431b1285d1f95364da1977" title="do_command" alt="" coords="581,5,681,32"/>
+<area shape="rect" id="node11" href="$d2/d4e/de__win_8h.html#a6a789a50eff0871b5550bf0129f1e0a8" title="generic_init" alt="" coords="587,56,675,83"/>
+<area shape="rect" id="node6" href="$d4/d90/de_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="742,5,793,32"/>
+<area shape="rect" id="node8" href="$dd/d92/de__win_8c.html#a1a82d574f68da3d68ac8b9c0a1dd3645" title="WinMain" alt="" coords="885,31,958,57"/>
+<area shape="rect" id="node10" href="$d4/dbe/_o_m_c_monitor_8c.html#a4c157499b414a516446108301e061979" title="CreateMainWindow" alt="" coords="853,81,989,108"/>
+<area shape="rect" id="node9" href="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="1037,31,1088,57"/>
+</map>

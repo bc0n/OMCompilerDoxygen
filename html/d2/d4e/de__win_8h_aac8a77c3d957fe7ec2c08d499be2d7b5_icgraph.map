@@ -1,0 +1,6 @@
+<map id="move_cursor" name="move_cursor">
+<area shape="rect" id="node2" href="$d4/d90/de_8c.html#a8f2bd7af6763736f33707e901df7ce8c" title="fix_cursor" alt="" coords="157,5,236,32"/>
+<area shape="rect" id="node5" href="$d2/d4e/de__win_8h.html#a706ce15e79df6d65287345de21f6c60a" title="set_position" alt="" coords="151,56,243,83"/>
+<area shape="rect" id="node3" href="$d2/d4e/de__win_8h.html#ad7472f0f4c431b1285d1f95364da1977" title="do_command" alt="" coords="291,5,391,32"/>
+<area shape="rect" id="node4" href="$d4/d90/de_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="439,5,489,32"/>
+</map>

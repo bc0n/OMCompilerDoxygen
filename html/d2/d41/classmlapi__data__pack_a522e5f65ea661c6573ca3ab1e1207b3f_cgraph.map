@@ -1,0 +1,44 @@
+<map id="mlapi_data_pack::solve" name="mlapi_data_pack::solve">
+<area shape="rect" id="node2" href="$d8/dc5/namespace_m_l_a_p_i.html#af368e6d9fa55ccd00a482cf01dbb9828" title="Initialize the MLAPI workspace. " alt="" coords="1039,875,1127,901"/>
+<area shape="rect" id="node9" href="$db/d0f/class_teuchos_1_1_parameter_list.html#a1421e06bdcd6b536f3fa8b5e6bdd763f" title="Teuchos::ParameterList\l::setParameters" alt="" coords="212,407,373,449"/>
+<area shape="rect" id="node32" href="$d8/dc5/namespace_m_l_a_p_i.html#aa8ad16e65582fc07ee9fbe2636ecd97c" title="MLAPI::Krylov" alt="" coords="239,872,346,899"/>
+<area shape="rect" id="node40" href="$d8/dc5/namespace_m_l_a_p_i.html#aabd0be9dafbd3cca6df87930cd78e065" title="Destroys the MLAPI workspace. " alt="" coords="235,1049,350,1076"/>
+<area shape="rect" id="node3" href="$db/d9d/ml__comm_8c.html#a3f5b4b43202f2266c66c03fbb9828ee9" title="ML_Comm_Create" alt="" coords="1216,875,1348,901"/>
+<area shape="rect" id="node4" href="$d8/d08/ml__memory_8c.html#ab656aed9d908a79217671761d4ba9a75" title="ML_memory_alloc" alt="" coords="1411,773,1539,800"/>
+<area shape="rect" id="node5" href="$db/d9d/ml__comm_8c.html#ab5e1732d86e453ee3ce38e90557769f4" title="ML_Comm_Send" alt="" coords="1414,824,1537,851"/>
+<area shape="rect" id="node6" href="$db/d9d/ml__comm_8c.html#a8277254ecafe9059965b2b80d5b23d91" title="ML_Comm_Irecv" alt="" coords="1414,875,1537,901"/>
+<area shape="rect" id="node7" href="$db/d9d/ml__comm_8c.html#a4828144003381d45a69f1248be36e3be" title="ML_Comm_Wait" alt="" coords="1415,925,1535,952"/>
+<area shape="rect" id="node8" href="$db/d9d/ml__comm_8c.html#a575a6d49ab2f64baf5f865987b30c577" title="ML_Comm_CheapWait" alt="" coords="1396,976,1555,1003"/>
+<area shape="rect" id="node10" href="$db/d0f/class_teuchos_1_1_parameter_list.html#a8c8df5595f92eeba117092cd9c697cf3" title="An iterator pointing to the first entry. " alt="" coords="447,623,608,665"/>
+<area shape="rect" id="node12" href="$db/d0f/class_teuchos_1_1_parameter_list.html#a18d24b3c1b7689b39ed37febfd9c1351" title="An iterator pointing beyond the last entry. " alt="" coords="432,64,623,91"/>
+<area shape="rect" id="node14" href="$db/d0f/class_teuchos_1_1_parameter_list.html#a6d8b322eb76af7593abacef528c8b890" title="The name of this ParameterList. " alt="" coords="735,342,896,383"/>
+<area shape="rect" id="node15" href="$db/d0f/class_teuchos_1_1_parameter_list.html#a16764f2d0e8dd2bc5838a02e8124fea9" title="Access to ParameterEntry (i.e., returns i&#45;&gt;second) " alt="" coords="447,174,608,215"/>
+<area shape="rect" id="node23" href="$d8/dce/class_teuchos_1_1_parameter_entry.html#aceb44068957a651be7929f7b86fe95e8" title="Return whether or not the value itself is a list. " alt="" coords="442,283,613,325"/>
+<area shape="rect" id="node25" href="$db/d0f/class_teuchos_1_1_parameter_list.html#a492ec5b8cc09e51290b36e30df8f0120" title="Creates an empty sublist and returns a reference to the sublist name. If the list already exists..." alt="" coords="447,407,608,449"/>
+<area shape="rect" id="node30" href="$d8/dce/class_teuchos_1_1_parameter_entry.html#ac6deac4c36402a00b8075320c1e6a848" title="Return the (optional) documentation std::string. " alt="" coords="442,473,613,514"/>
+<area shape="rect" id="node31" href="$db/d0f/class_teuchos_1_1_parameter_list.html#aadd436c4043646906b6d653f0c1cc2be" title="Set a parameter directly as a ParameterEntry. " alt="" coords="447,538,608,579"/>
+<area shape="rect" id="node11" href="$d0/d5b/class_teuchos_1_1_filtered_iterator.html#a24ecb067ef1da0b4b80ac885fbf04446" title="Teuchos::FilteredIterator\l::begin" alt="" coords="733,685,897,726"/>
+<area shape="rect" id="node13" href="$d0/d5b/class_teuchos_1_1_filtered_iterator.html#a78f53ca359dcbe8ce69a256edbb53fd7" title="Teuchos::FilteredIterator::end" alt="" coords="719,5,912,32"/>
+<area shape="rect" id="node16" href="$d8/dce/class_teuchos_1_1_parameter_entry.html#a425db8b42bc49d24323293218f38eeee" title="Direct access to the Teuchos::any data value underlying this object. The bool argument activeQry (def..." alt="" coords="730,174,901,215"/>
+<area shape="rect" id="node17" href="$dd/d49/class_teuchos_1_1any.html#a506e528ee1048c5ddb09e865dc63fa37" title="Return the type of value being stored. " alt="" coords="748,240,883,267"/>
+<area shape="rect" id="node19" href="$dd/d49/class_teuchos_1_1any.html#a9e2f3f09e7a67b2725bec3dbd8c48747" title="Return the name of the type. " alt="" coords="731,123,900,149"/>
+<area shape="rect" id="node20" href="$de/d50/class_teuchos_1_1_type_name_traits.html#acd376f70f0fd37929269c42db3a0b641" title="Teuchos::TypeNameTraits\l::name" alt="" coords="727,57,904,98"/>
+<area shape="rect" id="node18" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="1059,240,1106,267"/>
+<area shape="rect" id="node21" href="$d3/d74/namespace_teuchos.html#ab51ffd2f72e19eea6eb568cf76539e47" title="Demangle a C++ name if valid. " alt="" coords="997,64,1168,91"/>
+<area shape="rect" id="node22" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1260,64,1304,91"/>
+<area shape="rect" id="node24" href="$dd/d49/class_teuchos_1_1any.html#afa3427d61d138802eb6728ea065f1e1a" title="Return true if nothing is being stored. " alt="" coords="743,291,888,317"/>
+<area shape="rect" id="node26" href="$d4/de3/class_teuchos_1_1_string_indexed_ordered_value_object_container.html#a2127ead00268d48901490bd6a05dc2b8" title="Get the ordinal index given the string key. " alt="" coords="681,473,949,514"/>
+<area shape="rect" id="node27" href="$d4/de3/class_teuchos_1_1_string_indexed_ordered_value_object_container.html#a9e10102f5c479445923a692489f46d5b" title="Get a nonconst semi&#45;persisting association with the stored object indexed by ordinal. " alt="" coords="700,539,931,595"/>
+<area shape="rect" id="node28" href="$d4/de3/class_teuchos_1_1_string_indexed_ordered_value_object_container.html#ab95a41b71847a7555017309920f6d356" title="Set (or reset) object by value and return its ordinal index. " alt="" coords="712,619,919,661"/>
+<area shape="rect" id="node29" href="$db/d0f/class_teuchos_1_1_parameter_list.html#affafa8fb9d186e2d87f5b58be14004af" title="Constructor. " alt="" coords="735,407,896,449"/>
+<area shape="rect" id="node33" href="$dc/d79/class_m_l_a_p_i_1_1_multi_vector.html#afaaded7795d96fccf65cc542fd47fc9f" title="Returns the number of vectors. " alt="" coords="459,781,595,822"/>
+<area shape="rect" id="node34" href="$da/daf/class_m_l_a_p_i_1_1_operator.html#ab4eb2c47eaa12db208b039b2208d08cc" title="Returns the RefCountPtr of OperatorBox_. " alt="" coords="421,847,633,873"/>
+<area shape="rect" id="node35" href="$db/d0f/class_teuchos_1_1_parameter_list.html#acf06d867a960000f651b1d8657e083ff" title="Return the parameter&#39;s value, or the default value if it is not there. " alt="" coords="434,897,621,924"/>
+<area shape="rect" id="node36" href="$d3/d1b/netstream-main_8cpp.html#aed138f72d7301a9034a719a95c4903da" title="e" alt="" coords="508,948,547,975"/>
+<area shape="rect" id="node37" href="$d8/dc5/namespace_m_l_a_p_i.html#a7328d4c8b158abc1764d1db95790f1e8" title="Retutns the level of output (always 0 if MyPID() != 0). " alt="" coords="453,729,602,756"/>
+<area shape="rect" id="node38" href="$d8/dc5/namespace_m_l_a_p_i.html#a311e8c40d629be1e5ea38609c63f6f89" title="Returns the ID of the calling process. " alt="" coords="749,751,881,777"/>
+<area shape="rect" id="node39" href="$d5/d1b/ml__struct_8c.html#a30c19ebb161ec741c31d9add587402d6" title="ML_Get_PrintLevel" alt="" coords="749,801,882,828"/>
+<area shape="rect" id="node41" href="$db/d9d/ml__comm_8c.html#a50351622be61283a37ed023dba3fa818" title="ML_Comm_Destroy" alt="" coords="458,1049,597,1076"/>
+<area shape="rect" id="node42" href="$db/d9d/ml__comm_8c.html#a1908d122166ae111871f1f871deea570" title="ML_Comm_ErrorHandlerDestroy" alt="" coords="709,1100,921,1127"/>
+<area shape="rect" id="node43" href="$d8/d08/ml__memory_8c.html#ac0fa835db1ce7e092e6bdb285638f5de" title="ML_memory_free" alt="" coords="754,1049,877,1076"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="fmi2_capi_destroy_dllfmu" name="fmi2_capi_destroy_dllfmu">
+<area shape="rect" id="node2" href="$d2/d43/group__fmi2__capi__const__destroy.html#ga84c86eec6d242574629c24e6ec921229" title="Frees the handle to the FMU´s shared library. After this function returnes, no other C&#45;API functions ..." alt="" coords="224,101,351,127"/>
+<area shape="rect" id="node10" href="$d6/dac/group__jm__callbacks.html#ga438b1c1312f34ee3c58e2d953b071e28" title="Send a debug message to the logger function. See jm_log() for details. " alt="" coords="236,151,339,178"/>
+<area shape="rect" id="node3" href="$d8/d00/group__jm__portability.html#gacc71a1ba25279c7ad49a0f25c314a800" title="Unload a Dll and release the handle. " alt="" coords="399,5,527,47"/>
+<area shape="rect" id="node4" href="$d6/dac/group__jm__callbacks.html#gaf0f3295360836ced42f377630533eee4" title="Send a message to the logger function. " alt="" coords="433,71,493,98"/>
+<area shape="rect" id="node5" href="$d8/d00/group__jm__portability.html#ga53cb773f7af3d0da7719bb1a37cdcfc1" title="Return error associated with Dll handling. " alt="" coords="401,123,525,164"/>
+<area shape="rect" id="node9" href="$d6/dac/group__jm__callbacks.html#ga1a4531cbdf6fe191f95a569317beb642" title="Send a verbose message to the logger function. See jm_log() for details. " alt="" coords="406,189,519,215"/>
+<area shape="rect" id="node6" href="$d8/d00/group__jm__portability.html#ga12bb6dc77d4fd9500fac60f938c1f1ab" title="C89 compatible implementation of C99 snprintf. " alt="" coords="575,130,661,157"/>
+<area shape="rect" id="node7" href="$d8/d00/group__jm__portability.html#gaf6d8aaf485265dadbf4dddf5554e9c44" title="C89 compatible implementation of C99 vsnprintf. " alt="" coords="709,130,803,157"/>
+<area shape="rect" id="node8" href="$de/d6c/jm__portability_8c.html#a7c0a0a1ad4a84fb7a3539db495726982" title="jm_rpl_vsnprintf" alt="" coords="851,130,965,157"/>
+</map>

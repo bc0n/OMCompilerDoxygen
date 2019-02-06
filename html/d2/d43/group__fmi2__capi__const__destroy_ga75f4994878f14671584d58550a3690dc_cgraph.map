@@ -1,0 +1,14 @@
+<map id="fmi2_capi_create_dllfmu" name="fmi2_capi_create_dllfmu">
+<area shape="rect" id="node2" href="$d6/dac/group__jm__callbacks.html#ga438b1c1312f34ee3c58e2d953b071e28" title="Send a debug message to the logger function. See jm_log() for details. " alt="" coords="447,26,549,53"/>
+<area shape="rect" id="node3" href="$d6/dac/group__jm__callbacks.html#ga7a4e21e37dd6a6dafc732f7a2602d674" title="Send a fatal error message to the logger function. See jm_log() for details. " alt="" coords="255,26,347,53"/>
+<area shape="rect" id="node4" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="274,77,329,103"/>
+<area shape="rect" id="node5" href="$d2/d43/group__fmi2__capi__const__destroy.html#gaea07558e57aa83acd0c7261032c31e0d" title="Free a C&#45;API struct. All memory allocated since the struct was created is freed. " alt="" coords="216,127,387,154"/>
+<area shape="rect" id="node6" href="$d2/d43/group__fmi2__capi__const__destroy.html#ga84c86eec6d242574629c24e6ec921229" title="Frees the handle to the FMU´s shared library. After this function returnes, no other C&#45;API functions ..." alt="" coords="435,127,561,154"/>
+<area shape="rect" id="node7" href="$d8/d00/group__jm__portability.html#gacc71a1ba25279c7ad49a0f25c314a800" title="Unload a Dll and release the handle. " alt="" coords="609,32,737,73"/>
+<area shape="rect" id="node8" href="$d6/dac/group__jm__callbacks.html#gaf0f3295360836ced42f377630533eee4" title="Send a message to the logger function. " alt="" coords="643,98,703,125"/>
+<area shape="rect" id="node9" href="$d8/d00/group__jm__portability.html#ga53cb773f7af3d0da7719bb1a37cdcfc1" title="Return error associated with Dll handling. " alt="" coords="611,149,735,191"/>
+<area shape="rect" id="node13" href="$d6/dac/group__jm__callbacks.html#ga1a4531cbdf6fe191f95a569317beb642" title="Send a verbose message to the logger function. See jm_log() for details. " alt="" coords="617,215,730,242"/>
+<area shape="rect" id="node10" href="$d8/d00/group__jm__portability.html#ga12bb6dc77d4fd9500fac60f938c1f1ab" title="C89 compatible implementation of C99 snprintf. " alt="" coords="785,157,872,183"/>
+<area shape="rect" id="node11" href="$d8/d00/group__jm__portability.html#gaf6d8aaf485265dadbf4dddf5554e9c44" title="C89 compatible implementation of C99 vsnprintf. " alt="" coords="920,157,1013,183"/>
+<area shape="rect" id="node12" href="$de/d6c/jm__portability_8c.html#a7c0a0a1ad4a84fb7a3539db495726982" title="jm_rpl_vsnprintf" alt="" coords="1061,157,1176,183"/>
+</map>
