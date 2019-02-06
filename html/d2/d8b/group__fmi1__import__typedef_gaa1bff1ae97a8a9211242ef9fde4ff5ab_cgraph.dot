@@ -1,0 +1,9 @@
+digraph "fmi1_import_get_real_type_nominal"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node35 [label="fmi1_import_get_real\l_type_nominal",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node35 -> Node36 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node36 [label="fmi1_xml_get_real_type\l_nominal",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d5e/group__fmi1__xml__types.html#ga2115d89446fdfedfb9c41aa02c9e5c04"];
+}

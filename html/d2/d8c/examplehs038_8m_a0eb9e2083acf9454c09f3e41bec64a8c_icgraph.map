@@ -1,0 +1,10 @@
+<map id="sparse" name="sparse">
+<area shape="rect" id="node2" href="$dd/dc8/group___m_a_t.html#ga1d14716f7450530fd1c9d02413787f0e" title="Frees all the allocated memory associated with the structure. " alt="" coords="125,81,223,108"/>
+<area shape="rect" id="node9" href="$dd/dc8/group___m_a_t.html#gaeeb798fead2f765bddfb19016c7fdbcc" title="Calculates the size of a matlab variable in bytes. " alt="" coords="115,156,233,183"/>
+<area shape="rect" id="node3" href="$dd/dc8/group___m_a_t.html#ga7c0d94860d782366ab93d9b6b068eaea" title="Gets a list of the variables of a MAT file. " alt="" coords="304,5,393,32"/>
+<area shape="rect" id="node5" href="$dd/dc8/group___m_a_t.html#gabf139e48d48177e5069338fa2919c60a" title="Deletes a variable from a file. " alt="" coords="615,31,724,57"/>
+<area shape="rect" id="node6" href="$dd/dc8/group___m_a_t.html#ga46da2e45ed96d3f1a6ec643757f2b086" title="Reads the information of a variable with the given name from a MAT file. " alt="" coords="287,107,411,133"/>
+<area shape="rect" id="node8" href="$dd/dc8/group___m_a_t.html#ga509178d7dc15faf9f7cd0440df6009b9" title="Indexes a structure. " alt="" coords="281,157,416,184"/>
+<area shape="rect" id="node4" href="$dd/dc8/group___m_a_t.html#ga4bd3eba12df415d8226e27c457fbbb0b" title="Writes the given MAT variable to a MAT file. " alt="" coords="464,5,567,32"/>
+<area shape="rect" id="node7" href="$dd/dc8/group___m_a_t.html#ga3505f63029763eaa73d5a19f1115eb42" title="Reads the variable with the given name from a MAT file. " alt="" coords="464,107,567,133"/>
+</map>

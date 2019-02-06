@@ -1,0 +1,14 @@
+<map id="ngspicetoModelica.procesSubckt" name="ngspicetoModelica.procesSubckt">
+<area shape="rect" id="node2" href="$d2/d80/namespacengspiceto_modelica.html#a2dd43db79aa782a52f8489686a5f062a" title="ngspicetoModelica.readNetlist" alt="" coords="728,87,925,114"/>
+<area shape="rect" id="node4" href="$d2/d80/namespacengspiceto_modelica.html#a7f041cb877ce2f328ee741b18befb743" title="ngspicetoModelica.separate\lNetlistInfo" alt="" coords="735,139,919,180"/>
+<area shape="rect" id="node5" href="$dc/da3/protos_8h.html#ae5890e79cf013238983034a4d0da1e17" title="split" alt="" coords="803,211,850,238"/>
+<area shape="rect" id="node6" href="$d2/d80/namespacengspiceto_modelica.html#a28111ac6149815203686651bfe5888de" title="ngspicetoModelica.addModel" alt="" coords="489,379,680,406"/>
+<area shape="rect" id="node7" href="$d2/d80/namespacengspiceto_modelica.html#a1ba6c0b6106cab97b10aff57d02d98fc" title="ngspicetoModelica.process\lParam" alt="" coords="244,431,424,472"/>
+<area shape="rect" id="node8" href="$d2/d80/namespacengspiceto_modelica.html#a2287cea4a0f65bf6a33457ecf3412c12" title="ngspicetoModelica.nodeSeparate" alt="" coords="227,157,441,183"/>
+<area shape="rect" id="node10" href="$d2/d80/namespacengspiceto_modelica.html#a93c0558fad8d72e75b696f44c775b27c" title="ngspicetoModelica.compInit" alt="" coords="242,497,426,523"/>
+<area shape="rect" id="node11" href="$d2/d80/namespacengspiceto_modelica.html#acda55a7b737f319f1b2aaf3d4e4078ee" title="ngspicetoModelica.getSub\lParamLine" alt="" coords="497,80,672,121"/>
+<area shape="rect" id="node12" href="$d2/d80/namespacengspiceto_modelica.html#a4939c33ef2e045f0557c765562a1aa61" title="ngspicetoModelica.connectInfo" alt="" coords="233,211,435,238"/>
+<area shape="rect" id="node3" href="$d7/dac/ml__agg___v_b_m_e_t_i_s_8c.html#a9cef0428d1f079994cfd332d31e1a9ea" title="print" alt="" coords="973,234,1020,261"/>
+<area shape="rect" id="node9" href="$d2/d80/namespacengspiceto_modelica.html#a5a24745fb6bf2839dd385e09076e6514" title="ngspicetoModelica.getSub\lInterface" alt="" coords="497,145,672,187"/>
+<area shape="rect" id="node13" href="$d2/d80/namespacengspiceto_modelica.html#adcf32bcc7fc32958e4c9670ddf7828aa" title="ngspicetoModelica.separate\lSource" alt="" coords="493,263,677,304"/>
+</map>

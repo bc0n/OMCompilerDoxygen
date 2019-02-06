@@ -1,0 +1,7 @@
+<map id="ngspicetoModelica.readNetlist" name="ngspicetoModelica.readNetlist">
+<area shape="rect" id="node2" href="$d2/d80/namespacengspiceto_modelica.html#a5a24745fb6bf2839dd385e09076e6514" title="ngspicetoModelica.getSub\lInterface" alt="" coords="251,41,425,82"/>
+<area shape="rect" id="node4" href="$d2/d80/namespacengspiceto_modelica.html#ac6c13f07a948656f34d56787154821d0" title="Extract subckt data. " alt="" coords="736,74,909,115"/>
+<area shape="rect" id="node6" href="$d2/d80/namespacengspiceto_modelica.html#acda55a7b737f319f1b2aaf3d4e4078ee" title="ngspicetoModelica.getSub\lParamLine" alt="" coords="251,158,425,199"/>
+<area shape="rect" id="node3" href="$d2/d80/namespacengspiceto_modelica.html#a2287cea4a0f65bf6a33457ecf3412c12" title="ngspicetoModelica.nodeSeparate" alt="" coords="473,5,688,32"/>
+<area shape="rect" id="node5" href="$d2/d80/namespacengspiceto_modelica.html#a4939c33ef2e045f0557c765562a1aa61" title="ngspicetoModelica.connectInfo" alt="" coords="479,56,682,83"/>
+</map>

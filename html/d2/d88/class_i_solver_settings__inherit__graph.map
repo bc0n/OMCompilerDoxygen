@@ -1,0 +1,11 @@
+<map id="ISolverSettings" name="ISolverSettings">
+<area shape="rect" id="node2" href="$d0/d51/class_solver_settings.html" title="SolverSettings" alt="" coords="164,183,271,209"/>
+<area shape="rect" id="node3" href="$da/d29/class_a_r_kode_settings.html" title="ARKodeSettings" alt="" coords="329,5,447,32"/>
+<area shape="rect" id="node4" href="$de/d2a/class_cpp_d_a_s_s_l_settings.html" title="CppDASSLSettings" alt="" coords="319,56,457,83"/>
+<area shape="rect" id="node5" href="$dc/da9/class_c_vode_settings.html" title="CVodeSettings" alt="" coords="333,107,443,133"/>
+<area shape="rect" id="node6" href="$d2/d1d/class_euler_settings.html" title="EulerSettings" alt="" coords="338,157,438,184"/>
+<area shape="rect" id="node7" href="$da/df2/class_i_d_a_settings.html" title="IDASettings" alt="" coords="341,208,435,235"/>
+<area shape="rect" id="node8" href="$d0/d3f/class_peer_settings.html" title="PeerSettings" alt="" coords="339,259,437,285"/>
+<area shape="rect" id="node9" href="$d4/dcc/class_r_k12_settings.html" title="RK12Settings" alt="" coords="337,309,439,336"/>
+<area shape="rect" id="node10" href="$d8/dc5/class_r_t_euler_settings.html" title="RTEulerSettings" alt="" coords="329,360,447,387"/>
+</map>

@@ -1,0 +1,9 @@
+digraph "fmi1_import_get_integer_type_max"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node20 [label="fmi1_import_get_integer\l_type_max",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node20 -> Node21 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="fmi1_xml_get_integer\l_type_max",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d5e/group__fmi1__xml__types.html#gafdb894b8463753072e88dda71926c9a9"];
+}

@@ -1,0 +1,9 @@
+<map id="zmq::shared_message_memory_allocator::~shared_message_memory_allocator" name="zmq::shared_message_memory_allocator::~shared_message_memory_allocator">
+<area shape="rect" id="node2" href="$d2/d8b/classzmq_1_1shared__message__memory__allocator.html#aa8d8e3dbe23ee21c75cc091bc28643e1" title="zmq::shared_message\l_memory_allocator::deallocate" alt="" coords="236,107,435,149"/>
+<area shape="rect" id="node3" href="$d9/d23/classzmq_1_1atomic__counter__t.html#a0d29a10e45fc702fce16907cab738acb" title="zmq::atomic_counter\l_t::sub" alt="" coords="502,49,646,90"/>
+<area shape="rect" id="node7" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="552,115,596,141"/>
+<area shape="rect" id="node8" href="$d2/d8b/classzmq_1_1shared__message__memory__allocator.html#a523fdd83c51bceb38908f83f40dceb9c" title="zmq::shared_message\l_memory_allocator::release" alt="" coords="483,166,665,207"/>
+<area shape="rect" id="node4" href="$d2/d3c/os__dep_8c.html#aaa5bed87c5f571a4f368f9f5c8ccbc13" title="__asm__" alt="" coords="750,5,825,32"/>
+<area shape="rect" id="node5" href="$d2/da1/classzmq_1_1mutex__t.html#a1b03f33ec230b53bc2711151664abe5e" title="zmq::mutex_t::lock" alt="" coords="720,56,855,83"/>
+<area shape="rect" id="node6" href="$d2/da1/classzmq_1_1mutex__t.html#a3ec7cc522005f9e9105c1f23f93e4d60" title="zmq::mutex_t::unlock" alt="" coords="713,107,861,133"/>
+</map>
