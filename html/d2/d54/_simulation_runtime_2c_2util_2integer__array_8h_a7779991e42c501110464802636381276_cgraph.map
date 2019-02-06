@@ -1,0 +1,7 @@
+<map id="mul_alloc_integer_matrix_product_smart" name="mul_alloc_integer_matrix_product_smart">
+<area shape="rect" id="node2" href="$dc/d73/build_2include_2omc_2c_2util_2integer__array_8c.html#a6e451decf06b6616e687f4911e4a0dd5" title="simple_alloc_1d_integer\l_array" alt="" coords="220,5,381,47"/>
+<area shape="rect" id="node3" href="$dc/d73/build_2include_2omc_2c_2util_2integer__array_8c.html#ab29ce06d0ea200ec2bd4a01d40f5a5f5" title="mul_integer_vector\l_matrix" alt="" coords="235,71,367,112"/>
+<area shape="rect" id="node4" href="$dc/d73/build_2include_2omc_2c_2util_2integer__array_8c.html#a30db6dfecaeead573c38a8481673d86a" title="mul_integer_matrix\l_vector" alt="" coords="235,136,367,177"/>
+<area shape="rect" id="node5" href="$dc/d73/build_2include_2omc_2c_2util_2integer__array_8c.html#a696e17832a3b129ea8727f6daac757f0" title="simple_alloc_2d_integer\l_array" alt="" coords="220,201,381,243"/>
+<area shape="rect" id="node6" href="$dc/d73/build_2include_2omc_2c_2util_2integer__array_8c.html#a860069fe40b7ef253d54e9b8fb8061b2" title="mul_integer_matrix\l_product" alt="" coords="235,267,367,308"/>
+</map>

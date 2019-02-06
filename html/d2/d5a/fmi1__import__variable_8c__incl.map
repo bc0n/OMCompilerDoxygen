@@ -1,0 +1,38 @@
+<map id="OMCompiler/3rdParty/FMIL/src/Import/src/FMI1/fmi1_import_variable.c" name="OMCompiler/3rdParty/FMIL/src/Import/src/FMI1/fmi1_import_variable.c">
+<area shape="rect" id="node2" href="$da/d33/fmi1__import__variable_8h.html" title="Public interface to the FMI import C&#45;library. Handling of model variables. " alt="" coords="335,377,521,404"/>
+<area shape="rect" id="node19" href="$d8/d74/fmi1__import__impl_8h.html" title="fmi1_import_impl.h" alt="" coords="1839,117,1971,143"/>
+<area shape="rect" id="node45" href="$dd/d33/fmi1__import__variable__list__impl_8h.html" title="fmi1_import_variable\l_list_impl.h" alt="" coords="679,109,822,151"/>
+<area shape="rect" id="node3" href="$d9/de4/fmi__import__context_8h.html" title="Import context is the entry point to the library. It is used to initialize, unzip, get FMI version and start parsing. " alt="" coords="1059,452,1229,479"/>
+<area shape="rect" id="node17" href="$d5/dc7/fmi1__import__type_8h.html" title="Public interface to the FMI XML C&#45;library: variable types handling. " alt="" coords="371,452,504,479"/>
+<area shape="rect" id="node18" href="$dd/dcc/fmi1__import__unit_8h.html" title="Public interface to the FMI import C&#45;library. Handling of variable units. " alt="" coords="363,527,493,553"/>
+<area shape="rect" id="node6" href="$dd/d42/jm__callbacks_8h.html" title="JM/jm_callbacks.h" alt="" coords="1593,527,1724,553"/>
+<area shape="rect" id="node9" href="$d0/d4f/fmi2__xml__callbacks_8h.html" title="FMI2/fmi2_xml_callbacks.h" alt="" coords="1015,609,1198,635"/>
+<area shape="rect" id="node10" href="$dc/dd6/fmi__version_8h.html" title="Enum defining supported FMI versions. " alt="" coords="1391,527,1518,553"/>
+<area shape="rect" id="node11" href="$de/df3/fmi1__types_8h.html" title="FMI1/fmi1_types.h" alt="" coords="648,527,779,553"/>
+<area shape="rect" id="node13" href="$d4/d11/fmi1__enums_8h.html" title="Definions the enum types used with FMI 1.0 libs. " alt="" coords="820,527,959,553"/>
+<area shape="rect" id="node14" href="$d1/dac/fmi2__types_8h.html" title="FMI2/fmi2_types.h" alt="" coords="983,527,1113,553"/>
+<area shape="rect" id="node16" href="$d8/d6c/fmi2__enums_8h.html" title="Definions the enum types used with FMI 2.0 libs. " alt="" coords="1223,609,1361,635"/>
+<area shape="rect" id="node8" href="$d2/d4d/jm__types_8h.html" title="jm_types.h" alt="" coords="1538,609,1625,635"/>
+<area shape="rect" id="node15" href="$da/d5b/3rd_party_2_f_m_i_l_2_third_party_2_f_m_i_2default_2_f_m_i2_2fmi2_types_platform_8h.html" title="FMI2/fmi2TypesPlatform.h" alt="" coords="814,609,991,635"/>
+<area shape="rect" id="node20" href="$d2/d2f/fmi1__import_8h.html" title="Public interface to the FMI import C&#45;library. " alt="" coords="683,206,818,233"/>
+<area shape="rect" id="node30" href="$d9/d25/fmi1__xml__model__description_8h.html" title="Public interface to the FMI XML C&#45;library. " alt="" coords="1830,288,1981,329"/>
+<area shape="rect" id="node41" href="$d8/d00/fmi__import__context__impl_8h.html" title="../FMI/fmi_import_context\l_impl.h" alt="" coords="2430,199,2602,240"/>
+<area shape="rect" id="node21" href="$d0/d4f/fmi__import__util_8h.html" title="FMI/fmi_import_util.h" alt="" coords="1305,452,1450,479"/>
+<area shape="rect" id="node22" href="$d7/dc9/fmi1__functions_8h.html" title="FMI1/fmi1_functions.h" alt="" coords="629,452,781,479"/>
+<area shape="rect" id="node24" href="$d7/d9e/fmi1__import__vendor__annotations_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of vendor annotations. " alt="" coords="80,601,216,643"/>
+<area shape="rect" id="node25" href="$d9/da8/fmi1__import__capabilities_8h.html" title="fmi1_import_capabilities.h" alt="" coords="93,295,267,322"/>
+<area shape="rect" id="node26" href="$dd/d89/fmi1__import__variable__list_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of variable lists. " alt="" coords="342,288,485,329"/>
+<area shape="rect" id="node27" href="$d6/dfc/fmi1__import__capi_8h.html" title="fmi1_import_capi.h" alt="" coords="865,377,997,404"/>
+<area shape="rect" id="node28" href="$d6/d66/fmi1__import__convenience_8h.html" title="Public interface to the FMI import C&#45;library. Convenience functions. " alt="" coords="904,295,1085,322"/>
+<area shape="rect" id="node29" href="$de/de5/fmi1__import__cosim_8h.html" title="fmi1_import_cosim.h" alt="" coords="1167,295,1310,322"/>
+<area shape="rect" id="node31" href="$d8/d33/jm__named__ptr_8h.html" title="JM/jm_named_ptr.h" alt="" coords="2531,377,2669,404"/>
+<area shape="rect" id="node34" href="$d2/d74/fmi__xml__context_8h.html" title="XML context is the entry point to the library. It is used to initialize, get FMI version and start pa..." alt="" coords="1526,452,1682,479"/>
+<area shape="rect" id="node35" href="$da/da1/fmi1__xml__type_8h.html" title="Public interface to the FMI XML C&#45;library: variable types handling. " alt="" coords="1758,452,1877,479"/>
+<area shape="rect" id="node36" href="$d6/db6/fmi1__xml__unit_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of variable units. " alt="" coords="1663,377,1777,404"/>
+<area shape="rect" id="node37" href="$d5/d36/fmi1__xml__variable_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of model variables. " alt="" coords="2368,377,2507,404"/>
+<area shape="rect" id="node38" href="$d7/d1f/fmi1__xml__vendor__annotations_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of vendor annotations. " alt="" coords="1802,377,2009,404"/>
+<area shape="rect" id="node39" href="$dd/d6d/fmi1__xml__capabilities_8h.html" title="fmi1_xml_capabilities.h" alt="" coords="2033,377,2191,404"/>
+<area shape="rect" id="node40" href="$d1/d87/fmi1__xml__cosim_8h.html" title="fmi1_xml_cosim.h" alt="" coords="2216,377,2344,404"/>
+<area shape="rect" id="node32" href="$d9/d78/jm__vector_8h.html" title="jm_vector.h" alt="" coords="2649,452,2740,479"/>
+<area shape="rect" id="node43" href="$d3/d98/jm__stack_8h.html" title="JM/jm_stack.h" alt="" coords="2605,295,2713,322"/>
+</map>

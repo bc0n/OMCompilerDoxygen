@@ -1,0 +1,6 @@
+<map id="simple_alloc_1d_integer_array" name="simple_alloc_1d_integer_array">
+<area shape="rect" id="node2" href="$d2/d54/_simulation_runtime_2c_2util_2integer__array_8h.html#a0e91f61a2e909204f604fbf2113feec4" title="array_alloc_scalar\l_integer_array" alt="" coords="235,5,361,47"/>
+<area shape="rect" id="node3" href="$d2/d54/_simulation_runtime_2c_2util_2integer__array_8h.html#a7df92b2a5166493789bb46e6bb8b1401" title="range_alloc_integer\l_array" alt="" coords="231,71,365,112"/>
+<area shape="rect" id="node4" href="$d2/d54/_simulation_runtime_2c_2util_2integer__array_8h.html#a7779991e42c501110464802636381276" title="mul_alloc_integer_matrix\l_product_smart" alt="" coords="215,136,381,177"/>
+<area shape="rect" id="node5" href="$d2/d54/_simulation_runtime_2c_2util_2integer__array_8h.html#ae6d33dbad2d33ec542724010a59a4c7c" title="sizes_of_dimensions\l_base_array" alt="" coords="226,201,370,243"/>
+</map>

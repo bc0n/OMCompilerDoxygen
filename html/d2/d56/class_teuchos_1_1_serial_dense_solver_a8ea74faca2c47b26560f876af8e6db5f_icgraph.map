@@ -1,0 +1,6 @@
+<map id="Teuchos::SerialDenseSolver::applyRefinement" name="Teuchos::SerialDenseSolver::applyRefinement">
+<area shape="rect" id="node2" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html#a9b8b4063a4a319289bce3f5a39234e48" title="Causes all solves to compute solution to best ability using iterative refinement. ..." alt="" coords="477,5,665,47"/>
+<area shape="rect" id="node4" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html#adc64b51fe90fbabac20eb5ebc7278776" title="Computes the solution X to AX = B for the this matrix and the B provided to SetVectors().. " alt="" coords="241,64,429,105"/>
+<area shape="rect" id="node3" href="$d2/d6e/cxx__main__solver_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="713,13,764,39"/>
+<area shape="rect" id="node5" href="$d5/d76/teuchos_2numerics_2example_2_dense_matrix_2cxx__main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="546,71,597,98"/>
+</map>

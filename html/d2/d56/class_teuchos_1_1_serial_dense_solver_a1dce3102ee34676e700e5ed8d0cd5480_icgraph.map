@@ -1,0 +1,9 @@
+<map id="Teuchos::SerialDenseSolver::factored" name="Teuchos::SerialDenseSolver::factored">
+<area shape="rect" id="node2" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html#a727e71258acf9c00707697ffadae94ee" title="Computes the in&#45;place LU factorization of the matrix using the LAPACK routine _GETRF. " alt="" coords="241,115,429,156"/>
+<area shape="rect" id="node6" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html#adc64b51fe90fbabac20eb5ebc7278776" title="Computes the solution X to AX = B for the this matrix and the B provided to SetVectors().. " alt="" coords="480,5,668,47"/>
+<area shape="rect" id="node7" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html#a700ba09e4c9f3e9680b63cc49715ee08" title="Inverts the this matrix. " alt="" coords="480,239,668,280"/>
+<area shape="rect" id="node8" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html#a83a5b2c8bd0932ff63b438f3c36f878b" title="Returns the reciprocal of the 1&#45;norm condition number of the this matrix. " alt="" coords="477,173,671,215"/>
+<area shape="rect" id="node3" href="$d5/d76/teuchos_2numerics_2example_2_dense_matrix_2cxx__main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="787,42,838,69"/>
+<area shape="rect" id="node4" href="$d2/d56/class_teuchos_1_1_serial_dense_solver.html#a9b8b4063a4a319289bce3f5a39234e48" title="Causes all solves to compute solution to best ability using iterative refinement. ..." alt="" coords="719,173,907,215"/>
+<area shape="rect" id="node5" href="$d2/d6e/cxx__main__solver_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="955,213,1005,239"/>
+</map>

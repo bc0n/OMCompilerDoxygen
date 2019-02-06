@@ -1,0 +1,11 @@
+<map id="boxptr_BackendDAEOptimize_addInitialStmtsToAlgorithms" name="boxptr_BackendDAEOptimize_addInitialStmtsToAlgorithms">
+<area shape="rect" id="node2" href="$de/d7d/_backend_d_a_e_optimize_8c.html#a8a4f5811ecebd204d944e4e03251acaa" title="omc_BackendDAEOptimize\l_addInitialStmtsToAlgorithms" alt="" coords="249,41,443,83"/>
+<area shape="rect" id="node3" href="$d4/dac/_backend_d_a_e_util_8c.html#a01dc80e5f0f011e435b18259995b8505" title="omc_BackendDAEUtil\l_mapEqSystem1" alt="" coords="491,41,644,83"/>
+<area shape="rect" id="node4" href="$da/d72/_compiler_2boot_2build_2list_8c.html#aed7d35d30fab639023ee8212687fa672" title="omc_List_map1Fold" alt="" coords="699,19,838,46"/>
+<area shape="rect" id="node5" href="$d4/dac/_backend_d_a_e_util_8c.html#a2c104e83aae03949a285ce6ca7d3cf46" title="omc_BackendDAEUtil\l_filterEmptySystems" alt="" coords="692,71,845,112"/>
+<area shape="rect" id="node6" href="$d4/dac/_backend_d_a_e_util_8c.html#aeb18ce62a48d458961425227b4d09b54" title="omc_BackendDAEUtil\l_filterEmptySystem" alt="" coords="893,71,1047,112"/>
+<area shape="rect" id="node7" href="$dd/db3/_backend_variable_8c.html#a53a6656a860a335c4f7ccb5ed2844c9d" title="omc_BackendVariable\l_varsSize" alt="" coords="1101,5,1253,47"/>
+<area shape="rect" id="node8" href="$d4/dac/_backend_d_a_e_util_8c.html#aafe35b10cf3334dc468f1e8ea95d0c9d" title="omc_BackendDAEUtil\l_isClockedSyst" alt="" coords="1101,71,1254,112"/>
+<area shape="rect" id="node9" href="$d2/ddf/_backend_equation_8c.html#a832b8ecfb9524e33566b3eade51015be" title="omc_BackendEquation\l_getNumberOfEquations" alt="" coords="1095,136,1260,177"/>
+<area shape="rect" id="node10" href="$d0/d79/_expandable_array_8c.html#a506665edc3112e1912dc267b2b410b0a" title="omc_ExpandableArray\l_getNumberOfElements" alt="" coords="1308,136,1471,177"/>
+</map>

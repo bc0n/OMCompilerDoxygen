@@ -1,0 +1,37 @@
+<map id="omc_BackendDAEOptimize_partitionIndependentBlocksHelper" name="omc_BackendDAEOptimize_partitionIndependentBlocksHelper">
+<area shape="rect" id="node2" href="$d4/dac/_backend_d_a_e_util_8c.html#a9badfd9af2fb6c04a541375088e09cad" title="omc_BackendDAEUtil\l_getFunctions" alt="" coords="302,235,455,276"/>
+<area shape="rect" id="node3" href="$d4/dac/_backend_d_a_e_util_8c.html#ab81ce2db47f2a4f4c074d18136a06ab4" title="omc_BackendDAEUtil\l_getIncidenceMatrixfromOption" alt="" coords="277,300,480,341"/>
+<area shape="rect" id="node4" href="$d4/dac/_backend_d_a_e_util_8c.html#ac7faa6db28e50abd7fa8175624c9eb9f" title="omc_BackendDAEUtil\l_incidenceMatrix" alt="" coords="528,267,681,308"/>
+<area shape="rect" id="node36" href="$d4/dac/_backend_d_a_e_util_8c.html#a1a9d368c9f91ce845699733e4e7498f8" title="omc_BackendDAEUtil\l_setEqSystMatrices" alt="" coords="528,332,681,373"/>
+<area shape="rect" id="node5" href="$d4/dac/_backend_d_a_e_util_8c.html#a1f259d641564b74e249528c2b25cf934" title="omc_BackendDAEUtil\l_incidenceMatrixDispatch" alt="" coords="729,76,901,117"/>
+<area shape="rect" id="node9" href="$db/da1/_compiler_2boot_2build_2error_8c.html#ac7cb956267dd6443414eb83a5c0b4693" title="omc_Error_addMessage" alt="" coords="734,274,897,301"/>
+<area shape="rect" id="node35" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="792,325,839,351"/>
+<area shape="rect" id="node6" href="$d2/ddf/_backend_equation_8c.html#a832b8ecfb9524e33566b3eade51015be" title="omc_BackendEquation\l_getNumberOfEquations" alt="" coords="979,8,1144,49"/>
+<area shape="rect" id="node8" href="$dd/db3/_backend_variable_8c.html#a53a6656a860a335c4f7ccb5ed2844c9d" title="omc_BackendVariable\l_varsSize" alt="" coords="985,76,1137,117"/>
+<area shape="rect" id="node7" href="$d0/d79/_expandable_array_8c.html#a506665edc3112e1912dc267b2b410b0a" title="omc_ExpandableArray\l_getNumberOfElements" alt="" coords="1266,5,1429,47"/>
+<area shape="rect" id="node10" href="$d3/db3/_flags_8c.html#abc3d84cf6e1cf18f0cec0f052e7c85d9" title="omc_Flags_getConfigBool" alt="" coords="1525,249,1700,275"/>
+<area shape="rect" id="node14" href="$db/da1/_compiler_2boot_2build_2error_8c.html#aeb78c231e1d6119f91343f400ce91a08" title="omc_Error_getCurrentComponent" alt="" coords="953,325,1170,351"/>
+<area shape="rect" id="node15" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="1298,350,1397,377"/>
+<area shape="rect" id="node16" href="$d9/d7c/_compiler_2boot_2build_2util_8c.html#af677b04abc76ada92619360b1a4e1238" title="omc_Util_translateContent" alt="" coords="973,426,1150,453"/>
+<area shape="rect" id="node19" href="$d4/dce/_error_ext_8c.html#a2aab7fef8718e5c7b0e410daf818bf99" title="omc_ErrorExt_addSourceMessage" alt="" coords="949,146,1173,173"/>
+<area shape="rect" id="node23" href="$d9/d7c/_compiler_2boot_2build_2util_8c.html#ad7f719bd6355b185d211a8c8ff0cc7be" title="omc_Util_testsuiteFriendly" alt="" coords="973,206,1150,233"/>
+<area shape="rect" id="node11" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="1752,223,1935,250"/>
+<area shape="rect" id="node12" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="1991,223,2141,250"/>
+<area shape="rect" id="node13" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="2197,223,2300,250"/>
+<area shape="rect" id="node17" href="$d1/d95/_system_8c.html#ae39e41c84235850a135a73187a387d21" title="omc_System_gettext" alt="" coords="1274,426,1421,453"/>
+<area shape="rect" id="node18" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a082d216ff61d9f3b30e1fe92e3fc5860" title="SystemImpl__gettext" alt="" coords="1539,426,1686,453"/>
+<area shape="rect" id="node20" href="$d1/d40/boot_2build_2_error_ext_8h.html#afef4410ffb05473c1ca2f30078ee39a8" title="Error_addSourceMessage" alt="" coords="1261,71,1433,98"/>
+<area shape="rect" id="node21" href="$dc/d1d/errorext_8cpp.html#a658c4e234277aba60ad929952c45d9e2" title="add_source_message" alt="" coords="1538,46,1687,73"/>
+<area shape="rect" id="node22" href="$d4/dbe/_o_m_c_monitor_8c.html#ad78b5494db8b59027d08860c5efce10f" title="ErrorMessage" alt="" coords="1792,46,1895,73"/>
+<area shape="rect" id="node24" href="$d9/d7c/_compiler_2boot_2build_2util_8c.html#ab96745984cab835c8ae43a8f02fb268b" title="omc_Util_testsuiteFriendly2" alt="" coords="1255,122,1439,149"/>
+<area shape="rect" id="node32" href="$d1/d5c/_config_8c.html#afa2f208e09cd9979df49295043109099" title="omc_Config_getRunningTestsuite" alt="" coords="1238,173,1457,199"/>
+<area shape="rect" id="node34" href="$d1/d5c/_config_8c.html#a9b4cae615bdffda9b7abbe6e04b1e6a5" title="omc_Config_getRunningWSMTestsuite" alt="" coords="1221,223,1473,250"/>
+<area shape="rect" id="node25" href="$d1/d95/_system_8c.html#acb158f48d2d963dbc65eb161259659a7" title="omc_System_basename" alt="" coords="1529,97,1696,123"/>
+<area shape="rect" id="node30" href="$d1/d95/_system_8c.html#ab4261551580fc07778c15d3b0cb0cdfd" title="omc_System_os" alt="" coords="1553,147,1673,174"/>
+<area shape="rect" id="node26" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a7b722b53b1ba7f3ffdc3624727daa000" title="System_basename" alt="" coords="1776,97,1911,123"/>
+<area shape="rect" id="node27" href="$d4/d45/systemimpl_8c.html#af0ce445d63d4d737a2ed25d05b45463c" title="SystemImpl__basename" alt="" coords="1983,97,2149,123"/>
+<area shape="rect" id="node28" href="$d7/dcd/group__core_utils.html#gaeccaa0b46edead0608a6982dddb917ec" title="Allocate memory for a Modelica string which is used as return argument of an external Modelica functi..." alt="" coords="1989,147,2143,174"/>
+<area shape="rect" id="node29" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="2039,46,2093,73"/>
+<area shape="rect" id="node31" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a967ce96198372dc665f235bb728adb6f" title="System_os" alt="" coords="1799,147,1887,174"/>
+<area shape="rect" id="node33" href="$d3/db3/_flags_8c.html#a1bdc57ee7db1a86ebd954e1aa4d04c0c" title="omc_Flags_getConfigString" alt="" coords="1521,198,1704,225"/>
+</map>

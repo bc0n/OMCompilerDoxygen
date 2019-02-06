@@ -1,0 +1,9 @@
+<map id="UA_QueryDataSet" name="UA_QueryDataSet">
+<area shape="rect" id="node2" href="$db/d03/struct_u_a___expanded_node_id.html" title="UA_ExpandedNodeId" alt="" coords="211,199,359,225"/>
+<area shape="rect" id="node3" href="$da/dfd/struct_u_a___node_id.html" title="UA_NodeId" alt="" coords="181,109,272,136"/>
+<area shape="rect" id="node7" href="$da/dea/struct_u_a___data_type.html" title="UA_DataType" alt="" coords="82,199,187,225"/>
+<area shape="rect" id="node4" href="$d3/dbd/struct_u_a___string.html" title="UA_String" alt="" coords="260,5,343,32"/>
+<area shape="rect" id="node5" href="$db/d54/struct_u_a___guid.html" title="UA_Guid" alt="" coords="143,5,217,32"/>
+<area shape="rect" id="node6" href="$de/dff/struct_u_a___variant.html" title="UA_Variant" alt="" coords="133,289,222,316"/>
+<area shape="rect" id="node8" href="$d9/d85/struct_u_a___data_type_member.html" title="UA_DataTypeMember" alt="" coords="5,109,157,136"/>
+</map>

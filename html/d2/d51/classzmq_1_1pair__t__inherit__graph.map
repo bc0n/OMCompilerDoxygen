@@ -1,0 +1,8 @@
+<map id="zmq::pair_t" name="zmq::pair_t">
+<area shape="rect" id="node2" href="$de/dbd/classzmq_1_1socket__base__t.html" title="zmq::socket_base_t" alt="" coords="207,155,347,181"/>
+<area shape="rect" id="node3" href="$d3/d86/classzmq_1_1own__t.html" title="zmq::own_t" alt="" coords="11,80,101,107"/>
+<area shape="rect" id="node4" href="$df/db7/classzmq_1_1object__t.html" title="zmq::object_t" alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node5" href="$d2/d66/classzmq_1_1array__item__t.html" title="zmq::array_item_t\&lt;\&gt;" alt="" coords="126,80,269,107"/>
+<area shape="rect" id="node6" href="$d0/ddb/structzmq_1_1i__poll__events.html" title="zmq::i_poll_events" alt="" coords="293,80,424,107"/>
+<area shape="rect" id="node7" href="$d0/db6/structzmq_1_1i__pipe__events.html" title="zmq::i_pipe_events" alt="" coords="449,80,583,107"/>
+</map>
