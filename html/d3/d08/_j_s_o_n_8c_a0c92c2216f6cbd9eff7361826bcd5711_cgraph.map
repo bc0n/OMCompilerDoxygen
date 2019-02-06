@@ -1,0 +1,45 @@
+<map id="omc_JSON_parse" name="omc_JSON_parse">
+<area shape="rect" id="node2" href="$d8/d3f/_lexer_j_s_o_n_8c.html#a2ecee1446a0ae40246bb190693cb5782" title="omc_LexerJSON_scanString" alt="" coords="183,153,373,180"/>
+<area shape="rect" id="node4" href="$d3/d08/_j_s_o_n_8c.html#af1e8a6c144980ac7c9207cb5780039dc" title="omc_JSON_reportErrors" alt="" coords="195,204,361,231"/>
+<area shape="rect" id="node31" href="$d3/d08/_j_s_o_n_8c.html#a8d6cb6464fb1a8dc73e1c924a3d8e5d5" title="omc_JSON_parse__value\l__check__empty" alt="" coords="191,302,365,343"/>
+<area shape="rect" id="node3" href="$d8/d3f/_lexer_j_s_o_n_8c.html#a005cc5958edad48cbcbd87e4663d56b5" title="omc_LexerJSON_lex" alt="" coords="439,153,586,180"/>
+<area shape="rect" id="node5" href="$db/da1/_compiler_2boot_2build_2error_8c.html#ac7cb956267dd6443414eb83a5c0b4693" title="omc_Error_addMessage" alt="" coords="664,157,827,184"/>
+<area shape="rect" id="node6" href="$d3/db3/_flags_8c.html#abc3d84cf6e1cf18f0cec0f052e7c85d9" title="omc_Flags_getConfigBool" alt="" coords="1467,157,1641,184"/>
+<area shape="rect" id="node10" href="$db/da1/_compiler_2boot_2build_2error_8c.html#aeb78c231e1d6119f91343f400ce91a08" title="omc_Error_getCurrentComponent" alt="" coords="890,259,1107,285"/>
+<area shape="rect" id="node11" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="1235,309,1334,336"/>
+<area shape="rect" id="node12" href="$d9/d7c/_compiler_2boot_2build_2util_8c.html#af677b04abc76ada92619360b1a4e1238" title="omc_Util_translateContent" alt="" coords="910,5,1087,32"/>
+<area shape="rect" id="node15" href="$d4/dce/_error_ext_8c.html#a2aab7fef8718e5c7b0e410daf818bf99" title="omc_ErrorExt_addSourceMessage" alt="" coords="887,56,1111,83"/>
+<area shape="rect" id="node19" href="$d9/d7c/_compiler_2boot_2build_2util_8c.html#ad7f719bd6355b185d211a8c8ff0cc7be" title="omc_Util_testsuiteFriendly" alt="" coords="910,157,1087,184"/>
+<area shape="rect" id="node7" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="1697,208,1880,235"/>
+<area shape="rect" id="node8" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="1937,208,2086,235"/>
+<area shape="rect" id="node9" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="2143,208,2245,235"/>
+<area shape="rect" id="node13" href="$d1/d95/_system_8c.html#ae39e41c84235850a135a73187a387d21" title="omc_System_gettext" alt="" coords="1211,5,1358,32"/>
+<area shape="rect" id="node14" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a082d216ff61d9f3b30e1fe92e3fc5860" title="SystemImpl__gettext" alt="" coords="1481,5,1627,32"/>
+<area shape="rect" id="node16" href="$d1/d40/boot_2build_2_error_ext_8h.html#afef4410ffb05473c1ca2f30078ee39a8" title="Error_addSourceMessage" alt="" coords="1199,56,1371,83"/>
+<area shape="rect" id="node17" href="$dc/d1d/errorext_8cpp.html#a658c4e234277aba60ad929952c45d9e2" title="add_source_message" alt="" coords="1479,56,1629,83"/>
+<area shape="rect" id="node18" href="$d4/dbe/_o_m_c_monitor_8c.html#ad78b5494db8b59027d08860c5efce10f" title="ErrorMessage" alt="" coords="1737,56,1840,83"/>
+<area shape="rect" id="node20" href="$d9/d7c/_compiler_2boot_2build_2util_8c.html#ab96745984cab835c8ae43a8f02fb268b" title="omc_Util_testsuiteFriendly2" alt="" coords="1193,259,1377,285"/>
+<area shape="rect" id="node28" href="$d1/d5c/_config_8c.html#afa2f208e09cd9979df49295043109099" title="omc_Config_getRunningTestsuite" alt="" coords="1175,208,1394,235"/>
+<area shape="rect" id="node30" href="$d1/d5c/_config_8c.html#a9b4cae615bdffda9b7abbe6e04b1e6a5" title="omc_Config_getRunningWSMTestsuite" alt="" coords="1159,157,1411,184"/>
+<area shape="rect" id="node21" href="$d1/d95/_system_8c.html#acb158f48d2d963dbc65eb161259659a7" title="omc_System_basename" alt="" coords="1471,309,1637,336"/>
+<area shape="rect" id="node26" href="$d1/d95/_system_8c.html#ab4261551580fc07778c15d3b0cb0cdfd" title="omc_System_os" alt="" coords="1494,259,1614,285"/>
+<area shape="rect" id="node22" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a7b722b53b1ba7f3ffdc3624727daa000" title="System_basename" alt="" coords="1721,309,1856,336"/>
+<area shape="rect" id="node23" href="$d4/d45/systemimpl_8c.html#af0ce445d63d4d737a2ed25d05b45463c" title="SystemImpl__basename" alt="" coords="1928,309,2095,336"/>
+<area shape="rect" id="node24" href="$d7/dcd/group__core_utils.html#gaeccaa0b46edead0608a6982dddb917ec" title="Allocate memory for a Modelica string which is used as return argument of an external Modelica functi..." alt="" coords="1934,360,2089,387"/>
+<area shape="rect" id="node25" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="1984,259,2039,285"/>
+<area shape="rect" id="node27" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a967ce96198372dc665f235bb728adb6f" title="System_os" alt="" coords="1745,259,1833,285"/>
+<area shape="rect" id="node29" href="$d3/db3/_flags_8c.html#a1bdc57ee7db1a86ebd954e1aa4d04c0c" title="omc_Flags_getConfigString" alt="" coords="1463,208,1645,235"/>
+<area shape="rect" id="node32" href="$d3/d08/_j_s_o_n_8c.html#aec783cecea892fb15fa22f05ff37cdb8" title="omc_JSON_parse__value" alt="" coords="425,477,600,504"/>
+<area shape="rect" id="node44" href="$d3/d08/_j_s_o_n_8c.html#a5b910ea901be2e717e07123567ef85af" title="omc_JSON_check__empty" alt="" coords="421,309,604,336"/>
+<area shape="rect" id="node33" href="$d3/d08/_j_s_o_n_8c.html#a2adc8ec039dab8a836e047054cf596ee" title="omc_JSON_not__eof" alt="" coords="1211,579,1358,605"/>
+<area shape="rect" id="node35" href="$d3/d08/_j_s_o_n_8c.html#a20cb4a7413d3200bdc91eb5fe1e91e19" title="omc_JSON_parse__string" alt="" coords="658,477,833,504"/>
+<area shape="rect" id="node36" href="$d3/d08/_j_s_o_n_8c.html#a81054e1ff9d0aa05eb7c58ec85a42888" title="omc_JSON_errorExpected" alt="" coords="909,528,1088,555"/>
+<area shape="rect" id="node37" href="$d3/d08/_j_s_o_n_8c.html#a86a3673347797c275de7798ccdb78eaa" title="omc_JSON_parse__integer" alt="" coords="654,629,837,656"/>
+<area shape="rect" id="node38" href="$d3/d08/_j_s_o_n_8c.html#acfa32ae6615e78bb13166018a2704795" title="omc_JSON_parse__number" alt="" coords="652,579,839,605"/>
+<area shape="rect" id="node39" href="$d3/d08/_j_s_o_n_8c.html#ab93a3ea3feedce743fef3a47515b9c33" title="omc_JSON_parse__object" alt="" coords="656,376,835,403"/>
+<area shape="rect" id="node40" href="$d3/d08/_j_s_o_n_8c.html#aa409324a7be77cad9be6e244cf0ae921" title="omc_JSON_parse__array" alt="" coords="659,427,831,453"/>
+<area shape="rect" id="node34" href="$db/da1/_compiler_2boot_2build_2error_8c.html#a398b05b9761d1eaac64099ae9d66b4ab" title="omc_Error_addCompilerError" alt="" coords="1459,579,1649,605"/>
+<area shape="rect" id="node41" href="$d3/d08/_j_s_o_n_8c.html#a577bc8916fa861560c6e58bc69e541ad" title="omc_JSON_parse__expected\l__token" alt="" coords="901,361,1097,402"/>
+<area shape="rect" id="node43" href="$d3/d08/_j_s_o_n_8c.html#a9c0ece5d57ea55edd6d8f52260f82d8a" title="omc_JSON_peek__id" alt="" coords="924,427,1073,453"/>
+<area shape="rect" id="node42" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#abc2229161d85c4f760b412227c7b0729" title="enum_to_modelica_string" alt="" coords="1199,368,1370,395"/>
+</map>

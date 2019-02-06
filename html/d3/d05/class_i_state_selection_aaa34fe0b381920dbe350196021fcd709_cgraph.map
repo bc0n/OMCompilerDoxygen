@@ -1,0 +1,11 @@
+<map id="IStateSelection::~IStateSelection" name="IStateSelection::~IStateSelection">
+<area shape="rect" id="node2" href="$d3/d05/class_i_state_selection.html#a1aebeb3d65f3073894fb2d2410a66b2f" title="IStateSelection::getDimStateSets" alt="" coords="219,5,437,32"/>
+<area shape="rect" id="node3" href="$d3/d05/class_i_state_selection.html#a229a22f9a8bae29ea90fec9e98af5271" title="IStateSelection::getDimStates" alt="" coords="229,56,427,83"/>
+<area shape="rect" id="node4" href="$d3/d05/class_i_state_selection.html#a27e2e936a440e1c5c13dbd352b001fa8" title="IStateSelection::getDimCanditates" alt="" coords="216,107,440,133"/>
+<area shape="rect" id="node5" href="$d3/d05/class_i_state_selection.html#a694d6480ae09af6fbb635f74f70b2f69" title="IStateSelection::getDimDummy\lStates" alt="" coords="225,158,431,199"/>
+<area shape="rect" id="node6" href="$d3/d05/class_i_state_selection.html#aeb2a6e7c498c1ae3fe4ec3174260d15e" title="IStateSelection::getStates" alt="" coords="241,224,415,251"/>
+<area shape="rect" id="node7" href="$d3/d05/class_i_state_selection.html#a258fc96186539a0fb4da93d467342268" title="IStateSelection::setStates" alt="" coords="241,275,415,301"/>
+<area shape="rect" id="node8" href="$d3/d05/class_i_state_selection.html#a63957a99c95867fb23538c8222faa652" title="IStateSelection::getState\lCanditates" alt="" coords="244,326,412,367"/>
+<area shape="rect" id="node9" href="$d3/d05/class_i_state_selection.html#a410a5b2d936458c0ae51e402cf69d2b4" title="IStateSelection::getAMatrix" alt="" coords="237,392,419,419"/>
+<area shape="rect" id="node10" href="$d3/d05/class_i_state_selection.html#aee694e95d61d84da49c9b26f631e68ab" title="IStateSelection::setAMatrix" alt="" coords="237,443,419,469"/>
+</map>

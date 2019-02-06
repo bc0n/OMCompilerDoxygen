@@ -1,0 +1,6 @@
+<map id="gz_write" name="gz_write">
+<area shape="rect" id="node2" href="$d3/d0d/_modelica_external_c_2_c-_sources_2zlib_2gzwrite_8c.html#a93323ef1288f105db8a89e80f2764d3b" title="gzwrite" alt="" coords="126,5,190,32"/>
+<area shape="rect" id="node3" href="$d3/d0d/_modelica_external_c_2_c-_sources_2zlib_2gzwrite_8c.html#abbc1f2c9217d3f887a2038216a38893f" title="gzfwrite" alt="" coords="124,56,192,83"/>
+<area shape="rect" id="node4" href="$d3/d0d/_modelica_external_c_2_c-_sources_2zlib_2gzwrite_8c.html#a37f7621e057bd71abdbe2f2480b69935" title="gzputc" alt="" coords="127,107,189,133"/>
+<area shape="rect" id="node5" href="$d3/d0d/_modelica_external_c_2_c-_sources_2zlib_2gzwrite_8c.html#a2760b9a721dd2950d101046d9b57c461" title="gzputs" alt="" coords="127,157,189,184"/>
+</map>

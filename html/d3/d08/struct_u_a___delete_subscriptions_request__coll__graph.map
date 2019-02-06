@@ -1,0 +1,9 @@
+<map id="UA_DeleteSubscriptionsRequest" name="UA_DeleteSubscriptionsRequest">
+<area shape="rect" id="node2" href="$df/d4c/struct_u_a___request_header.html" title="UA_RequestHeader" alt="" coords="96,377,235,404"/>
+<area shape="rect" id="node3" href="$da/dfd/struct_u_a___node_id.html" title="UA_NodeId" alt="" coords="229,109,320,136"/>
+<area shape="rect" id="node6" href="$d9/d10/struct_u_a___extension_object.html" title="UA_ExtensionObject" alt="" coords="219,288,363,315"/>
+<area shape="rect" id="node7" href="$da/dea/struct_u_a___data_type.html" title="UA_DataType" alt="" coords="373,199,478,225"/>
+<area shape="rect" id="node4" href="$d3/dbd/struct_u_a___string.html" title="UA_String" alt="" coords="76,5,159,32"/>
+<area shape="rect" id="node5" href="$db/d54/struct_u_a___guid.html" title="UA_Guid" alt="" coords="237,5,312,32"/>
+<area shape="rect" id="node8" href="$d9/d85/struct_u_a___data_type_member.html" title="UA_DataTypeMember" alt="" coords="349,109,501,136"/>
+</map>
