@@ -1,0 +1,101 @@
+<map id="ML_CommInfoOP_Get_Nrcvlist" name="ML_CommInfoOP_Get_Nrcvlist">
+<area shape="rect" id="node2" href="$d0/d33/ml__agg__gen_p_8h.html#af7ac7555ac34f0d9e362feb4e7684f1b" title="ML_AGG_DinvP" alt="" coords="603,1281,722,1307"/>
+<area shape="rect" id="node21" href="$dd/da4/ml__aggregate_8h.html#a57ba9616c6037f4573ca5c59781dff66" title="ML_Aggregate_CoarsenMIS" alt="" coords="569,93,756,119"/>
+<area shape="rect" id="node32" href="$d9/de3/ml__amg___m_i_s_8c.html#a6ad4d409119caf8ef9e3c1848d343475" title="ML_AMG_GetCommInfo" alt="" coords="295,1607,462,1634"/>
+<area shape="rect" id="node37" href="$d3/d65/ml__comminfoop_8h.html#a6bd3f877b0681f6d8aa1b4085e9f3012" title="ML_CommInfoOP_TransComm" alt="" coords="275,791,482,818"/>
+<area shape="rect" id="node45" href="$d3/d65/ml__comminfoop_8h.html#a0b2b3127a7cdccf831e2dc07d12b5d4f" title="ML_CommInfoOP_SqueezeColumns" alt="" coords="260,1769,497,1795"/>
+<area shape="rect" id="node47" href="$d3/d65/ml__comminfoop_8h.html#a3b21d988d43bcd34f965692cb9157b40" title="ML_CommInfoOP_PopulateBlks" alt="" coords="273,1363,484,1390"/>
+<area shape="rect" id="node48" href="$d0/d40/ml__op__utils_8h.html#a8935e9a83414ff73f19eefaff6aa1a4f" title="ML_Gen_Restrictor_TransP" alt="" coords="571,1590,755,1617"/>
+<area shape="rect" id="node53" href="$d5/da8/ml__operator_8h.html#a7f75f5ce615fdee48096affb76956690" title="ML_Operator_Transpose" alt="" coords="296,1161,461,1187"/>
+<area shape="rect" id="node78" href="$d0/d40/ml__op__utils_8h.html#a80db42725ac9076d9acb4e3150093379" title="ML_Operator_HashGlobalRcvList" alt="" coords="270,1829,487,1855"/>
+<area shape="rect" id="node81" href="$d5/da8/ml__operator_8h.html#acdde40d490db8a5b4bbdad7e90994d42" title="ML_Operator_MisRootPts" alt="" coords="576,463,749,490"/>
+<area shape="rect" id="node82" href="$d5/da8/ml__operator_8h.html#a8ec0833c480939b4ff9faa3539600609" title="ML_Operator_AmalgamateAnd\lDropWeak" alt="" coords="279,275,479,316"/>
+<area shape="rect" id="node91" href="$d0/d12/ml__operator__blockmat_8h.html#a40f971743bf4a8dad935ba29dae14755" title="ML_Operator_Gen_blockmat" alt="" coords="285,1899,473,1926"/>
+<area shape="rect" id="node93" href="$d7/d5b/ml__smoother_8h.html#aeea8e8d8a46fffe53cdfda5318619f3c" title="ML_Smoother_GetRowLengths" alt="" coords="277,1659,481,1686"/>
+<area shape="rect" id="node98" href="$d7/d5b/ml__smoother_8h.html#a5a37580daff4126af568f92f49492192" title="ML_Smoother_GetOffProcRows" alt="" coords="273,1713,484,1739"/>
+<area shape="rect" id="node99" href="$dd/d39/ml__aztec__utils_8h.html#a8382d38176debc165a19a0e4dd9f35c9" title="AZ_mlcomm2data_org" alt="" coords="302,1473,455,1499"/>
+<area shape="rect" id="node3" href="$d0/d33/ml__agg__gen_p_8h.html#a54a698830512f930ca438a23b3c26a2f" title="ML_AGG_Gen_Prolongator" alt="" coords="1381,1059,1561,1086"/>
+<area shape="rect" id="node4" href="$d0/d33/ml__agg__gen_p_8h.html#ae9980b6a4d94d467d5865727725cb1b8" title="ML_Gen_MGHierarchy\l_UsingAggregation" alt="" coords="1681,1657,1836,1699"/>
+<area shape="rect" id="node8" href="$d5/d9b/ml__agg__reitzinger_8h.html#a109c0acc3b9efbf213a9f49d756cdda1" title="ML_Gen_MGHierarchy\l_UsingReitzinger" alt="" coords="1993,560,2148,601"/>
+<area shape="rect" id="node15" href="$d0/d33/ml__agg__gen_p_8h.html#a5f5a51370590a53ee4a81315f3d2109e" title="ML_Gen_MGHierarchy\l_UsingSmoothedAggr_ReuseExistingAgg" alt="" coords="1627,1723,1891,1764"/>
+<area shape="rect" id="node16" href="$d0/d33/ml__agg__gen_p_8h.html#a69d5fe24f9b1bfc2267c54124b8d6e54" title="ML_MultiLevel_Gen_Prolongator" alt="" coords="1653,770,1864,797"/>
+<area shape="rect" id="node5" href="$d5/d8c/mlguide_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2045,1678,2096,1705"/>
+<area shape="rect" id="node6" href="$d0/d33/ml__agg__gen_p_8h.html#a55f0768e24055d7d503b95ad16e63a39" title="ML_AGG_Gen_DDProlongator" alt="" coords="1971,1627,2171,1654"/>
+<area shape="rect" id="node7" href="$d0/d33/ml__agg__gen_p_8h.html#a1c6a82c0137de25725bc1708adb0f65e" title="ML_AGG_Gen_DDProlongator2" alt="" coords="1967,1577,2174,1603"/>
+<area shape="rect" id="node10" href="$db/de5/ml__struct_8h.html#a3e510083e545d8f69ebf2c7904c2ad92" title="ML_Setup" alt="" coords="2030,1779,2111,1806"/>
+<area shape="rect" id="node11" href="$db/de5/ml__struct_8h.html#a29c5797e6cbb5e0a36b743546c60a979" title="ML_build_ggb_fat" alt="" coords="2009,1729,2133,1755"/>
+<area shape="rect" id="node12" href="$d6/dfe/mli__solver_8h.html#a9860d39e2098baeea0339301379b4272" title="MLI_Solver_Setup" alt="" coords="2006,1999,2135,2026"/>
+<area shape="rect" id="node13" href="$d6/dfe/mli__solver_8h.html#a06864478676072b4076d798d710cd7aa" title="MLI_Solver_SetupDD" alt="" coords="1996,2094,2145,2121"/>
+<area shape="rect" id="node14" href="$dd/d39/ml__aztec__utils_8h.html#a0062bc88448c5f17831e5a080546d280" title="MLAZ_Setup_MLandAggregate" alt="" coords="1969,1475,2172,1502"/>
+<area shape="rect" id="node9" href="$d5/d21/ml__simple__max_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2760,1475,2811,1502"/>
+<area shape="rect" id="node17" href="$d0/d33/ml__agg__gen_p_8h.html#ae7d1b526f0441504fca9924114c35306" title="ML_Gen_MultiLevelHierarchy\l_UsingAggregation" alt="" coords="1974,689,2167,731"/>
+<area shape="rect" id="node20" href="$d0/d33/ml__agg__gen_p_8h.html#a401a0ca1f24bd136d5fcf880b4a85a2e" title="ML_Gen_MultiLevelHierarchy\l_UsingSmoothedAggr_ReuseExistingAgg" alt="" coords="1939,755,2203,796"/>
+<area shape="rect" id="node18" href="$d9/df7/ml__aztec__simple_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2337,770,2387,797"/>
+<area shape="rect" id="node19" href="$d9/df7/ml__aztec__simple_8c.html#a305183e8faf483ededc56013847b5172" title="user_Kn_build" alt="" coords="2565,770,2669,797"/>
+<area shape="rect" id="node22" href="$dd/da4/ml__aggregate_8h.html#a26c58349c770e0946c656ad9d299dc9a" title="ML_Aggregate_Coarsen" alt="" coords="864,209,1027,235"/>
+<area shape="rect" id="node23" href="$d3/d4f/ml__agg__min__energy_8h.html#a5cd54c03ba7c3c66bb2c5e755f04c916" title="ML_AGG_Gen_Prolongator\l_MinEnergy" alt="" coords="1123,231,1303,272"/>
+<area shape="rect" id="node24" href="$d3/d4f/ml__agg__min__energy_8h.html#ad06158a73f2f0dddc7afa10c21f8c1fe" title="ML_AGG_Gen_Prolongator\l_MandelMinEnergy" alt="" coords="1381,619,1561,660"/>
+<area shape="rect" id="node25" href="$d8/dc5/namespace_m_l_a_p_i.html#a6609804c6d86c4708b7168cab10fe4ef" title="Builds the tentative prolongator using aggregation. " alt="" coords="1152,179,1275,206"/>
+<area shape="rect" id="node29" href="$d8/dc5/namespace_m_l_a_p_i.html#ac910b47c4ef0b9e28acf9cfe719ab3ae" title="Call ML aggregation on A according to parameters supplied in List. Return aggregates in aggrinfo..." alt="" coords="1135,125,1292,151"/>
+<area shape="rect" id="node26" href="$d8/dc5/namespace_m_l_a_p_i.html#a02dd2723ac5649b278cbe387b4184ad7" title="Builds the tentative prolongator with default null space. " alt="" coords="1410,238,1533,265"/>
+<area shape="rect" id="node27" href="$d1/ddd/class_m_l_a_p_i_1_1_multi_level_s_a.html#ac9935f186429f8bf5539c0ef2406148b" title="Computes the hierarchy. " alt="" coords="1398,172,1545,213"/>
+<area shape="rect" id="node28" href="$d1/ddd/class_m_l_a_p_i_1_1_multi_level_s_a.html#ad7f66d20cfeabcd6dcbcb3e03c5b90b6" title="Constructs the hierarchy for given Operator and parameters. " alt="" coords="1685,172,1832,213"/>
+<area shape="rect" id="node30" href="$d8/dc5/namespace_m_l_a_p_i.html#a0a75b74ee4a063a3ee5b6750a9afc0de" title="Call ML aggregation on A according to parameters supplied in List. Return aggregates in aggrinfo..." alt="" coords="1374,121,1569,147"/>
+<area shape="rect" id="node31" href="$d8/dc5/namespace_m_l_a_p_i.html#a5ba8fd04b219e87086364582f6223418" title="Builds the tentative prolongator using aggregation. " alt="" coords="1697,121,1820,147"/>
+<area shape="rect" id="node33" href="$d9/de3/ml__amg___m_i_s_8c.html#ae565e1ecc55b768c8770bbd148ad7572" title="ML_AMG_CoarsenMIS" alt="" coords="867,1809,1024,1835"/>
+<area shape="rect" id="node34" href="$d6/d6c/ml__amg_8h.html#a17bf9fd2cf3356efe95ce5180daec143" title="ML_AMG_Coarsen" alt="" coords="1147,1875,1280,1902"/>
+<area shape="rect" id="node35" href="$d3/d4d/ml__amg__gen_p_8h.html#a59dfc74474b6e0dcdd0b2c2365dfb830" title="ML_AMG_Gen_Prolongator" alt="" coords="1381,1901,1562,1927"/>
+<area shape="rect" id="node36" href="$d3/d4d/ml__amg__gen_p_8h.html#a4bf290a87db76af40d86688034ec5b8c" title="ML_Gen_MGHierarchy\l_UsingAMG" alt="" coords="1681,1992,1836,2033"/>
+<area shape="rect" id="node38" href="$d0/d33/ml__agg__gen_p_8h.html#acb9bd9784b696c5304a1542a98f67e0d" title="ML_Project_Coordinates" alt="" coords="580,791,745,818"/>
+<area shape="rect" id="node39" href="$d0/d40/ml__op__utils_8h.html#a5a0dadf93c0b6510739fc2160a06d55b" title="ML_Operator_ImplicitTranspose" alt="" coords="559,514,766,541"/>
+<area shape="rect" id="node40" href="$dd/da4/ml__aggregate_8h.html#a7a28164509bd7eb5d7275c4c6cf0f9f9" title="ML_repartition_matrix" alt="" coords="872,398,1019,425"/>
+<area shape="rect" id="node42" href="$d7/d5b/ml__smoother_8h.html#a119f86f525a713323dd7cc84d6b9d1e3" title="ML_Smoother_Gen_Hiptmair_Data" alt="" coords="1958,1425,2183,1451"/>
+<area shape="rect" id="node41" href="$dd/da4/ml__aggregate_8h.html#ac05e46fa1422eee300a2f1e53ef5bb75" title="ML_repartition_Acoarse" alt="" coords="1134,449,1293,475"/>
+<area shape="rect" id="node43" href="$db/de5/ml__struct_8h.html#af4e469672c6c2271877871c91eceb1eb" title="ML_Gen_Smoother_Hiptmair2" alt="" coords="2263,1450,2461,1477"/>
+<area shape="rect" id="node44" href="$db/de5/ml__struct_8h.html#a572745e4488345153d82b982758441a0" title="ML_Gen_Smoother_Hiptmair" alt="" coords="2521,1462,2712,1489"/>
+<area shape="rect" id="node46" href="$d5/da8/ml__operator_8h.html#a753ac9355084bf60e78499ce35e41337" title="ML_CSRmatrix_ColumnSubset" alt="" coords="560,1839,765,1866"/>
+<area shape="rect" id="node49" href="$d3/d4f/ml__agg__min__energy_8h.html#a6b35cf6fd81c1444cbec8542701064a2" title="ML_AGG_Gen_Restriction\l_MinEnergy" alt="" coords="857,1524,1034,1565"/>
+<area shape="rect" id="node50" href="$db/de5/ml__struct_8h.html#a92cced15df08bf2f7ba21d79f90a26f6" title="ML_build_ggb" alt="" coords="894,1707,997,1734"/>
+<area shape="rect" id="node51" href="$db/de5/ml__struct_8h.html#aa81aa95edbf352529a893df076447c7d" title="ML_build_ggb_cheap" alt="" coords="873,1758,1017,1785"/>
+<area shape="rect" id="node52" href="$db/ddd/class_m_l___epetra_1_1_multi_level_preconditioner.html#a0e3e3380ddad9bf64d3bf36bc3802f8f" title="Constructs a MultiLevelPreconditioner for multiphysics with variable dofs per node. " alt="" coords="828,1641,1063,1683"/>
+<area shape="rect" id="node54" href="$d8/dc5/namespace_m_l_a_p_i.html#adc2f2f4e84b5e47bec27f06db43047cb" title="Returns a newly created transpose of A. " alt="" coords="869,1239,1021,1266"/>
+<area shape="rect" id="node60" href="$d0/d40/ml__op__utils_8h.html#a16393d22d4bfbf47ef1d74ddc935b156" title="ML_Operator_Transpose\l_byrow" alt="" coords="580,1097,745,1139"/>
+<area shape="rect" id="node55" href="$d1/d74/class_m_l_a_p_i_1_1_multi_level_adaptive_s_a.html#a8d2d6fad09c8673ff636fdbc4ade7fba" title="Creates an hierarchy using the provided or default null space. " alt="" coords="1123,1784,1303,1825"/>
+<area shape="rect" id="node59" href="$d1/d74/class_m_l_a_p_i_1_1_multi_level_adaptive_s_a.html#a54581d09676369030c9fb1ce186d4d0a" title="Increments the null space dimension by one. " alt="" coords="1123,1397,1303,1439"/>
+<area shape="rect" id="node56" href="$d2/d41/classmlapi__data__pack.html#a049887bcc02fc853a3da37de1ecd1a55" title="mlapi_data_pack::setup" alt="" coords="1679,1941,1839,1967"/>
+<area shape="rect" id="node57" href="$d1/d74/class_m_l_a_p_i_1_1_multi_level_adaptive_s_a.html#aa844aada295b478d230e504fe88c810f" title="Setup the adaptive multilevel hierarchy. " alt="" coords="1381,1784,1561,1825"/>
+<area shape="rect" id="node58" href="$d7/de8/_adaptive_s_a_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1733,1890,1784,1917"/>
+<area shape="rect" id="node61" href="$db/de5/ml__struct_8h.html#a5edc310857ad1ee5c7fc1427931d0344" title="ML_Gimmie_Eigenvalues" alt="" coords="860,961,1031,987"/>
+<area shape="rect" id="node62" href="$db/de5/ml__struct_8h.html#a19b79ec871fd9e58bc3e67bc5d9d9f93" title="ML_MLS_Setup_Coef" alt="" coords="1138,895,1289,922"/>
+<area shape="rect" id="node63" href="$db/de5/ml__struct_8h.html#a3c71d1a57c61a7022f1231284cae1fa9" title="ML_Gen_Smoother_Cheby" alt="" coords="1382,922,1561,949"/>
+<area shape="rect" id="node68" href="$db/de5/ml__struct_8h.html#ac1db387c246ef06cfad337693a68f896" title="ML_Gen_BlockScaledMatrix\l_with_Eigenvalues" alt="" coords="1120,997,1307,1039"/>
+<area shape="rect" id="node69" href="$d7/d5b/ml__smoother_8h.html#a6e104392039ddec596a6df249044cc20" title="ML_Smoother_ComputeOmega\lViaSpectralradius" alt="" coords="1111,1165,1316,1207"/>
+<area shape="rect" id="node64" href="$db/de5/ml__struct_8h.html#a0559b13a7af42c9f15c94f3fe0809ecc" title="ML_Gen_Smoother_BlockDiag\lScaledCheby" alt="" coords="1658,1024,1859,1065"/>
+<area shape="rect" id="node65" href="$db/de5/ml__struct_8h.html#acbacaaca534ad0e0218e615237587ed6" title="ML_Gen_Smoother_MLS" alt="" coords="1675,669,1843,695"/>
+<area shape="rect" id="node66" href="$d7/d5b/ml__smoother_8h.html#accb8646557c91ed1fdcc111a0accccb9" title="ML_Smoother_Gen_BlockHiptmair_Data" alt="" coords="1941,1322,2200,1349"/>
+<area shape="rect" id="node67" href="$db/de5/ml__struct_8h.html#a50ce1c8882058a4dc78322ba57940453" title="ML_Gen_Smoother_BlockHiptmair" alt="" coords="2251,1322,2473,1349"/>
+<area shape="rect" id="node70" href="$db/de5/ml__struct_8h.html#aebcc85edcc941f230a84675d51571f90" title="ML_Gen_Smoother_GaussSeidel" alt="" coords="1364,1438,1579,1465"/>
+<area shape="rect" id="node73" href="$db/de5/ml__struct_8h.html#a501f75ec4c57ed8ee8c22393826a966f" title="ML_Gen_Smoother_BlockGauss\lSeidel" alt="" coords="1365,1155,1577,1196"/>
+<area shape="rect" id="node71" href="$db/de5/ml__struct_8h.html#a388bb9d1bbfc51fe235c4bad6a89adf0" title="ML_Gen_Smoother_SymGauss\lSeidel" alt="" coords="1655,1592,1862,1633"/>
+<area shape="rect" id="node72" href="$db/de5/ml__struct_8h.html#a55853f4c22c2f9326de4f68f39caf03f" title="ML_Gen_Smoother_EffSymGauss\lSeidel" alt="" coords="1647,1373,1870,1415"/>
+<area shape="rect" id="node74" href="$db/d37/ml__example1d_g_s_8c.html#a41ff39b1c2d6f332d96c8d80e39d1774" title="sample1" alt="" coords="1723,871,1794,898"/>
+<area shape="rect" id="node76" href="$dd/d57/class_m_l___epetra_1_1_level_wrap.html#a61fdbf170919d0275b6f38de9af048cf" title="Destructor. " alt="" coords="1681,1155,1836,1196"/>
+<area shape="rect" id="node77" href="$db/de5/ml__struct_8h.html#a5e8d81f776fdb89cead8ed82d1d57e77" title="ML_Gen_Smoother_SymBlock\lGaussSeidel" alt="" coords="1658,1089,1859,1131"/>
+<area shape="rect" id="node75" href="$db/d37/ml__example1d_g_s_8c.html#a741fbeddb73a55a7f7b8d0fc4041c384" title="myPgetrow" alt="" coords="2027,871,2115,898"/>
+<area shape="rect" id="node79" href="$d0/d40/ml__op__utils_8h.html#a79464fb6256df91495cfa0b4551dbce7" title="ML_overlap" alt="" coords="618,1890,707,1917"/>
+<area shape="rect" id="node80" href="$db/de5/ml__struct_8h.html#aa347dba4fc012a8657640e24c892708a" title="ML_Gen_Smoother_Subdomain\lOverlap" alt="" coords="842,2104,1049,2145"/>
+<area shape="rect" id="node83" href="$dd/da4/ml__aggregate_8h.html#a73bb29bc0947e3382174fd87503e4c4c" title="create non&#45;smoothed aggregates using METIS. In order to use this function, the user has to define the..." alt="" coords="561,143,764,170"/>
+<area shape="rect" id="node84" href="$dd/da4/ml__aggregate_8h.html#a0e8ce48c3e93f613ae0ad4bbb2eea4bf" title="create non&#45;smoothed aggregates using METIS. In order to use this function, the user has to define the..." alt="" coords="551,194,774,221"/>
+<area shape="rect" id="node85" href="$df/d48/ml__agg__user_8h.html#a35862aa76c9d72f71b3c5cc246746b5a" title="ML_Aggregate_CoarsenUser" alt="" coords="567,311,758,338"/>
+<area shape="rect" id="node86" href="$d3/d89/ml__agg___zoltan_8h.html#afeda3ba6fb477f55a0485730478add4b" title="create non&#45;smoothed aggregates using Zoltan. " alt="" coords="563,362,762,389"/>
+<area shape="rect" id="node87" href="$d2/d3c/ml__agg__info_8h.html#aaebabe177098c5cc1663f6f63b395e00" title="ML_Aggregate_Viz_Amalgamate" alt="" coords="557,42,769,69"/>
+<area shape="rect" id="node90" href="$db/ddd/class_m_l___epetra_1_1_multi_level_preconditioner.html#ab5ea601a37840d315f7bc38bd490fa02" title="ML_Epetra::MultiLevelPreconditioner\l::ComputeAdaptivePreconditioner" alt="" coords="545,245,780,287"/>
+<area shape="rect" id="node88" href="$d1/de8/ml___multi_level_preconditioner___viz_8cpp.html#a0b38af85c9b94132c5be11bab7127018" title="ML_Aggregate_Stats\l_ComputeCoordinates" alt="" coords="869,5,1021,47"/>
+<area shape="rect" id="node89" href="$d1/de8/ml___multi_level_preconditioner___viz_8cpp.html#a012ff926b709cdfe643ce2f8bf793c4b" title="ML_Aggregate_Viz" alt="" coords="879,71,1011,98"/>
+<area shape="rect" id="node92" href="$d5/d9b/ml__agg__reitzinger_8h.html#afcffc26d5d11284b09cb498e10826057" title="ML_Gen_Hierarchy_Complex\lMaxwell" alt="" coords="566,1941,759,1983"/>
+<area shape="rect" id="node94" href="$d7/d5b/ml__smoother_8h.html#a952cd8faba8fa91b7c8cc20ceb5d9234" title="ML_Smoother_ComposeOverlapped\lMatrix" alt="" coords="547,1773,779,1815"/>
+<area shape="rect" id="node95" href="$db/de5/ml__struct_8h.html#a3f657fe752bcbdce1397b98796d10a8d" title="ML_Gen_Smoother_Overlapped\lDDILUT" alt="" coords="1655,2175,1862,2216"/>
+<area shape="rect" id="node96" href="$db/de5/ml__struct_8h.html#aeea66d5d0db044b97c99def1b25f9fdd" title="ML_Gen_Smoother_VBlockAdditive\lSchwarz" alt="" coords="1643,2240,1874,2281"/>
+<area shape="rect" id="node97" href="$db/de5/ml__struct_8h.html#a8d0a5bb0fc016b2dbe278e937466ff36" title="ML_Gen_Smoother_VBlockMultiplicative\lSchwarz" alt="" coords="1629,2057,1888,2099"/>
+<area shape="rect" id="node100" href="$dd/d39/ml__aztec__utils_8h.html#a718ce8416ff0ee15d0e03b9766561c71" title="ML_Gen_SmootherAztec" alt="" coords="1387,1539,1555,1566"/>
+</map>

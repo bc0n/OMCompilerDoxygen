@@ -1,0 +1,178 @@
+<map id="ML_CommInfoOP_Destroy" name="ML_CommInfoOP_Destroy">
+<area shape="rect" id="node2" href="$d0/d33/ml__agg__gen_p_8h.html#a54a698830512f930ca438a23b3c26a2f" title="ML_AGG_Gen_Prolongator" alt="" coords="2443,3005,2623,3031"/>
+<area shape="rect" id="node20" href="$d0/d33/ml__agg__gen_p_8h.html#af7ac7555ac34f0d9e362feb4e7684f1b" title="ML_AGG_DinvP" alt="" coords="1015,3097,1134,3123"/>
+<area shape="rect" id="node21" href="$d0/d96/ml__agg___v_b_m_e_t_i_s_8h.html#afac09cff927b4c090e8caa077caec418" title="Restores a matrix that has been modified via ML_Operator_AmalgamateAndDropWeak_Vblocks. " alt="" coords="233,2913,428,2955"/>
+<area shape="rect" id="node22" href="$d0/dfe/ml__mat__formats_8h.html#a5028d555d38b0e7362eab2f4d9d48a17" title="ML_Matrix_DCSR_Destroy" alt="" coords="239,575,422,602"/>
+<area shape="rect" id="node41" href="$d7/d5b/ml__smoother_8h.html#a03d1f7b160759525218cdc842e56fe15" title="ML_Smoother_MSR_GSforwardnodamping" alt="" coords="1531,778,1803,805"/>
+<area shape="rect" id="node57" href="$d0/d40/ml__op__utils_8h.html#a5a0dadf93c0b6510739fc2160a06d55b" title="ML_Operator_ImplicitTranspose" alt="" coords="1563,4025,1770,4051"/>
+<area shape="rect" id="node61" href="$d5/da8/ml__operator_8h.html#ac97b505500ed9db04710ba7f740a54b9" title="ML_Operator_Clean" alt="" coords="486,3578,625,3605"/>
+<area shape="rect" id="node170" href="$d5/da8/ml__operator_8h.html#a89ea74e5e5397a26295c323163327158" title="ML_Operator_halfClone\l_Clean" alt="" coords="251,3571,410,3612"/>
+<area shape="rect" id="node172" href="$d5/da8/ml__operator_8h.html#a91889dfbcda02806117ddff083413650" title="ML_Operator_UnAmalgamate\lAndDropWeak" alt="" coords="977,3857,1172,3899"/>
+<area shape="rect" id="node3" href="$d0/d33/ml__agg__gen_p_8h.html#ae9980b6a4d94d467d5865727725cb1b8" title="ML_Gen_MGHierarchy\l_UsingAggregation" alt="" coords="2753,1817,2908,1859"/>
+<area shape="rect" id="node7" href="$d5/d9b/ml__agg__reitzinger_8h.html#a109c0acc3b9efbf213a9f49d756cdda1" title="ML_Gen_MGHierarchy\l_UsingReitzinger" alt="" coords="3065,3571,3220,3612"/>
+<area shape="rect" id="node14" href="$d0/d33/ml__agg__gen_p_8h.html#a5f5a51370590a53ee4a81315f3d2109e" title="ML_Gen_MGHierarchy\l_UsingSmoothedAggr_ReuseExistingAgg" alt="" coords="2699,3319,2963,3360"/>
+<area shape="rect" id="node15" href="$d0/d33/ml__agg__gen_p_8h.html#a69d5fe24f9b1bfc2267c54124b8d6e54" title="ML_MultiLevel_Gen_Prolongator" alt="" coords="2725,3110,2936,3137"/>
+<area shape="rect" id="node4" href="$d5/d8c/mlguide_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="3117,1833,3168,1859"/>
+<area shape="rect" id="node5" href="$d0/d33/ml__agg__gen_p_8h.html#a55f0768e24055d7d503b95ad16e63a39" title="ML_AGG_Gen_DDProlongator" alt="" coords="3043,811,3243,838"/>
+<area shape="rect" id="node6" href="$d0/d33/ml__agg__gen_p_8h.html#a1c6a82c0137de25725bc1708adb0f65e" title="ML_AGG_Gen_DDProlongator2" alt="" coords="3039,2035,3246,2062"/>
+<area shape="rect" id="node9" href="$db/de5/ml__struct_8h.html#a3e510083e545d8f69ebf2c7904c2ad92" title="ML_Setup" alt="" coords="3102,1731,3183,1758"/>
+<area shape="rect" id="node10" href="$db/de5/ml__struct_8h.html#a29c5797e6cbb5e0a36b743546c60a979" title="ML_build_ggb_fat" alt="" coords="3081,1782,3205,1809"/>
+<area shape="rect" id="node11" href="$d6/dfe/mli__solver_8h.html#a9860d39e2098baeea0339301379b4272" title="MLI_Solver_Setup" alt="" coords="3078,1599,3207,1626"/>
+<area shape="rect" id="node12" href="$d6/dfe/mli__solver_8h.html#a06864478676072b4076d798d710cd7aa" title="MLI_Solver_SetupDD" alt="" coords="3068,1417,3217,1443"/>
+<area shape="rect" id="node13" href="$dd/d39/ml__aztec__utils_8h.html#a0062bc88448c5f17831e5a080546d280" title="MLAZ_Setup_MLandAggregate" alt="" coords="3041,1366,3244,1393"/>
+<area shape="rect" id="node8" href="$d5/d21/ml__simple__max_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="3832,1307,3883,1334"/>
+<area shape="rect" id="node16" href="$d0/d33/ml__agg__gen_p_8h.html#ae7d1b526f0441504fca9924114c35306" title="ML_Gen_MultiLevelHierarchy\l_UsingAggregation" alt="" coords="3046,2231,3239,2272"/>
+<area shape="rect" id="node19" href="$d0/d33/ml__agg__gen_p_8h.html#a401a0ca1f24bd136d5fcf880b4a85a2e" title="ML_Gen_MultiLevelHierarchy\l_UsingSmoothedAggr_ReuseExistingAgg" alt="" coords="3011,4625,3275,4667"/>
+<area shape="rect" id="node17" href="$d9/df7/ml__aztec__simple_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="3409,2111,3459,2138"/>
+<area shape="rect" id="node18" href="$d9/df7/ml__aztec__simple_8c.html#a305183e8faf483ededc56013847b5172" title="user_Kn_build" alt="" coords="3637,2111,3741,2138"/>
+<area shape="rect" id="node23" href="$d5/dea/ml__csolve_8h.html#a5133e670bb0a075c2442bdddf821129e" title="ML_CSolve_Clean_Aggr" alt="" coords="711,525,877,551"/>
+<area shape="rect" id="node24" href="$d5/dea/ml__csolve_8h.html#ad37b48d7e9137a1a7066d3f809ab4fde" title="ML_CSolve_Clean" alt="" coords="1009,474,1140,501"/>
+<area shape="rect" id="node25" href="$db/de5/ml__struct_8h.html#a4b39cce958021a233641922f8b5d5a21" title="ML_Destroy" alt="" coords="1317,575,1410,602"/>
+<area shape="rect" id="node55" href="$db/de5/ml__struct_8h.html#a3af767ac2fa38377f2e214d3fe739d19" title="ML_Destroy2" alt="" coords="1313,474,1413,501"/>
+<area shape="rect" id="node56" href="$d9/df5/ml__smoother_8c.html#a1b577d216ec73ce6ab5e6edb5ee9cdee" title="ML_Smoother_Reinit" alt="" coords="1291,423,1435,450"/>
+<area shape="rect" id="node26" href="$dd/da7/ml__example1d_8c.html#a64b4134c086b0fd2471d65a06f047bf7" title="sample3" alt="" coords="1631,173,1702,199"/>
+<area shape="rect" id="node28" href="$dd/da7/ml__example1d_8c.html#a41ff39b1c2d6f332d96c8d80e39d1774" title="sample1" alt="" coords="2215,198,2286,225"/>
+<area shape="rect" id="node29" href="$dd/da7/ml__example1d_8c.html#a3da19d1452cd0ad99628989c097c17f0" title="sample2" alt="" coords="1631,223,1702,250"/>
+<area shape="rect" id="node30" href="$dd/d57/class_m_l___epetra_1_1_level_wrap.html#a42039236497b6e9cbd7b019c6beb1077" title="Destroys all structures allocated in ComputePreconditioner() if the preconditioner has been computed..." alt="" coords="1587,275,1746,316"/>
+<area shape="rect" id="node32" href="$db/de5/ml__struct_8h.html#a18caa08301f25b3b6771ab0470f0049e" title="ML_Solve_SmootherDestroy" alt="" coords="1873,625,2063,651"/>
+<area shape="rect" id="node35" href="$d6/dfe/mli__solver_8h.html#af2c7d8213e3287ad842be70fe8b72b78" title="MLI_Solver_Destroy" alt="" coords="1897,675,2039,702"/>
+<area shape="rect" id="node36" href="$d7/d5b/ml__smoother_8h.html#a5119315631c06b59a2dcce8874ae96d8" title="ML_Smoother_Destroy\l_BlockHiptmair_Data" alt="" coords="1589,5,1745,47"/>
+<area shape="rect" id="node38" href="$d7/d5b/ml__smoother_8h.html#a86b0d19670b934fcb39b9aa24dfd2a2d" title="ML_Smoother_Destroy\l_Hiptmair_Data" alt="" coords="1589,880,1745,921"/>
+<area shape="rect" id="node42" href="$dd/d39/ml__aztec__utils_8h.html#a8f7dc77c96a8d5e641e8eb1e9ee57bb3" title="AZ_convert_aztec_matrix\l_2ml_matrix" alt="" coords="1581,509,1752,551"/>
+<area shape="rect" id="node46" href="$dd/d39/ml__aztec__utils_8h.html#a4e6cbf7aa23178073e73e58e3416b398" title="MLAZ_Direct_Solve_Amesos" alt="" coords="1569,341,1764,367"/>
+<area shape="rect" id="node47" href="$d4/dc2/class_m_l___epetra_1_1_multi_level_operator.html#acd0d8e1f7d7dbdc5202be8eab8936f74" title="Destructor. " alt="" coords="1565,392,1768,433"/>
+<area shape="rect" id="node48" href="$db/ddd/class_m_l___epetra_1_1_multi_level_preconditioner.html#a5510672a594a1b136b57d1650f136d58" title="Destroys all structures allocated in ComputePreconditioner() if the preconditioner has been computed..." alt="" coords="1851,1139,2085,1180"/>
+<area shape="rect" id="node27" href="$dd/da7/ml__example1d_8c.html#a741fbeddb73a55a7f7b8d0fc4041c384" title="myPgetrow" alt="" coords="1924,198,2012,225"/>
+<area shape="rect" id="node31" href="$dd/d57/class_m_l___epetra_1_1_level_wrap.html#aea302719f001222816d27a4c336290c4" title="Recomputes the preconditioner. " alt="" coords="1877,275,2059,316"/>
+<area shape="rect" id="node33" href="$dd/d39/ml__aztec__utils_8h.html#a9b7cbe65a736d180635844b0000dd3dd" title="AZ_ML_SmootherClean" alt="" coords="2170,1077,2331,1103"/>
+<area shape="rect" id="node34" href="$dd/d39/ml__aztec__utils_8h.html#a718ce8416ff0ee15d0e03b9766561c71" title="ML_Gen_SmootherAztec" alt="" coords="2449,1182,2617,1209"/>
+<area shape="rect" id="node37" href="$db/de5/ml__struct_8h.html#a50ce1c8882058a4dc78322ba57940453" title="ML_Gen_Smoother_BlockHiptmair" alt="" coords="3323,609,3545,635"/>
+<area shape="rect" id="node39" href="$db/de5/ml__struct_8h.html#af4e469672c6c2271877871c91eceb1eb" title="ML_Gen_Smoother_Hiptmair2" alt="" coords="3335,954,3533,981"/>
+<area shape="rect" id="node40" href="$db/de5/ml__struct_8h.html#a572745e4488345153d82b982758441a0" title="ML_Gen_Smoother_Hiptmair" alt="" coords="3593,1118,3784,1145"/>
+<area shape="rect" id="node43" href="$d3/d42/ml__maxwell_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1943,523,1993,550"/>
+<area shape="rect" id="node45" href="$db/ddd/class_m_l___epetra_1_1_multi_level_preconditioner.html#a870ec725932d5538416c87b620c80658" title="MultiLevelPreconditioner constructor for Maxwell&#39;s equations. " alt="" coords="1851,457,2085,499"/>
+<area shape="rect" id="node44" href="$d3/d42/ml__maxwell_8cpp.html#ac4305a12d695374ceef5d602723a375d" title="ML_Build_EdgeCoordinates" alt="" coords="2159,473,2342,499"/>
+<area shape="rect" id="node49" href="$db/ddd/class_m_l___epetra_1_1_multi_level_preconditioner.html#a2c4c973625931d48f3393c8f09a033bf" title="Copies List into the internally stored parameter list object. " alt="" coords="2133,1011,2368,1052"/>
+<area shape="rect" id="node52" href="$db/ddd/class_m_l___epetra_1_1_multi_level_preconditioner.html#a8b15a8eb8beeaddc47e1eb96061e982d" title="Destroys the preconditioner. " alt="" coords="2133,1128,2368,1169"/>
+<area shape="rect" id="node53" href="$db/ddd/class_m_l___epetra_1_1_multi_level_preconditioner.html#a2e98a941033f322c26ac3ed1ec3c0ec9" title="Returns the Epetra_Map object associated with the range of this operator. " alt="" coords="2133,1193,2368,1235"/>
+<area shape="rect" id="node54" href="$db/ddd/class_m_l___epetra_1_1_multi_level_preconditioner.html#ab5ea601a37840d315f7bc38bd490fa02" title="ML_Epetra::MultiLevelPreconditioner\l::ComputeAdaptivePreconditioner" alt="" coords="2133,2660,2368,2701"/>
+<area shape="rect" id="node50" href="$db/ddd/class_m_l___epetra_1_1_multi_level_preconditioner.html#a2df61ccbf8cefd809ea6880c2ac0ed9c" title="Prints on std::cout the values of the internally stored parameter list. " alt="" coords="2416,1015,2651,1056"/>
+<area shape="rect" id="node51" href="$db/ddd/class_m_l___epetra_1_1_multi_level_preconditioner.html#a4de58a80721cdbcc076ad73b1030d6d3" title="ML_Epetra::MultiLevelPreconditioner\l::GetOutputList" alt="" coords="2713,863,2948,904"/>
+<area shape="rect" id="node58" href="$dd/da4/ml__aggregate_8h.html#a7a28164509bd7eb5d7275c4c6cf0f9f9" title="ML_repartition_matrix" alt="" coords="1895,3923,2041,3950"/>
+<area shape="rect" id="node60" href="$d7/d5b/ml__smoother_8h.html#a119f86f525a713323dd7cc84d6b9d1e3" title="ML_Smoother_Gen_Hiptmair_Data" alt="" coords="3030,954,3255,981"/>
+<area shape="rect" id="node59" href="$dd/da4/ml__aggregate_8h.html#ac05e46fa1422eee300a2f1e53ef5bb75" title="ML_repartition_Acoarse" alt="" coords="2171,4126,2330,4153"/>
+<area shape="rect" id="node62" href="$d0/d33/ml__agg__gen_p_8h.html#a7675e67ba48bbc9080c1af7fecdaf297" title="ML_Gen_MGHierarchy\l_ReuseExistingOperators" alt="" coords="2165,3487,2336,3528"/>
+<area shape="rect" id="node63" href="$dd/da4/ml__aggregate_8h.html#a0e8ce48c3e93f613ae0ad4bbb2eea4bf" title="create non&#45;smoothed aggregates using METIS. In order to use this function, the user has to define the..." alt="" coords="1252,3569,1475,3595"/>
+<area shape="rect" id="node74" href="$d3/d89/ml__agg___zoltan_8h.html#afeda3ba6fb477f55a0485730478add4b" title="create non&#45;smoothed aggregates using Zoltan. " alt="" coords="1264,3518,1463,3545"/>
+<area shape="rect" id="node75" href="$d0/d40/ml__op__utils_8h.html#a0e85ec5c13d32a3a1be548b0a4265364" title="ML_Operator_BlkMatInit" alt="" coords="1282,3417,1445,3443"/>
+<area shape="rect" id="node77" href="$d0/d40/ml__op__utils_8h.html#a1878f9971f26ef0a3bd91e08e8074c47" title="ML_Operator_BlkMatDestroy" alt="" coords="979,3451,1170,3478"/>
+<area shape="rect" id="node78" href="$d5/da8/ml__operator_8h.html#ac6b2557ef19608ee7942084bd23a788a" title="ML_Operator_Destroy" alt="" coords="719,2442,869,2469"/>
+<area shape="rect" id="node137" href="$d0/d12/ml__operator__blockmat_8h.html#a40f971743bf4a8dad935ba29dae14755" title="ML_Operator_Gen_blockmat" alt="" coords="1269,3265,1457,3291"/>
+<area shape="rect" id="node142" href="$db/ddd/class_m_l___epetra_1_1_multi_level_preconditioner.html#a0e3e3380ddad9bf64d3bf36bc3802f8f" title="Constructs a MultiLevelPreconditioner for multiphysics with variable dofs per node. " alt="" coords="2133,4803,2368,4844"/>
+<area shape="rect" id="node155" href="$d5/da8/ml__operator_8h.html#a0cd26ba00e22b6211a8f6bd16e0c87ca" title="ML_Operator_Add" alt="" coords="1011,4177,1138,4203"/>
+<area shape="rect" id="node159" href="$d5/da8/ml__operator_8h.html#a3c32926254f524103c0a34fa896a9bb4" title="ML_Operator_MoveFromHierarchy\lAndClean" alt="" coords="683,3807,905,3848"/>
+<area shape="rect" id="node160" href="$d5/da8/ml__operator_8h.html#a69c88050d554831a1c92b23684e5e00d" title="ML_Operator_Move2Hierarchy\lAndDestroy" alt="" coords="1869,4465,2067,4507"/>
+<area shape="rect" id="node161" href="$d9/d4d/ml___multi_level_preconditioner_8h.html#a836762a510f8cb162ba774058eb0d6aa" title="Take Crs std::vec&#39;s, make arrays and shove them into an ML Operator. " alt="" coords="1036,4633,1113,4659"/>
+<area shape="rect" id="node64" href="$dd/da4/ml__aggregate_8h.html#a26c58349c770e0946c656ad9d299dc9a" title="ML_Aggregate_Coarsen" alt="" coords="1585,3603,1748,3630"/>
+<area shape="rect" id="node65" href="$d3/d4f/ml__agg__min__energy_8h.html#a5cd54c03ba7c3c66bb2c5e755f04c916" title="ML_AGG_Gen_Prolongator\l_MinEnergy" alt="" coords="1878,3807,2058,3848"/>
+<area shape="rect" id="node66" href="$d3/d4f/ml__agg__min__energy_8h.html#ad06158a73f2f0dddc7afa10c21f8c1fe" title="ML_AGG_Gen_Prolongator\l_MandelMinEnergy" alt="" coords="2443,3153,2623,3195"/>
+<area shape="rect" id="node67" href="$d8/dc5/namespace_m_l_a_p_i.html#a6609804c6d86c4708b7168cab10fe4ef" title="Builds the tentative prolongator using aggregation. " alt="" coords="1907,3603,2029,3630"/>
+<area shape="rect" id="node71" href="$d8/dc5/namespace_m_l_a_p_i.html#ac910b47c4ef0b9e28acf9cfe719ab3ae" title="Call ML aggregation on A according to parameters supplied in List. Return aggregates in aggrinfo..." alt="" coords="1889,3654,2047,3681"/>
+<area shape="rect" id="node68" href="$d8/dc5/namespace_m_l_a_p_i.html#a02dd2723ac5649b278cbe387b4184ad7" title="Builds the tentative prolongator with default null space. " alt="" coords="2189,3603,2312,3630"/>
+<area shape="rect" id="node69" href="$d1/ddd/class_m_l_a_p_i_1_1_multi_level_s_a.html#ac9935f186429f8bf5539c0ef2406148b" title="Computes the hierarchy. " alt="" coords="2177,3655,2324,3696"/>
+<area shape="rect" id="node70" href="$d1/ddd/class_m_l_a_p_i_1_1_multi_level_s_a.html#ad7f66d20cfeabcd6dcbcb3e03c5b90b6" title="Constructs the hierarchy for given Operator and parameters. " alt="" coords="2460,3655,2607,3696"/>
+<area shape="rect" id="node72" href="$d8/dc5/namespace_m_l_a_p_i.html#a0a75b74ee4a063a3ee5b6750a9afc0de" title="Call ML aggregation on A according to parameters supplied in List. Return aggregates in aggrinfo..." alt="" coords="2153,3721,2348,3747"/>
+<area shape="rect" id="node73" href="$d8/dc5/namespace_m_l_a_p_i.html#a5ba8fd04b219e87086364582f6223418" title="Builds the tentative prolongator using aggregation. " alt="" coords="2472,3721,2595,3747"/>
+<area shape="rect" id="node76" href="$d0/d40/ml__op__utils_8h.html#a2902150f31e057b507874ca4f7ecccf1" title="ML_Blkrap" alt="" coords="1926,3451,2010,3478"/>
+<area shape="rect" id="node79" href="$d0/d33/ml__agg__gen_p_8h.html#acb9bd9784b696c5304a1542a98f67e0d" title="ML_Project_Coordinates" alt="" coords="2451,4062,2616,4089"/>
+<area shape="rect" id="node80" href="$d3/d4f/ml__agg__min__energy_8h.html#ae83ea4adc281a7b1b6ba27340d1d407f" title="ML_ImplicitAbs_Destroy" alt="" coords="992,2878,1157,2905"/>
+<area shape="rect" id="node82" href="$dd/da4/ml__aggregate_8h.html#a57ba9616c6037f4573ca5c59781dff66" title="ML_Aggregate_CoarsenMIS" alt="" coords="1270,3619,1457,3646"/>
+<area shape="rect" id="node83" href="$d5/d9b/ml__agg__reitzinger_8h.html#af517e2b7bc427a2da4bee790c24a69b7" title="ML_MGHierarchy_Reitzinger\lDestroy" alt="" coords="1571,997,1762,1039"/>
+<area shape="rect" id="node84" href="$d5/d9b/ml__agg__reitzinger_8h.html#aae0fe9e143c6b21e0b4bfba7e064ca04" title="ML_Gen_SmoothPnodal" alt="" coords="1282,2006,1445,2033"/>
+<area shape="rect" id="node85" href="$dd/da4/ml__aggregate_8h.html#ab32f09392d8bee93fc9833a1dbde1e81" title="ML_Aggregate_CoarsenUncoupled" alt="" coords="963,3249,1187,3275"/>
+<area shape="rect" id="node86" href="$d3/d4d/ml__amg__gen_p_8h.html#a59dfc74474b6e0dcdd0b2c2365dfb830" title="ML_AMG_Gen_Prolongator" alt="" coords="1273,1449,1454,1475"/>
+<area shape="rect" id="node88" href="$db/de5/ml__struct_8h.html#a5edc310857ad1ee5c7fc1427931d0344" title="ML_Gimmie_Eigenvalues" alt="" coords="1883,2369,2053,2395"/>
+<area shape="rect" id="node93" href="$d7/d5b/ml__smoother_8h.html#accb8646557c91ed1fdcc111a0accccb9" title="ML_Smoother_Gen_BlockHiptmair_Data" alt="" coords="3013,659,3272,686"/>
+<area shape="rect" id="node95" href="$d7/d5b/ml__smoother_8h.html#a6e104392039ddec596a6df249044cc20" title="ML_Smoother_ComputeOmega\lViaSpectralradius" alt="" coords="2148,1465,2353,1507"/>
+<area shape="rect" id="node104" href="$dd/da7/class_m_l___epetra_1_1_matrix_free_preconditioner.html#a68e8960054b441ed0ab06760cb84e1a4" title="destructor " alt="" coords="955,997,1194,1039"/>
+<area shape="rect" id="node106" href="$da/d7c/class_m_l_a_p_i_1_1_m_l___operator___box.html#ab6ce05171082fbce924e8a54c0c291f8" title="Destructor. " alt="" coords="988,1217,1161,1259"/>
+<area shape="rect" id="node107" href="$db/d64/ml__rap_8h.html#a9f3a7a724dff83396460036dda7d070c" title="ML_2matmult" alt="" coords="1024,1829,1125,1855"/>
+<area shape="rect" id="node112" href="$d0/d40/ml__op__utils_8h.html#a84945a7b45332650fc7bc8ce2d86c2ab" title="ML_Operator_ColPartition2\lRowPartition" alt="" coords="1274,2233,1453,2275"/>
+<area shape="rect" id="node113" href="$d0/d40/ml__op__utils_8h.html#a16393d22d4bfbf47ef1d74ddc935b156" title="ML_Operator_Transpose\l_byrow" alt="" coords="1584,2660,1749,2701"/>
+<area shape="rect" id="node121" href="$db/def/class_m_l___epetra_1_1_m_l___ref_maxwell__11___operator.html#ae13f9405dfc123476f4932141534901a" title="Computes C= &lt;me&gt; * A. OptimizeStorage must be called for both A and the. " alt="" coords="1270,2299,1457,2355"/>
+<area shape="rect" id="node122" href="$d0/d77/class_m_l___epetra_1_1_epetra___multi___crs_matrix.html#a960a820beba4c31e3c5309a708972b95" title="Computes C= &lt;me&gt; * A. " alt="" coords="1280,1267,1447,1323"/>
+<area shape="rect" id="node123" href="$d9/d39/ml__epetra__utils_8h.html#a40405cf0cd895a15d8df723048a7f2cf" title="Multiplies two Epetra_RowMatrix&#39;s, returns the results as an Epetra_CrsMatrix. " alt="" coords="1299,1347,1427,1374"/>
+<area shape="rect" id="node126" href="$db/d64/ml__rap_8h.html#af34544e8c10528f49e15b245ddf481b9" title="ML_2matmult_block" alt="" coords="1005,1955,1144,1982"/>
+<area shape="rect" id="node127" href="$d0/d40/ml__op__utils_8h.html#a79464fb6256df91495cfa0b4551dbce7" title="ML_overlap" alt="" coords="1030,2389,1119,2415"/>
+<area shape="rect" id="node129" href="$d5/da8/ml__operator_8h.html#a4b8622726fc5b3d74bbd82c0cf1879db" title="ML_implicitscale_Destroy" alt="" coords="989,2442,1161,2469"/>
+<area shape="rect" id="node131" href="$d5/da8/ml__operator_8h.html#a99643a6518faa23948597096d1175c17" title="ML_implicitvscale_Destroy" alt="" coords="985,2493,1164,2519"/>
+<area shape="rect" id="node134" href="$d5/da8/ml__operator_8h.html#a3d8c2aebfd03887760db4afa3bfaba45" title="ML_Operator_ArrayDestroy" alt="" coords="984,1702,1165,1729"/>
+<area shape="rect" id="node136" href="$d0/d12/ml__operator__blockmat_8h.html#a3ce1710cf55e2a8c0263849df53dcbfc" title="ML_Operator_blockmatdata\l_Destroy" alt="" coords="983,3031,1166,3072"/>
+<area shape="rect" id="node139" href="$db/d64/ml__rap_8h.html#aed0afc0196392f6ed67c604262434b6d" title="ML_rap" alt="" coords="1634,3299,1699,3326"/>
+<area shape="rect" id="node144" href="$d0/d7a/ml__rap__utils_8c.html#a3b0b304a359f23661bfc6e633cd1713e" title="ML_getrow_matvec" alt="" coords="1007,2594,1143,2621"/>
+<area shape="rect" id="node146" href="$d4/d1a/class_m_l___epetra_1_1_edge_matrix_free_preconditioner.html#a7dd5f2ccd10769f3ab504495cfa51bcb" title="Destroys all structures allocated in ComputePreconditioner() if the preconditioner has been computed..." alt="" coords="953,2645,1196,2687"/>
+<area shape="rect" id="node148" href="$df/df5/class_m_l___epetra_1_1_face_matrix_free_preconditioner.html#abd743b7ba6f35c84fc3b94c2b85defd2" title="Destroys all structures allocated in ComputePreconditioner() if the preconditioner has been computed..." alt="" coords="953,2711,1196,2752"/>
+<area shape="rect" id="node150" href="$d7/d5b/ml__smoother_8h.html#abd58e187321d06796f6043c637b61f2a" title="ML_Smoother_Destroy_MLS" alt="" coords="2155,2726,2346,2753"/>
+<area shape="rect" id="node152" href="$d7/d41/ml__xyt_8h.html#ac2f1f409fbbfc9287a9cdc7f174a8893" title="ML_xytComm_subGappendInt" alt="" coords="975,2777,1174,2803"/>
+<area shape="rect" id="node154" href="$d9/d39/ml__epetra__utils_8h.html#a172fd82559a082f570e936867703d2db" title="Adds two Epetra_RowMatrix&#39;s, returns the result as an Epetra_CrsMatrix. " alt="" coords="1300,4126,1427,4153"/>
+<area shape="rect" id="node81" href="$d3/d4f/ml__agg__min__energy_8h.html#aa85936d604345e0499cbaaad1e18225c" title="ML_Operator_ImplicitAbs" alt="" coords="1279,2961,1448,2987"/>
+<area shape="rect" id="node87" href="$d3/d4d/ml__amg__gen_p_8h.html#a4bf290a87db76af40d86688034ec5b8c" title="ML_Gen_MGHierarchy\l_UsingAMG" alt="" coords="2753,1752,2908,1793"/>
+<area shape="rect" id="node89" href="$db/de5/ml__struct_8h.html#a19b79ec871fd9e58bc3e67bc5d9d9f93" title="ML_MLS_Setup_Coef" alt="" coords="2175,2339,2326,2366"/>
+<area shape="rect" id="node90" href="$db/de5/ml__struct_8h.html#a3c71d1a57c61a7022f1231284cae1fa9" title="ML_Gen_Smoother_Cheby" alt="" coords="2444,2339,2623,2366"/>
+<area shape="rect" id="node94" href="$db/de5/ml__struct_8h.html#ac1db387c246ef06cfad337693a68f896" title="ML_Gen_BlockScaledMatrix\l_with_Eigenvalues" alt="" coords="2157,2391,2344,2432"/>
+<area shape="rect" id="node91" href="$db/de5/ml__struct_8h.html#a0559b13a7af42c9f15c94f3fe0809ecc" title="ML_Gen_Smoother_BlockDiag\lScaledCheby" alt="" coords="2730,2492,2931,2533"/>
+<area shape="rect" id="node92" href="$db/de5/ml__struct_8h.html#acbacaaca534ad0e0218e615237587ed6" title="ML_Gen_Smoother_MLS" alt="" coords="2747,2441,2915,2467"/>
+<area shape="rect" id="node96" href="$db/de5/ml__struct_8h.html#aebcc85edcc941f230a84675d51571f90" title="ML_Gen_Smoother_GaussSeidel" alt="" coords="2426,1337,2641,1363"/>
+<area shape="rect" id="node99" href="$db/de5/ml__struct_8h.html#a501f75ec4c57ed8ee8c22393826a966f" title="ML_Gen_Smoother_BlockGauss\lSeidel" alt="" coords="2427,1569,2639,1611"/>
+<area shape="rect" id="node97" href="$db/de5/ml__struct_8h.html#a388bb9d1bbfc51fe235c4bad6a89adf0" title="ML_Gen_Smoother_SymGauss\lSeidel" alt="" coords="2727,1300,2934,1341"/>
+<area shape="rect" id="node98" href="$db/de5/ml__struct_8h.html#a55853f4c22c2f9326de4f68f39caf03f" title="ML_Gen_Smoother_EffSymGauss\lSeidel" alt="" coords="2719,1183,2942,1224"/>
+<area shape="rect" id="node100" href="$db/d37/ml__example1d_g_s_8c.html#a41ff39b1c2d6f332d96c8d80e39d1774" title="sample1" alt="" coords="2795,1934,2866,1961"/>
+<area shape="rect" id="node102" href="$dd/d57/class_m_l___epetra_1_1_level_wrap.html#a61fdbf170919d0275b6f38de9af048cf" title="Destructor. " alt="" coords="2753,1569,2908,1611"/>
+<area shape="rect" id="node103" href="$db/de5/ml__struct_8h.html#a5e8d81f776fdb89cead8ed82d1d57e77" title="ML_Gen_Smoother_SymBlock\lGaussSeidel" alt="" coords="2730,1635,2931,1676"/>
+<area shape="rect" id="node101" href="$db/d37/ml__example1d_g_s_8c.html#a741fbeddb73a55a7f7b8d0fc4041c384" title="myPgetrow" alt="" coords="3099,1934,3187,1961"/>
+<area shape="rect" id="node105" href="$dd/da7/class_m_l___epetra_1_1_matrix_free_preconditioner.html#a1be328ca422f90776b1663080c61ea52" title="Constructor. " alt="" coords="1244,997,1483,1039"/>
+<area shape="rect" id="node108" href="$db/de5/ml__struct_8h.html#aa81aa95edbf352529a893df076447c7d" title="ML_build_ggb_cheap" alt="" coords="1291,1803,1435,1830"/>
+<area shape="rect" id="node109" href="$d8/dc5/namespace_m_l_a_p_i.html#abf7cb7e6d04eb612d3e13b93fa962723" title="Creates a new Operator, defined as A * B. " alt="" coords="1302,1702,1425,1729"/>
+<area shape="rect" id="node124" href="$d7/dbd/ml__twogrid__analysis_8h.html#ae0fdb8f91d1f0d5225c4edb4053c620f" title="ML_GetCoarseGridConst" alt="" coords="1279,1753,1448,1779"/>
+<area shape="rect" id="node110" href="$d8/dc5/namespace_m_l_a_p_i.html#a530c3b5570af6a6df1b413f3b37a5401" title="MLAPI::operator*" alt="" coords="1605,2055,1728,2082"/>
+<area shape="rect" id="node111" href="$d8/dc5/namespace_m_l_a_p_i.html#a4cb916db6b6d6f7082645d066b8f37ca" title="Creates a new Operator, defined as A / alpha. " alt="" coords="1606,2005,1727,2031"/>
+<area shape="rect" id="node114" href="$d3/d4f/ml__agg__min__energy_8h.html#a6b35cf6fd81c1444cbec8542701064a2" title="ML_AGG_Gen_Restriction\l_MinEnergy" alt="" coords="1879,2711,2057,2752"/>
+<area shape="rect" id="node115" href="$d8/dc5/namespace_m_l_a_p_i.html#adc2f2f4e84b5e47bec27f06db43047cb" title="Returns a newly created transpose of A. " alt="" coords="1892,2027,2044,2054"/>
+<area shape="rect" id="node116" href="$d1/d74/class_m_l_a_p_i_1_1_multi_level_adaptive_s_a.html#a8d2d6fad09c8673ff636fdbc4ade7fba" title="Creates an hierarchy using the provided or default null space. " alt="" coords="2161,2020,2341,2061"/>
+<area shape="rect" id="node120" href="$d1/d74/class_m_l_a_p_i_1_1_multi_level_adaptive_s_a.html#a54581d09676369030c9fb1ce186d4d0a" title="Increments the null space dimension by one. " alt="" coords="2161,1955,2341,1996"/>
+<area shape="rect" id="node117" href="$d2/d41/classmlapi__data__pack.html#a049887bcc02fc853a3da37de1ecd1a55" title="mlapi_data_pack::setup" alt="" coords="2751,2137,2911,2163"/>
+<area shape="rect" id="node118" href="$d1/d74/class_m_l_a_p_i_1_1_multi_level_adaptive_s_a.html#aa844aada295b478d230e504fe88c810f" title="Setup the adaptive multilevel hierarchy. " alt="" coords="2443,2020,2623,2061"/>
+<area shape="rect" id="node119" href="$d7/de8/_adaptive_s_a_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2805,2086,2856,2113"/>
+<area shape="rect" id="node125" href="$d7/dbd/ml__twogrid__analysis_8h.html#a98b5b08ed8ca02c4e74d85ce06944f85" title="ML_GetTwoLevelConvergence\lFactor" alt="" coords="1566,2107,1767,2148"/>
+<area shape="rect" id="node128" href="$db/de5/ml__struct_8h.html#aa347dba4fc012a8657640e24c892708a" title="ML_Gen_Smoother_Subdomain\lOverlap" alt="" coords="1260,2380,1467,2421"/>
+<area shape="rect" id="node130" href="$d5/da8/ml__operator_8h.html#a309ef9130d5a9309945e9ed69b4e6c96" title="ML_Operator_ImplicitlyScale" alt="" coords="1269,2446,1458,2473"/>
+<area shape="rect" id="node132" href="$d5/da8/ml__operator_8h.html#a13242161feff8e5af558a5a4d3d20d24" title="ML_Operator_ImplicitlyVScale" alt="" coords="1264,2497,1463,2523"/>
+<area shape="rect" id="node133" href="$d5/da8/ml__operator_8h.html#a68eab5408eb04d1c72b50b5b02ce58e9" title="ML_Operator_ImplicitlyVCScale" alt="" coords="1259,2547,1467,2574"/>
+<area shape="rect" id="node135" href="$dd/da4/ml__aggregate_8h.html#a4d2489435c60f7e263b1c3e8a908b936" title="ML_Aggregate_Destroy" alt="" coords="1587,1853,1746,1879"/>
+<area shape="rect" id="node138" href="$d5/d9b/ml__agg__reitzinger_8h.html#afcffc26d5d11284b09cb498e10826057" title="ML_Gen_Hierarchy_Complex\lMaxwell" alt="" coords="1871,3385,2065,3427"/>
+<area shape="rect" id="node140" href="$db/de5/ml__struct_8h.html#a74ecad8964f1aed3236dd5eceb89e8af" title="ML_Gen_AmatrixRAP" alt="" coords="1893,3334,2043,3361"/>
+<area shape="rect" id="node143" href="$d0/d40/ml__op__utils_8h.html#a148ced9d29ba5368e86267689190550e" title="ProjectMe" alt="" coords="1927,3182,2009,3209"/>
+<area shape="rect" id="node141" href="$db/de5/ml__struct_8h.html#a92cced15df08bf2f7ba21d79f90a26f6" title="ML_build_ggb" alt="" coords="2199,3283,2302,3310"/>
+<area shape="rect" id="node145" href="$d5/da8/ml__operator_8h.html#a3e766e05d72c40b90b044b3758649e0a" title="ML_Operator_Check_Getrow" alt="" coords="1268,2649,1459,2675"/>
+<area shape="rect" id="node147" href="$d4/d1a/class_m_l___epetra_1_1_edge_matrix_free_preconditioner.html#aa8b9c5ae9ccf969573370ad8abc9a3df" title="Destructor. " alt="" coords="1257,2699,1470,2755"/>
+<area shape="rect" id="node149" href="$df/df5/class_m_l___epetra_1_1_face_matrix_free_preconditioner.html#af33ff9ea6f7dde94c4121a0041a2527f" title="Destructor. " alt="" coords="1257,2779,1469,2835"/>
+<area shape="rect" id="node151" href="$d5/da8/ml__operator_8h.html#a01a0b8fc9ee053d499dbca8d19e530bf" title="ML_Operator_ImplicitlyBlock\lDinvScale" alt="" coords="2439,2711,2628,2752"/>
+<area shape="rect" id="node153" href="$d7/d41/ml__xyt_8h.html#a8642d46ceb6116f532ef6e52cd9d3ac8" title="setup_henry" alt="" coords="1317,2859,1410,2886"/>
+<area shape="rect" id="node156" href="$d3/d4f/ml__agg__min__energy_8h.html#af6b9219277f781a2498790d33305fd1c" title="ML_Satisfy_Constraints" alt="" coords="1282,4227,1445,4254"/>
+<area shape="rect" id="node157" href="$d8/dc5/namespace_m_l_a_p_i.html#a379d76a03dad3df4838009340553df6c" title="Creates a new Operator, defined as A + B. " alt="" coords="1301,4278,1426,4305"/>
+<area shape="rect" id="node158" href="$d8/dc5/namespace_m_l_a_p_i.html#a3304c61897312556c1a8145a60f318c2" title="Creates a new Operator, defined as A &#45; B. " alt="" coords="1303,4329,1424,4355"/>
+<area shape="rect" id="node162" href="$d9/d4d/ml___multi_level_preconditioner_8h.html#a9ed8d263615772ca6a7fe9957cfdf182" title="dofComm" alt="" coords="1324,4785,1403,4811"/>
+<area shape="rect" id="node163" href="$d9/d4d/ml___multi_level_preconditioner_8h.html#aed0769c2f9b71ba81d9a7ab2ae0eee40" title="MLextractDiag" alt="" coords="1613,4683,1720,4710"/>
+<area shape="rect" id="node164" href="$d9/d4d/ml___multi_level_preconditioner_8h.html#a72f70e1212e29118fb50f5742faf3288" title="MLfindDirichlets" alt="" coords="1609,4734,1725,4761"/>
+<area shape="rect" id="node165" href="$d9/d4d/ml___multi_level_preconditioner_8h.html#a345eb5da5904c4a9c25bb5cff40d806f" title="MLrmDirichletCols" alt="" coords="1601,4785,1732,4811"/>
+<area shape="rect" id="node166" href="$d9/d4d/ml___multi_level_preconditioner_8h.html#a17fdb7b4d90e62a89c4eacce822673f8" title="MLassignGhostLocalNodeIds" alt="" coords="1570,4835,1763,4862"/>
+<area shape="rect" id="node167" href="$d9/d4d/ml___multi_level_preconditioner_8h.html#ae97af20f16385f4b3a67b46584f60502" title="nodalComm" alt="" coords="1621,4937,1713,4963"/>
+<area shape="rect" id="node168" href="$d9/d4d/ml___multi_level_preconditioner_8h.html#a0e099b1b06567edf571af48ff4a2b559" title="MLfillNodalMaps" alt="" coords="1909,4987,2027,5014"/>
+<area shape="rect" id="node169" href="$d9/d4d/ml___multi_level_preconditioner_8h.html#aaabeabaaade74d302eb6f3b9c6b7e240" title="MLrmDifferentDofsCrossings" alt="" coords="1872,4886,2064,4913"/>
+<area shape="rect" id="node171" href="$d5/da8/ml__operator_8h.html#ae5e0be7b0510775580d7391c2028d31f" title="ML_Operator_halfClone\l_Destroy" alt="" coords="476,3781,635,3823"/>
+<area shape="rect" id="node173" href="$df/d48/ml__agg__user_8h.html#a35862aa76c9d72f71b3c5cc246746b5a" title="ML_Aggregate_CoarsenUser" alt="" coords="1268,3721,1459,3747"/>
+<area shape="rect" id="node174" href="$d5/da8/ml__operator_8h.html#acdde40d490db8a5b4bbdad7e90994d42" title="ML_Operator_MisRootPts" alt="" coords="1277,3873,1450,3899"/>
+<area shape="rect" id="node175" href="$d2/d3c/ml__agg__info_8h.html#a09e2dd5f4889ed1246a72acb80d63362" title="ML_Aggregate_Viz_UnAmalgamate" alt="" coords="1249,5089,1478,5115"/>
+<area shape="rect" id="node176" href="$d1/de8/ml___multi_level_preconditioner___viz_8cpp.html#a0b38af85c9b94132c5be11bab7127018" title="ML_Aggregate_Stats\l_ComputeCoordinates" alt="" coords="1591,5140,1743,5181"/>
+<area shape="rect" id="node177" href="$d1/de8/ml___multi_level_preconditioner___viz_8cpp.html#a012ff926b709cdfe643ce2f8bf793c4b" title="ML_Aggregate_Viz" alt="" coords="1601,5089,1733,5115"/>
+</map>

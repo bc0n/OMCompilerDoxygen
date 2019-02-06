@@ -1,0 +1,15 @@
+<map id="UA_BrowseNextResponse" name="UA_BrowseNextResponse">
+<area shape="rect" id="node2" href="$d4/d3a/struct_u_a___diagnostic_info.html" title="UA_DiagnosticInfo" alt="" coords="1049,315,1181,341"/>
+<area shape="rect" id="node11" href="$d0/d76/struct_u_a___response_header.html" title="UA_ResponseHeader" alt="" coords="933,404,1083,431"/>
+<area shape="rect" id="node3" href="$d3/dbd/struct_u_a___string.html" title="UA_String" alt="" coords="421,5,504,32"/>
+<area shape="rect" id="node4" href="$dc/d8c/struct_u_a___browse_result.html" title="UA_BrowseResult" alt="" coords="271,404,401,431"/>
+<area shape="rect" id="node6" href="$da/dfd/struct_u_a___node_id.html" title="UA_NodeId" alt="" coords="656,109,747,136"/>
+<area shape="rect" id="node8" href="$dc/d33/struct_u_a___localized_text.html" title="UA_LocalizedText" alt="" coords="97,160,226,187"/>
+<area shape="rect" id="node9" href="$d1/d78/struct_u_a___qualified_name.html" title="UA_QualifiedName" alt="" coords="238,160,373,187"/>
+<area shape="rect" id="node10" href="$db/d03/struct_u_a___expanded_node_id.html" title="UA_ExpandedNodeId" alt="" coords="445,211,593,237"/>
+<area shape="rect" id="node12" href="$d9/d10/struct_u_a___extension_object.html" title="UA_ExtensionObject" alt="" coords="763,315,907,341"/>
+<area shape="rect" id="node5" href="$d9/d13/struct_u_a___reference_description.html" title="UA_ReferenceDescription" alt="" coords="249,315,423,341"/>
+<area shape="rect" id="node13" href="$da/dea/struct_u_a___data_type.html" title="UA_DataType" alt="" coords="765,211,870,237"/>
+<area shape="rect" id="node7" href="$db/d54/struct_u_a___guid.html" title="UA_Guid" alt="" coords="1015,5,1089,32"/>
+<area shape="rect" id="node14" href="$d9/d85/struct_u_a___data_type_member.html" title="UA_DataTypeMember" alt="" coords="819,109,971,136"/>
+</map>

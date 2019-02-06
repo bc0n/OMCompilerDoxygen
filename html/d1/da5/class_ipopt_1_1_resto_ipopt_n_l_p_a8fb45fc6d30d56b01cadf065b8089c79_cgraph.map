@@ -1,0 +1,37 @@
+<map id="Ipopt::RestoIpoptNLP::Initialize" name="Ipopt::RestoIpoptNLP::Initialize">
+<area shape="rect" id="node2" href="$d3/d45/class_ipopt_1_1_options_list.html#a4928529408519fbb64d2deee8dbf7574" title="Ipopt::OptionsList\l::GetBoolValue" alt="" coords="225,9,351,51"/>
+<area shape="rect" id="node6" href="$d3/d45/class_ipopt_1_1_options_list.html#ab7c0b2257d4691c6e48c2fa7ac9e7524" title="Ipopt::OptionsList\l::GetNumericValue" alt="" coords="458,71,591,112"/>
+<area shape="rect" id="node7" href="$d3/d45/class_ipopt_1_1_options_list.html#af04b17fa022c96e5ca5067fae24b51d6" title="Ipopt::OptionsList\l::GetEnumValue" alt="" coords="462,136,587,177"/>
+<area shape="rect" id="node8" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#ab04a620518256b49cd7d42dc57e38c96" title="Ipopt::IpoptNLP::Initialize" alt="" coords="203,1049,373,1075"/>
+<area shape="rect" id="node3" href="$d3/d45/class_ipopt_1_1_options_list.html#a13e0bbf486f83cf0044a009cadaa16a6" title="Ipopt::OptionsList\l::GetStringValue" alt="" coords="462,5,587,47"/>
+<area shape="rect" id="node4" href="$d7/db2/namespace_ipopt.html#a412b04fd3180a55969ff76224d5bfec6" title="Ipopt::IsValid" alt="" coords="676,114,775,141"/>
+<area shape="rect" id="node5" href="$d7/db2/namespace_ipopt.html#acfc346e8412ed6def2dc1858b78bde1b" title="Ipopt::IsNull" alt="" coords="823,89,916,115"/>
+<area shape="rect" id="node9" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a387e82247bdf1199033334d535b330af" title="Ipopt::IpoptNLP::DECLARE\l_STD_EXCEPTION" alt="" coords="431,827,618,868"/>
+<area shape="rect" id="node10" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a70e6fc80da13309678a3a446087b9016" title="Ipopt::IpoptNLP::Initialize\lStructures" alt="" coords="439,892,610,933"/>
+<area shape="rect" id="node11" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a6603973606103eb06dc1c37366a00910" title="Ipopt::IpoptNLP::GetWarm\lStartIterate" alt="" coords="435,957,614,999"/>
+<area shape="rect" id="node12" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a517a6f7cda1138f6adb6ab460f129ce5" title="Ipopt::IpoptNLP::f" alt="" coords="461,1023,588,1050"/>
+<area shape="rect" id="node13" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a69862aeed84d4f896287fdaada587401" title="Ipopt::IpoptNLP::grad_f" alt="" coords="445,1074,604,1101"/>
+<area shape="rect" id="node14" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a91c2b699a51efb6de45acabc8b2c0c54" title="Ipopt::IpoptNLP::c" alt="" coords="460,1125,589,1151"/>
+<area shape="rect" id="node15" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#ad6015824486dadc11367faee620a1900" title="Ipopt::IpoptNLP::jac_c" alt="" coords="448,1175,601,1202"/>
+<area shape="rect" id="node16" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#acecae7eb775e3be2f4db18269badfc83" title="Ipopt::IpoptNLP::d" alt="" coords="460,1226,589,1253"/>
+<area shape="rect" id="node17" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a0c3c1dd454ec49556065a1e8da912b09" title="Ipopt::IpoptNLP::jac_d" alt="" coords="448,1277,601,1303"/>
+<area shape="rect" id="node18" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a575f7667506c60531be1db1329a8bb6c" title="Ipopt::IpoptNLP::h" alt="" coords="460,1327,589,1354"/>
+<area shape="rect" id="node19" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a0a8487ffd973a43aecd653028bdc20b5" title="Ipopt::IpoptNLP::x_L" alt="" coords="453,1378,596,1405"/>
+<area shape="rect" id="node20" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a9e17ce50fc2aae99a4fe7e7af7add101" title="Ipopt::IpoptNLP::Px_L" alt="" coords="449,1429,601,1455"/>
+<area shape="rect" id="node21" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a468a91cdd8487d19555c644c6b2f6abb" title="Ipopt::IpoptNLP::x_U" alt="" coords="451,1479,598,1506"/>
+<area shape="rect" id="node22" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a975484ba68b4c81026fc796a0f5668f0" title="Ipopt::IpoptNLP::Px_U" alt="" coords="447,1530,602,1557"/>
+<area shape="rect" id="node23" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a4d05932b15b1d6de17402e1a5bf39db4" title="Ipopt::IpoptNLP::d_L" alt="" coords="453,1581,596,1607"/>
+<area shape="rect" id="node24" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a6a5df11a5a9ccfb35b6fd1095294fb47" title="Ipopt::IpoptNLP::Pd_L" alt="" coords="449,1631,601,1658"/>
+<area shape="rect" id="node25" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a82fd62f7a40a6f5545bfbb66e0e2a007" title="Ipopt::IpoptNLP::d_U" alt="" coords="451,1682,598,1709"/>
+<area shape="rect" id="node26" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a978d09309fbf77d46ce26021512c5a15" title="Ipopt::IpoptNLP::Pd_U" alt="" coords="447,1733,602,1759"/>
+<area shape="rect" id="node27" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#aa9e6ccff3e44a36add3ab5a239a67e5d" title="Ipopt::IpoptNLP::Hessian\lMatrixSpace" alt="" coords="439,1784,610,1825"/>
+<area shape="rect" id="node28" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a1a3987d27e6bd002a12168de5fd5600a" title="Ipopt::IpoptNLP::GetSpaces" alt="" coords="431,253,618,279"/>
+<area shape="rect" id="node29" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#aa37f418b204ddf06cc256282396f0624" title="Ipopt::IpoptNLP::AdjustVariable\lBounds" alt="" coords="421,304,628,345"/>
+<area shape="rect" id="node30" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a2ffab0bc6351f661c852a5b8af4a3806" title="Ipopt::IpoptNLP::f\l_evals" alt="" coords="461,369,588,411"/>
+<area shape="rect" id="node31" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#acaa0bb9fd1a192eb3054b266a57b49f8" title="Ipopt::IpoptNLP::grad\l_f_evals" alt="" coords="451,435,598,476"/>
+<area shape="rect" id="node32" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a77738f5e762f18d89d79ee0dbab22b8e" title="Ipopt::IpoptNLP::c\l_evals" alt="" coords="460,500,589,541"/>
+<area shape="rect" id="node33" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#ace941433752a08ea1a3a802d70d7394f" title="Ipopt::IpoptNLP::jac\l_c_evals" alt="" coords="455,565,594,607"/>
+<area shape="rect" id="node34" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a5904d8ed12251843bfe66fb4ddbfc3e0" title="Ipopt::IpoptNLP::d\l_evals" alt="" coords="460,631,589,672"/>
+<area shape="rect" id="node35" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#a9b3cd186c84eafe0936149403076064b" title="Ipopt::IpoptNLP::jac\l_d_evals" alt="" coords="455,696,594,737"/>
+<area shape="rect" id="node36" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#aea2902047ff72c2821cdc50f15d49e69" title="Ipopt::IpoptNLP::h\l_evals" alt="" coords="460,761,589,803"/>
+</map>

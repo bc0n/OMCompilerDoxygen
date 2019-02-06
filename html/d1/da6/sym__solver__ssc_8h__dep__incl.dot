@@ -1,0 +1,10 @@
+digraph "SimulationRuntime/c/simulation/solver/sym_solver_ssc.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node9 [label="SimulationRuntime/c\l/simulation/solver/sym\l_solver_ssc.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="SimulationRuntime/c\l/simulation/solver/solver\l_main.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/def/solver__main_8c.html"];
+  Node9 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="SimulationRuntime/c\l/simulation/solver/sym\l_solver_ssc.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/df6/sym__solver__ssc_8c.html"];
+}

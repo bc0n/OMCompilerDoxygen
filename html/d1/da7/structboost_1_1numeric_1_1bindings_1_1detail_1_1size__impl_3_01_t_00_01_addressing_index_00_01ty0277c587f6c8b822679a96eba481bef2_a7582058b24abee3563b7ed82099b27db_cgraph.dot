@@ -1,0 +1,9 @@
+digraph "boost::numeric::bindings::detail::size_impl&lt; T, AddressingIndex, typename boost::enable_if&lt; typename mpl::and_&lt; mpl::greater&lt; AddressingIndex, rank&lt; T &gt; &gt;, is_same_at&lt; T, tag::size_type&lt; 1 &gt;, std::ptrdiff_t &gt; &gt;::type &gt;::type &gt;::invoke"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="boost::numeric::bindings\l::detail::size_impl\< T,\l AddressingIndex, typename\l boost::enable_if\< typename\l mpl::and_\< mpl::greater\< Addressing\lIndex, rank\< T \> \>, is_same_at\< T,\l tag::size_type\< 1 \>, std::ptrdiff\l_t \> \>::type \>::type \>::invoke",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="boost::numeric::bindings\l::detail::size_impl::invoke",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dc8/structboost_1_1numeric_1_1bindings_1_1detail_1_1size__impl.html#a8159c85d9d628577772aa90f2ff8adf4"];
+}

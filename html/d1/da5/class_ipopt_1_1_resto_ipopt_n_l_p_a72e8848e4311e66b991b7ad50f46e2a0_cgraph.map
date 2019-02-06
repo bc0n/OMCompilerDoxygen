@@ -1,0 +1,10 @@
+<map id="Ipopt::RestoIpoptNLP::InitializeStructures" name="Ipopt::RestoIpoptNLP::InitializeStructures">
+<area shape="rect" id="node2" href="$d7/db2/namespace_ipopt.html#a4ae001947e506b5b8f4f134b8a4ead23" title="Ipopt::GetRawPtr" alt="" coords="236,5,360,32"/>
+<area shape="rect" id="node3" href="$d5/d91/class_ipopt_1_1_sym_matrix_space.html#a2cd122ff10ba34d64d73e85c6dd26dff" title="Ipopt::SymMatrixSpace::Dim" alt="" coords="203,56,393,83"/>
+<area shape="rect" id="node6" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#ab17c6c1810f3357281b9fedfc792b79c" title="Ipopt::IpoptNLP::NLP\l_scaling" alt="" coords="224,107,372,149"/>
+<area shape="rect" id="node4" href="$de/dfe/class_ipopt_1_1_matrix.html#a266552e7da69b010fb9aff8852a89ce1" title="Ipopt::Matrix::NRows" alt="" coords="457,7,603,33"/>
+<area shape="rect" id="node5" href="$de/dfe/class_ipopt_1_1_matrix.html#afda62c7ef10c09d8dde0e266ebd35dfb" title="Ipopt::Matrix::NCols" alt="" coords="460,57,600,84"/>
+<area shape="rect" id="node7" href="$d7/db2/namespace_ipopt.html#a412b04fd3180a55969ff76224d5bfec6" title="Ipopt::IsValid" alt="" coords="481,112,579,139"/>
+<area shape="rect" id="node9" href="$d5/d04/class_ipopt_1_1_ipopt_n_l_p.html#aaa7d01346731a53ee42caca4769b0792" title="Ipopt::IpoptNLP::IpoptNLP" alt="" coords="441,163,619,189"/>
+<area shape="rect" id="node8" href="$d7/db2/namespace_ipopt.html#acfc346e8412ed6def2dc1858b78bde1b" title="Ipopt::IsNull" alt="" coords="667,112,760,139"/>
+</map>
