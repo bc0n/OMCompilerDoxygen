@@ -1,0 +1,13 @@
+<map id="zmq::pair_t::xrecv" name="zmq::pair_t::xrecv">
+<area shape="rect" id="node2" href="$de/d92/classzmq_1_1msg__t.html#af371987bc4315f04738d2ca7a863327d" title="zmq::msg_t::close" alt="" coords="371,56,502,83"/>
+<area shape="rect" id="node6" href="$db/d21/classzmq_1_1pipe__t.html#a4cf2ae208312309e57fb15f756346514" title="zmq::pipe_t::read" alt="" coords="180,157,303,184"/>
+<area shape="rect" id="node12" href="$de/d92/classzmq_1_1msg__t.html#a4899b9ed66fcf7ec396cab878656538e" title="zmq::msg_t::init" alt="" coords="183,208,299,235"/>
+<area shape="rect" id="node3" href="$de/d92/classzmq_1_1msg__t.html#ae0d38ffd535506c59302218518a35dfd" title="zmq::msg_t::check" alt="" coords="581,5,715,32"/>
+<area shape="rect" id="node4" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="626,56,670,83"/>
+<area shape="rect" id="node5" href="$de/d92/classzmq_1_1msg__t.html#a77eefc5e1223fe5333cbcb16e4a4d0e3" title="zmq::msg_t::is_zcmsg" alt="" coords="571,107,725,133"/>
+<area shape="rect" id="node7" href="$dc/d65/classzmq_1_1ypipe__base__t.html#ab8e91c5672bf36161f0a974cf356d290" title="zmq::ypipe_base_t::read" alt="" coords="354,107,519,133"/>
+<area shape="rect" id="node8" href="$de/d92/classzmq_1_1msg__t.html#af30b6d778c830116fa2a5a092f295956" title="zmq::msg_t::is_credential" alt="" coords="351,157,523,184"/>
+<area shape="rect" id="node9" href="$de/d92/classzmq_1_1msg__t.html#a6b4bd698f2bcd812bc0d1a982679122a" title="zmq::msg_t::is_delimiter" alt="" coords="354,208,519,235"/>
+<area shape="rect" id="node10" href="$de/d92/classzmq_1_1msg__t.html#a305aa20c91564ee89154361b64e19e85" title="zmq::msg_t::is_identity" alt="" coords="357,259,516,285"/>
+<area shape="rect" id="node11" href="$df/db7/classzmq_1_1object__t.html#abe017ae8628363e83902c966d59d6d0a" title="zmq::object_t::send\l_activate_write" alt="" coords="368,310,505,351"/>
+</map>

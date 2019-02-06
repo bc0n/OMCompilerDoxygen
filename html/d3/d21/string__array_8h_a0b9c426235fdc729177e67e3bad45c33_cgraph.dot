@@ -1,0 +1,17 @@
+digraph "array_alloc_string_array"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node22 [label="array_alloc_string\l_array",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node22 -> Node23 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="check_base_array_dim\l_sizes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/dfd/base__array_8c.html#aff50b2009ecf237cc9843f00beb35d62"];
+  Node22 -> Node24 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node24 [label="alloc_string_array",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d08/string__array_8c.html#adbe6b96123d4ab6e26c827ca66fafc0d"];
+  Node24 -> Node25 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node25 [label="alloc_base_array",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/dfd/base__array_8c.html#a51690bf7ac196ecca2511e3c1cd32ae8"];
+  Node25 -> Node26 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node26 [label="size_alloc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/de0/memory__pool_8c.html#ac07274f51cb387c8cf128ba0532d7b84"];
+  Node24 -> Node27 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node27 [label="string_alloc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/de0/memory__pool_8c.html#abc79a224342849c35efe06a7986d3eac"];
+}

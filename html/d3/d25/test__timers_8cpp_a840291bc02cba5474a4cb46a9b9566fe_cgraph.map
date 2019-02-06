@@ -1,0 +1,16 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d6/d54/testutil_8hpp.html#aff3606d9254a5377ce731b64a5063894" title="setup_test_environment" alt="" coords="105,5,267,32"/>
+<area shape="rect" id="node4" href="$d9/de6/zmq_8h.html#a4f1aac13aa3006a1e3a705096b880b6b" title="zmq_timers_new" alt="" coords="125,56,247,83"/>
+<area shape="rect" id="node5" href="$d9/de6/zmq_8h.html#a100180c8e72007b546e65b9df2b60e5e" title="zmq_timers_add" alt="" coords="127,107,245,133"/>
+<area shape="rect" id="node6" href="$d3/d25/test__timers_8cpp.html#a99d717367e1617cfd690791d197c1845" title="handler" alt="" coords="154,157,218,184"/>
+<area shape="rect" id="node8" href="$d9/de6/zmq_8h.html#ab3a75c9b91dc3e4c7d00e1d7c91ee790" title="zmq_timers_execute" alt="" coords="316,215,459,241"/>
+<area shape="rect" id="node9" href="$d3/d25/test__timers_8cpp.html#ada5d196bec06f39e560527e2aa25836b" title="sleep_" alt="" coords="357,277,417,304"/>
+<area shape="rect" id="node10" href="$d9/de6/zmq_8h.html#aa8cd68a1c0b6361538c778e526e7a6f2" title="zmq_timers_timeout" alt="" coords="317,353,457,380"/>
+<area shape="rect" id="node11" href="$d3/d25/test__timers_8cpp.html#a2cccaf9ea0bc3c564cc2f273ce45dc9d" title="sleep_and_execute" alt="" coords="119,259,253,285"/>
+<area shape="rect" id="node12" href="$d9/de6/zmq_8h.html#a98dd278948cf4c5a3b708a1c8d548e29" title="zmq_timers_reset" alt="" coords="123,411,249,437"/>
+<area shape="rect" id="node13" href="$d9/de6/zmq_8h.html#a5a402579706584590c0ebba2f9c0465b" title="zmq_timers_set_interval" alt="" coords="104,461,268,488"/>
+<area shape="rect" id="node14" href="$d9/de6/zmq_8h.html#a4ff20cfd884079140d098ee6f8adc34b" title="zmq_timers_cancel" alt="" coords="119,512,253,539"/>
+<area shape="rect" id="node15" href="$d9/de6/zmq_8h.html#afa5efb020ab5e96f08f6ae0ff1ff8fe0" title="zmq_timers_destroy" alt="" coords="116,563,256,589"/>
+<area shape="rect" id="node3" href="$d8/d77/build_2include_2omc_2c_2util_2omc__msvc_8c.html#a8c476685d78ea93ee343f8a0580c79fe" title="alarm" alt="" coords="360,5,415,32"/>
+<area shape="rect" id="node7" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="364,157,411,184"/>
+</map>

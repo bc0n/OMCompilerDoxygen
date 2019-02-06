@@ -1,0 +1,13 @@
+<map id="Teuchos::SerialSpdDenseSolver::resetVectors" name="Teuchos::SerialSpdDenseSolver::resetVectors">
+<area shape="rect" id="node2" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#a38aa2536e44c8d58de51207f0a3a8b35" title="Teuchos::SerialSpdDenseSolver\l::allocateIWORK" alt="" coords="523,60,733,101"/>
+<area shape="rect" id="node9" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#a4b3ebca60e0c34ab7d07ec6160e68ab2" title="Teuchos::SerialSpdDenseSolver\l::resetMatrix" alt="" coords="264,125,475,167"/>
+<area shape="rect" id="node12" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#a5a9e501e560b89ac3b3e052cf54ea7a3" title="Sets the pointers for left and right hand side vector(s). " alt="" coords="264,212,475,253"/>
+<area shape="rect" id="node3" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#a2563f77bfa6f9ea8b7d221e00ded147a" title="Apply Iterative Refinement. " alt="" coords="781,71,992,112"/>
+<area shape="rect" id="node8" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#acfb6964fb6bc90465d344ca121774439" title="Returns the reciprocal of the 1&#45;norm condition number of the this matrix. " alt="" coords="781,5,992,47"/>
+<area shape="rect" id="node4" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#a86b55b4c4c4440d6cc912a8a3f48ea58" title="Causes all solves to compute solution to best ability using iterative refinement. ..." alt="" coords="1299,56,1509,97"/>
+<area shape="rect" id="node6" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#a44d39e9cedac9cb7e10417ad27f478b1" title="Computes the solution X to AX = B for the this matrix and the B provided to SetVectors().. " alt="" coords="1040,115,1251,156"/>
+<area shape="rect" id="node5" href="$d5/d68/cxx__main__spd__solver_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1557,63,1608,90"/>
+<area shape="rect" id="node7" href="$d9/dc1/example_2_dense_matrix_2cxx__main__sym_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1379,187,1429,214"/>
+<area shape="rect" id="node10" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#ab03ac0bc5647b6bd84dbdae5df97c93a" title="Default constructor; matrix should be set using setMatrix(), LHS and RHS set with setVectors()..." alt="" coords="523,125,733,167"/>
+<area shape="rect" id="node11" href="$d3/d2d/class_teuchos_1_1_serial_spd_dense_solver.html#a028133b9e28ad8db77dc2ea830a15f96" title="Sets the pointers for coefficient matrix. " alt="" coords="1040,180,1251,221"/>
+</map>
