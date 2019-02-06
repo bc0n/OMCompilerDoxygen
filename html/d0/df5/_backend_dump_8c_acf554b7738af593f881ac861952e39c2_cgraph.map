@@ -1,0 +1,10 @@
+<map id="omc_BackendDump_partitionKindString" name="omc_BackendDump_partitionKindString">
+<area shape="rect" id="node2" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="288,5,387,32"/>
+<area shape="rect" id="node3" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a751bf2360cb3df6de97811998890b7ea" title="intString" alt="" coords="302,56,373,83"/>
+<area shape="rect" id="node4" href="$db/da1/_compiler_2boot_2build_2error_8c.html#af2095b97605381e4a896bbbf299ba506" title="omc_Error_addInternalError" alt="" coords="247,107,428,133"/>
+<area shape="rect" id="node5" href="$d1/d5c/_config_8c.html#afa2f208e09cd9979df49295043109099" title="omc_Config_getRunningTestsuite" alt="" coords="476,107,695,133"/>
+<area shape="rect" id="node6" href="$d3/db3/_flags_8c.html#a1bdc57ee7db1a86ebd954e1aa4d04c0c" title="omc_Flags_getConfigString" alt="" coords="743,107,925,133"/>
+<area shape="rect" id="node7" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="973,107,1156,133"/>
+<area shape="rect" id="node8" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="1204,107,1353,133"/>
+<area shape="rect" id="node9" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1401,107,1504,133"/>
+</map>

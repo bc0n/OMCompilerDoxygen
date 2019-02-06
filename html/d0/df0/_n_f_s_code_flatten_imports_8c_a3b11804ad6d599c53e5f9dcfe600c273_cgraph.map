@@ -1,0 +1,36 @@
+<map id="omc_NFSCodeFlattenImports_flattenTypeSpec" name="omc_NFSCodeFlattenImports_flattenTypeSpec">
+<area shape="rect" id="node2" href="$d9/d84/_n_f_s_code_lookup_8c.html#a74378c95ba6a07fedc35ba5b8d59efdf" title="omc_NFSCodeLookup_lookup\lClassName" alt="" coords="249,403,448,445"/>
+<area shape="rect" id="node3" href="$d9/d84/_n_f_s_code_lookup_8c.html#a6cea4f320a59d9e15cb919881b28e6a8" title="omc_NFSCodeLookup_lookupName" alt="" coords="496,247,731,273"/>
+<area shape="rect" id="node4" href="$d9/d84/_n_f_s_code_lookup_8c.html#ab3d7fe7589bf43a7689bc94ca6f4e349" title="omc_NFSCodeLookup_lookup\lBuiltinName" alt="" coords="779,115,977,157"/>
+<area shape="rect" id="node7" href="$d9/d84/_n_f_s_code_lookup_8c.html#a73c0ff25b1ee6690cc972151df81319f" title="omc_NFSCodeLookup_lookup\lSimpleName" alt="" coords="779,195,977,237"/>
+<area shape="rect" id="node25" href="$d9/d84/_n_f_s_code_lookup_8c.html#ac796152a22d57017d59e59ecd5ab2def" title="omc_NFSCodeLookup_lookup\lNameInItem" alt="" coords="779,342,977,383"/>
+<area shape="rect" id="node33" href="$d9/d84/_n_f_s_code_lookup_8c.html#a8c44f4a730ff95e02647400dad1ed0d8" title="omc_NFSCodeLookup_joinPaths" alt="" coords="1300,291,1515,317"/>
+<area shape="rect" id="node34" href="$d9/d84/_n_f_s_code_lookup_8c.html#a13742fc78cf68fa7b55c0d9a0fce12d3" title="omc_NFSCodeLookup_lookup\lFullyQualified" alt="" coords="779,43,977,85"/>
+<area shape="rect" id="node5" href="$d9/d84/_n_f_s_code_lookup_8c.html#a180d399923f13b27ba337ac4a377c3c3" title="omc_NFSCodeLookup_lookup\lBuiltinType" alt="" coords="1039,94,1238,135"/>
+<area shape="rect" id="node6" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a71a925de64a6f26ca5ef2903b616e73d" title="stringHashDjb2Mod" alt="" coords="1339,43,1476,69"/>
+<area shape="rect" id="node8" href="$d9/d84/_n_f_s_code_lookup_8c.html#a2b1c32950d86a858482ad87dadca7af9" title="omc_NFSCodeLookup_lookup\lSimpleName2" alt="" coords="1039,159,1238,201"/>
+<area shape="rect" id="node9" href="$d9/d84/_n_f_s_code_lookup_8c.html#a6d43c50218bf018ba208319c3d746da0" title="omc_NFSCodeLookup_lookup\lInLocalScope" alt="" coords="1308,159,1507,201"/>
+<area shape="rect" id="node24" href="$d9/d84/_n_f_s_code_lookup_8c.html#ad371715c44695ad71d05c30e4511f19c" title="omc_NFSCodeLookup_frameNot\lEncapsulated" alt="" coords="1300,94,1515,135"/>
+<area shape="rect" id="node10" href="$d9/d84/_n_f_s_code_lookup_8c.html#a46bb2f4230fd0819a11441e73ee3fb93" title="omc_NFSCodeLookup_lookup\lInClass" alt="" coords="1563,159,1761,201"/>
+<area shape="rect" id="node11" href="$da/db6/_n_f_s_code_env_8c.html#a9efe19b6d2206ee8e57203750a59f565" title="omc_NFSCodeEnv_EnvTree_get" alt="" coords="2069,217,2285,244"/>
+<area shape="rect" id="node13" href="$d9/d84/_n_f_s_code_lookup_8c.html#a76c1a67707b6e4eff8bbe9e5c3208118" title="omc_NFSCodeLookup_resolve\lAlias" alt="" coords="1809,101,2012,142"/>
+<area shape="rect" id="node12" href="$da/db6/_n_f_s_code_env_8c.html#a444fbc877977ec8996bd6315a71a5b05" title="omc_NFSCodeEnv_EnvTree\l_keyCompare" alt="" coords="2351,214,2542,255"/>
+<area shape="rect" id="node14" href="$da/db6/_n_f_s_code_env_8c.html#a5d6e78fd21df14670b8707f85b564b26" title="omc_NFSCodeEnv_getEnvTop\lScope" alt="" coords="2344,54,2549,95"/>
+<area shape="rect" id="node16" href="$da/db6/_n_f_s_code_env_8c.html#ad80594920fb0caacdc3c08005bdd4ad7" title="omc_NFSCodeEnv_enterScopePath" alt="" coords="2060,112,2295,139"/>
+<area shape="rect" id="node15" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a81001ba45c298ade27540edd2589777c" title="listReverse" alt="" coords="2870,87,2958,113"/>
+<area shape="rect" id="node17" href="$da/db6/_n_f_s_code_env_8c.html#a78244dfadbeaa355485ae20a96695f62" title="omc_NFSCodeEnv_enterScope" alt="" coords="2343,163,2551,189"/>
+<area shape="rect" id="node18" href="$da/db6/_n_f_s_code_env_8c.html#a027e82f7338fe121f6f79ed0f3aa17d6" title="omc_NFSCodeEnv_getItemEnv" alt="" coords="2599,213,2808,240"/>
+<area shape="rect" id="node19" href="$da/db6/_n_f_s_code_env_8c.html#a9ab508f8104d46a6a75cc1daeb0d78f3" title="omc_NFSCodeEnv_enterFrame" alt="" coords="2599,341,2807,368"/>
+<area shape="rect" id="node20" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="2654,112,2753,139"/>
+<area shape="rect" id="node21" href="$da/db6/_n_f_s_code_env_8c.html#a570d61e560075adfed60c1bc4a2bf743" title="omc_NFSCodeEnv_printEnvStr" alt="" coords="2600,163,2807,189"/>
+<area shape="rect" id="node22" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a6f570947bebe207c25a64ea25f5ca884" title="stringDelimitList" alt="" coords="2856,188,2972,215"/>
+<area shape="rect" id="node23" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a70628b2c3fb199a118f80777135940ee" title="omc_List_map" alt="" coords="2861,137,2967,164"/>
+<area shape="rect" id="node26" href="$d9/d84/_n_f_s_code_lookup_8c.html#ae6e86f292f22eef5b8f848815bc97ec4" title="omc_NFSCodeLookup_lookup\lTypeSpec" alt="" coords="1039,523,1238,565"/>
+<area shape="rect" id="node27" href="$de/dd2/_n_f_s_code_flatten_redeclare_8c.html#af730cd6dacfe6fa5692d1d5eb162063c" title="omc_NFSCodeFlattenRedeclare\l_extractRedeclaresFromModifier" alt="" coords="1033,458,1244,499"/>
+<area shape="rect" id="node29" href="$de/dd2/_n_f_s_code_flatten_redeclare_8c.html#a23d04d31e83e0f8ce88ef108079c50d8" title="omc_NFSCodeFlattenRedeclare\l_replaceRedeclaredElementsInEnv" alt="" coords="1025,393,1252,434"/>
+<area shape="rect" id="node31" href="$d9/d84/_n_f_s_code_lookup_8c.html#a92df9d56a4bdc2c7071dc20145abf184" title="omc_NFSCodeLookup_lookup\lNameInPackage" alt="" coords="1039,225,1238,266"/>
+<area shape="rect" id="node28" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1356,493,1459,520"/>
+<area shape="rect" id="node30" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a96948329fc9979d4083c0633b4cb711d" title="omc_List_map2" alt="" coords="1350,392,1465,419"/>
+<area shape="rect" id="node32" href="$da/db6/_n_f_s_code_env_8c.html#a871db7c9f8aa86849cb56460bcca851d" title="omc_NFSCodeEnv_setImport\lTableHidden" alt="" coords="1309,225,1506,266"/>
+<area shape="rect" id="node35" href="$d0/d78/_absyn_8c.html#a4539f220116ead9c47c94ea3ea75a518" title="omc_Absyn_makeFullyQualified" alt="" coords="1034,43,1243,69"/>
+</map>

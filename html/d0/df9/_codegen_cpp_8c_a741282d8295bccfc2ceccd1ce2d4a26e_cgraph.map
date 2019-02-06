@@ -1,0 +1,12 @@
+<map id="boxptr_CodegenCpp_fun__710" name="boxptr_CodegenCpp_fun__710">
+<area shape="rect" id="node2" href="$d0/df9/_codegen_cpp_8c.html#a79dcd4a1517299ff33b55c97a3854e94" title="omc_CodegenCpp_fun__710" alt="" coords="255,148,445,175"/>
+<area shape="rect" id="node3" href="$d7/d52/_tpl_8c.html#a1038a57834f028b49f38adc4d5fcd049" title="omc_Tpl_writeTok" alt="" coords="522,5,651,32"/>
+<area shape="rect" id="node4" href="$d0/df9/_codegen_cpp_8c.html#accd603d6a498dd3bc8bfcf15622607e9" title="omc_CodegenCpp_lastIdent\lOfPath" alt="" coords="493,57,680,98"/>
+<area shape="rect" id="node6" href="$d7/d52/_tpl_8c.html#a7e5a397e973cf3de37af50d58cbb789f" title="omc_Tpl_writeText" alt="" coords="520,123,653,149"/>
+<area shape="rect" id="node7" href="$d7/d52/_tpl_8c.html#a99d6bda0846441f21c5081261888085a" title="omc_Tpl_pushBlock" alt="" coords="517,173,657,200"/>
+<area shape="rect" id="node8" href="$d7/d52/_tpl_8c.html#a4af96d109f0c655c66046cf20edcebcd" title="omc_Tpl_softNewLine" alt="" coords="511,224,663,251"/>
+<area shape="rect" id="node11" href="$d7/d52/_tpl_8c.html#a6cf6c8514535aa47abb9ff6badd4f6a5" title="omc_Tpl_popBlock" alt="" coords="520,275,653,301"/>
+<area shape="rect" id="node5" href="$d7/d52/_tpl_8c.html#ada57037d1430be632aea182a946c3245" title="omc_Tpl_writeStr" alt="" coords="750,64,874,91"/>
+<area shape="rect" id="node9" href="$d7/d52/_tpl_8c.html#a2bc2d55a944d62577b3596f42906ee58" title="omc_Tpl_isAtStartOfLine" alt="" coords="728,224,896,251"/>
+<area shape="rect" id="node10" href="$d7/d52/_tpl_8c.html#a1b27a1e34bf7c6c0e2b26e628b21c9f7" title="omc_Tpl_isAtStartOfLineTok" alt="" coords="944,224,1135,251"/>
+</map>
