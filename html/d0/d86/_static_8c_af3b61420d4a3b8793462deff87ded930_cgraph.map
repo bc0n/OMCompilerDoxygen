@@ -1,0 +1,10 @@
+<map id="omc_Static_elabConsts" name="omc_Static_elabConsts">
+<area shape="rect" id="node2" href="$d0/d86/_static_8c.html#ad4e9568f3c93178b1ba1f35e464b1e21" title="omc_Static_checkConsts" alt="" coords="215,5,387,32"/>
+<area shape="rect" id="node3" href="$d0/d86/_static_8c.html#a4e4781738b3e9742ea49e5e2cf191363" title="omc_Static_checkConst" alt="" coords="435,5,600,32"/>
+<area shape="rect" id="node4" href="$db/da1/_compiler_2boot_2build_2error_8c.html#af2095b97605381e4a896bbbf299ba506" title="omc_Error_addInternalError" alt="" coords="648,5,829,32"/>
+<area shape="rect" id="node5" href="$d1/d5c/_config_8c.html#afa2f208e09cd9979df49295043109099" title="omc_Config_getRunningTestsuite" alt="" coords="877,5,1096,32"/>
+<area shape="rect" id="node6" href="$d3/db3/_flags_8c.html#a1bdc57ee7db1a86ebd954e1aa4d04c0c" title="omc_Flags_getConfigString" alt="" coords="1144,5,1327,32"/>
+<area shape="rect" id="node7" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="1375,5,1557,32"/>
+<area shape="rect" id="node8" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="1605,5,1755,32"/>
+<area shape="rect" id="node9" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1803,5,1905,32"/>
+</map>

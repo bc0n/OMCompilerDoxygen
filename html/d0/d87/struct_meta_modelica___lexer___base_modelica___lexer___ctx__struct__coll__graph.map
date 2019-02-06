@@ -1,0 +1,28 @@
+<map id="MetaModelica_Lexer_BaseModelica_Lexer_Ctx_struct" name="MetaModelica_Lexer_BaseModelica_Lexer_Ctx_struct">
+<area shape="rect" id="node27" href="$d0/d14/struct_meta_modelica___lexer___ctx__struct.html" title="MetaModelica_Lexer\l_Ctx_struct" alt="" coords="4324,177,4467,218"/>
+<area shape="rect" id="node2" href="$d5/d3d/struct_a_n_t_l_r3___l_e_x_e_r__struct.html" title="ANTLR3_LEXER_struct" alt="" coords="3736,207,3900,233"/>
+<area shape="rect" id="node3" href="$d9/d78/struct_a_n_t_l_r3___c_o_m_m_o_n___t_o_k_e_n__struct.html" title="ANTLR3_COMMON_TOKEN\l_struct" alt="" coords="1955,334,2149,375"/>
+<area shape="rect" id="node18" href="$d2/d40/struct_a_n_t_l_r3___r_e_c_o_g_n_i_z_e_r___s_h_a_r_e_d___s_t_a_t_e__struct.html" title="ANTLR3_RECOGNIZER_SHARED\l_STATE_struct" alt="" coords="2676,710,2911,751"/>
+<area shape="rect" id="node19" href="$d2/d84/struct_a_n_t_l_r3___t_o_k_e_n___s_o_u_r_c_e__struct.html" title="ANTLR3_TOKEN_SOURCE\l_struct" alt="" coords="2273,594,2463,635"/>
+<area shape="rect" id="node20" href="$d1/db2/struct_a_n_t_l_r3___t_o_k_e_n___f_a_c_t_o_r_y__struct.html" title="ANTLR3 Token factory interface to create lots of tokens efficiently rather than creating and freeing ..." alt="" coords="2269,291,2467,333"/>
+<area shape="rect" id="node26" href="$d1/d16/struct_a_n_t_l_r3___b_a_s_e___t_r_e_e___a_d_a_p_t_o_r__struct.html" title="ANTLR3_BASE_TREE_ADAPTOR\l_struct" alt="" coords="2678,303,2909,345"/>
+<area shape="rect" id="node4" href="$d5/d6b/struct_a_n_t_l_r3___s_t_r_i_n_g__struct.html" title="ANTLR3_STRING_struct" alt="" coords="884,429,1055,456"/>
+<area shape="rect" id="node5" href="$d6/d0c/struct_a_n_t_l_r3___s_t_r_i_n_g___f_a_c_t_o_r_y__struct.html" title="ANTLR3_STRING_FACTORY\l_struct" alt="" coords="581,289,784,330"/>
+<area shape="rect" id="node8" href="$d2/dda/struct_a_n_t_l_r3___i_n_p_u_t___s_t_r_e_a_m__struct.html" title="ANTLR3_INPUT_STREAM\l_struct" alt="" coords="1546,234,1730,275"/>
+<area shape="rect" id="node9" href="$d0/db0/struct_a_n_t_l_r3___i_n_t___s_t_r_e_a_m__struct.html" title="ANTLR3_INT_STREAM_struct" alt="" coords="1201,505,1407,532"/>
+<area shape="rect" id="node21" href="$de/d0c/struct_a_n_t_l_r3___e_x_c_e_p_t_i_o_n__struct.html" title="ANTLR3_EXCEPTION_struct" alt="" coords="1539,619,1737,645"/>
+<area shape="rect" id="node25" href="$d2/d37/struct_a_n_t_l_r3___d_e_b_u_g___e_v_e_n_t___l_i_s_t_e_n_e_r__struct.html" title="ANTLR3_DEBUG_EVENT\l_LISTENER_struct" alt="" coords="3153,431,3333,473"/>
+<area shape="rect" id="node6" href="$d0/de4/struct_a_n_t_l_r3___v_e_c_t_o_r__struct.html" title="ANTLR3_VECTOR_struct" alt="" coords="313,640,489,667"/>
+<area shape="rect" id="node11" href="$dc/db3/struct_a_n_t_l_r3___s_t_a_c_k__struct.html" title="ANTLR3_STACK_struct" alt="" coords="2285,1112,2451,1139"/>
+<area shape="rect" id="node7" href="$d6/d79/struct_a_n_t_l_r3___v_e_c_t_o_r___e_l_e_m_e_n_t__struct.html" title="ANTLR3_VECTOR_ELEMENT\l_struct" alt="" coords="5,633,212,674"/>
+<area shape="rect" id="node10" href="$d0/d70/struct_a_n_t_l_r3___b_a_s_e___r_e_c_o_g_n_i_z_e_r__struct.html" title="Base tracking context structure for all types of recognizers. " alt="" coords="3452,813,3665,854"/>
+<area shape="rect" id="node12" href="$d0/df7/struct_a_n_t_l_r3___b_i_t_s_e_t__struct.html" title="ANTLR3_BITSET_struct" alt="" coords="1764,1045,1931,1072"/>
+<area shape="rect" id="node13" href="$df/d96/struct_a_n_t_l_r3___b_i_t_s_e_t___l_i_s_t__struct.html" title="ANTLR3_BITSET_LIST\l_struct" alt="" coords="1223,818,1385,859"/>
+<area shape="rect" id="node14" href="$da/d51/struct_a_n_t_l_r3___h_a_s_h___t_a_b_l_e__struct.html" title="ANTLR3_HASH_TABLE_struct" alt="" coords="3140,924,3347,951"/>
+<area shape="rect" id="node15" href="$d4/d98/struct_a_n_t_l_r3___h_a_s_h___e_n_t_r_y__struct.html" title="ANTLR3_HASH_ENTRY_struct" alt="" coords="2263,980,2473,1007"/>
+<area shape="rect" id="node17" href="$d2/d9d/struct_a_n_t_l_r3___h_a_s_h___b_u_c_k_e_t__struct.html" title="ANTLR3_HASH_BUCKET\l_struct" alt="" coords="2703,986,2883,1027"/>
+<area shape="rect" id="node16" href="$d1/da2/struct_a_n_t_l_r3___h_a_s_h___k_e_y__struct.html" title="ANTLR3_HASH_KEY_struct" alt="" coords="1956,1001,2148,1028"/>
+<area shape="rect" id="node22" href="$d2/d8b/struct_a_n_t_l_r3___i_n_t___t_r_i_e__struct.html" title="ANTLR3_INT_TRIE_struct" alt="" coords="2278,829,2458,856"/>
+<area shape="rect" id="node23" href="$dc/d41/struct_a_n_t_l_r3___t_r_i_e___e_n_t_r_y__struct.html" title="ANTLR3_TRIE_ENTRY_struct" alt="" coords="1536,841,1740,868"/>
+<area shape="rect" id="node24" href="$d2/da3/struct_a_n_t_l_r3___i_n_t___t_r_i_e___n_o_d_e__struct.html" title="ANTLR3_INT_TRIE_NODE\l_struct" alt="" coords="1959,822,2145,863"/>
+</map>

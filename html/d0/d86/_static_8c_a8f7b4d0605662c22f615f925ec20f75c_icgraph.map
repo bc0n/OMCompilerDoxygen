@@ -1,0 +1,14 @@
+<map id="omc_Static_elabBuiltinHandler" name="omc_Static_elabBuiltinHandler">
+<area shape="rect" id="node2" href="$d0/d86/_static_8c.html#ab47390515f3bb32dc80af412290aa698" title="omc_Static_hasBuiltInHandler" alt="" coords="253,71,452,98"/>
+<area shape="rect" id="node8" href="$d0/d86/_static_8c.html#aa3d60aa0789a269bc7854eb0e2faf275" title="omc_Static_elabCallBuiltin" alt="" coords="263,122,442,149"/>
+<area shape="rect" id="node10" href="$d5/d33/_static_8h.html#a543dcd0055fb2ec4945f3a833de178f7" title="omc_Static_isBuiltinFunc" alt="" coords="267,173,438,199"/>
+<area shape="rect" id="node3" href="$d0/d86/_static_8c.html#a24246ffd75bc5f5a1755897142a49f45" title="boxptr_Static_hasBuiltIn\lHandler" alt="" coords="513,5,677,47"/>
+<area shape="rect" id="node4" href="$d0/d86/_static_8c.html#a36a1dd6e82018a84f343570844b10ff3" title="omc_Static_elabCall" alt="" coords="523,71,666,98"/>
+<area shape="rect" id="node5" href="$d0/d86/_static_8c.html#aff0a95dd29fbc09928128a44137e4edd" title="boxptr_Static_elabCall" alt="" coords="754,34,907,61"/>
+<area shape="rect" id="node6" href="$d0/d86/_static_8c.html#ad474433ed9ee6f268faeb9bbe758f5fd" title="omc_Static_elabExp\l__Call" alt="" coords="759,85,902,127"/>
+<area shape="rect" id="node7" href="$d0/d86/_static_8c.html#a33d2afe6ba3f3aa39f8f266a022626a0" title="boxptr_Static_elabExp\l__Call" alt="" coords="972,85,1125,127"/>
+<area shape="rect" id="node9" href="$d0/d86/_static_8c.html#a494d078d855a6cd28fd0f814713a3e22" title="boxptr_Static_elabCallBuiltin" alt="" coords="500,122,689,149"/>
+<area shape="rect" id="node11" href="$d5/d33/_static_8h.html#a0c535788f4dc2da91bc85757f8d757c0" title="omc_Static_elabCallArgs3" alt="" coords="507,173,683,199"/>
+<area shape="rect" id="node13" href="$d5/d33/_static_8h.html#ada67009910b56e9015a549bce098c56b" title="boxptr_Static_isBuiltinFunc" alt="" coords="504,223,685,250"/>
+<area shape="rect" id="node12" href="$d5/d33/_static_8h.html#a5d3b32cf92ff2a57fb47d7c3bc22bc31" title="boxptr_Static_elabCallArgs3" alt="" coords="737,173,924,199"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="omc_Static_elabGraphicsExp" name="omc_Static_elabGraphicsExp">
+<area shape="rect" id="node2" href="$d0/d86/_static_8c.html#a23fb8c2f791d5324e9649860a79bf81e" title="omc_Static_elabGraphicsArray" alt="" coords="261,29,463,55"/>
+<area shape="rect" id="node4" href="$d5/d33/_static_8h.html#a5616bb1fd4769c1ce310d18a2b25cb47" title="boxptr_Static_elabGraphicsExp" alt="" coords="259,95,465,122"/>
+<area shape="rect" id="node5" href="$d5/d38/_static_script_8h.html#a2851c22fdd7312bc2e86d10c99a1fb50" title="omc_StaticScript_elabGraphicsExp" alt="" coords="248,177,476,203"/>
+<area shape="rect" id="node3" href="$d0/d86/_static_8c.html#a23ea570f46821ea3d097ee0b42515f57" title="boxptr_Static_elabGraphics\lArray" alt="" coords="552,5,735,47"/>
+<area shape="rect" id="node6" href="$db/d73/_interactive_8c.html#a731ca6f6678745875c50c0c94de89173" title="omc_Interactive_getComponentitems\lAnnotationsElArgs" alt="" coords="524,71,763,112"/>
+<area shape="rect" id="node9" href="$db/d73/_interactive_8c.html#af8e88197069c2a2597d04119d1ba6fe7" title="omc_Interactive_getDocumentation\lAnnotationInfoHeader" alt="" coords="529,136,757,177"/>
+<area shape="rect" id="node11" href="$db/d73/_interactive_8c.html#ab9afc50820b0be26aeb620296cf79dff" title="omc_Interactive_getDocumentation\lAnnotationRevision" alt="" coords="529,201,757,243"/>
+<area shape="rect" id="node12" href="$db/d73/_interactive_8c.html#a9ca35a4a69a259c1efa6dddd57680dfe" title="omc_Interactive_getDocumentation\lAnnotationInfo" alt="" coords="529,267,757,308"/>
+<area shape="rect" id="node13" href="$d5/d38/_static_script_8h.html#aa0d19dc5b866c32091909e830d72db0b" title="boxptr_StaticScript\l_elabGraphicsExp" alt="" coords="577,332,710,373"/>
+<area shape="rect" id="node7" href="$db/d73/_interactive_8c.html#aa2f7438670a6c767167a808117be7c26" title="omc_Interactive_getComponentitems\lAnnotationsFromItems" alt="" coords="811,71,1049,112"/>
+<area shape="rect" id="node8" href="$db/d73/_interactive_8c.html#ad39e08213abadf81636d051805a2d626" title="omc_Interactive_getComponentitems\lAnnotations" alt="" coords="1097,71,1336,112"/>
+<area shape="rect" id="node10" href="$d1/de1/_interactive_8h.html#af2858f277876647dca3865ebc964d75f" title="omc_Interactive_getDocumentation\lAnnotationString" alt="" coords="816,201,1044,243"/>
+</map>

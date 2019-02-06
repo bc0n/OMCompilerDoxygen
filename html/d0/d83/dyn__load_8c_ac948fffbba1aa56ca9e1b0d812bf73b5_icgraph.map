@@ -1,0 +1,5 @@
+<map id="GC_register_main_static_data" name="GC_register_main_static_data">
+<area shape="rect" id="node2" href="$d0/d83/dyn__load_8c.html#a3266aad810dd1242a5aaef607cd6564a" title="GC_register_dynamic\l_libraries_dl_iterate_phdr" alt="" coords="252,5,419,47"/>
+<area shape="rect" id="node3" href="$d0/d83/dyn__load_8c.html#ae0d7e5f93e8290e271608fd66312babb" title="GC_cond_add_roots" alt="" coords="265,71,406,98"/>
+<area shape="rect" id="node4" href="$d0/d83/dyn__load_8c.html#ad450625ba7d3f71e1ce4e1b57a67eee2" title="GC_dump_meminfo" alt="" coords="467,71,605,98"/>
+</map>

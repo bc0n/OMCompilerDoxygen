@@ -1,0 +1,16 @@
+<map id="omc_Static_unevaluatedFunctionVariability" name="omc_Static_unevaluatedFunctionVariability">
+<area shape="rect" id="node2" href="$d8/de4/_f_graph_8c.html#ab7c2beacd34f753f1e9d7da2e7a29181" title="omc_FGraph_inFunctionScope" alt="" coords="268,241,469,268"/>
+<area shape="rect" id="node12" href="$d3/db3/_flags_8c.html#abc3d84cf6e1cf18f0cec0f052e7c85d9" title="omc_Flags_getConfigBool" alt="" coords="281,292,456,319"/>
+<area shape="rect" id="node3" href="$d8/de4/_f_graph_8c.html#a855fed1ec0c77382ad9d6153f380bfef" title="omc_FGraph_checkScopeType" alt="" coords="517,183,723,209"/>
+<area shape="rect" id="node4" href="$d2/d0f/_f_node_8c.html#afdbbdc365c4cabeaa2f87fe86ef746dc" title="omc_FNode_isRefClass" alt="" coords="796,5,961,32"/>
+<area shape="rect" id="node6" href="$d2/d0f/_f_node_8c.html#ab9dbc34a8a7187057b8c2533b409fae3" title="omc_FNode_fromRef" alt="" coords="1035,56,1181,83"/>
+<area shape="rect" id="node7" href="$d9/d9e/_s_code_8c.html#a59beac384e2d377adc0181efe2f48d2e" title="omc_SCode_getClassRestriction" alt="" coords="771,107,987,133"/>
+<area shape="rect" id="node8" href="$d2/d0f/_f_node_8c.html#a9e418e6991b53529be158196fff365ca" title="omc_FNode_getElement" alt="" coords="795,157,962,184"/>
+<area shape="rect" id="node9" href="$dc/dd0/build_2include_2omc_2c_2meta_2meta__modelica_8h.html#a053b78d26cb7fe728aa97ab1a575f7ad" title="valueEq" alt="" coords="844,208,913,235"/>
+<area shape="rect" id="node10" href="$d8/de4/_f_graph_8c.html#ac1708f0add3fe43f04d615841dd034ec" title="omc_FGraph_restrictionTo\lScopeType" alt="" coords="791,259,967,301"/>
+<area shape="rect" id="node11" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="855,325,902,352"/>
+<area shape="rect" id="node5" href="$d2/d0f/_f_node_8c.html#a2d36ac63aa9fb4f3e8a88a2b77e51a8d" title="omc_FNode_isClass" alt="" coords="1036,5,1180,32"/>
+<area shape="rect" id="node13" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="529,292,711,319"/>
+<area shape="rect" id="node14" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="804,376,953,403"/>
+<area shape="rect" id="node15" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1057,376,1159,403"/>
+</map>
