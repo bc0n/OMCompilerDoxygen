@@ -1,0 +1,20 @@
+digraph "ModelicaFormatMessage"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node10 [label="ModelicaFormatMessage",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="ModelicaVFormatMessage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d6f/_modelica_utilities_8c.html#adb263389ac985c4d4179eb50906926aa",tooltip="Output the message under the same format control as the C-function vprintf. "];
+  Node11 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="va_infoStreamPrint",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d3d/omc__error_8c.html#a603275556f08d61c818fe643d2f37b43"];
+  Node10 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="OpenModelica_Simulation\l_ModelicaError",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d6f/_modelica_utilities_8c.html#a9fa2119d39ab71b8c46d073ffccdc0b6"];
+  Node13 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="throwStreamPrint",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d3d/omc__error_8c.html#ace3549ed53d1ce9f60bcdfe2f941a592"];
+  Node14 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="va_throwStreamPrint",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d3d/omc__error_8c.html#aa11774b25878a13bb0b79660763b3ca4"];
+  Node13 -> Node16 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="OpenModelica_Simulation\l_ModelicaVFormatError",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d6f/_modelica_utilities_8c.html#aa7eefbe95c77cf67a59c53d3733d457b"];
+  Node16 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

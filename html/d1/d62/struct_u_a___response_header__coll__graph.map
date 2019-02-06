@@ -1,0 +1,9 @@
+<map id="UA_ResponseHeader" name="UA_ResponseHeader">
+<area shape="rect" id="node2" href="$d3/dbd/struct_u_a___string.html" title="UA_String" alt="" coords="171,5,253,32"/>
+<area shape="rect" id="node3" href="$d4/d3a/struct_u_a___diagnostic_info.html" title="UA_DiagnosticInfo" alt="" coords="26,160,158,187"/>
+<area shape="rect" id="node4" href="$d9/d10/struct_u_a___extension_object.html" title="UA_ExtensionObject" alt="" coords="289,300,433,327"/>
+<area shape="rect" id="node5" href="$da/dfd/struct_u_a___node_id.html" title="UA_NodeId" alt="" coords="368,109,459,136"/>
+<area shape="rect" id="node7" href="$da/dea/struct_u_a___data_type.html" title="UA_DataType" alt="" coords="458,211,563,237"/>
+<area shape="rect" id="node6" href="$db/d54/struct_u_a___guid.html" title="UA_Guid" alt="" coords="428,5,503,32"/>
+<area shape="rect" id="node8" href="$d9/d85/struct_u_a___data_type_member.html" title="UA_DataTypeMember" alt="" coords="483,109,635,136"/>
+</map>
