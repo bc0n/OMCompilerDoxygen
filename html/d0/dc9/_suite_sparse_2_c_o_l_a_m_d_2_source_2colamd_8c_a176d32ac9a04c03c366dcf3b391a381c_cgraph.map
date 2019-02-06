@@ -1,0 +1,12 @@
+<map id="COLAMD_report" name="COLAMD_report">
+<area shape="rect" id="node2" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a31ac7029f4ff124e9bba5005b35912fc" title="print_report" alt="" coords="351,5,437,32"/>
+<area shape="rect" id="node8" href="$d0/dc9/_suite_sparse_2_c_o_l_a_m_d_2_source_2colamd_8c.html#a17371d66af5097680276280cba53c661" title="SYMAMD_report" alt="" coords="172,56,293,83"/>
+<area shape="rect" id="node3" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a25b6e7111401a9cd3a087bfeca6c3c29" title="debug_structures" alt="" coords="631,5,753,32"/>
+<area shape="rect" id="node4" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a5f650ce72d29ac2b7e4a948f9a5944a4" title="debug_deg_lists" alt="" coords="801,31,917,57"/>
+<area shape="rect" id="node5" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a31af67dba4dacf2238059e9ec47cb596" title="debug_mark" alt="" coords="965,31,1059,57"/>
+<area shape="rect" id="node6" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a33b939adb95c607cade1858223bb1e93" title="debug_matrix" alt="" coords="1107,31,1207,57"/>
+<area shape="rect" id="node7" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a637a42b0535f2ba5ef8f1e7534048cc5" title="colamd_get_debug" alt="" coords="1255,31,1385,57"/>
+<area shape="rect" id="node9" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#af3a1b23eb19f05b7c713530b9d2cb7ea" title="init_rows_cols" alt="" coords="341,56,447,83"/>
+<area shape="rect" id="node10" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a2bb1c21b6a3861fe0677cbbd3e7ac5ca" title="init_scoring" alt="" coords="495,56,583,83"/>
+<area shape="rect" id="node11" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#ace71106e51e627435bfeb787195a6f3f" title="find_ordering" alt="" coords="644,107,740,133"/>
+</map>

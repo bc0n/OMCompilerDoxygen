@@ -1,0 +1,11 @@
+<map id="detect_super_cols" name="detect_super_cols">
+<area shape="rect" id="node2" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#ab96802c3adc82bc9b8cea287206c99de" title="garbage_collection" alt="" coords="181,68,312,95"/>
+<area shape="rect" id="node3" href="$db/d34/_k_i_n_set_options_8m.html#a5e0258c639a26425f868c8129a9a0329" title="length" alt="" coords="1271,43,1329,69"/>
+<area shape="rect" id="node4" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a73befa8bc81cd2f2bff70f391cbf8a64" title="clear_mark" alt="" coords="360,93,447,120"/>
+<area shape="rect" id="node5" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a31ac7029f4ff124e9bba5005b35912fc" title="print_report" alt="" coords="495,119,581,145"/>
+<area shape="rect" id="node6" href="$d0/d26/umf__colamd_8c.html#ac076a769bbd2d5cfa67d23048d0086ed" title="debug_structures" alt="" coords="629,93,752,120"/>
+<area shape="rect" id="node7" href="$d0/d26/umf__colamd_8c.html#ad1e5b4e47806d1c9ff8e47d63d96b2ef" title="debug_deg_lists" alt="" coords="800,144,916,171"/>
+<area shape="rect" id="node8" href="$d0/d26/umf__colamd_8c.html#adf97217b763d38c626fd08c557fd28c2" title="debug_mark" alt="" coords="964,169,1057,196"/>
+<area shape="rect" id="node9" href="$d0/d26/umf__colamd_8c.html#aa14ff3bfbc01c6d5185cf2222f5adfac" title="debug_matrix" alt="" coords="1105,169,1205,196"/>
+<area shape="rect" id="node10" href="$d0/d26/umf__colamd_8c.html#a88c139be3a577fa6a500a638d0292afb" title="dump_super" alt="" coords="1253,169,1347,196"/>
+</map>

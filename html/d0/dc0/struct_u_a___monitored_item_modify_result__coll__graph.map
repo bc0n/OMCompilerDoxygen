@@ -1,0 +1,8 @@
+<map id="UA_MonitoredItemModifyResult" name="UA_MonitoredItemModifyResult">
+<area shape="rect" id="node2" href="$d9/d10/struct_u_a___extension_object.html" title="UA_ExtensionObject" alt="" coords="160,288,304,315"/>
+<area shape="rect" id="node3" href="$da/dfd/struct_u_a___node_id.html" title="UA_NodeId" alt="" coords="183,109,273,136"/>
+<area shape="rect" id="node6" href="$da/dea/struct_u_a___data_type.html" title="UA_DataType" alt="" coords="78,199,183,225"/>
+<area shape="rect" id="node4" href="$d3/dbd/struct_u_a___string.html" title="UA_String" alt="" coords="251,5,333,32"/>
+<area shape="rect" id="node5" href="$db/d54/struct_u_a___guid.html" title="UA_Guid" alt="" coords="133,5,208,32"/>
+<area shape="rect" id="node7" href="$d9/d85/struct_u_a___data_type_member.html" title="UA_DataTypeMember" alt="" coords="5,109,157,136"/>
+</map>

@@ -1,0 +1,11 @@
+digraph "MittelmannParaCntrl5_try::ProblemSpecs::b"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node10 [label="MittelmannParaCntrl5\l_try::ProblemSpecs::b",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="Ipopt::Min",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/db2/namespace_ipopt.html#a8ec0c10ece3279f5ab0e4a3c073cbf48"];
+  Node10 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="Ipopt::Max",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/db2/namespace_ipopt.html#a58d1b9886a207be5b242eb514fe79e95"];
+}

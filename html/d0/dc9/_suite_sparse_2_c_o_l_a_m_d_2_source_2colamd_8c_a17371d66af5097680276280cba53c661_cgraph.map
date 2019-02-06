@@ -1,0 +1,11 @@
+<map id="SYMAMD_report" name="SYMAMD_report">
+<area shape="rect" id="node2" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a31ac7029f4ff124e9bba5005b35912fc" title="print_report" alt="" coords="329,5,415,32"/>
+<area shape="rect" id="node8" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#af3a1b23eb19f05b7c713530b9d2cb7ea" title="init_rows_cols" alt="" coords="175,56,280,83"/>
+<area shape="rect" id="node3" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a25b6e7111401a9cd3a087bfeca6c3c29" title="debug_structures" alt="" coords="464,5,587,32"/>
+<area shape="rect" id="node4" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a5f650ce72d29ac2b7e4a948f9a5944a4" title="debug_deg_lists" alt="" coords="635,31,751,57"/>
+<area shape="rect" id="node5" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a31af67dba4dacf2238059e9ec47cb596" title="debug_mark" alt="" coords="799,31,892,57"/>
+<area shape="rect" id="node6" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a33b939adb95c607cade1858223bb1e93" title="debug_matrix" alt="" coords="940,31,1040,57"/>
+<area shape="rect" id="node7" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a637a42b0535f2ba5ef8f1e7534048cc5" title="colamd_get_debug" alt="" coords="1088,31,1219,57"/>
+<area shape="rect" id="node9" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#a2bb1c21b6a3861fe0677cbbd3e7ac5ca" title="init_scoring" alt="" coords="328,56,416,83"/>
+<area shape="rect" id="node10" href="$d6/d5c/lpsolve_2colamd_2colamd_8c.html#ace71106e51e627435bfeb787195a6f3f" title="find_ordering" alt="" coords="477,107,573,133"/>
+</map>

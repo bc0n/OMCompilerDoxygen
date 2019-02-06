@@ -1,0 +1,4 @@
+<map id="Teuchos::details::setCommErrhandler" name="Teuchos::details::setCommErrhandler">
+<area shape="rect" id="node2" href="$d9/d5f/class_teuchos_1_1_mpi_comm.html#adcde8302b1d50a6445c6b67a4fc23bae" title="Set the MPI error handler for this communicator. " alt="" coords="236,5,431,47"/>
+<area shape="rect" id="node3" href="$d9/d5f/class_teuchos_1_1_mpi_comm.html#ab9e4310f74df732d042a4f8c75514fd5" title="Construct a communicator with a new context with the same properties as the original. " alt="" coords="479,13,687,39"/>
+</map>

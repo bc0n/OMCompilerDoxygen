@@ -1,0 +1,13 @@
+<map id="Ipopt::IpoptAlgorithm::RegisterOptions" name="Ipopt::IpoptAlgorithm::RegisterOptions">
+<area shape="rect" id="node2" href="$d7/db2/namespace_ipopt.html#a385e6ad5a3662c457aa4af3fa0b2c24d" title="Ipopt::RegisterOptions\l_Algorithm" alt="" coords="196,103,349,145"/>
+<area shape="rect" id="node3" href="$d9/dfa/class_ipopt_1_1_ipopt_application.html#a0f17353b23d7a55f3aeef79f8b62d5fe" title="Ipopt::IpoptApplication\l::RegisterAllIpoptOptions" alt="" coords="397,103,565,145"/>
+<area shape="rect" id="node4" href="$d9/dfa/class_ipopt_1_1_ipopt_application.html#a985d4b2f4b443b7aef8d6e924c49b5ce" title="Ipopt::IpoptApplication\l::RethrowNonIpoptException" alt="" coords="813,74,1004,115"/>
+<area shape="rect" id="node11" href="$d9/dfa/class_ipopt_1_1_ipopt_application.html#a9eb44ee6ce920890170f63317ffacabf" title="Ipopt::IpoptApplication\l::IpoptApplication" alt="" coords="613,133,765,174"/>
+<area shape="rect" id="node5" href="$d4/d35/ipopt_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1073,5,1170,32"/>
+<area shape="rect" id="node6" href="$dc/d65/ipoptr_8cpp.html#a7bcb712eae35130fcd290d67daf8555f" title="IpoptRSolve" alt="" coords="1074,56,1169,83"/>
+<area shape="rect" id="node7" href="$d0/db4/ampl__sipopt_8cpp.html#a1c03069360f1f90a556eb537e0ff8a72" title="main" alt="" coords="1096,107,1147,133"/>
+<area shape="rect" id="node8" href="$d8/dc4/_ip_std_c_interface_8cpp.html#a0176dd17c32f66628316b03da2281a50" title="CreateIpoptProblem" alt="" coords="1052,157,1191,184"/>
+<area shape="rect" id="node9" href="$d8/d1c/examples_2hs071__c_2hs071__c_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="1258,132,1309,159"/>
+<area shape="rect" id="node10" href="$de/df4/_ip_std_f_interface_8c.html#ad740e2318500ed6303144b75a60dc406" title="F77_FUNC" alt="" coords="1239,183,1328,209"/>
+<area shape="rect" id="node12" href="$d9/dfa/class_ipopt_1_1_ipopt_application.html#a335fecc6c75d2b6f908c6392f544650c" title="Ipopt::IpoptApplication\l::clone" alt="" coords="833,139,985,181"/>
+</map>
