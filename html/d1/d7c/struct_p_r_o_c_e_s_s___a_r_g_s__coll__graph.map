@@ -1,0 +1,30 @@
+<map id="PROCESS_ARGS" name="PROCESS_ARGS">
+<area shape="rect" id="node2" href="$d4/d99/struct_x_m_l___parser_struct.html" title="XML_ParserStruct" alt="" coords="1137,935,1267,961"/>
+<area shape="rect" id="node3" href="$d8/d6c/struct_d_t_d.html" title="DTD" alt="" coords="821,207,872,233"/>
+<area shape="rect" id="node4" href="$db/dd2/structprefix.html" title="prefix" alt="" coords="5,539,60,565"/>
+<area shape="rect" id="node5" href="$d7/d45/structbinding.html" title="binding" alt="" coords="496,548,559,575"/>
+<area shape="rect" id="node6" href="$d1/d5d/structattribute__id.html" title="attribute_id" alt="" coords="183,708,269,735"/>
+<area shape="rect" id="node25" href="$dd/dd0/struct_e_l_e_m_e_n_t___t_y_p_e.html" title="ELEMENT_TYPE" alt="" coords="783,843,910,869"/>
+<area shape="rect" id="node13" href="$d1/d09/structtag.html" title="tag" alt="" coords="827,589,867,616"/>
+<area shape="rect" id="node26" href="$dc/d3d/struct_d_e_f_a_u_l_t___a_t_t_r_i_b_u_t_e.html" title="DEFAULT_ATTRIBUTE" alt="" coords="445,759,610,785"/>
+<area shape="rect" id="node7" href="$dd/d65/struct_c_o_n_t_e_n_t___s_c_a_f_f_o_l_d.html" title="CONTENT_SCAFFOLD" alt="" coords="445,207,610,233"/>
+<area shape="rect" id="node8" href="$df/d00/struct_s_t_r_i_n_g___p_o_o_l.html" title="STRING_POOL" alt="" coords="469,288,585,315"/>
+<area shape="rect" id="node9" href="$d1/d7f/structblock.html" title="block" alt="" coords="199,240,253,267"/>
+<area shape="rect" id="node10" href="$d8/dc0/struct_x_m_l___memory___handling___suite.html" title="XML_Memory_Handling\l_Suite" alt="" coords="145,315,307,357"/>
+<area shape="rect" id="node11" href="$d4/d6b/struct_h_a_s_h___t_a_b_l_e.html" title="HASH_TABLE" alt="" coords="473,156,582,183"/>
+<area shape="rect" id="node12" href="$d6/d54/struct_n_a_m_e_d.html" title="NAMED" alt="" coords="191,151,261,177"/>
+<area shape="rect" id="node14" href="$dd/da3/struct_t_a_g___n_a_m_e.html" title="TAG_NAME" alt="" coords="480,599,575,625"/>
+<area shape="rect" id="node15" href="$d5/d62/struct_e_n_t_i_t_y.html" title="ENTITY" alt="" coords="492,651,563,677"/>
+<area shape="rect" id="node23" href="$d7/da1/structopen__internal__entity.html" title="open_internal_entity" alt="" coords="777,741,916,768"/>
+<area shape="rect" id="node16" href="$d0/d65/structprolog__state.html" title="prolog_state" alt="" coords="800,1328,893,1355"/>
+<area shape="rect" id="node17" href="$db/dc5/structencoding.html" title="encoding" alt="" coords="490,1227,565,1253"/>
+<area shape="rect" id="node27" href="$d5/de0/struct_i_n_i_t___e_n_c_o_d_i_n_g.html" title="INIT_ENCODING" alt="" coords="783,1227,911,1253"/>
+<area shape="rect" id="node18" href="$d3/d90/structposition.html" title="position" alt="" coords="193,1004,259,1031"/>
+<area shape="rect" id="node19" href="$d9/df2/struct_a_t_t_r_i_b_u_t_e.html" title="ATTRIBUTE" alt="" coords="177,1340,275,1367"/>
+<area shape="rect" id="node20" href="$d8/d6d/struct_x_m_l__cp.html" title="XML_cp" alt="" coords="811,1075,882,1101"/>
+<area shape="rect" id="node21" href="$da/d03/struct_x_m_l___encoding.html" title="XML_Encoding" alt="" coords="791,1125,902,1152"/>
+<area shape="rect" id="node22" href="$df/d0b/struct_n_s___a_t_t.html" title="NS_ATT" alt="" coords="810,1176,883,1203"/>
+<area shape="rect" id="node24" href="$d1/db6/struct_x_m_l___parsing_status.html" title="XML_ParsingStatus" alt="" coords="777,1277,916,1304"/>
+<area shape="rect" id="node28" href="$df/dea/structdata.html" title="data" alt="" coords="823,1433,870,1460"/>
+<area shape="rect" id="node30" href="$df/d6c/struct_x_m_l___attr_info.html" title="XML_AttrInfo" alt="" coords="797,1535,896,1561"/>
+</map>
