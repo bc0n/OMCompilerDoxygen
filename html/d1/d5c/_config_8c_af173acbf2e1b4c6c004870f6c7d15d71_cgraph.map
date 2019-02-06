@@ -1,0 +1,7 @@
+<map id="boxptr_Config_getDefaultOpenCLDevice" name="boxptr_Config_getDefaultOpenCLDevice">
+<area shape="rect" id="node2" href="$d1/d5c/_config_8c.html#a8ab44558c5f1b7b445b8aa61a408809e" title="omc_Config_getDefaultOpen\lCLDevice" alt="" coords="224,5,415,47"/>
+<area shape="rect" id="node3" href="$d3/db3/_flags_8c.html#a1e76daf734b2146efc0e041e614f63d0" title="omc_Flags_getConfigInt" alt="" coords="463,13,627,39"/>
+<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="675,13,857,39"/>
+<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="905,13,1055,39"/>
+<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1103,13,1205,39"/>
+</map>

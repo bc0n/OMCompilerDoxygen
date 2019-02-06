@@ -1,0 +1,18 @@
+<map id="boxptr_SerializeInitXML_simulationInitFileReturnBool" name="boxptr_SerializeInitXML_simulationInitFileReturnBool">
+<area shape="rect" id="node2" href="$d1/d5c/_serialize_init_x_m_l_8c.html#aed63afa685eca6c4c49d2a0dc143d89a" title="omc_SerializeInitXML\l_simulationInitFileReturnBool" alt="" coords="245,277,437,318"/>
+<area shape="rect" id="node3" href="$d8/d9c/_file_8c.html#af81f1eb5c1d663b722b5e460544825dd" title="omc_File_File_constructor" alt="" coords="497,5,672,32"/>
+<area shape="rect" id="node4" href="$d8/d9c/_file_8c.html#a3636c93f92ed24a2384468fe3b80d916" title="omc_File_noReference" alt="" coords="507,56,663,83"/>
+<area shape="rect" id="node5" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="535,107,634,133"/>
+<area shape="rect" id="node6" href="$d8/d9c/_file_8c.html#adde45a955973f458a42505761d8214a2" title="omc_File_open" alt="" coords="529,157,640,184"/>
+<area shape="rect" id="node7" href="$d8/d9c/_file_8c.html#add3b389edd0f17a02ade02ff542984ce" title="omc_File_write" alt="" coords="529,208,640,235"/>
+<area shape="rect" id="node8" href="$d8/d4d/_dump_8c.html#a27bd380dd359236e619ab4ce164f919a" title="omc_Dump_writePath" alt="" coords="509,259,660,285"/>
+<area shape="rect" id="node9" href="$d8/d9c/_file_8c.html#ac39aa4ea0422f3d1451b99d770e1c0b3" title="omc_File_writeEscape" alt="" coords="767,284,921,311"/>
+<area shape="rect" id="node10" href="$db/d8a/_settings_8c.html#a6a3f66c11e683f2988c66d2dd745890d" title="omc_Settings_getVersionNr" alt="" coords="492,360,677,387"/>
+<area shape="rect" id="node12" href="$d1/d5c/_serialize_init_x_m_l_8c.html#a50907c83ce6cc5e5ff4b764342f0305c" title="omc_SerializeInitXML\l_xsdateTime" alt="" coords="510,411,659,453"/>
+<area shape="rect" id="node13" href="$d8/d9c/_file_8c.html#a546aef6620b7e0af6e3f82daf59e4d26" title="omc_File_writeInt" alt="" coords="781,448,907,475"/>
+<area shape="rect" id="node14" href="$d9/d7c/_compiler_2boot_2build_2util_8c.html#a2e7907ac3f1af1ecc23bcf9502ec08e1" title="omc_Util_getCurrentDateTime" alt="" coords="485,528,684,555"/>
+<area shape="rect" id="node17" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a6983369f3c3e3e8cc41ac483c9a9baf1" title="listLength" alt="" coords="545,579,624,605"/>
+<area shape="rect" id="node11" href="$d4/d4a/_settings_8h.html#a3f7032c08fdc46fffb321e88f5f31a2e" title="Settings_getVersionNr" alt="" coords="767,360,921,387"/>
+<area shape="rect" id="node15" href="$d1/d95/_system_8c.html#aade63911eb99eac76369d08f038480dc" title="omc_System_getCurrentDateTime" alt="" coords="732,528,956,555"/>
+<area shape="rect" id="node16" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#ade2e86c711b84af26854fb7883546270" title="System_getCurrentDateTime" alt="" coords="1004,528,1196,555"/>
+</map>

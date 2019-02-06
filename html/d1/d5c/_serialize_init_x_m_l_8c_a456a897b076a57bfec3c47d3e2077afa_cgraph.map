@@ -1,0 +1,10 @@
+<map id="omc_SerializeInitXML_scalarVariableType" name="omc_SerializeInitXML_scalarVariableType">
+<area shape="rect" id="node2" href="$d8/d9c/_file_8c.html#add3b389edd0f17a02ade02ff542984ce" title="omc_File_write" alt="" coords="495,83,606,110"/>
+<area shape="rect" id="node3" href="$d1/d5c/_serialize_init_x_m_l_8c.html#a513834ca2dc5e56f666566bc431e3d86" title="omc_SerializeInitXML\l_scalarVariableTypeAttribute" alt="" coords="219,43,409,84"/>
+<area shape="rect" id="node4" href="$d1/d5c/_serialize_init_x_m_l_8c.html#ad9d3e913afdb748e673a464bde203b20" title="omc_SerializeInitXML\l_scalarVariableTypeFixedAttribute" alt="" coords="203,239,425,280"/>
+<area shape="rect" id="node6" href="$d1/d5c/_serialize_init_x_m_l_8c.html#aac54b472d4977d45e8bbf41edaca958e" title="omc_SerializeInitXML\l_scalarVariableTypeStringAttribute" alt="" coords="203,173,425,215"/>
+<area shape="rect" id="node7" href="$d1/d5c/_serialize_init_x_m_l_8c.html#a74b52de0d0371bd57c970c1989ba15c6" title="omc_SerializeInitXML\l_scalarVariableTypeUseAttribute" alt="" coords="207,108,421,149"/>
+<area shape="rect" id="node8" href="$d8/d4d/_dump_8c.html#a27bd380dd359236e619ab4ce164f919a" title="omc_Dump_writePath" alt="" coords="239,305,389,331"/>
+<area shape="rect" id="node5" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#af34691e3dee63247618d2f122b0e8477" title="modelica_boolean_to\l_modelica_string" alt="" coords="479,239,623,280"/>
+<area shape="rect" id="node9" href="$d8/d9c/_file_8c.html#ac39aa4ea0422f3d1451b99d770e1c0b3" title="omc_File_writeEscape" alt="" coords="473,305,628,331"/>
+</map>

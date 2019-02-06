@@ -1,0 +1,19 @@
+<map id="UMFPACK_symbolic" name="UMFPACK_symbolic">
+<area shape="rect" id="node2" href="$d5/d0e/umfpack__qsymbolic_8c.html#a48e3cc743c4ade2f7594891c424a8d9a" title="UMFPACK_qsymbolic" alt="" coords="200,335,355,361"/>
+<area shape="rect" id="node3" href="$d3/d9a/dkrdem_8f.html#a2d4e903d401b1756fc172ea98bd59e94" title="f1" alt="" coords="436,5,475,32"/>
+<area shape="rect" id="node4" href="$d3/d9a/dkrdem_8f.html#ae87e8a8153af7fdbf5497e9a9f7cd52d" title="f2" alt="" coords="436,56,475,83"/>
+<area shape="rect" id="node5" href="$d0/d2f/umfpack__tictoc_8h.html#a29a58d996813aefde917aca0ee0244ad" title="umfpack_tic" alt="" coords="409,107,502,133"/>
+<area shape="rect" id="node6" href="$db/dc7/amd__defaults_8c.html#aecc3d87951de68e63998eb505def15bc" title="AMD_defaults" alt="" coords="403,157,508,184"/>
+<area shape="rect" id="node7" href="$d5/d0e/umfpack__qsymbolic_8c.html#af1f2a741e3caf612832eaa0afeea8982" title="error" alt="" coords="431,259,479,285"/>
+<area shape="rect" id="node8" href="$d5/d0e/umfpack__qsymbolic_8c.html#a2fdf73c6629a79cca4287c39d1de3fbc" title="free_work" alt="" coords="605,208,683,235"/>
+<area shape="rect" id="node10" href="$d0/daa/gc_8h.html#a7e0f997409f0b1753e44b648fcd6fc39" title="void" alt="" coords="819,284,865,311"/>
+<area shape="rect" id="node11" href="$d9/d59/amd__valid_8c.html#a2ba3fbfe41420665f2ccea5f08748cc7" title="AMD_valid" alt="" coords="412,360,499,387"/>
+<area shape="rect" id="node12" href="$d5/d0e/umfpack__qsymbolic_8c.html#a38d401164203b9d0d2d02a6119b56b2c" title="prune_singletons" alt="" coords="584,461,704,488"/>
+<area shape="rect" id="node14" href="$d5/d0e/umfpack__qsymbolic_8c.html#ab64f6b5a2f2f7a0c8957e12d5c4fb6a4" title="combine_ordering" alt="" coords="780,524,904,551"/>
+<area shape="rect" id="node15" href="$d5/d0e/umfpack__qsymbolic_8c.html#a6a7a8c26ebd44a341f2ffa887d09c421" title="do_amd" alt="" coords="421,461,489,488"/>
+<area shape="rect" id="node16" href="$de/def/kim__info_8m.html#a667852275f03fbdf41ab7ff7de2045c2" title="bsize" alt="" coords="429,587,482,613"/>
+<area shape="rect" id="node17" href="$d0/d2f/umfpack__tictoc_8h.html#a7ac56f8c71bed1ae0656a7802ba8e3bb" title="umfpack_toc" alt="" coords="407,637,504,664"/>
+<area shape="rect" id="node9" href="$d1/d21/umfpack__free__symbolic_8c.html#a7192612b20d95fa8319aaad81b410829" title="UMFPACK_free_symbolic" alt="" coords="556,259,732,285"/>
+<area shape="rect" id="node13" href="$dc/da3/protos_8h.html#ae5890e79cf013238983034a4d0da1e17" title="split" alt="" coords="819,461,865,488"/>
+<area shape="rect" id="node18" href="$d9/d2d/umfpack__tictoc_8c.html#a29a58d996813aefde917aca0ee0244ad" title="umfpack_tic" alt="" coords="597,637,691,664"/>
+</map>

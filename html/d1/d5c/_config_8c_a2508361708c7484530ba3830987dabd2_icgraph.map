@@ -1,0 +1,6 @@
+<map id="omc_Config_getTearingHeuristic" name="omc_Config_getTearingHeuristic">
+<area shape="rect" id="node2" href="$d7/d9b/_tearing_8c.html#ab183754871d0d571d1ea2642dcf6e199" title="omc_Tearing_selectTearingVar" alt="" coords="265,31,468,57"/>
+<area shape="rect" id="node3" href="$d7/d9b/_tearing_8c.html#a6a4c90d4b7718a721da488c80303c759" title="boxptr_Tearing_selectTearingVar" alt="" coords="516,5,729,32"/>
+<area shape="rect" id="node4" href="$d7/d9b/_tearing_8c.html#a8c9f97f2a6085be268c2ea36129db0e6" title="omc_Tearing_CellierTearing2" alt="" coords="527,56,718,83"/>
+<area shape="rect" id="node5" href="$d7/d9b/_tearing_8c.html#afb622ad344438d110a260edeb91abbb1" title="boxptr_Tearing_CellierTearing2" alt="" coords="777,56,980,83"/>
+</map>

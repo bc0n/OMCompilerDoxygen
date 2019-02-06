@@ -1,0 +1,8 @@
+<map id="boxptr_Config_latency" name="boxptr_Config_latency">
+<area shape="rect" id="node2" href="$d1/d5c/_config_8c.html#a6a3cc3abaffe5dc568efbf80a78445fa" title="omc_Config_latency" alt="" coords="205,5,347,32"/>
+<area shape="rect" id="node7" href="$de/df6/meta__modelica_8c.html#a994c9ac929c95a38707b78980f397484" title="mmc_mk_rcon" alt="" coords="222,56,330,83"/>
+<area shape="rect" id="node3" href="$d3/db3/_flags_8c.html#a3af9e07f8d0faff44d6a7299e30cb64b" title="omc_Flags_getConfigReal" alt="" coords="395,5,571,32"/>
+<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="619,5,801,32"/>
+<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="849,5,999,32"/>
+<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1047,5,1149,32"/>
+</map>

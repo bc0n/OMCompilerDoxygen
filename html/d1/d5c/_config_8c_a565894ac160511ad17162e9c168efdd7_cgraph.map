@@ -1,0 +1,7 @@
+<map id="boxptr_Config_intEnumConversion" name="boxptr_Config_intEnumConversion">
+<area shape="rect" id="node2" href="$d1/d5c/_config_8c.html#a57a6c4b0644b32a86cecc4ca189ed9dc" title="omc_Config_intEnumConversion" alt="" coords="277,5,491,32"/>
+<area shape="rect" id="node3" href="$d3/db3/_flags_8c.html#abc3d84cf6e1cf18f0cec0f052e7c85d9" title="omc_Flags_getConfigBool" alt="" coords="539,5,713,32"/>
+<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="761,5,944,32"/>
+<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="992,5,1141,32"/>
+<area shape="rect" id="node6" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1189,5,1292,32"/>
+</map>

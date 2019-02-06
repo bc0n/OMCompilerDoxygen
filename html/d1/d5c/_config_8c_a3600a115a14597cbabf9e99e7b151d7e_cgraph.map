@@ -1,0 +1,6 @@
+<map id="omc_Config_getAnnotationVersion" name="omc_Config_getAnnotationVersion">
+<area shape="rect" id="node2" href="$d3/db3/_flags_8c.html#a1bdc57ee7db1a86ebd954e1aa4d04c0c" title="omc_Flags_getConfigString" alt="" coords="232,13,415,39"/>
+<area shape="rect" id="node3" href="$d3/db3/_flags_8c.html#a96ba70d54b6662cf90933a207c0c6b8e" title="omc_Flags_getConfigValue" alt="" coords="463,13,645,39"/>
+<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="693,13,843,39"/>
+<area shape="rect" id="node5" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="891,13,993,39"/>
+</map>
