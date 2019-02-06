@@ -1,0 +1,18 @@
+digraph "build/include/omc/c/sundials/idas/idas_spgmr.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node3 [label="build/include/omc/c\l/sundials/idas/idas\l_spgmr.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="3rdParty/sundials/src\l/idas/idas_bbdpre.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d0b/idas__bbdpre_8c.html"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="3rdParty/sundials/src\l/idas/idas_spgmr.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d48/idas__spgmr_8c.html"];
+  Node3 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="3rdParty/sundials/sundials\lTB/idas/idm/src/idm.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d38/idm_8h.html"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="3rdParty/sundials/sundials\lTB/idas/idm/src/idm.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d00/idm_8c.html"];
+  Node6 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="3rdParty/sundials/sundials\lTB/idas/idm/src/idmOpts.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d52/idm_opts_8c.html"];
+  Node6 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="3rdParty/sundials/sundials\lTB/idas/idm/src/idmWrap.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dc1/idm_wrap_8c.html"];
+}

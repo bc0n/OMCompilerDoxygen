@@ -1,0 +1,4 @@
+<map id="fmi2_xml_get_real_variable_start" name="fmi2_xml_get_real_variable_start">
+<area shape="rect" id="node2" href="$db/d66/group__fmi2__import__variables.html#ga09bc24485a8ebdab4f2e7cdc6ab7d425" title="Get the variable start attribute. " alt="" coords="233,5,376,47"/>
+<area shape="rect" id="node3" href="$df/d24/_f_m_i_impl_8c.html#a23c841fcb393a01d04a0327a30af830b" title="getFMI2ModelVariableStart\lValue" alt="" coords="424,5,604,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="fmi2_xml_get_causality" name="fmi2_xml_get_causality">
+<area shape="rect" id="node2" href="$df/d03/group__fmi2__import__convenience.html#ga215d2ada9a82234d7d62180879466f25" title="Collect model information by counting the number of variables with specific properties and fillinf in..." alt="" coords="232,5,367,47"/>
+<area shape="rect" id="node3" href="$db/d66/group__fmi2__import__variables.html#ga8acc189bc38e55be67438c76c11324cf" title="Get causality attribute. " alt="" coords="212,71,387,98"/>
+<area shape="rect" id="node4" href="$df/d24/_f_m_i_impl_8c.html#a7c776dd6b17fdc7a10e57ba9d6f95144" title="getFMI2ModelVariableCausality" alt="" coords="435,71,641,98"/>
+</map>

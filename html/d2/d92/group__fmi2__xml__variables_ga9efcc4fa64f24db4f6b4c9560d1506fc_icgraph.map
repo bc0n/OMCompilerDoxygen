@@ -1,0 +1,17 @@
+<map id="fmi2_xml_get_variable_base_type" name="fmi2_xml_get_variable_base_type">
+<area shape="rect" id="node2" href="$df/d03/group__fmi2__import__convenience.html#ga215d2ada9a82234d7d62180879466f25" title="Collect model information by counting the number of variables with specific properties and fillinf in..." alt="" coords="221,5,356,47"/>
+<area shape="rect" id="node3" href="$db/d66/group__fmi2__import__variables.html#gae896e626c02d2171fc62131a58727a47" title="Get variable base type. " alt="" coords="205,71,372,112"/>
+<area shape="rect" id="node6" href="$d2/d92/group__fmi2__xml__variables.html#gae20c3d22605ac4a5a4fa20ee027b6cd1" title="fmi2_xml_get_variable\l_as_real" alt="" coords="213,136,365,177"/>
+<area shape="rect" id="node8" href="$d2/d92/group__fmi2__xml__variables.html#gac9399fe9b7147913599f061fc9db1a99" title="fmi2_xml_get_variable\l_as_integer" alt="" coords="213,201,365,243"/>
+<area shape="rect" id="node10" href="$d2/d92/group__fmi2__xml__variables.html#ga0c662f94a03294145a7cec4c4dcf6546" title="fmi2_xml_get_variable\l_as_enum" alt="" coords="213,267,365,308"/>
+<area shape="rect" id="node12" href="$d2/d92/group__fmi2__xml__variables.html#gab6620ccc7ae4cabcc4cf701aa35a68ff" title="fmi2_xml_get_variable\l_as_string" alt="" coords="213,332,365,373"/>
+<area shape="rect" id="node14" href="$d2/d92/group__fmi2__xml__variables.html#gaed716f96512bad3d9397e6170abb9c95" title="fmi2_xml_get_variable\l_as_boolean" alt="" coords="213,397,365,439"/>
+<area shape="rect" id="node16" href="$d9/d01/fmi2__xml__variable_8c.html#a1cbdaeddeb406cb48aeed7a83ef39540" title="fmi2_xml_eliminate\l_bad_alias" alt="" coords="221,463,356,504"/>
+<area shape="rect" id="node4" href="$df/d24/_f_m_i_impl_8c.html#abf5c641cb990bed776e82d4cfc691824" title="getFMI2ModelVariableBaseType" alt="" coords="420,34,631,61"/>
+<area shape="rect" id="node5" href="$df/d24/_f_m_i_impl_8c.html#a23c841fcb393a01d04a0327a30af830b" title="getFMI2ModelVariableStart\lValue" alt="" coords="679,107,859,148"/>
+<area shape="rect" id="node7" href="$db/d66/group__fmi2__import__variables.html#ga4d138c6fafd38962177a85f1166b314d" title="Cast general variable to a one with the specific type. " alt="" coords="442,136,609,177"/>
+<area shape="rect" id="node9" href="$db/d66/group__fmi2__import__variables.html#ga61dd733534bf03c9220a0e10191e74fb" title="Cast general variable to a one with the specific type. " alt="" coords="442,201,609,243"/>
+<area shape="rect" id="node11" href="$db/d66/group__fmi2__import__variables.html#gaf7943ff475ee6f6d232d51db8b1678a7" title="Cast general variable to a one with the specific type. " alt="" coords="442,267,609,308"/>
+<area shape="rect" id="node13" href="$db/d66/group__fmi2__import__variables.html#ga1072c17b5b4b4adcbe722a3cb1751639" title="Cast general variable to a one with the specific type. " alt="" coords="442,332,609,373"/>
+<area shape="rect" id="node15" href="$db/d66/group__fmi2__import__variables.html#gab7996a83c31e6d3514a45409839a6c08" title="Cast general variable to a one with the specific type. " alt="" coords="442,397,609,439"/>
+</map>

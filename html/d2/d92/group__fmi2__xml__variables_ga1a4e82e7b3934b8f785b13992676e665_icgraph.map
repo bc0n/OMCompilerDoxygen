@@ -1,0 +1,4 @@
+<map id="fmi2_xml_get_real_variable_derivative_of" name="fmi2_xml_get_real_variable_derivative_of">
+<area shape="rect" id="node2" href="$db/d66/group__fmi2__import__variables.html#ga020c57b01cd648dd3403ed490393741e" title="Get the variable that this is a derivative of, if defined. " alt="" coords="249,5,404,47"/>
+<area shape="rect" id="node3" href="$d4/d3e/fmi2__xml__model__structure_8c.html#ae84babd6966942bbf97da01d6882ad1e" title="fmi2_xml_handle_Derivative\lUnknown" alt="" coords="233,71,420,112"/>
+</map>

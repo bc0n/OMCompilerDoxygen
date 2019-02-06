@@ -1,0 +1,3 @@
+<map id="fmi2_xml_get_previous" name="fmi2_xml_get_previous">
+<area shape="rect" id="node2" href="$db/d66/group__fmi2__import__variables.html#ga886e1b243e0935e48d138ca055ec12c4" title="Get the variable that holds the previous value of this variable, if defined. " alt="" coords="209,5,380,32"/>
+</map>

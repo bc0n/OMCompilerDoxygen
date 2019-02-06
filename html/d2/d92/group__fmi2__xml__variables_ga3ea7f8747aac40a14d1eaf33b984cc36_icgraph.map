@@ -1,0 +1,11 @@
+<map id="fmi2_xml_get_variable_name" name="fmi2_xml_get_variable_name">
+<area shape="rect" id="node2" href="$de/d3e/fmi2__import__convenience_8c.html#a2b3cb55d897d03c46909d7eb4c1813cf" title="fmi2_import_expand\l_variable_references_impl" alt="" coords="273,71,446,112"/>
+<area shape="rect" id="node7" href="$db/d66/group__fmi2__import__variables.html#gaf2d26ebaa7369f935cbb1d6efc7703d6" title="Get the variable name. " alt="" coords="256,137,463,163"/>
+<area shape="rect" id="node9" href="$d4/d3e/fmi2__xml__model__structure_8c.html#ae84babd6966942bbf97da01d6882ad1e" title="fmi2_xml_handle_Derivative\lUnknown" alt="" coords="266,188,453,229"/>
+<area shape="rect" id="node10" href="$d9/d3b/fmi2__xml__query_8c.html#a3728963d2879247720ea6eaab027fa32" title="fmi2_xml_q_eval_elementary_name" alt="" coords="244,254,475,281"/>
+<area shape="rect" id="node3" href="$df/d03/group__fmi2__import__convenience.html#ga215d2ada9a82234d7d62180879466f25" title="Collect model information by counting the number of variables with specific properties and fillinf in..." alt="" coords="549,5,683,47"/>
+<area shape="rect" id="node4" href="$df/d03/group__fmi2__import__convenience.html#ga9cc8ec550d3f9d9bf9adb53186203b9c" title="Print msgIn into msgOut by expanding variable references of the form #&lt;Type&gt;&lt;VR&gt;# into variable names..." alt="" coords="545,71,687,112"/>
+<area shape="rect" id="node5" href="$de/d3e/fmi2__import__convenience_8c.html#ae73f9392bc5c676f27458911d7e72bd9" title="fmi2_log_forwarding_v" alt="" coords="757,78,909,105"/>
+<area shape="rect" id="node6" href="$de/d3e/fmi2__import__convenience_8c.html#a60eb5128418efd78efe8c90c75fb3b4f" title="fmi2_log_forwarding" alt="" coords="957,78,1096,105"/>
+<area shape="rect" id="node8" href="$df/d24/_f_m_i_impl_8c.html#a9f598ae9e086ca5780ed1c12545de3cd" title="getFMI2ModelVariableName" alt="" coords="523,137,709,163"/>
+</map>
