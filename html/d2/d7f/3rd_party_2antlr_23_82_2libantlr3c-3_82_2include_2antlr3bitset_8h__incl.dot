@@ -1,0 +1,25 @@
+digraph "3rdParty/antlr/3.2/libantlr3c-3.2/include/antlr3bitset.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="3rdParty/antlr/3.2\l/libantlr3c-3.2/include\l/antlr3bitset.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="antlr3defs.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d39/3rd_party_2antlr_23_82_2libantlr3c-3_82_2include_2antlr3defs_8h.html"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="antlr3errors.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d5e/3rd_party_2antlr_23_82_2libantlr3c-3_82_2include_2antlr3errors_8h.html"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="antlr3config.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="stdio.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="stdlib.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="antlr3interfaces.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/df6/3rd_party_2antlr_23_82_2libantlr3c-3_82_2include_2antlr3interfaces_8h.html"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="antlr3convertutf.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d5c/3rd_party_2antlr_23_82_2libantlr3c-3_82_2include_2antlr3convertutf_8h.html"];
+  Node7 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="antlr3collections.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d6f/3rd_party_2antlr_23_82_2libantlr3c-3_82_2include_2antlr3collections_8h.html"];
+  Node8 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 -> Node0 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

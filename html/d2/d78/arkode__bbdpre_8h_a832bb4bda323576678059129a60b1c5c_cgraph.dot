@@ -1,0 +1,17 @@
+digraph "ARKBBDPrecInit"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node10 [label="ARKBBDPrecInit",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="arkProcessError",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d49/arkode_8c.html#aba6159e58f2e8ed8560e9bdbf6f6d4c0"];
+  Node10 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="NewBandMat",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d37/sundials__direct_8h.html#a4f060a6aa400d66a824b290f5bb5966d"];
+  Node10 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="DestroyMat",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d37/sundials__direct_8h.html#a58455f92bee3b8af244dac64364dd09f"];
+  Node10 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="NewLintArray",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d37/sundials__direct_8h.html#ac7e5bf85fb1110b7cd87a818161db11b"];
+  Node10 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="SUNRsqrt",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d31/sundials__math_8h.html#ab93cb211d416e7ad32fdcde65d3e2178"];
+}

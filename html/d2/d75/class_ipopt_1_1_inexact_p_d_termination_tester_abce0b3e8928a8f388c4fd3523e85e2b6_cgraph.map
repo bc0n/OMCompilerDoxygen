@@ -1,0 +1,7 @@
+<map id="Ipopt::InexactPDTerminationTester::InitializeImpl" name="Ipopt::InexactPDTerminationTester::InitializeImpl">
+<area shape="rect" id="node2" href="$d3/d45/class_ipopt_1_1_options_list.html#ab7c0b2257d4691c6e48c2fa7ac9e7524" title="Ipopt::OptionsList\l::GetNumericValue" alt="" coords="243,5,376,47"/>
+<area shape="rect" id="node5" href="$d3/d45/class_ipopt_1_1_options_list.html#a056916f70db7abe65ec7c8e07739685c" title="Ipopt::OptionsList\l::GetIntegerValue" alt="" coords="247,71,372,112"/>
+<area shape="rect" id="node6" href="$d3/d45/class_ipopt_1_1_options_list.html#a13e0bbf486f83cf0044a009cadaa16a6" title="Ipopt::OptionsList\l::GetStringValue" alt="" coords="247,136,372,177"/>
+<area shape="rect" id="node3" href="$d7/db2/namespace_ipopt.html#a412b04fd3180a55969ff76224d5bfec6" title="Ipopt::IsValid" alt="" coords="424,53,523,79"/>
+<area shape="rect" id="node4" href="$d7/db2/namespace_ipopt.html#acfc346e8412ed6def2dc1858b78bde1b" title="Ipopt::IsNull" alt="" coords="571,78,664,105"/>
+</map>

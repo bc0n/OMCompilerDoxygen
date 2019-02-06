@@ -1,0 +1,10 @@
+<map id="fmi1_xml_set_attr_enum" name="fmi1_xml_set_attr_enum">
+<area shape="rect" id="node2" href="$d2/d7d/fmi1__xml__parser_8h.html#a1b74b6539d39c15581e0b0304d6c147e" title="fmi1_xml_set_attr_boolean" alt="" coords="219,157,397,184"/>
+<area shape="rect" id="node3" href="$d8/d3b/fmi1__xml__capabilities_8c.html#aa4df06e30804ab6811d70d5404b80ffa" title="fmi1_xml_handle_Capabilities" alt="" coords="448,5,643,32"/>
+<area shape="rect" id="node4" href="$db/d5b/fmi1__xml__cosim_8c.html#a940c83b20ba2e54d2dbb46f095c5a52e" title="fmi1_xml_handle_Model" alt="" coords="464,56,627,83"/>
+<area shape="rect" id="node5" href="$d9/d42/fmi1__xml__variable_8c.html#abb994bab6879ee69baf1a75c265d1d2b" title="fmi1_xml_handle_Real" alt="" coords="468,107,623,133"/>
+<area shape="rect" id="node6" href="$d9/d42/fmi1__xml__variable_8c.html#acfe8c25876636211ae0574c13420946f" title="fmi1_xml_handle_Integer" alt="" coords="462,157,629,184"/>
+<area shape="rect" id="node7" href="$d9/d42/fmi1__xml__variable_8c.html#a935486b022d8d62925ac6ef0d4728e2b" title="fmi1_xml_handle_Boolean" alt="" coords="458,208,633,235"/>
+<area shape="rect" id="node8" href="$d9/d42/fmi1__xml__variable_8c.html#a17726dff20604c7d03dbb1a48aab1bd8" title="fmi1_xml_handle_String" alt="" coords="465,259,626,285"/>
+<area shape="rect" id="node9" href="$d9/d42/fmi1__xml__variable_8c.html#a2b07df63450a74b61274ba085e2daf75" title="fmi1_xml_handle_Enumeration" alt="" coords="445,309,645,336"/>
+</map>

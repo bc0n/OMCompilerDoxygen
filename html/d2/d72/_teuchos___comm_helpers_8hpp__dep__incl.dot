@@ -1,0 +1,45 @@
+digraph "3rdParty/trilinos-nox/packages/teuchos/comm/src/Teuchos_CommHelpers.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node79 [label="3rdParty/trilinos-nox\l/packages/teuchos/comm\l/src/Teuchos_CommHelpers.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node79 -> Node80 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node80 [label="3rdParty/trilinos-nox\l/packages/teuchos/comm\l/src/Teuchos_CommHelpers.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d3f/_teuchos___comm_helpers_8cpp.html"];
+  Node79 -> Node81 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node81 [label="3rdParty/trilinos-nox\l/packages/teuchos/comm\l/src/Teuchos_PerformanceMonitor\lBase.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d42/_teuchos___performance_monitor_base_8cpp.html"];
+  Node79 -> Node82 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node82 [label="3rdParty/trilinos-nox\l/packages/teuchos/comm\l/src/Teuchos_TimeMonitor.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d54/_teuchos___time_monitor_8cpp.html"];
+  Node79 -> Node83 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node83 [label="3rdParty/trilinos-nox\l/packages/teuchos/comm\l/src/Teuchos_XMLParameterListHelpers.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d82/_teuchos___x_m_l_parameter_list_helpers_8cpp.html"];
+  Node79 -> Node84 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84 [label="3rdParty/trilinos-nox\l/packages/teuchos/comm\l/src/Teuchos_YamlParameterList\lHelpers.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d9b/_teuchos___yaml_parameter_list_helpers_8cpp.html"];
+  Node79 -> Node85 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node85 [label="3rdParty/trilinos-nox\l/packages/teuchos/comm\l/test/Comm/1029.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d52/1029_8cpp.html"];
+  Node79 -> Node86 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node86 [label="3rdParty/trilinos-nox\l/packages/teuchos/comm\l/test/Comm/Comm_test.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d20/_comm__test_8cpp.html"];
+  Node79 -> Node87 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87 [label="3rdParty/trilinos-nox\l/packages/teuchos/comm\l/test/Comm/DefaultMpiComm\l_TagTests.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/da7/_default_mpi_comm___tag_tests_8cpp.html"];
+  Node79 -> Node88 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node88 [label="3rdParty/trilinos-nox\l/packages/teuchos/comm\l/test/Comm/DefaultMpiComm\l_UnitTests.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d61/_default_mpi_comm___unit_tests_8cpp.html"];
+  Node79 -> Node89 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node89 [label="3rdParty/trilinos-nox\l/packages/teuchos/comm\l/test/Comm/reduce.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d6d/reduce_8cpp.html"];
+  Node79 -> Node90 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node90 [label="3rdParty/trilinos-nox\l/packages/teuchos/comm\l/test/Comm/scatter.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/da6/trilinos-nox_2packages_2teuchos_2comm_2test_2_comm_2scatter_8cpp.html"];
+  Node79 -> Node91 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node91 [label="3rdParty/trilinos-nox\l/packages/teuchos/comm\l/test/ParameterList/ParameterList\l_UnitTest_Parallel.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/df4/_parameter_list___unit_test___parallel_8cpp.html"];
+  Node79 -> Node92 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node92 [label="3rdParty/trilinos-nox\l/packages/teuchos/comm\l/test/UnitTesting/UnitTestHarness\l_Parallel_UnitTests.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d0d/_unit_test_harness___parallel___unit_tests_8cpp.html"];
+  Node79 -> Node93 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node93 [label="3rdParty/trilinos-nox\l/packages/teuchos/kokkoscomm\l/src/Kokkos_TeuchosCommAdapters.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/dc8/_kokkos___teuchos_comm_adapters_8hpp.html",tooltip="Adapters for Teuchos::Comm functions for Kokkos:View. "];
+  Node79 -> Node94 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node94 [label="3rdParty/trilinos-nox\l/packages/teuchos/numerics\l/src/Teuchos_MatrixMarket\l_Raw_Adder.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d73/_teuchos___matrix_market___raw___adder_8hpp.html"];
+  Node94 -> Node95 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node95 [label="3rdParty/trilinos-nox\l/packages/teuchos/numerics\l/src/Teuchos_MatrixMarket\l_Raw_Checker.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d08/_teuchos___matrix_market___raw___checker_8hpp.html"];
+  Node95 -> Node96 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node96 [label="3rdParty/trilinos-nox\l/packages/teuchos/numerics\l/test/MatrixMarket/MatrixMarket\l_Raw_InOutTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d72/_matrix_market___raw___in_out_test_8cpp.html"];
+  Node94 -> Node97 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node97 [label="3rdParty/trilinos-nox\l/packages/teuchos/numerics\l/src/Teuchos_MatrixMarket\l_Raw_Reader.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d1e/_teuchos___matrix_market___raw___reader_8hpp.html"];
+  Node97 -> Node96 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node79 -> Node98 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node98 [label="3rdParty/trilinos-nox\l/packages/teuchos/numerics\l/src/Teuchos_MatrixMarket\l_Raw_Graph_Adder.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d48/_teuchos___matrix_market___raw___graph___adder_8hpp.html"];
+}
