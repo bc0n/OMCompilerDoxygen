@@ -1,0 +1,10 @@
+<map id="UA_ServerConfig" name="UA_ServerConfig">
+<area shape="rect" id="node2" href="$dc/d5e/struct_u_a___server_network_layer.html" title="UA_ServerNetworkLayer" alt="" coords="417,63,583,89"/>
+<area shape="rect" id="node3" href="$d3/dbd/struct_u_a___string.html" title="UA_String" alt="" coords="5,176,88,203"/>
+<area shape="rect" id="node4" href="$d1/daa/struct_u_a___application_description.html" title="UA_ApplicationDescription" alt="" coords="623,200,801,227"/>
+<area shape="rect" id="node5" href="$dc/d33/struct_u_a___localized_text.html" title="UA_LocalizedText" alt="" coords="248,211,377,237"/>
+<area shape="rect" id="node6" href="$df/d8a/struct_u_a___username_password_login.html" title="UA_UsernamePasswordLogin" alt="" coords="401,256,599,283"/>
+<area shape="rect" id="node7" href="$de/d9b/struct_u_a___build_info.html" title="UA_BuildInfo" alt="" coords="263,321,362,348"/>
+<area shape="rect" id="node8" href="$de/de3/struct_u_a___double_range.html" title="UA_DoubleRange" alt="" coords="649,376,775,403"/>
+<area shape="rect" id="node9" href="$da/dd2/struct_u_a___u_int32_range.html" title="UA_UInt32Range" alt="" coords="649,444,775,471"/>
+</map>

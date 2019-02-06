@@ -1,0 +1,6 @@
+<map id="zmq::radio_t::xpipe_terminated" name="zmq::radio_t::xpipe_terminated">
+<area shape="rect" id="node2" href="$dc/dad/classzmq_1_1dist__t.html#a95b53513c667b8d7126ed306327db077" title="zmq::dist_t::pipe_terminated" alt="" coords="187,56,373,83"/>
+<area shape="rect" id="node3" href="$d6/d2b/classzmq_1_1array__t.html#a63298730f9b85c667f5739da7afef7fe" title="zmq::array_t::index" alt="" coords="421,5,556,32"/>
+<area shape="rect" id="node4" href="$d6/d2b/classzmq_1_1array__t.html#ac6ad559495a404dfb85eba1db79d7bf3" title="zmq::array_t::swap" alt="" coords="421,56,556,83"/>
+<area shape="rect" id="node5" href="$d6/d2b/classzmq_1_1array__t.html#abd76f030d4801b55806a1ea505c11afb" title="zmq::array_t::erase" alt="" coords="421,107,556,133"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="ML_Aggregate_Get_OptimalNumberOfNodesPerAggregate" name="ML_Aggregate_Get_OptimalNumberOfNodesPerAggregate">
+<area shape="rect" id="node2" href="$dd/da4/ml__aggregate_8h.html#a0e8ce48c3e93f613ae0ad4bbb2eea4bf" title="create non&#45;smoothed aggregates using METIS. In order to use this function, the user has to define the..." alt="" coords="252,487,475,514"/>
+<area shape="rect" id="node3" href="$dd/da4/ml__aggregate_8h.html#a26c58349c770e0946c656ad9d299dc9a" title="ML_Aggregate_Coarsen" alt="" coords="523,487,685,514"/>
+<area shape="rect" id="node4" href="$d0/d33/ml__agg__gen_p_8h.html#a54a698830512f930ca438a23b3c26a2f" title="ML_AGG_Gen_Prolongator" alt="" coords="733,326,913,353"/>
+<area shape="rect" id="node22" href="$d3/d4f/ml__agg__min__energy_8h.html#a5cd54c03ba7c3c66bb2c5e755f04c916" title="ML_AGG_Gen_Prolongator\l_MinEnergy" alt="" coords="733,415,913,456"/>
+<area shape="rect" id="node23" href="$d3/d4f/ml__agg__min__energy_8h.html#ad06158a73f2f0dddc7afa10c21f8c1fe" title="ML_AGG_Gen_Prolongator\l_MandelMinEnergy" alt="" coords="733,480,913,521"/>
+<area shape="rect" id="node24" href="$d8/dc5/namespace_m_l_a_p_i.html#a6609804c6d86c4708b7168cab10fe4ef" title="Builds the tentative prolongator using aggregation. " alt="" coords="762,553,885,579"/>
+<area shape="rect" id="node28" href="$d8/dc5/namespace_m_l_a_p_i.html#ac910b47c4ef0b9e28acf9cfe719ab3ae" title="Call ML aggregation on A according to parameters supplied in List. Return aggregates in aggrinfo..." alt="" coords="745,637,902,663"/>
+<area shape="rect" id="node5" href="$d0/d33/ml__agg__gen_p_8h.html#ae9980b6a4d94d467d5865727725cb1b8" title="ML_Gen_MGHierarchy\l_UsingAggregation" alt="" coords="1016,216,1171,257"/>
+<area shape="rect" id="node9" href="$d5/d9b/ml__agg__reitzinger_8h.html#a109c0acc3b9efbf213a9f49d756cdda1" title="ML_Gen_MGHierarchy\l_UsingReitzinger" alt="" coords="1328,5,1483,47"/>
+<area shape="rect" id="node16" href="$d0/d33/ml__agg__gen_p_8h.html#a5f5a51370590a53ee4a81315f3d2109e" title="ML_Gen_MGHierarchy\l_UsingSmoothedAggr_ReuseExistingAgg" alt="" coords="961,319,1225,360"/>
+<area shape="rect" id="node17" href="$d0/d33/ml__agg__gen_p_8h.html#a69d5fe24f9b1bfc2267c54124b8d6e54" title="ML_MultiLevel_Gen_Prolongator" alt="" coords="988,486,1199,513"/>
+<area shape="rect" id="node6" href="$d5/d8c/mlguide_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1380,71,1431,98"/>
+<area shape="rect" id="node7" href="$d0/d33/ml__agg__gen_p_8h.html#a55f0768e24055d7d503b95ad16e63a39" title="ML_AGG_Gen_DDProlongator" alt="" coords="1305,122,1505,149"/>
+<area shape="rect" id="node8" href="$d0/d33/ml__agg__gen_p_8h.html#a1c6a82c0137de25725bc1708adb0f65e" title="ML_AGG_Gen_DDProlongator2" alt="" coords="1302,173,1509,199"/>
+<area shape="rect" id="node11" href="$db/de5/ml__struct_8h.html#a3e510083e545d8f69ebf2c7904c2ad92" title="ML_Setup" alt="" coords="1365,223,1446,250"/>
+<area shape="rect" id="node12" href="$db/de5/ml__struct_8h.html#a29c5797e6cbb5e0a36b743546c60a979" title="ML_build_ggb_fat" alt="" coords="1343,274,1467,301"/>
+<area shape="rect" id="node13" href="$d6/dfe/mli__solver_8h.html#a9860d39e2098baeea0339301379b4272" title="MLI_Solver_Setup" alt="" coords="1341,325,1470,351"/>
+<area shape="rect" id="node14" href="$d6/dfe/mli__solver_8h.html#a06864478676072b4076d798d710cd7aa" title="MLI_Solver_SetupDD" alt="" coords="1331,375,1480,402"/>
+<area shape="rect" id="node15" href="$dd/d39/ml__aztec__utils_8h.html#a0062bc88448c5f17831e5a080546d280" title="MLAZ_Setup_MLandAggregate" alt="" coords="1304,426,1507,453"/>
+<area shape="rect" id="node10" href="$d5/d21/ml__simple__max_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1585,13,1636,39"/>
+<area shape="rect" id="node18" href="$d0/d33/ml__agg__gen_p_8h.html#ae7d1b526f0441504fca9924114c35306" title="ML_Gen_MultiLevelHierarchy\l_UsingAggregation" alt="" coords="1309,477,1502,519"/>
+<area shape="rect" id="node21" href="$d0/d33/ml__agg__gen_p_8h.html#a401a0ca1f24bd136d5fcf880b4a85a2e" title="ML_Gen_MultiLevelHierarchy\l_UsingSmoothedAggr_ReuseExistingAgg" alt="" coords="1273,543,1537,584"/>
+<area shape="rect" id="node19" href="$d9/df7/ml__aztec__simple_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1585,485,1636,511"/>
+<area shape="rect" id="node20" href="$d9/df7/ml__aztec__simple_8c.html#a305183e8faf483ededc56013847b5172" title="user_Kn_build" alt="" coords="1684,485,1788,511"/>
+<area shape="rect" id="node25" href="$d8/dc5/namespace_m_l_a_p_i.html#a02dd2723ac5649b278cbe387b4184ad7" title="Builds the tentative prolongator with default null space. " alt="" coords="1032,553,1155,579"/>
+<area shape="rect" id="node26" href="$d1/ddd/class_m_l_a_p_i_1_1_multi_level_s_a.html#ac9935f186429f8bf5539c0ef2406148b" title="Computes the hierarchy. " alt="" coords="1020,607,1167,648"/>
+<area shape="rect" id="node27" href="$d1/ddd/class_m_l_a_p_i_1_1_multi_level_s_a.html#ad7f66d20cfeabcd6dcbcb3e03c5b90b6" title="Constructs the hierarchy for given Operator and parameters. " alt="" coords="1332,608,1479,649"/>
+<area shape="rect" id="node29" href="$d8/dc5/namespace_m_l_a_p_i.html#a0a75b74ee4a063a3ee5b6750a9afc0de" title="Call ML aggregation on A according to parameters supplied in List. Return aggregates in aggrinfo..." alt="" coords="996,673,1191,699"/>
+<area shape="rect" id="node30" href="$d8/dc5/namespace_m_l_a_p_i.html#a5ba8fd04b219e87086364582f6223418" title="Builds the tentative prolongator using aggregation. " alt="" coords="1344,674,1467,701"/>
+</map>
