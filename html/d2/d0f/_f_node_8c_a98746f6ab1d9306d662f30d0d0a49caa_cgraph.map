@@ -1,0 +1,12 @@
+<map id="boxptr_FNode_isRefIn" name="boxptr_FNode_isRefIn">
+<area shape="rect" id="node2" href="$d2/d0f/_f_node_8c.html#ad77ff5c21d636a7c79453136c3499ef9" title="omc_FNode_isRefIn" alt="" coords="207,157,349,184"/>
+<area shape="rect" id="node3" href="$d2/d0f/_f_node_8c.html#ab960df8930650bf1f043f93a5c67f081" title="omc_FNode_isIn" alt="" coords="397,107,519,133"/>
+<area shape="rect" id="node7" href="$d2/d0f/_f_node_8c.html#ab9dbc34a8a7187057b8c2533b409fae3" title="omc_FNode_fromRef" alt="" coords="1057,149,1204,176"/>
+<area shape="rect" id="node4" href="$d2/d0f/_f_node_8c.html#a167bbe2a453b322f37c7d25a4d2d6bbf" title="omc_FNode_originalScope" alt="" coords="576,5,755,32"/>
+<area shape="rect" id="node8" href="$d2/d0f/_f_node_8c.html#a12d12430af0e0453f0221fdd508629e1" title="omc_FNode_toRef" alt="" coords="599,56,731,83"/>
+<area shape="rect" id="node9" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a997adca56a546c8e84f98edee3074da5" title="omc_List_applyAndFold" alt="" coords="585,107,746,133"/>
+<area shape="rect" id="node10" href="$d2/d0f/_f_node_8c.html#a21c88cbc9f4b0199137daab663cc2f2a" title="omc_FNode_contextualScope" alt="" coords="567,157,764,184"/>
+<area shape="rect" id="node5" href="$d2/d0f/_f_node_8c.html#afd3c5ad5badd524aff6200c2b100198f" title="omc_FNode_originalScope\l__dispatch" alt="" coords="821,77,1000,118"/>
+<area shape="rect" id="node6" href="$d2/d0f/_f_node_8c.html#a6ae2d59fac6c13173ab73564c4ca2635" title="omc_FNode_isTop" alt="" coords="1065,92,1197,119"/>
+<area shape="rect" id="node11" href="$d2/d0f/_f_node_8c.html#ab848aa36f3812c5ce2bd1baeb060e63f" title="omc_FNode_contextualScope\l__dispatch" alt="" coords="812,142,1009,183"/>
+</map>

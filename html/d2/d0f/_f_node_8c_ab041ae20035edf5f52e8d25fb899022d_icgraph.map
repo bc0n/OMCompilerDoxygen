@@ -1,0 +1,6 @@
+<map id="omc_FNode_isRefBuiltin" name="omc_FNode_isRefBuiltin">
+<area shape="rect" id="node2" href="$d7/dfb/_f_graph_8h.html#a5b2cd0fcc57e777c336bcb0ac7e8c6f7" title="omc_FGraph_isTargetClass\lBuiltin" alt="" coords="220,39,405,80"/>
+<area shape="rect" id="node5" href="$d6/d9d/_f_node_8h.html#ab296786d70d4f5590509cfbdeea3cfaf" title="boxptr_FNode_isRefBuiltin" alt="" coords="223,105,402,131"/>
+<area shape="rect" id="node3" href="$d7/dfb/_f_graph_8h.html#af5ea0ae4fa8d16c9e30f6cf2c7c3186b" title="boxptr_FGraph_isTargetClass\lBuiltin" alt="" coords="453,5,649,47"/>
+<area shape="rect" id="node4" href="$d7/dfb/_f_graph_8h.html#a3ebb0f0210645556a1e58cb6ed3046cf" title="omc_FGraph_createVersion\lScope" alt="" coords="459,71,643,112"/>
+</map>

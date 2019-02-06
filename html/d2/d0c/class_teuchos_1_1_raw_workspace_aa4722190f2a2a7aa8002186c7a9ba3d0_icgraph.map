@@ -1,0 +1,7 @@
+<map id="Teuchos::RawWorkspace::num_bytes" name="Teuchos::RawWorkspace::num_bytes">
+<area shape="rect" id="node2" href="$d2/dfc/class_teuchos_1_1_workspace.html#af527caba8ba74341fe51d33c25fc3a59" title="Return the number of elements in the array. " alt="" coords="227,104,373,145"/>
+<area shape="rect" id="node3" href="$d2/dfc/class_teuchos_1_1_workspace.html#a12aaf29efae4327bd16c0e4fb58331bf" title="The destructor on the elements will only be called if call_constructors == true was passed to the con..." alt="" coords="421,5,568,47"/>
+<area shape="rect" id="node4" href="$d2/dfc/class_teuchos_1_1_workspace.html#a90e56fe470d07a6cafc2ee7dcd3593e3" title="Return a raw pointer to the beginning of the array or null if unsized. " alt="" coords="421,71,568,112"/>
+<area shape="rect" id="node5" href="$d2/dfc/class_teuchos_1_1_workspace.html#af4028e8ed10f3213636e9474418e9802" title="Non&#45;const zero based element access. " alt="" coords="421,136,568,177"/>
+<area shape="rect" id="node6" href="$d2/dfc/class_teuchos_1_1_workspace.html#ad7627da20986657a999ed2fb3f05aa78" title="Return a non&#45;const array view. " alt="" coords="421,201,568,243"/>
+</map>

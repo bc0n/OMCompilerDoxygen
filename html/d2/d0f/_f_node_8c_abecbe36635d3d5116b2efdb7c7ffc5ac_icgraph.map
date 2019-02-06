@@ -1,0 +1,9 @@
+<map id="omc_FNode_isDerived" name="omc_FNode_isDerived">
+<area shape="rect" id="node2" href="$d6/d9d/_f_node_8h.html#a2b6b778ce39faf965e2aa0ac0abf5035" title="omc_FNode_isRefDerived" alt="" coords="208,81,384,108"/>
+<area shape="rect" id="node8" href="$d6/d9d/_f_node_8h.html#a0e5f2278502a1757ea87c90da85d8ddd" title="boxptr_FNode_isDerived" alt="" coords="213,132,379,159"/>
+<area shape="rect" id="node3" href="$d6/d9d/_f_node_8h.html#a5f4a9dd7233f533b6f85adad0562f98e" title="omc_FNode_derivedRef" alt="" coords="448,5,611,32"/>
+<area shape="rect" id="node5" href="$d6/d9d/_f_node_8h.html#afbdc0b792c4db8bfd9e499eca0a47e18" title="boxptr_FNode_isRefDerived" alt="" coords="436,56,623,83"/>
+<area shape="rect" id="node6" href="$d9/d77/_f_resolve_8h.html#ad16e13332bf13a8a7d613f8331c175b6" title="omc_FResolve_derived__one" alt="" coords="432,107,627,133"/>
+<area shape="rect" id="node7" href="$d9/d77/_f_resolve_8h.html#ac65c14f148123252ede381343e85faa8" title="omc_FResolve_ext__one" alt="" coords="444,157,615,184"/>
+<area shape="rect" id="node4" href="$d6/d9d/_f_node_8h.html#ad4c95faeee72b68ba5aa94cadb9829d7" title="omc_FNode_extendsRefs" alt="" coords="675,5,849,32"/>
+</map>

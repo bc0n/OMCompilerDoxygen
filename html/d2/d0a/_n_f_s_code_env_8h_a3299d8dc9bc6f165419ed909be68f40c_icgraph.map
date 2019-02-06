@@ -1,0 +1,17 @@
+<map id="omc_NFSCodeEnv_isItemUsed" name="omc_NFSCodeEnv_isItemUsed">
+<area shape="rect" id="node2" href="$d5/df9/_n_f_s_code_dependency_8c.html#acae35257cedd74b032311e42457578c1" title="omc_NFSCodeDependency\l_removeUnusedRedeclares3" alt="" coords="277,5,468,47"/>
+<area shape="rect" id="node3" href="$d5/df9/_n_f_s_code_dependency_8c.html#a5906872f4c0043c644c5156f1b77b0d8" title="omc_NFSCodeDependency\l_checkClassUsed" alt="" coords="280,71,465,112"/>
+<area shape="rect" id="node6" href="$d5/df9/_n_f_s_code_dependency_8c.html#a653dfeef4139544fb02957cd1c9ec164" title="omc_NFSCodeDependency\l_analyseClassExtendsDef" alt="" coords="280,136,465,177"/>
+<area shape="rect" id="node9" href="$d5/df9/_n_f_s_code_dependency_8c.html#acc44adcc8f20521e062de220320d3a7f" title="omc_NFSCodeDependency\l_analyseItem" alt="" coords="280,235,465,276"/>
+<area shape="rect" id="node16" href="$d2/d0a/_n_f_s_code_env_8h.html#aaff3a26ed98c30f0ac3da15c40e22a2b" title="boxptr_NFSCodeEnv_isItemUsed" alt="" coords="263,301,483,327"/>
+<area shape="rect" id="node4" href="$d5/df9/_n_f_s_code_dependency_8c.html#af7909184134e135bc9ed280d1d991605" title="boxptr_NFSCodeDependency\l_checkClassUsed" alt="" coords="531,5,727,47"/>
+<area shape="rect" id="node5" href="$d5/df9/_n_f_s_code_dependency_8c.html#a8596049481534efecb8f2f70caa395f5" title="omc_NFSCodeDependency\l_collectUsedClass" alt="" coords="536,71,721,112"/>
+<area shape="rect" id="node7" href="$d5/df9/_n_f_s_code_dependency_8c.html#aedaebf356bdd61637f5f9c451244903e" title="omc_NFSCodeDependency\l_analyseAvlValue" alt="" coords="536,136,721,177"/>
+<area shape="rect" id="node8" href="$d5/df9/_n_f_s_code_dependency_8c.html#a08279640bc0fd543d26e3046c16b18e9" title="boxptr_NFSCodeDependency\l_analyseAvlValue" alt="" coords="775,136,971,177"/>
+<area shape="rect" id="node10" href="$d5/df9/_n_f_s_code_dependency_8c.html#a584d51a38d4b8287c56ca21448b7d538" title="omc_NFSCodeDependency\l_analyseCref" alt="" coords="536,201,721,243"/>
+<area shape="rect" id="node13" href="$d5/df9/_n_f_s_code_dependency_8c.html#a1dfbf520d29af668f10ee71c266d6a2d" title="omc_NFSCodeDependency\l_analyseNameMod2" alt="" coords="536,267,721,308"/>
+<area shape="rect" id="node14" href="$d5/df9/_n_f_s_code_dependency_8c.html#ab76ae7c99d362fac41f0f20beaa1843c" title="omc_NFSCodeDependency\l_analyseExtends" alt="" coords="536,332,721,373"/>
+<area shape="rect" id="node15" href="$d5/df9/_n_f_s_code_dependency_8c.html#a8ddfa0bffa6b13e17c4dc0712874de5a" title="omc_NFSCodeDependency\l_analyseRedeclaredClass2" alt="" coords="536,397,721,439"/>
+<area shape="rect" id="node11" href="$d5/df9/_n_f_s_code_dependency_8c.html#a0ea033376ff941f35841e21005f16ec5" title="omc_NFSCodeDependency\l_analyseExp2" alt="" coords="780,201,965,243"/>
+<area shape="rect" id="node12" href="$d5/df9/_n_f_s_code_dependency_8c.html#af34b796f8d264e2ad1733fc6aed6de42" title="omc_NFSCodeDependency\l_analyseExpTraverserEnter" alt="" coords="1019,201,1204,243"/>
+</map>

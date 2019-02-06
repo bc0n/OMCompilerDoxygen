@@ -1,0 +1,14 @@
+<map id="boxptr_FNode_isRefRefResolved" name="boxptr_FNode_isRefRefResolved">
+<area shape="rect" id="node2" href="$d2/d0f/_f_node_8c.html#a34e3f95f8fccd2138ad664d543711467" title="omc_FNode_isRefRefResolved" alt="" coords="272,81,479,108"/>
+<area shape="rect" id="node3" href="$d2/d0f/_f_node_8c.html#afcf8164bc77dda82b8e28616bb84d50d" title="omc_FNode_isRefRefUnresolved" alt="" coords="527,81,745,108"/>
+<area shape="rect" id="node4" href="$d2/d0f/_f_node_8c.html#a3949a9da3aaba573722bee735644541e" title="omc_FNode_refRef" alt="" coords="1069,31,1205,57"/>
+<area shape="rect" id="node11" href="$d2/d0f/_f_node_8c.html#adbdf99851fb571271a91d059cac7ec44" title="omc_FNode_refRefTargetScope" alt="" coords="793,81,1004,108"/>
+<area shape="rect" id="node13" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="875,132,922,159"/>
+<area shape="rect" id="node5" href="$d2/d0f/_f_node_8c.html#ad837a8a6752bd4ad53681789eb1192b8" title="omc_FNode_child" alt="" coords="1271,31,1397,57"/>
+<area shape="rect" id="node6" href="$d2/d0f/_f_node_8c.html#a7bf4bb951c0fff6c3768cc9949676448" title="omc_FNode_childFromNode" alt="" coords="1445,31,1633,57"/>
+<area shape="rect" id="node10" href="$d2/d0f/_f_node_8c.html#ab9dbc34a8a7187057b8c2533b409fae3" title="omc_FNode_fromRef" alt="" coords="1466,81,1613,108"/>
+<area shape="rect" id="node7" href="$d2/d0f/_f_node_8c.html#aa3678179506f22ed3f92e3ef17ba350e" title="omc_FNode_children" alt="" coords="1693,5,1839,32"/>
+<area shape="rect" id="node8" href="$d2/d08/_f_core_8c.html#ab107186a2eea148b54dfa1236c7dc57f" title="omc_FCore_RefTree_get" alt="" coords="1681,56,1851,83"/>
+<area shape="rect" id="node9" href="$d2/d08/_f_core_8c.html#a556c8fab7d705963fe0541d94033aa6e" title="omc_FCore_RefTree_keyCompare" alt="" coords="1899,56,2124,83"/>
+<area shape="rect" id="node12" href="$d2/d0f/_f_node_8c.html#a94cc6c0fcce209f95e4ec6a6b265c3dd" title="omc_FNode_targetScope" alt="" coords="1052,132,1223,159"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="omc_FCore_RefTree_fold" name="omc_FCore_RefTree_fold">
+<area shape="rect" id="node2" href="$d6/d82/_ceval_script_8c.html#a79d10e3cf8025831f31007156f94e496" title="omc_CevalScript_getNonPartial\lElementsForInstantiatedClass" alt="" coords="445,97,653,138"/>
+<area shape="rect" id="node3" href="$db/dda/_f_core_8h.html#aec21a60b0436e5f8f02bf5fddc6b17aa" title="omc_FCore_RefTree_fold" alt="" coords="225,157,397,184"/>
+<area shape="rect" id="node4" href="$d6/d9d/_f_node_8h.html#acbdd2b61eebaa7f4256f993eddb700b7" title="omc_FNode_apply1" alt="" coords="480,183,619,209"/>
+<area shape="rect" id="node5" href="$d9/d77/_f_resolve_8h.html#af0d9bc1028252d56a1f8335f894de4c4" title="omc_FResolve_elred" alt="" coords="708,5,853,32"/>
+<area shape="rect" id="node6" href="$d9/d77/_f_resolve_8h.html#ad2cdfda63c58f1de45eed7432fa1f694" title="omc_FResolve_mod" alt="" coords="709,56,852,83"/>
+<area shape="rect" id="node7" href="$d9/d77/_f_resolve_8h.html#a495fae049a8eeb6a8358bcf3586eaf00" title="omc_FResolve_cr" alt="" coords="717,107,845,133"/>
+<area shape="rect" id="node8" href="$d9/d77/_f_resolve_8h.html#ab9f584ec5b1815a64c1832d8baad5d5c" title="omc_FResolve_clsext" alt="" coords="705,157,857,184"/>
+<area shape="rect" id="node10" href="$d9/d77/_f_resolve_8h.html#a4e7221556ad1a2ed26f5398376ac1fe9" title="omc_FResolve_cc" alt="" coords="715,208,846,235"/>
+<area shape="rect" id="node11" href="$d9/d77/_f_resolve_8h.html#ace366164577d80ff388933a09792d2c8" title="omc_FResolve_ty" alt="" coords="717,259,845,285"/>
+<area shape="rect" id="node12" href="$d9/d77/_f_resolve_8h.html#a41626143b529cb537138d04d049eea5e" title="omc_FResolve_derived" alt="" coords="701,309,860,336"/>
+<area shape="rect" id="node13" href="$d9/d77/_f_resolve_8h.html#a7958c7c4283c2fd52a65cc7ea364fc30" title="omc_FResolve_ext" alt="" coords="713,360,848,387"/>
+<area shape="rect" id="node9" href="$d7/deb/_f_expand_8h.html#a1f13b96d2b8f8d775218a0de150c321c" title="omc_FExpand_all" alt="" coords="908,259,1035,285"/>
+</map>

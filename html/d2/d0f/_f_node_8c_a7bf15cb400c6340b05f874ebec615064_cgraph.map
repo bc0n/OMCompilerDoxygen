@@ -1,0 +1,12 @@
+<map id="boxptr_FNode_hasImports" name="boxptr_FNode_hasImports">
+<area shape="rect" id="node2" href="$d2/d0f/_f_node_8c.html#a337eb4f873ab281a57622a43ef9a0f34" title="omc_FNode_hasImports" alt="" coords="229,81,395,108"/>
+<area shape="rect" id="node3" href="$d2/d0f/_f_node_8c.html#ab4fa1505c24ee3dc4094f5484b25c048" title="omc_FNode_importTable" alt="" coords="443,5,611,32"/>
+<area shape="rect" id="node4" href="$d2/d0f/_f_node_8c.html#ab9dbc34a8a7187057b8c2533b409fae3" title="omc_FNode_fromRef" alt="" coords="854,56,1001,83"/>
+<area shape="rect" id="node5" href="$d2/d0f/_f_node_8c.html#a24194ec1acadc91237422f8c230aa5dc" title="omc_FNode_refImport" alt="" coords="451,107,603,133"/>
+<area shape="rect" id="node11" href="$d2/d0f/_f_node_8c.html#a12d12430af0e0453f0221fdd508629e1" title="omc_FNode_toRef" alt="" coords="461,157,593,184"/>
+<area shape="rect" id="node6" href="$d2/d0f/_f_node_8c.html#ad837a8a6752bd4ad53681789eb1192b8" title="omc_FNode_child" alt="" coords="659,107,785,133"/>
+<area shape="rect" id="node7" href="$d2/d0f/_f_node_8c.html#a7bf4bb951c0fff6c3768cc9949676448" title="omc_FNode_childFromNode" alt="" coords="833,107,1021,133"/>
+<area shape="rect" id="node8" href="$d2/d0f/_f_node_8c.html#aa3678179506f22ed3f92e3ef17ba350e" title="omc_FNode_children" alt="" coords="1081,81,1227,108"/>
+<area shape="rect" id="node9" href="$d2/d08/_f_core_8c.html#ab107186a2eea148b54dfa1236c7dc57f" title="omc_FCore_RefTree_get" alt="" coords="1069,132,1239,159"/>
+<area shape="rect" id="node10" href="$d2/d08/_f_core_8c.html#a556c8fab7d705963fe0541d94033aa6e" title="omc_FCore_RefTree_keyCompare" alt="" coords="1287,132,1512,159"/>
+</map>
