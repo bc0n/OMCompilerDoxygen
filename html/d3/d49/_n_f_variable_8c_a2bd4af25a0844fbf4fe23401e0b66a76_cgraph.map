@@ -1,0 +1,21 @@
+<map id="omc_NFVariable_fromCref" name="omc_NFVariable_fromCref">
+<area shape="rect" id="node2" href="$df/d26/_n_f_component_ref_8c.html#abf55c545913bcf45f33aa3529d27f49a" title="omc_NFComponentRef_node" alt="" coords="240,48,435,75"/>
+<area shape="rect" id="node3" href="$d7/d21/_n_f_inst_node_8c.html#a954fb6baea5ff56cc2ffc0c0760f3c27" title="omc_NFInstNode_InstNode\l_component" alt="" coords="245,426,430,467"/>
+<area shape="rect" id="node5" href="$df/d26/_n_f_component_ref_8c.html#a33c235df330b9ebec64ed66c93ad4cd1" title="omc_NFComponentRef\l_getSubscriptedType" alt="" coords="257,99,417,141"/>
+<area shape="rect" id="node11" href="$d2/dda/_n_f_component_8c.html#af2b2d1732b91be19f8479a2e6e169c97" title="omc_NFComponent_Component\l_getBinding" alt="" coords="231,165,444,206"/>
+<area shape="rect" id="node13" href="$d7/d21/_n_f_inst_node_8c.html#a0064d4029920d3f996b617d1890be3ca" title="omc_NFInstNode_InstNode\l_visibility" alt="" coords="245,295,430,337"/>
+<area shape="rect" id="node14" href="$d2/dda/_n_f_component_8c.html#a1c87fd94d1e33e159ed8dc4039a0f5cb" title="omc_NFComponent_Component\l_getAttributes" alt="" coords="231,361,444,402"/>
+<area shape="rect" id="node15" href="$d2/dda/_n_f_component_8c.html#a97f633fceeec6bf8fc9bcfce69067773" title="omc_NFComponent_Component\l_comment" alt="" coords="231,230,444,271"/>
+<area shape="rect" id="node17" href="$d7/d21/_n_f_inst_node_8c.html#aff48521d60f7412ea450fa29254ff224" title="omc_NFInstNode_InstNode_info" alt="" coords="231,516,444,543"/>
+<area shape="rect" id="node4" href="$dc/d0e/_pointer_8c.html#aa5369c5410f4ad12957ad69be8ccc4e8" title="omc_Pointer_access" alt="" coords="541,433,685,460"/>
+<area shape="rect" id="node6" href="$df/d26/_n_f_component_ref_8c.html#ab2364c1bdf8f4edf26d165e24d8bc898" title="omc_NFComponentRef\l_getSubscriptedType2" alt="" coords="533,45,693,86"/>
+<area shape="rect" id="node10" href="$d4/dc3/_n_f_type_8c.html#a645453d87083d02fed30050db147426a" title="omc_NFType_subscript" alt="" coords="799,107,960,133"/>
+<area shape="rect" id="node7" href="$d4/dc3/_n_f_type_8c.html#a78cc3c948b3fd6bde70c23596d0f82fe" title="omc_NFType_liftArrayLeftList" alt="" coords="781,5,977,32"/>
+<area shape="rect" id="node8" href="$d4/dc3/_n_f_type_8c.html#a1fb1c7f5092c41bb2a43481e8921dcc4" title="omc_NFType_arrayDims" alt="" coords="1025,81,1193,108"/>
+<area shape="rect" id="node9" href="$d0/d18/_n_f_function_8c.html#aae69cc226b1a0aa4a0b10d706367e116" title="omc_NFFunction_Function\l_returnType" alt="" coords="1241,74,1420,115"/>
+<area shape="rect" id="node12" href="$d1/d3e/_n_f_modifier_8c.html#aa6ae04357a7b8e196e76f3a62a0ed2f2" title="omc_NFModifier_Modifier\l_binding" alt="" coords="527,165,698,206"/>
+<area shape="rect" id="node16" href="$d9/d9e/_s_code_8c.html#ae39715ba7550dc0a9a1f8c8c82c228a4" title="omc_SCode_getElementComment" alt="" coords="501,237,725,264"/>
+<area shape="rect" id="node18" href="$d9/d9e/_s_code_8c.html#adaf5eda35fe553bf35664556f073c53a" title="omc_SCode_elementInfo" alt="" coords="795,535,964,561"/>
+<area shape="rect" id="node19" href="$d2/dda/_n_f_component_8c.html#a0af0c271af419ff3e6f374f0fb40c4f6" title="omc_NFComponent_Component_info" alt="" coords="492,484,733,511"/>
+<area shape="rect" id="node20" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="589,535,636,561"/>
+</map>

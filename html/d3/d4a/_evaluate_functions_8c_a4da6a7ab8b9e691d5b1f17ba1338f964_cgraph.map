@@ -1,0 +1,14 @@
+<map id="omc_EvaluateFunctions_generateProtectedElements" name="omc_EvaluateFunctions_generateProtectedElements">
+<area shape="rect" id="node2" href="$d9/d14/_component_reference_8c.html#a4cbfe93b088d5e37d7d9bbd8c886f54d" title="omc_ComponentReference\l_crefLastType" alt="" coords="491,5,673,47"/>
+<area shape="rect" id="node3" href="$d1/d08/_expression_8c.html#a709f5f88a0de42de5e2520d606c17275" title="omc_Expression_crefExp" alt="" coords="257,74,428,101"/>
+<area shape="rect" id="node7" href="$d9/d14/_component_reference_8c.html#a5f491f186f674efb30ec59575fc6a9a5" title="omc_ComponentReference\l_crefFirstIdent" alt="" coords="252,125,433,167"/>
+<area shape="rect" id="node8" href="$d9/d14/_component_reference_8c.html#a64cac5c7940d6cc4cc179886f649634a" title="omc_ComponentReference\l_crefLastIdent" alt="" coords="252,191,433,232"/>
+<area shape="rect" id="node9" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="293,257,392,283"/>
+<area shape="rect" id="node10" href="$d9/d14/_component_reference_8c.html#a99f05249d0101f2fc925a24367484623" title="omc_ComponentReference\l_makeCrefIdent" alt="" coords="252,308,433,349"/>
+<area shape="rect" id="node11" href="$d0/d29/_d_a_e_util_8c.html#aaffc5f4cd8b5df971ba61039ed76eb73" title="omc_DAEUtil_replaceCrefand\lTypeInVar" alt="" coords="244,373,441,415"/>
+<area shape="rect" id="node12" href="$d0/d29/_d_a_e_util_8c.html#a708682117dff684cbf9db46e9bbc3462" title="omc_DAEUtil_setElementVar\lVisibility" alt="" coords="245,439,440,480"/>
+<area shape="rect" id="node13" href="$d0/d29/_d_a_e_util_8c.html#a2dc6f6b92f907a2acb4a8665e174832d" title="omc_DAEUtil_setElementVar\lDirection" alt="" coords="245,504,440,545"/>
+<area shape="rect" id="node4" href="$d9/d14/_component_reference_8c.html#a3f6103afac7dca99c57aa2db9673bd27" title="omc_ComponentReference\l_crefLastSubs" alt="" coords="491,71,673,112"/>
+<area shape="rect" id="node5" href="$d1/d08/_expression_8c.html#acdd0e6e6845c989964d03169ad05e5e8" title="omc_Expression_unliftArray\lTypeWithSubs" alt="" coords="489,136,675,177"/>
+<area shape="rect" id="node6" href="$d1/d08/_expression_8c.html#a1e88195201ddbc16bb324633d806a27d" title="omc_Expression_unliftArray" alt="" coords="723,143,908,170"/>
+</map>
