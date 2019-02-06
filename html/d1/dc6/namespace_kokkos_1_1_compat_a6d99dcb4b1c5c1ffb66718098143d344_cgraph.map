@@ -1,0 +1,4 @@
+<map id="Kokkos::Compat::getKokkosViewDeepCopy" name="Kokkos::Compat::getKokkosViewDeepCopy">
+<area shape="rect" id="node2" href="$d5/d10/class_teuchos_1_1_array_view.html#a5c8d099fdd64be9ae16b95a58f9937a3" title="The total number of items in the managed array. " alt="" coords="244,5,384,47"/>
+<area shape="rect" id="node3" href="$d5/d10/class_teuchos_1_1_array_view.html#a34ee2bad9963575946f1358ee59d9bdf" title="Return a raw pointer to beginning of array or NULL if unsized. " alt="" coords="244,71,384,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Kokkos::Compat::persistingView" name="Kokkos::Compat::persistingView">
+<area shape="rect" id="node2" href="$d3/d74/namespace_teuchos.html#a1a54fcec163d023acb736a692cea02db" title="Variant of isend() that takes a tag (and restores the correct order of arguments). " alt="" coords="274,5,385,32"/>
+<area shape="rect" id="node3" href="$d3/d74/namespace_teuchos.html#a846705eb6b5e4143b0d7551e581cf948" title="Variant of ireceive that takes a tag argument (and restores the correct order of arguments). " alt="" coords="267,56,392,83"/>
+</map>

@@ -1,0 +1,11 @@
+digraph "fmi1_import_get_version"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node16 [label="fmi1_import_get_version",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node16 -> Node17 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="jm_log_error",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dac/group__jm__callbacks.html#gada5096ac90f8adc61a90b76597c4ae05",tooltip="Send a error message to the logger function. See jm_log() for details. "];
+  Node16 -> Node18 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="fmi1_capi_get_version",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc4/group__fmi1__capi__common.html#ga82084ba9944bd4953e0b3c903052ecf1",tooltip="Calls the FMI function fmiGetVersion() "];
+}

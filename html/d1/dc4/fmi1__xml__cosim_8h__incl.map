@@ -1,0 +1,16 @@
+<map id="OMCompiler/3rdParty/FMIL/src/XML/include/FMI1/fmi1_xml_cosim.h" name="OMCompiler/3rdParty/FMIL/src/XML/include/FMI1/fmi1_xml_cosim.h">
+<area shape="rect" id="node2" href="$d9/d25/fmi1__xml__model__description_8h.html" title="Public interface to the FMI XML C&#45;library. " alt="" coords="759,109,957,136"/>
+<area shape="rect" id="node4" href="$dd/d42/jm__callbacks_8h.html" title="JM/jm_callbacks.h" alt="" coords="417,333,547,360"/>
+<area shape="rect" id="node8" href="$d8/d33/jm__named__ptr_8h.html" title="JM/jm_named_ptr.h" alt="" coords="312,184,449,211"/>
+<area shape="rect" id="node12" href="$d2/d74/fmi__xml__context_8h.html" title="XML context is the entry point to the library. It is used to initialize, get FMI version and start pa..." alt="" coords="5,259,161,285"/>
+<area shape="rect" id="node14" href="$de/df3/fmi1__types_8h.html" title="FMI1/fmi1_types.h" alt="" coords="575,184,706,211"/>
+<area shape="rect" id="node16" href="$d4/d11/fmi1__enums_8h.html" title="Definions the enum types used with FMI 1.0 libs. " alt="" coords="571,333,710,360"/>
+<area shape="rect" id="node17" href="$da/da1/fmi1__xml__type_8h.html" title="Public interface to the FMI XML C&#45;library: variable types handling. " alt="" coords="859,259,977,285"/>
+<area shape="rect" id="node18" href="$d6/db6/fmi1__xml__unit_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of variable units. " alt="" coords="967,184,1082,211"/>
+<area shape="rect" id="node19" href="$d5/d36/fmi1__xml__variable_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of model variables. " alt="" coords="730,184,869,211"/>
+<area shape="rect" id="node20" href="$d7/d1f/fmi1__xml__vendor__annotations_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of vendor annotations. " alt="" coords="1107,184,1313,211"/>
+<area shape="rect" id="node21" href="$dd/d6d/fmi1__xml__capabilities_8h.html" title="fmi1_xml_capabilities.h" alt="" coords="1337,184,1496,211"/>
+<area shape="rect" id="node7" href="$d2/d4d/jm__types_8h.html" title="jm_types.h" alt="" coords="336,408,423,435"/>
+<area shape="rect" id="node9" href="$d9/d78/jm__vector_8h.html" title="jm_vector.h" alt="" coords="309,259,399,285"/>
+<area shape="rect" id="node13" href="$dc/dd6/fmi__version_8h.html" title="Enum defining supported FMI versions. " alt="" coords="20,408,147,435"/>
+</map>

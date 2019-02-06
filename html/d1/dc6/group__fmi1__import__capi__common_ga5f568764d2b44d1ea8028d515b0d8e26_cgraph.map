@@ -1,0 +1,20 @@
+<map id="fmi1_import_set_debug_logging" name="fmi1_import_set_debug_logging">
+<area shape="rect" id="node2" href="$d6/dac/group__jm__callbacks.html#gada5096ac90f8adc61a90b76597c4ae05" title="Send a error message to the logger function. See jm_log() for details. " alt="" coords="237,327,330,353"/>
+<area shape="rect" id="node3" href="$d6/dc4/group__fmi1__capi__common.html#ga55ece9aa60b616fdc5b91ca36b6a1597" title="Calls the FMI function fmiSetDebugLogging(...) " alt="" coords="211,378,356,419"/>
+<area shape="rect" id="node4" href="$d6/dc4/group__fmi1__capi__common.html#ga769275b756ca06a0c7fdc63211cac9c4" title="Calls the FMI function fmiSetReal(...) " alt="" coords="416,5,547,32"/>
+<area shape="rect" id="node5" href="$d4/d13/3rd_party_2_f_m_i_l_2install_2include_2_f_m_i1_2fmi_functions_8h.html#a5f9720d59f2940fe4ffe8dea81a7ff13" title="fmiSetReal" alt="" coords="438,56,525,83"/>
+<area shape="rect" id="node6" href="$d6/dc4/group__fmi1__capi__common.html#ga9fd018ff03fe1efa4e0e91dabea03855" title="Calls the FMI function fmiSetInteger(...) " alt="" coords="407,107,556,133"/>
+<area shape="rect" id="node7" href="$d4/d13/3rd_party_2_f_m_i_l_2install_2include_2_f_m_i1_2fmi_functions_8h.html#adf524d9fc09c852cad4204b26f972ed2" title="fmiSetInteger" alt="" coords="431,157,531,184"/>
+<area shape="rect" id="node8" href="$d6/dc4/group__fmi1__capi__common.html#ga6ab2bf98f131e43319a12cba7fe42575" title="Calls the FMI function fmiSetBoolean(...) " alt="" coords="404,208,559,235"/>
+<area shape="rect" id="node9" href="$d4/d13/3rd_party_2_f_m_i_l_2install_2include_2_f_m_i1_2fmi_functions_8h.html#a3b3c5b282934da3fd0bb52328b3850cd" title="fmiSetBoolean" alt="" coords="428,259,535,285"/>
+<area shape="rect" id="node10" href="$d6/dc4/group__fmi1__capi__common.html#ga69005bbcd56992acceee77cd57d4b84c" title="Calls the FMI function fmiSetString(...) " alt="" coords="410,309,553,336"/>
+<area shape="rect" id="node11" href="$d4/d13/3rd_party_2_f_m_i_l_2install_2include_2_f_m_i1_2fmi_functions_8h.html#a160e3016642dfe5f9a48e32d97371176" title="fmiSetString" alt="" coords="434,360,529,387"/>
+<area shape="rect" id="node12" href="$d6/dc4/group__fmi1__capi__common.html#gaeafb6b0ec676a161927949881791a561" title="Calls the FMI function fmiGetReal(...) " alt="" coords="416,411,547,437"/>
+<area shape="rect" id="node13" href="$d4/d13/3rd_party_2_f_m_i_l_2install_2include_2_f_m_i1_2fmi_functions_8h.html#a23e746f357e5757454b7b46b06c92c5d" title="fmiGetReal" alt="" coords="437,461,525,488"/>
+<area shape="rect" id="node14" href="$d6/dc4/group__fmi1__capi__common.html#ga4e2765006bb4174817e25784a03936be" title="Calls the FMI function fmiGetInteger(...) " alt="" coords="407,512,556,539"/>
+<area shape="rect" id="node15" href="$d4/d13/3rd_party_2_f_m_i_l_2install_2include_2_f_m_i1_2fmi_functions_8h.html#a067c1dfae7a5b59cc9b89a69c6cd6dc9" title="fmiGetInteger" alt="" coords="431,563,532,589"/>
+<area shape="rect" id="node16" href="$d6/dc4/group__fmi1__capi__common.html#gad11cf3cc5968c19c7a1b1ba2cbd1840f" title="Calls the FMI function fmiGetBoolean(...) " alt="" coords="404,613,559,640"/>
+<area shape="rect" id="node17" href="$d4/d13/3rd_party_2_f_m_i_l_2install_2include_2_f_m_i1_2fmi_functions_8h.html#a284435aa6cffe2ea17af02eee37c254b" title="fmiGetBoolean" alt="" coords="427,664,535,691"/>
+<area shape="rect" id="node18" href="$d6/dc4/group__fmi1__capi__common.html#ga3fd0fe1d771f2d651714d6d139350389" title="Calls the FMI function fmiGetString(...) " alt="" coords="410,715,553,741"/>
+<area shape="rect" id="node19" href="$d4/d13/3rd_party_2_f_m_i_l_2install_2include_2_f_m_i1_2fmi_functions_8h.html#a98d04d91fa1ec99a3647f1059682db56" title="fmiGetString" alt="" coords="434,765,529,792"/>
+</map>

@@ -1,0 +1,20 @@
+digraph "OMCompiler/SimulationRuntime/c/simulation/solver/epsilon.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="OMCompiler/SimulationRuntime\l/c/simulation/solver/epsilon.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="OMCompiler/SimulationRuntime\l/c/simulation/solver/dassl.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/ddf/dassl_8c.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="OMCompiler/SimulationRuntime\l/c/simulation/solver/events.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/deb/events_8c.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="OMCompiler/SimulationRuntime\l/c/simulation/solver/ida\l_solver.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d46/ida__solver_8c.html"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="OMCompiler/SimulationRuntime\l/c/simulation/solver/model_help.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dd5/model__help_8c.html"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="OMCompiler/SimulationRuntime\l/c/simulation/solver/nonlinearValues\lList.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/ddb/nonlinear_values_list_8c.html"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="OMCompiler/SimulationRuntime\l/c/simulation/solver/solver_main.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/def/solver__main_8c.html"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="OMCompiler/SimulationRuntime\l/c/simulation/solver/synchronous.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d18/synchronous_8c.html"];
+}

@@ -1,0 +1,4 @@
+<map id="Kokkos::Compat::getKokkosViewDeepCopy" name="Kokkos::Compat::getKokkosViewDeepCopy">
+<area shape="rect" id="node2" href="$dc/d5a/class_teuchos_1_1_array_view_3_01const_01_t_01_4.html#a45d1fcf696f3f2ea3fe412b6970b47a9" title="Teuchos::ArrayView\l\&lt; const T \&gt;::size" alt="" coords="254,5,394,47"/>
+<area shape="rect" id="node3" href="$dc/d5a/class_teuchos_1_1_array_view_3_01const_01_t_01_4.html#aef824302637f0d58b26212bff18d4038" title="Teuchos::ArrayView\l\&lt; const T \&gt;::getRawPtr" alt="" coords="244,71,404,112"/>
+</map>

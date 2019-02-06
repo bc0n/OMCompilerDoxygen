@@ -1,0 +1,5 @@
+<map id="Kokkos::Compat::deallocator" name="Kokkos::Compat::deallocator">
+<area shape="rect" id="node2" href="$d1/dc6/namespace_kokkos_1_1_compat.html#a0bc5790348912577c6b6504d6a0b613b" title="Kokkos::Compat::persistingView" alt="" coords="244,31,457,57"/>
+<area shape="rect" id="node3" href="$d3/d74/namespace_teuchos.html#a1a54fcec163d023acb736a692cea02db" title="Variant of isend() that takes a tag (and restores the correct order of arguments). " alt="" coords="513,5,623,32"/>
+<area shape="rect" id="node4" href="$d3/d74/namespace_teuchos.html#a846705eb6b5e4143b0d7551e581cf948" title="Variant of ireceive that takes a tag argument (and restores the correct order of arguments). " alt="" coords="505,56,631,83"/>
+</map>

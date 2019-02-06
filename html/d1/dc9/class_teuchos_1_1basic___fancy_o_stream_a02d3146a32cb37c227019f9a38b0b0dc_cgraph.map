@@ -1,0 +1,5 @@
+<map id="Teuchos::basic_FancyOStream::initialize" name="Teuchos::basic_FancyOStream::initialize">
+<area shape="rect" id="node2" href="$d8/dd9/class_teuchos_1_1basic___fancy_o_stream__buf.html#ae3926212d6556c8f261dd9ac7138ebcd" title="Teuchos::basic_FancyOStream\l_buf::initialize" alt="" coords="260,39,467,80"/>
+<area shape="rect" id="node3" href="$d4/dba/class_teuchos_1_1_global_m_p_i_session.html#a0bffffa883a6c0b20ce5dfafcbe71f38" title="The rank of the calling process in MPI_COMM_WORLD. " alt="" coords="515,5,703,47"/>
+<area shape="rect" id="node4" href="$d4/dba/class_teuchos_1_1_global_m_p_i_session.html#a20f86b4773ad754560336a8c0611e2b5" title="The number of processes in MPI_COMM_WORLD. " alt="" coords="515,71,703,112"/>
+</map>
