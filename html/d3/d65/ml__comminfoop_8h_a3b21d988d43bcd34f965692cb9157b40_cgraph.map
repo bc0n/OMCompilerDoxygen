@@ -1,0 +1,21 @@
+<map id="ML_CommInfoOP_PopulateBlks" name="ML_CommInfoOP_PopulateBlks">
+<area shape="rect" id="node2" href="$d1/da9/ml__comminfoop_8c.html#a9db8b8f27eaee3daa64022f209db998b" title="ML_CommInfoOP_Compute\l_TotalRcvLength" alt="" coords="285,5,471,47"/>
+<area shape="rect" id="node3" href="$d1/da9/ml__comminfoop_8c.html#a25cef348c6124167ce17f935bcf8f995" title="ML_CommInfoOP_Get_Nneighbors" alt="" coords="264,71,492,98"/>
+<area shape="rect" id="node4" href="$d8/d08/ml__memory_8c.html#ab87b354d6e82cccbd10c498870d74c6b" title="ML_allocate" alt="" coords="861,325,953,351"/>
+<area shape="rect" id="node6" href="$da/d6c/ml__aztec__utils_8c.html#a7db311c960b81177df79b7e832fc86ca" title="ML_free" alt="" coords="1116,401,1185,427"/>
+<area shape="rect" id="node7" href="$d1/da9/ml__comminfoop_8c.html#a54d54632421530b8d261e1d9388c51b8" title="ML_exchange_bdry" alt="" coords="581,122,716,149"/>
+<area shape="rect" id="node11" href="$d1/da9/ml__comminfoop_8c.html#ab7e315e7a31febfebcfe56df61d4f92c" title="ML_CommInfoOP_Get_neighbors" alt="" coords="269,477,487,503"/>
+<area shape="rect" id="node14" href="$d1/da9/ml__comminfoop_8c.html#a90a2d898b28ee1754a68fab0f0d58503" title="ML_CommInfoOP_Set_neighbors" alt="" coords="269,325,487,351"/>
+<area shape="rect" id="node16" href="$d1/da9/ml__comminfoop_8c.html#a890f0287db2558dd69b214b70d5c804f" title="ML_CommInfoOP_Get_Nsendlist" alt="" coords="269,629,487,655"/>
+<area shape="rect" id="node17" href="$d1/da9/ml__comminfoop_8c.html#a67a78761b73abd34be6371c791363a23" title="ML_CommInfoOP_Get_sendlist" alt="" coords="545,173,752,199"/>
+<area shape="rect" id="node18" href="$d1/da9/ml__comminfoop_8c.html#a2ce8d1bb74c5d417d9289e8cf8cb2827" title="ML_CommInfoOP_Get_Nrcvlist" alt="" coords="275,679,481,706"/>
+<area shape="rect" id="node19" href="$d1/da9/ml__comminfoop_8c.html#a6f8ee7ba79d4edb0a165f275dba43950" title="ML_CommInfoOP_Get_rcvlist" alt="" coords="550,223,747,250"/>
+<area shape="rect" id="node20" href="$d1/da9/ml__comminfoop_8c.html#af1c53a07be65fd4c52e4f678bcae1fd3" title="ML_CommInfoOP_Set_exch_info" alt="" coords="540,426,757,453"/>
+<area shape="rect" id="node5" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="1121,325,1181,351"/>
+<area shape="rect" id="node8" href="$d6/de2/ml__utils_8c.html#ab9104f4e136b1a0627c2b3e23d1a003c" title="GetClock" alt="" coords="869,97,946,123"/>
+<area shape="rect" id="node10" href="$d1/da9/ml__comminfoop_8c.html#a4d86925c1126ff715612eb2e7a0bc6de" title="ML_Comm_Envelope_Get_Tag" alt="" coords="805,198,1009,225"/>
+<area shape="rect" id="node9" href="$d6/de2/ml__utils_8c.html#a3eef8dfcae9ecd19bd4d0b8e14239d7b" title="machine_dependent_second" alt="" coords="1057,97,1244,123"/>
+<area shape="rect" id="node12" href="$d6/de2/ml__utils_8c.html#a84a03c2d5c462ed7c0de12bc3384d576" title="pr_error" alt="" coords="615,527,682,554"/>
+<area shape="rect" id="node13" href="$d4/d98/g_09_09malloc_8c.html#a49f789e614e57e410f598885b800c2df" title="fprintf" alt="" coords="880,527,935,554"/>
+<area shape="rect" id="node15" href="$d1/da9/ml__comminfoop_8c.html#a2356cfac70c23c3898fd629386ce3851" title="ML_CommInfoOP_Create" alt="" coords="562,325,735,351"/>
+</map>

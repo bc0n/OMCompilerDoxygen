@@ -1,0 +1,5 @@
+<map id="SimObjects::SimObjects" name="SimObjects::SimObjects">
+<area shape="rect" id="node2" href="$d3/d6f/group__core_simcontroller.html#ga5340f496b4412730183d587512a8c496" title="SimObjects::getAlgLoopSolver\lFactory" alt="" coords="221,5,421,47"/>
+<area shape="rect" id="node3" href="$d3/d6f/group__core_simcontroller.html#ga66b40bf922fb0b1762a5b5efc6fecc8a" title="SimObjects::getGlobalSettings" alt="" coords="220,71,421,98"/>
+<area shape="rect" id="node4" href="$d3/d6f/group__core_simcontroller.html#ga04a34f7c7f4ec6c321a24dee3a711a4d" title="SimObjects::getWriter" alt="" coords="245,122,396,149"/>
+</map>

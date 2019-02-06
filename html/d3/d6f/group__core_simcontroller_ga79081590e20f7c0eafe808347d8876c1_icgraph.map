@@ -1,0 +1,5 @@
+<map id="Configuration::getGlobalSettings" name="Configuration::getGlobalSettings">
+<area shape="rect" id="node2" href="$d3/d6f/group__core_simcontroller.html#ga88be45cf05fa2ffe06811651ae7b3d52" title="SimManager::initialize" alt="" coords="245,5,395,32"/>
+<area shape="rect" id="node3" href="$d3/d6f/group__core_simcontroller.html#ga8401ca09bc2b9a006cb2b9ff352cfed9" title="SimManager::runSingleStep" alt="" coords="228,56,412,83"/>
+<area shape="rect" id="node4" href="$d3/d6f/group__core_simcontroller.html#gad52a0f4de286c3316d4118046b53b58a" title="SimManager::SetCheckTimeout" alt="" coords="216,107,424,133"/>
+</map>

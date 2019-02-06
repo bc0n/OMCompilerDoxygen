@@ -1,0 +1,11 @@
+<map id="SimObjects::LoadWriter" name="SimObjects::LoadWriter">
+<area shape="rect" id="node2" href="$d2/dc2/class_i_global_settings.html#aabde50d32edd4acbbf50b7bb0cb9ba33" title="IGlobalSettings::getOutput\lFormat" alt="" coords="217,5,393,47"/>
+<area shape="rect" id="node3" href="$de/dee/struct_sim_object_vx_works_factory.html#a8a91d6a0ac703238bf7e18868ad26e76" title="SimObjectVxWorksFactory\l::createMatFileWriter" alt="" coords="215,71,396,112"/>
+<area shape="rect" id="node5" href="$de/dee/struct_sim_object_vx_works_factory.html#a95ad975627e88dccd7a6efe6950b0e52" title="SimObjectVxWorksFactory\l::createTextFileWriter" alt="" coords="215,136,396,177"/>
+<area shape="rect" id="node7" href="$de/dee/struct_sim_object_vx_works_factory.html#af66f1001edb7b6a706b1b96d4a23edf6" title="SimObjectVxWorksFactory\l::createBufferReaderWriter" alt="" coords="215,201,396,243"/>
+<area shape="rect" id="node9" href="$de/dee/struct_sim_object_vx_works_factory.html#a2b2484cfb611e60ff3d43b7890b515a7" title="SimObjectVxWorksFactory\l::createDefaultWriter" alt="" coords="215,267,396,308"/>
+<area shape="rect" id="node4" href="$d7/d09/group__simcorefactories_policies.html#ga297ae086b31ae12f092b926cee834719" title="createMatFileWriterFactory" alt="" coords="446,78,626,105"/>
+<area shape="rect" id="node6" href="$d7/d09/group__simcorefactories_policies.html#gabd6a066bb8164e2f4dfa2b89cac838f6" title="createTextFileWriterFactory" alt="" coords="444,143,628,170"/>
+<area shape="rect" id="node8" href="$d7/d09/group__simcorefactories_policies.html#ga446e5295fe089974baf6b429bf2b71fb" title="createBufferReaderWriter\lFactory" alt="" coords="451,201,621,243"/>
+<area shape="rect" id="node10" href="$d7/d09/group__simcorefactories_policies.html#ga17c0fc70264d34f101ffe497f23ea095" title="createDefaultWriterFactory" alt="" coords="447,274,625,301"/>
+</map>

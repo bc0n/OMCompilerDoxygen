@@ -1,0 +1,9 @@
+<map id="debug_print" name="debug_print">
+<area shape="rect" id="node2" href="$db/d33/build_2include_2omc_2lpsolve_2lp__mipbb_8h.html#a9d339d96c9f82786260b425cad7ab62e" title="fillbranches_BB" alt="" coords="143,5,256,32"/>
+<area shape="rect" id="node7" href="$db/d33/build_2include_2omc_2lpsolve_2lp__mipbb_8h.html#a8f2122bd9c45170c45f236f9fe3d0dd7" title="solve_LP" alt="" coords="161,56,237,83"/>
+<area shape="rect" id="node3" href="$db/d33/build_2include_2omc_2lpsolve_2lp__mipbb_8h.html#abe1e769e38a53eb057271580f1453f6c" title="initbranches_BB" alt="" coords="304,5,421,32"/>
+<area shape="rect" id="node4" href="$db/d33/build_2include_2omc_2lpsolve_2lp__mipbb_8h.html#a29fef70f6e599c3d0961c052d6a780df" title="push_BB" alt="" coords="471,5,546,32"/>
+<area shape="rect" id="node5" href="$db/d33/build_2include_2omc_2lpsolve_2lp__mipbb_8h.html#a14912803f02db21c25829df065202762" title="strongbranch_BB" alt="" coords="596,5,719,32"/>
+<area shape="rect" id="node6" href="$db/d33/build_2include_2omc_2lpsolve_2lp__mipbb_8h.html#a1d8d97b4f4f35f07e6b798f07a62e527" title="run_BB" alt="" coords="625,56,690,83"/>
+<area shape="rect" id="node8" href="$db/d33/build_2include_2omc_2lpsolve_2lp__mipbb_8h.html#a43e95e2128e85df2643cbc0bfce4746c" title="solve_BB" alt="" coords="469,56,548,83"/>
+</map>
