@@ -1,0 +1,17 @@
+<map id="omc_NFComponent_Component_isConnector" name="omc_NFComponent_Component_isConnector">
+<area shape="rect" id="node2" href="$d4/de3/_n_f_component_8h.html#acdcb107ca557a8e48ad4ede52d7fb609" title="boxptr_NFComponent\l_Component_isConnector" alt="" coords="273,123,446,164"/>
+<area shape="rect" id="node3" href="$d7/d97/_n_f_inst_node_8h.html#a6692c49191e17bc86e395e0f4c55cc52" title="omc_NFInstNode_InstNode\l_isConnector" alt="" coords="267,188,452,229"/>
+<area shape="rect" id="node4" href="$dd/d47/_n_f_connector_8c.html#a52269ad1bb6b3190b8ea93f0ce81e74a" title="omc_NFConnector_crefFace" alt="" coords="524,71,715,98"/>
+<area shape="rect" id="node7" href="$d4/d94/_n_f_convert_d_a_e_8c.html#a48c865e914d5e0abb926cae5387e8b4e" title="omc_NFConvertDAE_getComponent\lDirection" alt="" coords="500,123,739,164"/>
+<area shape="rect" id="node13" href="$d7/d97/_n_f_inst_node_8h.html#a0f23582640777f3fe5934d22308bdb64" title="boxptr_NFInstNode_InstNode\l_isConnector" alt="" coords="521,188,717,229"/>
+<area shape="rect" id="node14" href="$db/d98/_n_f_typing_8h.html#a54b6f1b9dec8e371c6938a189507c6f1" title="omc_NFTyping_checkConnector" alt="" coords="513,254,726,281"/>
+<area shape="rect" id="node15" href="$db/d98/_n_f_typing_8h.html#a3d6d0368644b7260e862ceb6a13dee17" title="omc_NFTyping_typeExpandable\lConnectors" alt="" coords="514,329,725,371"/>
+<area shape="rect" id="node5" href="$dd/d47/_n_f_connector_8c.html#aea2f1b509f956623e206c6aa85521c79" title="boxptr_NFConnector\l_crefFace" alt="" coords="832,5,975,47"/>
+<area shape="rect" id="node6" href="$d6/d46/_n_f_connector_8h.html#a9e42c390a801d878009274055b1e1963" title="omc_NFConnector_fromCref" alt="" coords="808,71,999,98"/>
+<area shape="rect" id="node8" href="$d4/d94/_n_f_convert_d_a_e_8c.html#aedabe4263e22ca1aaa73a7fa931aa5f3" title="boxptr_NFConvertDAE\l_getComponentDirection" alt="" coords="820,123,987,164"/>
+<area shape="rect" id="node9" href="$d4/d94/_n_f_convert_d_a_e_8c.html#a5498543406bc263ce419888568d56dc6" title="omc_NFConvertDAE_makeDAEVar" alt="" coords="787,189,1020,215"/>
+<area shape="rect" id="node10" href="$d4/d94/_n_f_convert_d_a_e_8c.html#a76762a025c3769ff38f470230c962f5a" title="boxptr_NFConvertDAE\l_makeDAEVar" alt="" coords="1087,149,1245,191"/>
+<area shape="rect" id="node11" href="$d4/d94/_n_f_convert_d_a_e_8c.html#a25bd7bc6e2cd2adc0612abda7ae90159" title="omc_NFConvertDAE_convert\lVariable" alt="" coords="1068,215,1264,256"/>
+<area shape="rect" id="node12" href="$d4/d94/_n_f_convert_d_a_e_8c.html#a1a1aeba081ecad278e75567eafef268d" title="boxptr_NFConvertDAE\l_convertVariable" alt="" coords="1312,215,1469,256"/>
+<area shape="rect" id="node16" href="$db/d98/_n_f_typing_8h.html#a0948c8d18a8ef2a7a7baeceeeea594c3" title="boxptr_NFTyping_typeExpandable\lConnectors" alt="" coords="792,329,1015,371"/>
+</map>

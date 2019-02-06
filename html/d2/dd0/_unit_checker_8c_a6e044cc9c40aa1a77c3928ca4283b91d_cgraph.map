@@ -1,0 +1,14 @@
+<map id="boxptr_UnitChecker_completeCheck" name="boxptr_UnitChecker_completeCheck">
+<area shape="rect" id="node2" href="$d2/dd0/_unit_checker_8c.html#a797b8722385b2ef0a3313070b645451a" title="omc_UnitChecker_complete\lCheck" alt="" coords="192,181,379,222"/>
+<area shape="rect" id="node3" href="$d2/dd0/_unit_checker_8c.html#a8e4a8daa1438e6592ec7d1af3f91d1b8" title="omc_UnitChecker_normalize" alt="" coords="449,97,639,124"/>
+<area shape="rect" id="node6" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#acacfa47efcc44a29f7bb7d98f2a000f8" title="void" alt="" coords="1006,121,1053,148"/>
+<area shape="rect" id="node9" href="$d2/dd0/_unit_checker_8c.html#acb28bd41aa9438400fe862a0142c2898" title="omc_UnitChecker_unitHasUnknown" alt="" coords="427,239,661,265"/>
+<area shape="rect" id="node4" href="$d1/d2e/_unit_absyn_builder_8c.html#a158a506920ab2e1b95f330a94fa55deb" title="omc_UnitAbsynBuilder_find" alt="" coords="723,5,906,32"/>
+<area shape="rect" id="node7" href="$d2/dd0/_unit_checker_8c.html#ae62e9c315d4399c22bf7e6166a021673" title="omc_UnitChecker_normalize\lOnUnit" alt="" coords="719,57,910,98"/>
+<area shape="rect" id="node8" href="$d1/d2e/_unit_absyn_builder_8c.html#a7792691f8e3f3842a43ae9fb3be3eace" title="omc_UnitAbsynBuilder\l_update" alt="" coords="737,122,892,163"/>
+<area shape="rect" id="node5" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a751bf2360cb3df6de97811998890b7ea" title="intString" alt="" coords="994,5,1065,32"/>
+<area shape="rect" id="node10" href="$d2/dd0/_unit_checker_8c.html#a8bea522662ab6f83aeb8fb53c8fdde3f" title="omc_UnitChecker_hasUnknown" alt="" coords="709,239,920,265"/>
+<area shape="rect" id="node11" href="$d3/db3/_flags_8c.html#a34e6591659b1578969141a635ff24042" title="omc_Flags_isSet" alt="" coords="968,239,1091,265"/>
+<area shape="rect" id="node12" href="$d3/db3/_flags_8c.html#a760d66f53b65ac257876ca0f6308f09f" title="omc_Flags_loadFlags" alt="" coords="1139,239,1288,265"/>
+<area shape="rect" id="node13" href="$da/d72/_compiler_2boot_2build_2list_8c.html#a3ec1ee3a5ff53be9af368e290be09182" title="omc_List_fold" alt="" coords="1336,239,1439,265"/>
+</map>

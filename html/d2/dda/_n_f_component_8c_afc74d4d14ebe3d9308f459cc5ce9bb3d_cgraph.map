@@ -1,0 +1,6 @@
+<map id="boxptr_NFComponent_Component_hasBinding" name="boxptr_NFComponent_Component_hasBinding">
+<area shape="rect" id="node2" href="$d2/dda/_n_f_component_8c.html#ad324812e79d7c0ded5021259301e0c91" title="omc_NFComponent_Component\l_hasBinding" alt="" coords="220,39,433,80"/>
+<area shape="rect" id="node3" href="$d3/dcf/_n_f_binding_8c.html#ab2de4dc6d83f9f5260fbab801ab60ad2" title="omc_NFBinding_Binding\l_isBound" alt="" coords="505,5,671,47"/>
+<area shape="rect" id="node4" href="$d2/dda/_n_f_component_8c.html#af2b2d1732b91be19f8479a2e6e169c97" title="omc_NFComponent_Component\l_getBinding" alt="" coords="481,71,695,112"/>
+<area shape="rect" id="node5" href="$d1/d3e/_n_f_modifier_8c.html#aa6ae04357a7b8e196e76f3a62a0ed2f2" title="omc_NFModifier_Modifier\l_binding" alt="" coords="743,71,913,112"/>
+</map>

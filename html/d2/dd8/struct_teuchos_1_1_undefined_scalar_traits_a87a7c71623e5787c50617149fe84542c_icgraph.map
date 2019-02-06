@@ -1,0 +1,23 @@
+<map id="Teuchos::UndefinedScalarTraits::notDefined" name="Teuchos::UndefinedScalarTraits::notDefined">
+<area shape="rect" id="node2" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#aace84c4741c66871d00de3ae7bb16067" title="Returns relative machine precision. " alt="" coords="245,5,395,47"/>
+<area shape="rect" id="node3" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#af0f8203d4f3a1f24ca08cb4e77143d72" title="Returns safe minimum (sfmin), such that 1/sfmin does not overflow. " alt="" coords="244,71,396,112"/>
+<area shape="rect" id="node4" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a57a1eeed133d43b3d1a9a7f7fccc6cd1" title="Returns the base of the machine. " alt="" coords="245,136,395,177"/>
+<area shape="rect" id="node5" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#afe394147dc5d244004062410187da7f2" title="Returns eps*base. " alt="" coords="245,201,395,243"/>
+<area shape="rect" id="node6" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#af2aa4d02dfd211daa86865e178f6ac50" title="Returns the number of (base) digits in the mantissa. " alt="" coords="245,267,395,308"/>
+<area shape="rect" id="node7" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#ab904496fd6c2eb14e05d8973b9e62c69" title="Returns 1.0 when rounding occurs in addition, 0.0 otherwise. " alt="" coords="245,332,395,373"/>
+<area shape="rect" id="node8" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#acf53d33f2d597b1b5538982c2d64c3c8" title="Returns the minimum exponent before (gradual) underflow. " alt="" coords="245,397,395,439"/>
+<area shape="rect" id="node9" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#ae223e3d35fa42790565e868d22094b66" title="Returns the underflow threshold &#45; base^(emin&#45;1) " alt="" coords="245,463,395,504"/>
+<area shape="rect" id="node10" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a76f3bfad474b3c6fd490552943e5283b" title="Returns the largest exponent before overflow. " alt="" coords="244,528,396,569"/>
+<area shape="rect" id="node11" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a01fa1ca20a50e2abb0a20c266741cd44" title="Overflow theshold &#45; (base^emax)*(1&#45;eps) " alt="" coords="245,593,395,635"/>
+<area shape="rect" id="node12" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a09d4569fca3d1a965037a483dd86de56" title="Returns the magnitudeType of the scalar type a. " alt="" coords="230,659,410,700"/>
+<area shape="rect" id="node13" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a1d9fe4c2221fcd9df15a16cf525e0f24" title="Returns representation of zero for this scalar type. " alt="" coords="245,724,395,765"/>
+<area shape="rect" id="node14" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a146d96d758b245a3ca2272680ebf52b4" title="Returns representation of one for this scalar type. " alt="" coords="245,789,395,831"/>
+<area shape="rect" id="node15" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a0ae4354f2ff8ddd0789125bb58b5d424" title="Returns the real part of the scalar type a. " alt="" coords="245,855,395,896"/>
+<area shape="rect" id="node16" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a854e483065dc2727079b57fb1c87c9e9" title="Returns the imaginary part of the scalar type a. " alt="" coords="245,920,395,961"/>
+<area shape="rect" id="node17" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a493bf9b1bd853c747559b2f1cb9ab8d9" title="Returns the conjugate of the scalar type a. " alt="" coords="232,985,408,1027"/>
+<area shape="rect" id="node18" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a4d71d35f1d8f187a9cced036c1b0e62d" title="Returns a number that represents NaN. " alt="" coords="245,1051,395,1092"/>
+<area shape="rect" id="node19" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a0bcd30d23cc17af6bf6a235dfc1dcd0c" title="Returns true if x is NaN or Inf. " alt="" coords="237,1116,403,1157"/>
+<area shape="rect" id="node20" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a7814d4a2c43ba1c1b9ab3ae79a2f5a32" title="Returns a random number (between &#45;one() and +one()) of this scalar type. " alt="" coords="239,1181,401,1223"/>
+<area shape="rect" id="node21" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#ac45885f032e1fb68eed6a25f5331beec" title="Returns a number of magnitudeType that is the square root of this scalar type x. " alt="" coords="229,1247,411,1288"/>
+<area shape="rect" id="node22" href="$d1/df7/struct_teuchos_1_1_scalar_traits.html#a02549beb92d1cae0298a080b4f17d14e" title="Returns the result of raising one scalar x to the power y. " alt="" coords="245,1312,395,1353"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="omc_UnitChecker_divSpecUnit" name="omc_UnitChecker_divSpecUnit">
+<area shape="rect" id="node2" href="$d2/dd0/_unit_checker_8c.html#abed3187dcecbb6a3c33eef88c7614fa0" title="omc_UnitChecker_negParamList" alt="" coords="259,5,473,32"/>
+<area shape="rect" id="node3" href="$d2/d57/build_2include_2omc_2c_2meta_2meta__modelica__builtin_8h.html#a56b7e8a835b2d388f5984ca7378bc1ec" title="listAppend" alt="" coords="325,56,407,83"/>
+<area shape="rect" id="node4" href="$d2/dd0/_unit_checker_8c.html#ad96b152c99d5423a969d8950f4e8f122" title="omc_UnitChecker_normalize\lParamsExponents" alt="" coords="271,107,461,149"/>
+<area shape="rect" id="node8" href="$d2/dd0/_unit_checker_8c.html#ad1719bee096b1281f1a8883f42cbc0cf" title="omc_UnitChecker_divUnitVec" alt="" coords="267,197,465,224"/>
+<area shape="rect" id="node5" href="$d2/dd0/_unit_checker_8c.html#a13144d848f4431b886dabb66504df06b" title="omc_UnitChecker_getParam" alt="" coords="521,96,712,123"/>
+<area shape="rect" id="node6" href="$d5/d00/_m_math_8c.html#a305f26ede627d2fd849bc2be4637949c" title="omc_MMath_addRational" alt="" coords="531,147,702,173"/>
+<area shape="rect" id="node7" href="$d5/d00/_m_math_8c.html#a581156a41530c00068053e36b1248308" title="omc_MMath_intGcd" alt="" coords="760,172,899,199"/>
+<area shape="rect" id="node9" href="$d5/d00/_m_math_8c.html#af0b90df465075b3e330cac414b01cbbc" title="omc_MMath_subRational" alt="" coords="531,197,702,224"/>
+</map>

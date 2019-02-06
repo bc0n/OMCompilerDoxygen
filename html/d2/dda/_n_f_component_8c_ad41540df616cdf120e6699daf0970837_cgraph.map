@@ -1,0 +1,11 @@
+<map id="boxptr_NFComponent_Component_isExpandableConnector" name="boxptr_NFComponent_Component_isExpandableConnector">
+<area shape="rect" id="node2" href="$d2/dda/_n_f_component_8c.html#a5c525d0ea94ac8c2488be02e52239ef1" title="omc_NFComponent_Component\l_isExpandableConnector" alt="" coords="295,203,508,244"/>
+<area shape="rect" id="node3" href="$d5/ddb/_n_f_class_8c.html#a490f9b9f66eeb1e1966563f646764ace" title="omc_NFClass_Class_isExpandable\lConnectorClass" alt="" coords="556,64,788,105"/>
+<area shape="rect" id="node6" href="$d7/d21/_n_f_inst_node_8c.html#a2afd767d036c8eb80eef1f0d33ddf052" title="omc_NFInstNode_InstNode\l_getDerivedClass" alt="" coords="579,203,765,244"/>
+<area shape="rect" id="node9" href="$d2/dda/_n_f_component_8c.html#aebc936a63cf3faa7877ddb75a6ba16cb" title="omc_NFComponent_Component\l_classInstance" alt="" coords="1104,232,1317,273"/>
+<area shape="rect" id="node4" href="$da/df0/_n_f_restriction_8c.html#a61d0603f5cc27bcab3ce71dc15a1bc3b" title="omc_NFRestriction_isExpandable\lConnector" alt="" coords="836,5,1056,47"/>
+<area shape="rect" id="node5" href="$d5/ddb/_n_f_class_8c.html#a296a34f8a9de8440f7dfcebb20d55577" title="omc_NFClass_Class_restriction" alt="" coords="841,71,1051,98"/>
+<area shape="rect" id="node7" href="$d7/d21/_n_f_inst_node_8c.html#a840047a70bed69a6b747a8bbec33e15b" title="omc_NFInstNode_InstNode\l_getClass" alt="" coords="853,173,1039,215"/>
+<area shape="rect" id="node8" href="$dc/d0e/_pointer_8c.html#aa5369c5410f4ad12957ad69be8ccc4e8" title="omc_Pointer_access" alt="" coords="1139,151,1283,178"/>
+<area shape="rect" id="node10" href="$d7/d21/_n_f_inst_node_8c.html#ab09e3d3d973c4e4f850983d0b2a0e07b" title="omc_NFInstNode_InstNode\l_getDerivedNode" alt="" coords="853,291,1039,332"/>
+</map>

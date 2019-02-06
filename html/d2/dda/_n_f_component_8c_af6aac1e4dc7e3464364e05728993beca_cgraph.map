@@ -1,0 +1,7 @@
+<map id="omc_NFComponent_Component_getType" name="omc_NFComponent_Component_getType">
+<area shape="rect" id="node2" href="$d7/d21/_n_f_inst_node_8c.html#ae5940953d517719f39a339e2c618c331" title="omc_NFInstNode_InstNode\l_getType" alt="" coords="267,39,452,80"/>
+<area shape="rect" id="node3" href="$d5/ddb/_n_f_class_8c.html#ac23d3aa7b0619f3bda890410f64af293" title="omc_NFClass_Class_getType" alt="" coords="500,17,701,43"/>
+<area shape="rect" id="node5" href="$dc/d0e/_pointer_8c.html#aa5369c5410f4ad12957ad69be8ccc4e8" title="omc_Pointer_access" alt="" coords="1017,71,1161,98"/>
+<area shape="rect" id="node4" href="$d7/d21/_n_f_inst_node_8c.html#a840047a70bed69a6b747a8bbec33e15b" title="omc_NFInstNode_InstNode\l_getClass" alt="" coords="749,5,935,47"/>
+<area shape="rect" id="node6" href="$d2/dda/_n_f_component_8c.html#aebc936a63cf3faa7877ddb75a6ba16cb" title="omc_NFComponent_Component\l_classInstance" alt="" coords="983,5,1196,47"/>
+</map>
