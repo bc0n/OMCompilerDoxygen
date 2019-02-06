@@ -1,0 +1,23 @@
+digraph "3rdParty/Ipopt/Ipopt/src/LinAlg/IpExpansionMatrix.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node11 [label="3rdParty/Ipopt/Ipopt\l/src/LinAlg/IpExpansionMatrix.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="3rdParty/Ipopt/Ipopt\l/src/Interfaces/IpTNLPAdapter.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d49/_ip_t_n_l_p_adapter_8cpp.html"];
+  Node11 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="3rdParty/Ipopt/Ipopt\l/src/LinAlg/IpExpandedMulti\lVectorMatrix.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d56/_ip_expanded_multi_vector_matrix_8hpp.html"];
+  Node13 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="3rdParty/Ipopt/Ipopt\l/src/Algorithm/IpLowRankSSAug\lSystemSolver.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d9f/_ip_low_rank_s_s_aug_system_solver_8hpp.html"];
+  Node14 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="3rdParty/Ipopt/Ipopt\l/src/Algorithm/IpAlgBuilder.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d94/_ip_alg_builder_8cpp.html"];
+  Node14 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="3rdParty/Ipopt/Ipopt\l/src/Algorithm/IpLowRankSSAug\lSystemSolver.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/df8/_ip_low_rank_s_s_aug_system_solver_8cpp.html"];
+  Node13 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="3rdParty/Ipopt/Ipopt\l/src/LinAlg/IpExpandedMulti\lVectorMatrix.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d86/_ip_expanded_multi_vector_matrix_8cpp.html"];
+  Node13 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="3rdParty/Ipopt/Ipopt\l/src/LinAlg/TMatrices\l/IpTripletHelper.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/df9/_ip_triplet_helper_8cpp.html"];
+  Node11 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="3rdParty/Ipopt/Ipopt\l/src/LinAlg/IpExpansionMatrix.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d20/_ip_expansion_matrix_8cpp.html"];
+  Node11 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

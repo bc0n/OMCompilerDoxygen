@@ -1,0 +1,6 @@
+<map id="Teuchos::UndefinedEnhancedNumberTraits::notDefined" name="Teuchos::UndefinedEnhancedNumberTraits::notDefined">
+<area shape="rect" id="node2" href="$d2/d2a/class_teuchos_1_1_enhanced_number_traits.html#a663c947f482f6bedb85546779b26b752" title="Gets the minimum possible value the number type can take on. " alt="" coords="253,5,499,32"/>
+<area shape="rect" id="node3" href="$d2/d2a/class_teuchos_1_1_enhanced_number_traits.html#a1a7ce533aaf267bb4dcb519c7d4f61bd" title="Gets the maximum possible value the number type can take on. " alt="" coords="251,56,501,83"/>
+<area shape="rect" id="node4" href="$d2/d2a/class_teuchos_1_1_enhanced_number_traits.html#a34c8e57cca7368aadbb538b4901ee3d5" title="gets default amount a value of the number type should be incremented by when being utilizied in a UI..." alt="" coords="267,107,485,149"/>
+<area shape="rect" id="node5" href="$d2/d2a/class_teuchos_1_1_enhanced_number_traits.html#a2c629a04a6431c97a1c8146e6753d682" title="Gets the default precision with which the number type should be displayed. " alt="" coords="267,173,485,214"/>
+</map>

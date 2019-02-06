@@ -1,0 +1,10 @@
+<map id="fmi1_import_expand_variable_references" name="fmi1_import_expand_variable_references">
+<area shape="rect" id="node2" href="$d2/dc8/group__fmi1__import__convenience.html#ga97f73f818a2ccf97b1875ed55839d96c" title="An implementation of FMI 1.0 logger that forwards the messages to logger function inside jm_callbacks..." alt="" coords="196,115,348,141"/>
+<area shape="rect" id="node3" href="$d2/d61/group__fmi1__xml__gen.html#gaafb60f9fc2a4da7519693cd455609068" title="Get the list of all the output variables in the model. " alt="" coords="398,64,477,91"/>
+<area shape="rect" id="node9" href="$d3/d64/_f_m_i1_common_8h.html#a006ce3036dde66f1a30168bea62d9510" title="fmi1logger" alt="" coords="396,115,479,141"/>
+<area shape="rect" id="node4" href="$d2/dc8/group__fmi1__import__convenience.html#ga618abeef4b9eafd581aeef3e09bf2db8" title="Collect model information by counting the number of variables with specific properties and fillinf in..." alt="" coords="761,129,896,170"/>
+<area shape="rect" id="node5" href="$dc/d11/fmi1__import__convenience_8c.html#abe5dc0d5ae0e8d53893c775e2f6c5053" title="fmi1_import_expand\l_variable_references_impl" alt="" coords="527,158,700,199"/>
+<area shape="rect" id="node6" href="$dd/da3/fmi1__xml__model__description_8c.html#aae7895c82af0045e46d5ae80d94f7f9b" title="fmi1_xml_get_vendor" alt="" coords="540,5,687,32"/>
+<area shape="rect" id="node8" href="$d2/d61/group__fmi1__xml__gen.html#gac045b9dc6d7f30babb709dfae78aa223" title="jm_vector" alt="" coords="574,56,653,83"/>
+<area shape="rect" id="node7" href="$de/dd3/group__fmi1__import__annotations.html#ga18f5d2aaaca0a310dccd62f3913fbc0c" title="Get the annotations associated with vendor specified by the index. " alt="" coords="748,5,909,32"/>
+</map>

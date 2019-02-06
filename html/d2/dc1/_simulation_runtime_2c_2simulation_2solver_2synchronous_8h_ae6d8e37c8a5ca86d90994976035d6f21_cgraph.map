@@ -1,0 +1,7 @@
+<map id="fireClock" name="fireClock">
+<area shape="rect" id="node2" href="$dd/d82/build_2include_2omc_2c_2util_2rational_8c.html#a1b8936554fa71f46ab8686c7ccf3b623" title="ceilRat" alt="" coords="146,5,209,32"/>
+<area shape="rect" id="node3" href="$dd/d82/build_2include_2omc_2c_2util_2rational_8c.html#aa84dc858c63ad4bd82cba21370f7090d" title="divRat2Rat" alt="" coords="133,56,221,83"/>
+<area shape="rect" id="node4" href="$dd/d82/build_2include_2omc_2c_2util_2rational_8c.html#a01d950200085b5895f0b88d1f1cbc744" title="subInt2Rat" alt="" coords="134,107,221,133"/>
+<area shape="rect" id="node5" href="$dd/d82/build_2include_2omc_2c_2util_2rational_8c.html#a121704a9cbf7a554153fee2a0f5f35f5" title="floorRatStrict" alt="" coords="128,157,227,184"/>
+<area shape="rect" id="node6" href="$dd/d82/build_2include_2omc_2c_2util_2rational_8c.html#a2bd51a9e2fd7cf967ea797fca3028b39" title="rat2Real" alt="" coords="142,208,213,235"/>
+</map>

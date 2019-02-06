@@ -1,0 +1,9 @@
+<map id="UA_UnregisterNodesRequest" name="UA_UnregisterNodesRequest">
+<area shape="rect" id="node2" href="$df/d4c/struct_u_a___request_header.html" title="UA_RequestHeader" alt="" coords="345,377,484,404"/>
+<area shape="rect" id="node3" href="$da/dfd/struct_u_a___node_id.html" title="UA_NodeId" alt="" coords="305,109,396,136"/>
+<area shape="rect" id="node6" href="$d9/d10/struct_u_a___extension_object.html" title="UA_ExtensionObject" alt="" coords="141,288,285,315"/>
+<area shape="rect" id="node7" href="$da/dea/struct_u_a___data_type.html" title="UA_DataType" alt="" coords="146,199,251,225"/>
+<area shape="rect" id="node4" href="$d3/dbd/struct_u_a___string.html" title="UA_String" alt="" coords="309,5,392,32"/>
+<area shape="rect" id="node5" href="$db/d54/struct_u_a___guid.html" title="UA_Guid" alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node8" href="$d9/d85/struct_u_a___data_type_member.html" title="UA_DataTypeMember" alt="" coords="129,109,281,136"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="fmi1_import_expand_variable_references" name="fmi1_import_expand_variable_references">
+<area shape="rect" id="node2" href="$dc/d11/fmi1__import__convenience_8c.html#abe5dc0d5ae0e8d53893c775e2f6c5053" title="fmi1_import_expand\l_variable_references_impl" alt="" coords="196,125,369,166"/>
+<area shape="rect" id="node3" href="$d2/d61/group__fmi1__xml__gen.html#gaafb60f9fc2a4da7519693cd455609068" title="Get the list of all the derivative variables in the model. " alt="" coords="473,5,552,32"/>
+<area shape="rect" id="node4" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="485,56,540,83"/>
+<area shape="rect" id="node5" href="$d6/dac/group__jm__callbacks.html#gaf0f3295360836ced42f377630533eee4" title="Send a message to the logger function. " alt="" coords="483,107,543,133"/>
+<area shape="rect" id="node6" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#a9bb523029391a4525c52a8e90e877692" title="memcpy" alt="" coords="477,157,549,184"/>
+<area shape="rect" id="node7" href="$d2/d61/group__fmi1__xml__gen.html#gae46e958cfa5cf597c0c0923682f94f24" title="Get variable by value reference. " alt="" coords="437,209,589,250"/>
+<area shape="rect" id="node8" href="$d4/d99/group__fmi1__xml__variables.html#ga05c38963ef1828d6fec6d56ee894e1a3" title="fmi1_xml_get_variable_name" alt="" coords="417,275,608,301"/>
+</map>
