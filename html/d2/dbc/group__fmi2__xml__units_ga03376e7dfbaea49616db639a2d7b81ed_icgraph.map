@@ -1,0 +1,4 @@
+<map id="fmi2_xml_get_display_unit_factor" name="fmi2_xml_get_display_unit_factor">
+<area shape="rect" id="node2" href="$dc/da0/group__fmi2__import__units.html#gaae97490fe5a1686e2ea26595633c98c5" title="Get the &quot;factor&quot; associated with the display unit. " alt="" coords="201,5,364,47"/>
+<area shape="rect" id="node3" href="$d2/dbc/group__fmi2__xml__units.html#gab2d0b1c7bf74012f37fa0b199333f29c" title="fmi2_xml_convert_to\l_display_unit" alt="" coords="211,71,354,112"/>
+</map>

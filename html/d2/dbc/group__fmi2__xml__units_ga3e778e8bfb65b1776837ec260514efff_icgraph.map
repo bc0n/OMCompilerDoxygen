@@ -1,0 +1,5 @@
+<map id="fmi2_xml_get_unit_display_unit_number" name="fmi2_xml_get_unit_display_unit_number">
+<area shape="rect" id="node2" href="$dc/da0/group__fmi2__import__units.html#gaed72fa8196e3db3d0b4a7367d8663aa1" title="Get the number of display units associated with this unit. " alt="" coords="257,5,405,47"/>
+<area shape="rect" id="node3" href="$d2/dbc/group__fmi2__xml__units.html#gaf05474f923cbe952ddf1a46dbc3629a6" title="fmi2_xml_get_unit_display_unit" alt="" coords="229,71,433,98"/>
+<area shape="rect" id="node4" href="$dc/da0/group__fmi2__import__units.html#gaa5d4a6a915a72b58b1774cbfeeb0996f" title="Get a display unit object by index. " alt="" coords="481,64,624,105"/>
+</map>
