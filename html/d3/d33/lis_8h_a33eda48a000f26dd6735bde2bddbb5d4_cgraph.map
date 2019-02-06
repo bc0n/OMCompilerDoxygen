@@ -1,0 +1,24 @@
+<map id="lis_initialize" name="lis_initialize">
+<area shape="rect" id="node2" href="$d4/d44/include_2coin_2_third_party_2mpi_8h.html#a0f7635ae881c2946ed7ee9996448e7ac" title="MPI_Init" alt="" coords="185,5,255,32"/>
+<area shape="rect" id="node3" href="$db/d71/lis__init_8c.html#aa84cfaada5171816ed17f32f2fe1260b" title="lis_mpi_msum" alt="" coords="167,56,273,83"/>
+<area shape="rect" id="node4" href="$d3/d5a/gk__proto_8h.html#aa00d2b875207d14eba24b62e65e795dd" title="omp_get_max_threads" alt="" coords="143,107,297,133"/>
+<area shape="rect" id="node5" href="$db/d71/lis__init_8c.html#af50ff05ef9a820d4d7d41d513e14cc5f" title="lis_arg2args" alt="" coords="174,208,266,235"/>
+<area shape="rect" id="node6" href="$d3/d33/lis_8h.html#a122d3f4baa8db5c0253305eb459dff60" title="lis_malloc" alt="" coords="347,157,427,184"/>
+<area shape="rect" id="node9" href="$d3/d5a/gk__proto_8h.html#ab2a1aadbe72ac6b1f9aed9a2ef8e0044" title="omp_set_num_threads" alt="" coords="143,259,297,285"/>
+<area shape="rect" id="node10" href="$d0/d8b/lis__precision_8h.html#a2e205228ba949eef1a0338fa9d9cc92a" title="lis_quad_x87_fpu_init" alt="" coords="147,309,293,336"/>
+<area shape="rect" id="node11" href="$d3/d33/lis_8h.html#a22021fddf82de19f001f304f2c3630a4" title="CHKERR" alt="" coords="180,360,260,387"/>
+<area shape="rect" id="node23" href="$db/d71/lis__init_8c.html#a012a899c737bcd8e635b68d69a81b0f1" title="lis_version" alt="" coords="345,473,429,500"/>
+<area shape="rect" id="node8" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="535,183,590,209"/>
+<area shape="rect" id="node7" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="533,132,593,159"/>
+<area shape="rect" id="node12" href="$d3/d33/lis_8h.html#a952bea9fd9fcb67b0e061e3d34fdad21" title="lis_finalize" alt="" coords="346,360,429,387"/>
+<area shape="rect" id="node13" href="$d3/d33/lis_8h.html#ac42eda4c538f9dfea0dee7df2e5a04d3" title="lis_precon_register_free" alt="" coords="483,233,643,260"/>
+<area shape="rect" id="node14" href="$d3/d33/lis_8h.html#af0814bbca0c23cdf4038206adf4cb94a" title="lis_free" alt="" coords="699,284,763,311"/>
+<area shape="rect" id="node16" href="$db/d71/lis__init_8c.html#aef2879fb461a62ec3211bda4095b501d" title="lis_args_free" alt="" coords="515,335,611,361"/>
+<area shape="rect" id="node17" href="$d0/d8b/lis__precision_8h.html#a850848e079eed39d8a6a6955c24e948e" title="lis_quad_x87_fpu_finalize" alt="" coords="477,385,648,412"/>
+<area shape="rect" id="node18" href="$dd/ddd/lis__system_8h.html#a5179b1aa24ae67ff355b90b60dc4cc7b" title="lis_free_all" alt="" coords="521,436,605,463"/>
+<area shape="rect" id="node22" href="$d4/d44/include_2coin_2_third_party_2mpi_8h.html#a91a0cf5613b31a183a5453446191f1df" title="MPI_Finalize" alt="" coords="513,487,612,513"/>
+<area shape="rect" id="node15" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="855,323,899,349"/>
+<area shape="rect" id="node19" href="$dd/ddd/lis__system_8h.html#a2a30f959169ad86b4d3ee5c8262eb4d5" title="lis_printf" alt="" coords="696,475,767,501"/>
+<area shape="rect" id="node21" href="$d8/d27/lis__memory_8c.html#af0814bbca0c23cdf4038206adf4cb94a" title="lis_free" alt="" coords="699,399,763,425"/>
+<area shape="rect" id="node20" href="$d4/d44/include_2coin_2_third_party_2mpi_8h.html#a0c048fc98d42d9cf82f89f4296acd906" title="MPI_Comm_rank" alt="" coords="815,475,939,501"/>
+</map>
