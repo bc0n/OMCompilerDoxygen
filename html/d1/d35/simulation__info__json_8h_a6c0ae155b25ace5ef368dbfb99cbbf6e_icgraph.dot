@@ -1,0 +1,43 @@
+digraph "modelInfoGetEquation"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node8 [label="modelInfoGetEquation",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="check_linear_solution",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db9/linear_system_8c.html#af62b4e4d2756eaf12c8149bbec02864b"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="check_linear_solutions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d59/linear_system_8h.html#ad72a0bdfa452ab6c3ad9eb2d145b1096"];
+  Node8 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="check_mixed_solutions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df1/mixed_system_8h.html#a964e34d78d8ccaba25f33c40b7cea65a"];
+  Node8 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="printUnknowns",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/df2/nonlinear_solver_homotopy_8c.html#a990973a99c97f948c3601511a36f2b64"];
+  Node8 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="printNewtonStep",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/df2/nonlinear_solver_homotopy_8c.html#ad4f00dc1f7c74817c45ece391c623974"];
+  Node8 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="printHomotopyUnknowns",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/df2/nonlinear_solver_homotopy_8c.html#a4bfddb653587bbca4db3ce278dc7b28d"];
+  Node8 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="printHomotopyPredictorStep",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/df2/nonlinear_solver_homotopy_8c.html#affc495b359ca17852578dc457c8c5b0f"];
+  Node8 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="printHomotopyCorrectorStep",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/df2/nonlinear_solver_homotopy_8c.html#ab46b7894571fd67cce78dc64519b1121"];
+  Node8 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="solveNewton",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/de2/nonlinear_solver_newton_8h.html#a38ba64dd08361053b03a65265601066a"];
+  Node17 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="solveNLS",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dd6/nonlinear_system_8c.html#adbab09aaddf4cae686163982ee1baa72"];
+  Node18 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="solve_nonlinear_system",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/dbe/nonlinear_system_8h.html#ab0dab4c5c0a1140a09eb29e0c593070c"];
+  Node8 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="print_csvLineIterStatsHeader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dd6/nonlinear_system_8c.html#ad559a040596c648613160b35e81afc7e"];
+  Node8 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="printNonLinearInitialInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dd6/nonlinear_system_8c.html#a7623f1ae0d3b0a2851cdff45e5445808"];
+  Node21 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node22 [label="printNonLinearFinishInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dd6/nonlinear_system_8c.html#ab170107ba336472d3bf8f835141696fc"];
+  Node22 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 -> Node23 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="check_nonlinear_solution",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dd6/nonlinear_system_8c.html#a7924cf0b0fe19b3776951c4c4e90721d"];
+  Node23 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 -> Node24 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node24 [label="check_nonlinear_solutions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/dbe/nonlinear_system_8h.html#a69b02d50bd69f9a6f3c668448bf64600"];
+}

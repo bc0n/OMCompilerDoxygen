@@ -1,0 +1,17 @@
+<map id="ocl_initialize" name="ocl_initialize">
+<area shape="rect" id="node2" href="$d6/d10/ocl__offcomp_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="204,5,255,32"/>
+<area shape="rect" id="node3" href="$d0/d6a/omc__ocl__builtin__kernels_8cpp.html#a343e4ea40db0da28fcc947755a559977" title="ocl_real_arr_arr_arr" alt="" coords="370,59,503,85"/>
+<area shape="rect" id="node4" href="$d7/dc3/omc__ocl__builtin__kernels_8h.html#a00e5dfcd85f0482c11d3fc86ce8b2e3b" title="ocl_real_arr_arr_sca" alt="" coords="367,111,506,137"/>
+<area shape="rect" id="node5" href="$d7/dc3/omc__ocl__builtin__kernels_8h.html#a24f366abcf062da1cbc31bb3c93036c2" title="ocl_real_arr_sca_arr" alt="" coords="367,164,506,191"/>
+<area shape="rect" id="node6" href="$d7/dc3/omc__ocl__builtin__kernels_8h.html#a62360597c42dc8404ebbfa185f4bb1fa" title="ocl_real_arr_arr" alt="" coords="381,221,492,248"/>
+<area shape="rect" id="node7" href="$d7/dc3/omc__ocl__builtin__kernels_8h.html#a1171975d92e1d80fe1f39db42a24eefc" title="ocl_real_arr_sca" alt="" coords="378,284,495,311"/>
+<area shape="rect" id="node8" href="$d7/dc3/omc__ocl__builtin__kernels_8h.html#a90ee380329282849caced7c8e54ce596" title="ocl_real_matrix_matrix" alt="" coords="360,335,513,361"/>
+<area shape="rect" id="node9" href="$d4/d0d/omc__ocl__memory__ops_8h.html#a587b9f33d5c865577dd6502561cb85e9" title="ocl_device_alloc" alt="" coords="170,461,289,488"/>
+<area shape="rect" id="node12" href="$d4/d0d/omc__ocl__memory__ops_8h.html#aaf2a4ffa060b9b382d1faeb6cc2a6e8b" title="ocl_device_alloc_init" alt="" coords="158,411,301,437"/>
+<area shape="rect" id="node13" href="$d4/d0d/omc__ocl__memory__ops_8h.html#a15a463393d0feeb87e15dba19ddc5895" title="ocl_alloc_init" alt="" coords="181,512,278,539"/>
+<area shape="rect" id="node14" href="$d4/d0d/omc__ocl__memory__ops_8h.html#a87c7490f2c83ff8671bee6266a5d8238" title="ocl_alloc_init_real_arr" alt="" coords="156,208,303,235"/>
+<area shape="rect" id="node15" href="$d1/dda/omc__ocl__memory__ops_8cpp.html#a273db9fdc1c71e9d9e193f1bcd2c0f82" title="ocl_alloc_init_integer_arr" alt="" coords="147,563,312,589"/>
+<area shape="rect" id="node16" href="$d1/d31/omc__ocl__util_8h.html#a93e05ec5da319f8da834af0d538342da" title="ocl_create_kernel" alt="" coords="167,613,291,640"/>
+<area shape="rect" id="node10" href="$d4/d57/omc__ocl__interface_8h.html#a0534493ecee451b6283f72bcd033ee1d" title="alloc_integer_array" alt="" coords="371,411,502,437"/>
+<area shape="rect" id="node11" href="$d4/d57/omc__ocl__interface_8h.html#a49534eddd05b28ec8ecc1a9a685a6dc1" title="alloc_real_array" alt="" coords="380,461,493,488"/>
+</map>

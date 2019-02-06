@@ -1,0 +1,24 @@
+<map id="omc_NFDimension_fromInteger" name="omc_NFDimension_fromInteger">
+<area shape="rect" id="node2" href="$d4/db8/_n_f_builtin_call_8c.html#a4a0bc00714b110a8c6db26f56b5c547a" title="omc_NFBuiltinCall_typeVectorCall" alt="" coords="260,49,484,75"/>
+<area shape="rect" id="node4" href="$d8/d8f/_n_f_ceval_8c.html#a64a07e255eaebeae9a53b424346bd35a" title="omc_NFCeval_evalBuiltinVector" alt="" coords="542,238,753,265"/>
+<area shape="rect" id="node6" href="$de/d5c/_n_f_ceval_8h.html#afa2228a21bc53b4001bcd8cd4b030a07" title="omc_NFCeval_evalBuiltinDiagonal" alt="" coords="260,137,484,163"/>
+<area shape="rect" id="node9" href="$de/d5c/_n_f_ceval_8h.html#abfecc465bb3672e1c9fa02a878c4145b" title="omc_NFCeval_evalBuiltinArray" alt="" coords="545,187,749,214"/>
+<area shape="rect" id="node10" href="$d1/d3f/_n_f_dimension_8h.html#a6ff69784cef65665f83951503163033e" title="boxptr_NFDimension\l_fromInteger" alt="" coords="299,340,445,381"/>
+<area shape="rect" id="node11" href="$d2/dfa/_n_f_expression_8h.html#a8d886482501474236f366ffd4c65e644" title="omc_NFExpression_promote" alt="" coords="277,289,467,315"/>
+<area shape="rect" id="node17" href="$d2/d11/_n_f_subscript_8h.html#a56d49b0254f28420151519e737b74695" title="omc_NFSubscript_toDimension" alt="" coords="269,406,475,433"/>
+<area shape="rect" id="node18" href="$d4/d91/_n_f_type_check_8h.html#af654fe4aa4cd16da9c478b9c69f56ead" title="omc_NFTypeCheck_getRange\lTypeEnum" alt="" coords="271,457,473,499"/>
+<area shape="rect" id="node19" href="$d4/d91/_n_f_type_check_8h.html#a7aac67cfd7a0b4b1b3fc8be6d0f8afe9" title="omc_NFTypeCheck_getRange\lTypeBool" alt="" coords="271,523,473,564"/>
+<area shape="rect" id="node20" href="$d4/d91/_n_f_type_check_8h.html#a586087f7a40ec46fdb53c01ecd0534ef" title="omc_NFTypeCheck_getRange\lTypeReal" alt="" coords="271,653,473,695"/>
+<area shape="rect" id="node23" href="$d4/d91/_n_f_type_check_8h.html#ab61f3b075e92d55c606c27ff2c5b9224" title="omc_NFTypeCheck_getRange\lTypeInt" alt="" coords="271,588,473,629"/>
+<area shape="rect" id="node3" href="$d4/db8/_n_f_builtin_call_8c.html#a49719741e5b7953a87a9a2580953b592" title="boxptr_NFBuiltinCall\l_typeVectorCall" alt="" coords="576,5,719,47"/>
+<area shape="rect" id="node5" href="$de/d5c/_n_f_ceval_8h.html#abaca1fef7cbde1cffcb3b543e3ee74f6" title="omc_NFCeval_evalBuiltinCall" alt="" coords="811,238,1007,265"/>
+<area shape="rect" id="node7" href="$d0/dea/_n_f_expand_exp_8h.html#a56581f8b708e3b8bad9c63bb1920253c" title="omc_NFExpandExp_expandBuiltin\lDiagonal" alt="" coords="535,71,759,112"/>
+<area shape="rect" id="node8" href="$d0/dea/_n_f_expand_exp_8h.html#a95c1216128fa39399e4d74474cc3df22" title="boxptr_NFExpandExp\l_expandBuiltinDiagonal" alt="" coords="829,71,988,112"/>
+<area shape="rect" id="node12" href="$d8/d8f/_n_f_ceval_8c.html#a26ab42f53bc473689e161f87329d538c" title="omc_NFCeval_evalBuiltinPromote" alt="" coords="536,339,759,366"/>
+<area shape="rect" id="node13" href="$d8/d8f/_n_f_ceval_8c.html#ad59baaff6f20dc64bc7b6a2171abc10d" title="omc_NFCeval_evalBuiltinMatrix" alt="" coords="543,289,752,315"/>
+<area shape="rect" id="node14" href="$d0/dea/_n_f_expand_exp_8h.html#a530a55d491139fc048eb0e921f398e3e" title="omc_NFExpandExp_expandBuiltin\lPromote" alt="" coords="535,391,759,432"/>
+<area shape="rect" id="node16" href="$d2/dfa/_n_f_expression_8h.html#a2ea3ea2d3efa55590780227b24dd9f4d" title="boxptr_NFExpression\l_promote" alt="" coords="573,456,721,497"/>
+<area shape="rect" id="node15" href="$d0/dea/_n_f_expand_exp_8h.html#a363d70e0a63b004f64d78bf38f243dcb" title="boxptr_NFExpandExp\l_expandBuiltinPromote" alt="" coords="831,391,987,432"/>
+<area shape="rect" id="node21" href="$d4/d91/_n_f_type_check_8h.html#a8b0d554c7bedccd607d8540e9ed519a3" title="omc_NFTypeCheck_getRangeType" alt="" coords="532,627,763,654"/>
+<area shape="rect" id="node22" href="$de/de5/_n_f_simplify_exp_8h.html#a2a591d45b4aa3b2cc6047c6741fddcdc" title="omc_NFSimplifyExp_simplify\lRange" alt="" coords="811,620,1006,661"/>
+</map>
