@@ -1,0 +1,39 @@
+digraph "MLAPI::DistributedMatrix::Apply"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node9 [label="MLAPI::DistributedMatrix\l::Apply",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node9 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="MLAPI::Operator::Apply",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/daf/class_m_l_a_p_i_1_1_operator.html#a3c6a39a8bceb2420e9cc8a6c6208a650",tooltip="Applies this operator to LHS, returns the result in RHS. "];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="MLAPI::TimeObject::\lResetTimer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/de1/class_m_l_a_p_i_1_1_time_object.html#a9067356406d3b77286d4d44022f14951",tooltip="Resets the internal timer. "];
+  Node10 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="MLAPI::Operator::GetDomain\lSpace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/daf/class_m_l_a_p_i_1_1_operator.html#a1feb2dcd4bf811771344abb8c5926643",tooltip="Returns a reference to the internally stored domain space. "];
+  Node10 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="MLAPI::MultiVector\l::GetVectorSpace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d79/class_m_l_a_p_i_1_1_multi_vector.html#a6aeddaf601ccaf76003a1161dd05c4b5",tooltip="Returns the Space on which this vector is defined. "];
+  Node10 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="MLAPI::Operator::GetRange\lSpace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/daf/class_m_l_a_p_i_1_1_operator.html#a85aae31bec959440a7214193dd4ae4e4",tooltip="Returns a reference to the internally stored range space. "];
+  Node10 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="MLAPI::MultiVector\l::GetNumVectors",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d79/class_m_l_a_p_i_1_1_multi_vector.html#afaaded7795d96fccf65cc542fd47fc9f",tooltip="Returns the number of vectors. "];
+  Node10 -> Node16 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="MLAPI::Operator::GetML\l_Operator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/daf/class_m_l_a_p_i_1_1_operator.html#a39de5119d7398b89fd044a509e518a56",tooltip="Returns the RefCountPtr of OperatorBox_. "];
+  Node16 -> Node17 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="MLAPI::Operator::GetRCPOperatorBox",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/daf/class_m_l_a_p_i_1_1_operator.html#a65d48adcfafc9f6f8ebb85255eb595bf",tooltip="Returns the RefCountPtr of OperatorBox_. "];
+  Node16 -> Node18 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="GetData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d90/nvm_8h.html#af756fcc5f3f7dd5cc4476f785a758d03"];
+  Node18 -> Node19 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="N_VGetArrayPointer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dc8/3rd_party_2sundials_2build_2include_2sundials_2sundials__nvector_8h.html#ab14cd7d630355c66928718a744da72d6"];
+  Node10 -> Node20 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="MLAPI::MultiVector\l::GetMyLength",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d79/class_m_l_a_p_i_1_1_multi_vector.html#a25265cb9aee76b68d8b7899f5cdbe5f6",tooltip="Returns the local length of each vector. "];
+  Node10 -> Node21 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="MLAPI::StackPop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/dc5/namespace_m_l_a_p_i.html#a865398adf8e2c08f2436f3d3d068b87c"];
+  Node10 -> Node22 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node22 [label="MLAPI::CompObject::\lUpdateFlops",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d8d/class_m_l_a_p_i_1_1_comp_object.html#ac7aa75b751551298edd68b8b62eaf1fb",tooltip="Updates internal counter by summing Flops. "];
+  Node10 -> Node23 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="MLAPI::Operator::GetNumGlobal\lNonzeros",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/daf/class_m_l_a_p_i_1_1_operator.html#a89836de8f6872459c153783e17fdec43",tooltip="Returns the global number of nonzeros. "];
+  Node23 -> Node24 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node24 [label="MLAPI::Operator::GetRowMatrix",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/daf/class_m_l_a_p_i_1_1_operator.html#ab4eb2c47eaa12db208b039b2208d08cc",tooltip="Returns the RefCountPtr of OperatorBox_. "];
+  Node10 -> Node25 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node25 [label="MLAPI::TimeObject::\lUpdateTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/de1/class_m_l_a_p_i_1_1_time_object.html#a0db7e5c694312ee08a0887ad96d0b672",tooltip="Updates the internal timer with the time spent since the last call to ResetTimer(). "];
+}

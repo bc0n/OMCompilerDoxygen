@@ -1,0 +1,10 @@
+<map id="FUNC_INIT" name="FUNC_INIT">
+<area shape="rect" id="node2" href="$d1/df6/wrapper__template_8c.html#aa5fc2a1f0cbcc82fdbadf88fe94e1fd5" title="callOpenModelicaModel" alt="" coords="147,157,307,184"/>
+<area shape="rect" id="node3" href="$d6/dcd/malloc_8c.html#ab1cc1a3ff560049e22576031c7c2345b" title="strdup" alt="" coords="355,5,414,32"/>
+<area shape="rect" id="node4" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="463,31,517,57"/>
+<area shape="rect" id="node5" href="$dc/ddc/3rd_party_2flex-2_85_835_2parse_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="363,107,407,133"/>
+<area shape="rect" id="node6" href="$d6/d4f/shell_8c.html#a31dd4384020447c7d99d0e4aace6f17a" title="popen" alt="" coords="356,157,413,184"/>
+<area shape="rect" id="node7" href="$d6/d4f/shell_8c.html#a92e41b535f1505676ed8cbe5896606d5" title="pclose" alt="" coords="355,208,415,235"/>
+<area shape="rect" id="node8" href="$df/deb/3rd_party_2regex-0_812_2test_2test_8c.html#ae367e511525bca3f1455c762ca300491" title="strtok" alt="" coords="357,259,412,285"/>
+<area shape="rect" id="node9" href="$d4/d98/g_09_09malloc_8c.html#a49f789e614e57e410f598885b800c2df" title="fprintf" alt="" coords="357,309,412,336"/>
+</map>
