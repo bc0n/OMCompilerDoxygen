@@ -1,0 +1,15 @@
+digraph "MakeSemiCoarsenP"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node19 [label="MakeSemiCoarsenP",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node19 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="ML_AGG_SemiCoarseP",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#a2d2c490d70146f63887c1f5f01b083a1"];
+  Node20 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="ML_MultiLevel_Gen_Prolongator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#a69d5fe24f9b1bfc2267c54124b8d6e54"];
+  Node21 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node22 [label="ML_Gen_MultiLevelHierarchy\l_UsingAggregation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#ae7d1b526f0441504fca9924114c35306"];
+  Node21 -> Node23 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="ML_Gen_MultiLevelHierarchy\l_UsingSmoothedAggr_ReuseExistingAgg",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d33/ml__agg__gen_p_8h.html#a401a0ca1f24bd136d5fcf880b4a85a2e"];
+}

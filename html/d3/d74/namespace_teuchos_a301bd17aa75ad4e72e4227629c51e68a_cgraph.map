@@ -1,0 +1,12 @@
+<map id="Teuchos::TEUCHOS_UNIT_TEST" name="Teuchos::TEUCHOS_UNIT_TEST">
+<area shape="rect" id="node2" href="$d2/dba/class_teuchos_1_1_r_c_p_node_tracer.html#a9672360843236e16e8b0b611ece11407" title="Print the number of active RCPNode objects currently being tracked. " alt="" coords="285,5,462,47"/>
+<area shape="rect" id="node3" href="$d2/dba/class_teuchos_1_1_r_c_p_node_tracer.html#a7845596ec6525bfe5dd277969713409b" title="Return the statistics on RCPNode allocations. " alt="" coords="285,71,462,112"/>
+<area shape="rect" id="node4" href="$d2/dba/class_teuchos_1_1_r_c_p_node_tracer.html#af92af7d7e17679aa71ffbfaadc63e942" title="Add new RCPNode to the global list. " alt="" coords="285,136,462,177"/>
+<area shape="rect" id="node8" href="$d3/d74/namespace_teuchos.html#a805a8ddf15a76f2e047b892652828967" title="Teuchos::TEST_EQUALITY" alt="" coords="280,202,467,229"/>
+<area shape="rect" id="node9" href="$d2/dba/class_teuchos_1_1_r_c_p_node_tracer.html#ac9f42e04f8e557a4a756f9173d185f93" title="Remove an RCPNode from global list. " alt="" coords="285,253,462,295"/>
+<area shape="rect" id="node10" href="$d2/dba/class_teuchos_1_1_r_c_p_node_tracer.html#a5fe7101228e8c779f56936556de673ae" title="Print the RCPNode allocation statistics. " alt="" coords="285,319,462,360"/>
+<area shape="rect" id="node11" href="$d3/d74/namespace_teuchos.html#a34a52ad9755a97f8b9b34703411174d2" title="Teuchos::deleteRCPNode" alt="" coords="286,385,461,411"/>
+<area shape="rect" id="node5" href="$dc/dc9/class_teuchos_1_1_r_c_p_node.html#a542d7b3c94004bd32da1a6b4cb24acd2" title="Teuchos::RCPNode::set\l_insertion_number" alt="" coords="516,71,683,112"/>
+<area shape="rect" id="node6" href="$dc/dc9/class_teuchos_1_1_r_c_p_node.html#ab186529fd360e05a2a35a4463163520b" title="Teuchos::RCPNode::has\l_ownership" alt="" coords="515,136,684,177"/>
+<area shape="rect" id="node7" href="$d3/d74/namespace_teuchos.html#ae645bb8b80d8f521a58dd8ee94f2c9ab" title="Teuchos::insert" alt="" coords="543,202,655,229"/>
+</map>

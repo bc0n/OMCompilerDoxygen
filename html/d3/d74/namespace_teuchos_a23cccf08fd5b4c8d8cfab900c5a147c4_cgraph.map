@@ -1,0 +1,131 @@
+<map id="Teuchos::createOp" name="Teuchos::createOp">
+<area shape="rect" id="node2" href="$d3/dc8/class_teuchos_1_1_comm.html#a94011508d8ea7f12816e8d31a0985190" title="Returns the rank of this process. " alt="" coords="219,5,395,32"/>
+<area shape="rect" id="node3" href="$d3/dc8/class_teuchos_1_1_comm.html#a2d9a627e01bc6b9cb19134a855a81df2" title="Returns the number of processes that make up this communicator. " alt="" coords="221,56,392,83"/>
+<area shape="rect" id="node4" href="$d3/dc8/class_teuchos_1_1_comm.html#ac69240af1df1733f3c642ec4d335d5bb" title="Pause every process in *this communicator until all the processes reach this point. " alt="" coords="225,107,388,133"/>
+<area shape="rect" id="node5" href="$d3/d74/namespace_teuchos.html#a4ad2f6aadd79f8d3bc48c5a4c6eb7f1c" title="Teuchos::broadcast" alt="" coords="238,157,375,184"/>
+<area shape="rect" id="node6" href="$d3/dc8/class_teuchos_1_1_comm.html#a02ca74f78e12c5ae63d68243ef0ad979" title="Broadcast values from the root process to the slave processes. " alt="" coords="215,208,399,235"/>
+<area shape="rect" id="node7" href="$d5/d10/class_teuchos_1_1_array_view.html#a5c8d099fdd64be9ae16b95a58f9937a3" title="The total number of items in the managed array. " alt="" coords="1253,265,1393,306"/>
+<area shape="rect" id="node8" href="$d5/d10/class_teuchos_1_1_array_view.html#a34ee2bad9963575946f1358ee59d9bdf" title="Return a raw pointer to beginning of array or NULL if unsized. " alt="" coords="1253,330,1393,371"/>
+<area shape="rect" id="node9" href="$d2/d98/class_teuchos_1_1_reference_type_serialization_buffer.html#aa5767267c2e8bfad8659905c8366c43d" title="Teuchos::ReferenceTypeSerialization\lBuffer::getBytes" alt="" coords="187,751,427,793"/>
+<area shape="rect" id="node11" href="$d2/d98/class_teuchos_1_1_reference_type_serialization_buffer.html#ac17d9637e45fbec468f605d5c7542f8d" title="Teuchos::ReferenceTypeSerialization\lBuffer::getCharBuffer" alt="" coords="187,817,427,858"/>
+<area shape="rect" id="node12" href="$d1/d47/class_teuchos_1_1_array.html#a8f209506c367768c144d173da5069f5b" title="Teuchos::Array::push_back" alt="" coords="215,883,398,909"/>
+<area shape="rect" id="node13" href="$d3/d74/namespace_teuchos.html#a0a7e20aa835720fafc0e709c93b358a8" title="Teuchos::getRawPtr" alt="" coords="235,933,378,960"/>
+<area shape="rect" id="node14" href="$d1/d47/class_teuchos_1_1_array.html#a189cd693afb524ecc5db007f9d72b815" title="Return a raw pointer to beginning of array or NULL if unsized. " alt="" coords="216,984,397,1011"/>
+<area shape="rect" id="node15" href="$d3/d74/namespace_teuchos.html#a8ce99105ee4c7203a1ecb670a198671a" title="Deprecated. " alt="" coords="1019,1837,1118,1864"/>
+<area shape="rect" id="node47" href="$d3/dc8/class_teuchos_1_1_comm.html#a37ef56fb4f5f0257601b2a565258f64b" title="Gather values from each process to collect on all processes. " alt="" coords="217,1035,396,1061"/>
+<area shape="rect" id="node48" href="$d3/dc8/class_teuchos_1_1_comm.html#a057c207c97fcfb718db2ecc028ddfcba" title="Gather values from all processes to the root process. " alt="" coords="225,1085,388,1112"/>
+<area shape="rect" id="node49" href="$d9/d97/tweetnacl_8c.html#ae5a5e1654d9366b18d8f0b0f7d94c5fd" title="reduce" alt="" coords="276,1136,337,1163"/>
+<area shape="rect" id="node51" href="$d3/d74/namespace_teuchos.html#a73421d39e556e6006c677e0d3ed0bd88" title="Deprecated . " alt="" coords="239,533,374,560"/>
+<area shape="rect" id="node52" href="$d3/d74/namespace_teuchos.html#acfd014f1b77797750fc62bf031dd93a9" title="Variant of send() that takes a tag (and restores the correct order of arguments). ..." alt="" coords="665,556,773,583"/>
+<area shape="rect" id="node53" href="$d3/dc8/class_teuchos_1_1_comm.html#a4bf2b611582e169bb4ed16e7defbfce9" title="Possibly blocking send of data from this process to another process. " alt="" coords="991,360,1146,387"/>
+<area shape="rect" id="node71" href="$d3/d74/namespace_teuchos.html#ae6e89ec4ec75fe3902d934b8881532f0" title="Deprecated. " alt="" coords="492,635,600,661"/>
+<area shape="rect" id="node72" href="$d3/dc8/class_teuchos_1_1_comm.html#a263343916f801a1f7f3d20eae1592622" title="Global reduction. " alt="" coords="216,1187,397,1213"/>
+<area shape="rect" id="node73" href="$d3/d74/namespace_teuchos.html#a74fc3ddc7fbfe445af63ee8b8f6ee232" title="Teuchos::toString" alt="" coords="483,1604,609,1631"/>
+<area shape="rect" id="node74" href="$d3/d1b/netstream-main_8cpp.html#aed138f72d7301a9034a719a95c4903da" title="e" alt="" coords="287,2024,326,2051"/>
+<area shape="rect" id="node75" href="$d3/d74/namespace_teuchos.html#a27916aae479af3a854007be89019edc6" title="Teuchos::reduceAll\l\&lt; int, double \&gt;" alt="" coords="239,1747,374,1789"/>
+<area shape="rect" id="node76" href="$d3/d74/namespace_teuchos.html#a27e604e725078402d79daf512fff8c73" title="Teuchos::ireceive\&lt;\l int, double \&gt;" alt="" coords="240,2075,373,2117"/>
+<area shape="rect" id="node77" href="$d3/d74/namespace_teuchos.html#a1715516b1409760b7c23a3e69f81214e" title="Teuchos::send\&lt; int,\l double \&gt;" alt="" coords="237,2141,376,2182"/>
+<area shape="rect" id="node78" href="$d3/d74/namespace_teuchos.html#a674fa529d7fccd7cfa7f96f4c34a8101" title="Teuchos::isend\&lt; int,\l double \&gt;" alt="" coords="236,2206,377,2247"/>
+<area shape="rect" id="node79" href="$d3/d74/namespace_teuchos.html#a6b31ac87d62add3712ee4553db2c72e7" title="Teuchos::reduceAll\l\&lt; int, float \&gt;" alt="" coords="239,1813,374,1854"/>
+<area shape="rect" id="node80" href="$d3/d74/namespace_teuchos.html#ab9283a4f3c6b100940ced15f957f2c38" title="Teuchos::ireceive\&lt;\l int, float \&gt;" alt="" coords="240,2271,373,2313"/>
+<area shape="rect" id="node81" href="$d3/d74/namespace_teuchos.html#a1c23b932ca3e341bb5b34d330378924b" title="Teuchos::send\&lt; int,\l float \&gt;" alt="" coords="237,2337,376,2378"/>
+<area shape="rect" id="node82" href="$d3/d74/namespace_teuchos.html#a3000167b0252363ff6813ed2606759c3" title="Teuchos::isend\&lt; int,\l float \&gt;" alt="" coords="236,2402,377,2443"/>
+<area shape="rect" id="node83" href="$d3/d74/namespace_teuchos.html#a01f782a4ca240cdeac8d8e15b0bfe76c" title="Teuchos::gather\&lt; int,\l long long \&gt;" alt="" coords="233,2467,380,2509"/>
+<area shape="rect" id="node84" href="$d3/d74/namespace_teuchos.html#a99a9c8bb622b4e9d40a059148c2e9a4d" title="Teuchos::gatherv\&lt; int,\l long long \&gt;" alt="" coords="230,2533,383,2574"/>
+<area shape="rect" id="node85" href="$d3/d74/namespace_teuchos.html#a24d88794e60e166957c20a0db05c09be" title="Teuchos::reduceAll\l\&lt; int, long long \&gt;" alt="" coords="239,1878,374,1919"/>
+<area shape="rect" id="node86" href="$d3/d74/namespace_teuchos.html#a8e024a15cbd209f970d924f46cdbf258" title="Teuchos::ireceive\&lt;\l int, long long \&gt;" alt="" coords="240,2598,373,2639"/>
+<area shape="rect" id="node87" href="$d3/d74/namespace_teuchos.html#adb15ccf80fa9d7df80e672cc7ef4deeb" title="Teuchos::send\&lt; int,\l long long \&gt;" alt="" coords="237,2663,376,2705"/>
+<area shape="rect" id="node88" href="$d3/d74/namespace_teuchos.html#a7a4758201d8a3a98ba15ea2ad15c0a00" title="Teuchos::isend\&lt; int,\l long long \&gt;" alt="" coords="236,2729,377,2770"/>
+<area shape="rect" id="node89" href="$d3/d74/namespace_teuchos.html#a9213d5ed8942cb30883311f6192bdc20" title="Teuchos::gather\&lt; int,\l unsigned long long \&gt;" alt="" coords="233,2794,380,2835"/>
+<area shape="rect" id="node90" href="$d3/d74/namespace_teuchos.html#a875ff6395b722e203aeca0479871fd48" title="Teuchos::gatherv\&lt; int,\l unsigned long long \&gt;" alt="" coords="230,2859,383,2901"/>
+<area shape="rect" id="node91" href="$d3/d74/namespace_teuchos.html#a561311ef39bf51c6a0716c5bc0da5652" title="Teuchos::reduceAll\l\&lt; int, unsigned long\l long \&gt;" alt="" coords="239,1944,375,2000"/>
+<area shape="rect" id="node92" href="$d3/d74/namespace_teuchos.html#a0ac1af265de96a15365378e8af1fb0b0" title="Teuchos::ireceive\&lt;\l int, unsigned long\l long \&gt;" alt="" coords="240,2925,373,2981"/>
+<area shape="rect" id="node93" href="$d3/d74/namespace_teuchos.html#a063ba95e0ba07d5cbe929479794da08b" title="Teuchos::send\&lt; int,\l unsigned long long \&gt;" alt="" coords="233,3006,380,3047"/>
+<area shape="rect" id="node94" href="$d3/d74/namespace_teuchos.html#a3427dec4ec1975a2fd9aec1c793569df" title="Teuchos::isend\&lt; int,\l unsigned long long \&gt;" alt="" coords="233,3071,380,3113"/>
+<area shape="rect" id="node95" href="$d3/d74/namespace_teuchos.html#aa09bb1b26b97f3ea48d6597971e46101" title="Teuchos::gather\&lt; int,\l long \&gt;" alt="" coords="233,3137,380,3178"/>
+<area shape="rect" id="node96" href="$d3/d74/namespace_teuchos.html#a7b396e0116c8c2eb8bad8b03f839efe5" title="Teuchos::gatherv\&lt; int,\l long \&gt;" alt="" coords="230,3202,383,3243"/>
+<area shape="rect" id="node97" href="$d3/d74/namespace_teuchos.html#a5ef967e459242d295a446cc2d5e26c38" title="Teuchos::reduceAll\l\&lt; int, long \&gt;" alt="" coords="239,1238,374,1279"/>
+<area shape="rect" id="node98" href="$d3/d74/namespace_teuchos.html#a8db7a8d30b11130e344bb57f8911a73f" title="Teuchos::ireceive\&lt;\l int, long \&gt;" alt="" coords="240,3267,373,3309"/>
+<area shape="rect" id="node99" href="$d3/d74/namespace_teuchos.html#a6aeb6546a09b242afa840fc210ccefba" title="Teuchos::send\&lt; int,\l long \&gt;" alt="" coords="237,3333,376,3374"/>
+<area shape="rect" id="node100" href="$d3/d74/namespace_teuchos.html#a97ccf4f0e036645afe82d0c385ba169f" title="Teuchos::isend\&lt; int,\l long \&gt;" alt="" coords="236,3398,377,3439"/>
+<area shape="rect" id="node101" href="$d3/d74/namespace_teuchos.html#a137a8cf4c3fcecf4f2f91921e22c499c" title="Teuchos::gather\&lt; int,\l unsigned long \&gt;" alt="" coords="233,3463,380,3505"/>
+<area shape="rect" id="node102" href="$d3/d74/namespace_teuchos.html#a138042fb29ebefd5aca4c1b2abf42eb6" title="Teuchos::gatherv\&lt; int,\l unsigned long \&gt;" alt="" coords="230,3529,383,3570"/>
+<area shape="rect" id="node103" href="$d3/d74/namespace_teuchos.html#a216017e15c616d7ff8d3ee814d11c3e9" title="Teuchos::reduceAll\l\&lt; int, unsigned long \&gt;" alt="" coords="233,1303,381,1345"/>
+<area shape="rect" id="node104" href="$d3/d74/namespace_teuchos.html#a7bd975526427945c1f975b61666b6645" title="Teuchos::ireceive\&lt;\l int, unsigned long \&gt;" alt="" coords="237,3594,377,3635"/>
+<area shape="rect" id="node105" href="$d3/d74/namespace_teuchos.html#aa5cfdc7584771cc05438e37e53b30c26" title="Teuchos::send\&lt; int,\l unsigned long \&gt;" alt="" coords="237,3659,376,3701"/>
+<area shape="rect" id="node106" href="$d3/d74/namespace_teuchos.html#a4fd70db0fa7d0a43c61a51757c60ea16" title="Teuchos::isend\&lt; int,\l unsigned long \&gt;" alt="" coords="236,3725,377,3766"/>
+<area shape="rect" id="node107" href="$d3/d74/namespace_teuchos.html#a1643e34d1931c5bd6c8cd9e44f9b7336" title="Teuchos::gather\&lt; int,\l int \&gt;" alt="" coords="233,3790,380,3831"/>
+<area shape="rect" id="node108" href="$d3/d74/namespace_teuchos.html#aff205bd6057e66154f9b5744d25bffc5" title="Teuchos::gatherv\&lt; int,\l int \&gt;" alt="" coords="230,3855,383,3897"/>
+<area shape="rect" id="node109" href="$d3/d74/namespace_teuchos.html#a4b82b1e889e64a52d36351bee82c34b1" title="Teuchos::scatter" alt="" coords="247,3921,367,3948"/>
+<area shape="rect" id="node110" href="$d3/d74/namespace_teuchos.html#a3a740f5a3e8f81e968a7f14352c3e28c" title="Teuchos::reduce\&lt; int,\l int \&gt;" alt="" coords="232,1369,381,1410"/>
+<area shape="rect" id="node111" href="$d3/d74/namespace_teuchos.html#a77a609f08b122ab2327051a3952c2a79" title="Teuchos::reduceAll\l\&lt; int, int \&gt;" alt="" coords="239,1434,374,1475"/>
+<area shape="rect" id="node112" href="$d3/d74/namespace_teuchos.html#a5e3e96176e7f2ca006f1ac2a1ffb591f" title="Teuchos::ireceive\&lt;\l int, int \&gt;" alt="" coords="240,3973,373,4014"/>
+<area shape="rect" id="node113" href="$d3/d74/namespace_teuchos.html#abb1845239b5d47aef6777f75d077b77d" title="Teuchos::send\&lt; int,\l int \&gt;" alt="" coords="237,4038,376,4079"/>
+<area shape="rect" id="node114" href="$d3/d74/namespace_teuchos.html#a7123c626e9a0f0602cd38449a85e9394" title="Teuchos::isend\&lt; int,\l int \&gt;" alt="" coords="236,4103,377,4145"/>
+<area shape="rect" id="node115" href="$d3/d74/namespace_teuchos.html#a1af860a0e1eed42604029a72322867f9" title="Teuchos::gather\&lt; int,\l unsigned int \&gt;" alt="" coords="233,4169,380,4210"/>
+<area shape="rect" id="node116" href="$d3/d74/namespace_teuchos.html#af424c82b352d575e00db202315dacf9b" title="Teuchos::gatherv\&lt; int,\l unsigned int \&gt;" alt="" coords="230,4234,383,4275"/>
+<area shape="rect" id="node117" href="$d3/d74/namespace_teuchos.html#a0aac06648db7f59357cf24f6c1f39cf8" title="Teuchos::reduceAll\l\&lt; int, unsigned int \&gt;" alt="" coords="237,1499,376,1541"/>
+<area shape="rect" id="node118" href="$d3/d74/namespace_teuchos.html#a9400dee58781cb5dd2cd77ed3306175a" title="Teuchos::ireceive\&lt;\l int, unsigned int \&gt;" alt="" coords="240,4299,373,4341"/>
+<area shape="rect" id="node119" href="$d3/d74/namespace_teuchos.html#a32b37607b7b926510aedb1171acf7ea1" title="Teuchos::send\&lt; int,\l unsigned int \&gt;" alt="" coords="237,4365,376,4406"/>
+<area shape="rect" id="node120" href="$d3/d74/namespace_teuchos.html#a4a812bb2e544a07bba6add0edaf45ccf" title="Teuchos::isend\&lt; int,\l unsigned int \&gt;" alt="" coords="236,4430,377,4471"/>
+<area shape="rect" id="node121" href="$d3/d74/namespace_teuchos.html#a9eef002fe30ae1a013eaf7176792b834" title="Teuchos::gather\&lt; int,\l short \&gt;" alt="" coords="233,4495,380,4537"/>
+<area shape="rect" id="node122" href="$d3/d74/namespace_teuchos.html#aeef24732ab76793f37ed3868006302be" title="Teuchos::gatherv\&lt; int,\l short \&gt;" alt="" coords="230,4561,383,4602"/>
+<area shape="rect" id="node123" href="$d3/d74/namespace_teuchos.html#a80bb8e5a4c8c7cb1a0fb71b96d48719b" title="Teuchos::reduceAll\l\&lt; int, short \&gt;" alt="" coords="239,1565,374,1606"/>
+<area shape="rect" id="node124" href="$d3/d74/namespace_teuchos.html#a2ca43164a01f2b6fafd53920e4fcfd08" title="Teuchos::ireceive\&lt;\l int, short \&gt;" alt="" coords="240,4626,373,4667"/>
+<area shape="rect" id="node125" href="$d3/d74/namespace_teuchos.html#abb2c5481befcbd6ce317248c1659d4f5" title="Teuchos::send\&lt; int,\l short \&gt;" alt="" coords="237,4691,376,4733"/>
+<area shape="rect" id="node126" href="$d3/d74/namespace_teuchos.html#a282623718a638b15498784a3b38432ca" title="Teuchos::isend\&lt; int,\l short \&gt;" alt="" coords="236,4757,377,4798"/>
+<area shape="rect" id="node127" href="$d3/d74/namespace_teuchos.html#a7635306f790d8ad5044a98a7e7eed63b" title="Teuchos::reduceAll\l\&lt; int, char \&gt;" alt="" coords="239,1630,374,1671"/>
+<area shape="rect" id="node128" href="$db/d8b/class_teuchos_1_1_const_reference_type_serialization_buffer.html#a06f582674c07acea18b18beb53c53adf" title="Teuchos::ConstReferenceType\lSerializationBuffer::getBytes" alt="" coords="205,686,409,727"/>
+<area shape="rect" id="node129" href="$db/d8b/class_teuchos_1_1_const_reference_type_serialization_buffer.html#a8e8840af56d31daba5f8bfd3d32b7d09" title="Teuchos::ConstReferenceType\lSerializationBuffer::getCharBuffer" alt="" coords="198,4822,415,4863"/>
+<area shape="rect" id="node130" href="$d3/dc8/class_teuchos_1_1_comm.html#a5c622d6c650e63c5dc335c962d78d9d5" title="Scan reduction. " alt="" coords="229,4888,384,4915"/>
+<area shape="rect" id="node10" href="$d1/d47/class_teuchos_1_1_array.html#a358ed7136b79445eb306d8d7b8cad4f5" title="Teuchos::Array::size" alt="" coords="475,752,617,779"/>
+<area shape="rect" id="node16" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a0c6441ac96ec5797f7b487e4c851aebe" title="Initialize from a raw pointer with a deallocation policy. " alt="" coords="1220,1779,1427,1805"/>
+<area shape="rect" id="node17" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a69ff146d10e16f667ef0ce4523a5eef7" title="Initialize from a raw pointer with a deallocation policy for an undefined type. " alt="" coords="1220,1830,1427,1871"/>
+<area shape="rect" id="node18" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a6c754d72d6d232c97e38bc359ab6ef82" title="Return a non&#45;owning weak RCP object from a raw object reference for a defined type. " alt="" coords="1230,1896,1417,1923"/>
+<area shape="rect" id="node19" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a823eee3138de3b23dab97b3f37e197f3" title="Return a non&#45;owning weak RCP object from a raw object reference for an undefined type. " alt="" coords="1213,1947,1434,1973"/>
+<area shape="rect" id="node20" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a02148aef172f7b2c0fb2de29cb01b91a" title="Create an RCP with and also put in an embedded object. " alt="" coords="1211,1998,1435,2039"/>
+<area shape="rect" id="node21" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a8272eea6a27f1fce6c30fc5d568f2de7" title="Create an RCP with and also put in an embedded object. " alt="" coords="1211,2063,1435,2105"/>
+<area shape="rect" id="node22" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a506210a123b6e1747d910f037065bd73" title="Create an RCP with and also put in an embedded object. " alt="" coords="1201,2129,1445,2156"/>
+<area shape="rect" id="node23" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#abaa6bdcd39bac7dd5c12c3e0f49eba25" title="Create a new RCP that inverts the ownership of parent and child. " alt="" coords="1219,2181,1428,2222"/>
+<area shape="rect" id="node24" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#ae07a807743d25c57754a1988645ba791" title="Allocate a new RCP object with a new RCPNode with memory pointing to the initial node. " alt="" coords="1223,2247,1423,2273"/>
+<area shape="rect" id="node25" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a8033d79aee37a9378d73f70eb025b05d" title="Returns true if the underlying pointer is null. " alt="" coords="1246,2297,1401,2324"/>
+<area shape="rect" id="node26" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#ad792756b35ab5a2fa8c1d1d608763aec" title="Returns true if p.get()!=NULL. " alt="" coords="1244,2348,1403,2375"/>
+<area shape="rect" id="node27" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#afab9d7e0e5480ec8b455e38de0eee49e" title="Returns true if p.get()==NULL. " alt="" coords="1233,2399,1413,2425"/>
+<area shape="rect" id="node28" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a4081b5c4ac5b9d630a695755a72771cc" title="Returns true if p.get()!=NULL. " alt="" coords="1235,2449,1411,2476"/>
+<area shape="rect" id="node29" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a61fc9f719ee13e5d961dcf47053883b4" title="Implicit cast of underlying RCP type from T1* to T2*. " alt="" coords="1216,2500,1431,2527"/>
+<area shape="rect" id="node30" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a1c369381869737e67be8cab843b18076" title="Static cast of underlying RCP type from T1* to T2*. " alt="" coords="1220,2551,1427,2577"/>
+<area shape="rect" id="node31" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a6931e6c2f74c9fa9467e5dc91c6cd983" title="Constant cast of underlying RCP type from T1* to T2*. " alt="" coords="1220,2601,1427,2628"/>
+<area shape="rect" id="node32" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a1580c807c6df3fdbcb953687b4ff60c7" title="Dynamic cast of underlying RCP type from T1* to T2*. " alt="" coords="1212,2652,1435,2679"/>
+<area shape="rect" id="node33" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#addd19618c28d1cbc6959f346cee07a7f" title="Set extra data associated with a RCP object. " alt="" coords="1222,2703,1425,2729"/>
+<area shape="rect" id="node34" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#ab7f7cd634c8250ff0515bd55c5f3cde6" title="Get a const reference to extra data associated with a RCP object. " alt="" coords="1222,969,1425,996"/>
+<area shape="rect" id="node35" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a8978c29ca24e96cb61185507a0419dac" title="Get a non&#45;const reference to extra data associated with a RCP object. " alt="" coords="1226,1021,1421,1062"/>
+<area shape="rect" id="node36" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#aac70269754b423e8e76d2e75b3dfbf96" title="Get a pointer to const extra data (if it exists) associated with a RCP object. " alt="" coords="1230,1086,1417,1127"/>
+<area shape="rect" id="node37" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a7b838cf99afd0bb5f2ebc94ab8d73b59" title="Get a pointer to non&#45;const extra data (if it exists) associated with a RCP object. " alt="" coords="1230,1151,1417,1193"/>
+<area shape="rect" id="node38" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a62a1b34d2efe42b0a0fb4e20c1089f89" title="Return a const reference to the underlying deallocator object. " alt="" coords="1232,1217,1415,1244"/>
+<area shape="rect" id="node39" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a67483a8eaf4d6a5f234e7bd6c971b009" title="Return a non&#45;const reference to the underlying deallocator object. " alt="" coords="1226,1269,1421,1310"/>
+<area shape="rect" id="node40" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#ac7868e0bffe12f3a8c82daa61cd4cefb" title="Return a pointer to the underlying const deallocator object if it exists. " alt="" coords="1230,1334,1417,1375"/>
+<area shape="rect" id="node41" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a40a73590cabeeb6ac3556981e068bd5d" title="Return a pointer to the underlying non&#45;const deallocator object if it exists. " alt="" coords="1230,1399,1417,1441"/>
+<area shape="rect" id="node42" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#afd9ce82fd86820b298f9c3847d585708" title="Get a const reference to an embedded object that was set by calling rcpWithEmbeddedObjPreDestroy(), rcpWithEmbeddedObjPostDestory(), or rcpWithEmbeddedObj(). " alt="" coords="1215,1465,1432,1492"/>
+<area shape="rect" id="node43" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a5dfd3a9f656d730dea2902f08a765811" title="Get a non&#45;const reference to an embedded object that was set by calling rcpWithEmbeddedObjPreDestroy(..." alt="" coords="1228,1517,1419,1558"/>
+<area shape="rect" id="node44" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#ae35995646037935daf4f98375cbb7ae3" title="Get an optional Ptr to a const embedded object if it was set by calling rcpWithEmbeddedObjPreDestroy(..." alt="" coords="1232,1582,1415,1623"/>
+<area shape="rect" id="node45" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#a1fcb0b191b4d3f13cd7e2c139dcc4d8e" title="Get an optional Ptr to a non&#45;const embedded object if it was set by calling rcpWithEmbeddedObjPreDest..." alt="" coords="1232,1647,1415,1689"/>
+<area shape="rect" id="node46" href="$d3/d74/namespace_teuchos.html#a36781a62aaf40511a8eb5a8c8d3914f9" title="Get the parent back from an inverted ownership RCP. " alt="" coords="1210,1713,1437,1754"/>
+<area shape="rect" id="node50" href="$d9/d97/tweetnacl_8c.html#a24fadd24ea51a70db004e54d525b624a" title="modL" alt="" coords="519,1136,573,1163"/>
+<area shape="rect" id="node54" href="$d3/d74/namespace_teuchos.html#a120e026584caa61a58ae4deace44ce58" title="Variant of ssend() that takes a tag (and restores the correct order of arguments). " alt="" coords="821,560,936,587"/>
+<area shape="rect" id="node55" href="$d3/dc8/class_teuchos_1_1_comm.html#a8485a8a0a0e265490d0a64fb57fc21cc" title="Always blocking send of data from this process to another process. " alt="" coords="987,411,1150,437"/>
+<area shape="rect" id="node56" href="$d7/d1d/test__hwm__pubsub_8cpp.html#ae4419579a6a12f76d2a840aec6a904d1" title="receive" alt="" coords="1037,765,1101,792"/>
+<area shape="rect" id="node59" href="$d3/dc8/class_teuchos_1_1_comm.html#a75102271f662e17b2bdd8397e8ee3180" title="Blocking receive of data from this process to another process. " alt="" coords="984,613,1153,640"/>
+<area shape="rect" id="node60" href="$d3/d74/namespace_teuchos.html#a29ed792d55caa3483b4ae3bdd58dcc79" title="Variant of readySend() that accepts a message tag. " alt="" coords="997,664,1140,691"/>
+<area shape="rect" id="node61" href="$d3/dc8/class_teuchos_1_1_comm.html#a14bd1be2cec6880ddd9ac19345c6d525" title="Ready send of data from this process to another process. " alt="" coords="1229,396,1418,423"/>
+<area shape="rect" id="node57" href="$d9/de6/zmq_8h.html#a3fa5cd19114e8f3f975b4087fa648e08" title="zmq_recv" alt="" coords="1284,868,1363,895"/>
+<area shape="rect" id="node58" href="$d1/d1c/zmq_8cpp.html#a020655faa8a541ceef65118ffc77dd63" title="zmq_msg_init" alt="" coords="1493,868,1596,895"/>
+<area shape="rect" id="node62" href="$d3/d74/namespace_teuchos.html#a5f733dc941f0b497fd51b8801b462fb5" title="Teuchos::isend" alt="" coords="1268,919,1379,945"/>
+<area shape="rect" id="node63" href="$db/d2b/class_teuchos_1_1_array_r_c_p.html#ab4500ff55f369af24cc5326b4422eaa5" title="The total number of entries in the array. " alt="" coords="1237,649,1409,676"/>
+<area shape="rect" id="node64" href="$db/d2b/class_teuchos_1_1_array_r_c_p.html#a11c6d43d33654122fe0173bc693f98ed" title="Get the raw C++ pointer to the underlying object. " alt="" coords="1249,701,1397,742"/>
+<area shape="rect" id="node65" href="$d3/dc8/class_teuchos_1_1_comm.html#a3c71e8aad8508ea358c9827f2555b064" title="Non&#45;blocking send. " alt="" coords="1244,767,1403,793"/>
+<area shape="rect" id="node66" href="$d5/d9a/class_teuchos_1_1_r_c_p.html#adc36a705efd91e655fef2521641c26b4" title="Get the raw C++ pointer to the underlying object. " alt="" coords="1256,447,1391,473"/>
+<area shape="rect" id="node67" href="$d3/d74/namespace_teuchos.html#a2dca8fd69afa4c6dd9e0dce57f83a2a3" title="Variant of ireceive that takes a tag argument (and restores the correct order of arguments). " alt="" coords="1261,817,1386,844"/>
+<area shape="rect" id="node68" href="$d3/dc8/class_teuchos_1_1_comm.html#a4a478412519b84f7589b4dd2d043d285" title="Non&#45;blocking receive. " alt="" coords="1237,497,1409,524"/>
+<area shape="rect" id="node69" href="$d3/dc8/class_teuchos_1_1_comm.html#a08b315896e59cfb1df0a05934e63a220" title="Wait on a set of communication requests. " alt="" coords="1240,548,1407,575"/>
+<area shape="rect" id="node70" href="$d3/dc8/class_teuchos_1_1_comm.html#a5e5952c4120ef9bb9c8ea9d3904e29a5" title="Wait on a single communication request, and return its status. " alt="" coords="1248,599,1399,625"/>
+</map>

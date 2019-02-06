@@ -1,0 +1,14 @@
+digraph "3rdParty/trilinos-nox/packages/ml/src/MLAPI/MLAPI_Operator_Utils.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node141 [label="3rdParty/trilinos-nox\l/packages/ml/src/MLAPI\l/MLAPI_Operator_Utils.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node141 -> Node142 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node142 [label="3rdParty/trilinos-nox\l/packages/ml/src/MLAPI\l/MLAPI.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d11/_m_l_a_p_i_8h.html"];
+  Node141 -> Node143 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node143 [label="3rdParty/trilinos-nox\l/packages/ml/src/MLAPI\l/MLAPI_MultiLevelSA.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d66/_m_l_a_p_i___multi_level_s_a_8h.html",tooltip="Standard smoothed aggregation multilevel preconditioner. "];
+  Node143 -> Node142 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node141 -> Node144 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node144 [label="3rdParty/trilinos-nox\l/packages/ml/src/MLAPI\l/MLAPI_MultiLevelAdaptiveSA.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d34/_m_l_a_p_i___multi_level_adaptive_s_a_8h.html",tooltip="Adaptive smoothed aggregation preconditioner. "];
+  Node144 -> Node142 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

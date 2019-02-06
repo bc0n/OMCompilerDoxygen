@@ -1,0 +1,12 @@
+<map id="GC_print_smashed_obj" name="GC_print_smashed_obj">
+<area shape="rect" id="node2" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#a8b93cd0c8d9c312bbdf0e679d10b680a" title="GC_base" alt="" coords="893,197,971,223"/>
+<area shape="rect" id="node3" href="$dd/d79/gc__priv_8h.html#a515817b1cc28538efe42e953361e6cb1" title="GC_err_printf" alt="" coords="478,146,578,173"/>
+<area shape="rect" id="node4" href="$d1/dd1/3rd_party_2gc_2include_2gc_8h.html#a8e4b29a6f09c281e53721eba5f206cf8" title="GC_size" alt="" coords="895,19,969,46"/>
+<area shape="rect" id="node5" href="$d3/d7b/dbg__mlc_8c.html#ac422a24ebb4519fa334d8ebadd453d75" title="GC_check_heap_proc" alt="" coords="230,95,381,122"/>
+<area shape="rect" id="node11" href="$d3/d7b/dbg__mlc_8c.html#adb3b437256974a46b9a6a7463f30bd56" title="GC_print_all_smashed_proc" alt="" coords="212,197,399,223"/>
+<area shape="rect" id="node6" href="$d2/d22/headers_8c.html#a48a8aa76f61165c1116bb7a3a52d9ac5" title="GC_apply_to_all_blocks" alt="" coords="447,95,609,122"/>
+<area shape="rect" id="node7" href="$d3/d7b/dbg__mlc_8c.html#a24c254a2b95bbc152d8eedba28121275" title="GC_check_heap_block" alt="" coords="449,45,607,71"/>
+<area shape="rect" id="node8" href="$d3/d7b/dbg__mlc_8c.html#ad714e5613bb976a1ed8ecd23f05f8b8b" title="GC_check_annotated_obj" alt="" coords="657,45,829,71"/>
+<area shape="rect" id="node9" href="$d3/d7b/dbg__mlc_8c.html#a25d9083b1d677389672528b7e55c0ce6" title="GC_add_smashed" alt="" coords="678,121,809,147"/>
+<area shape="rect" id="node10" href="$d4/d23/gc__mark_8h.html#a268392cfc127d2574a72a58dd517e926" title="GC_is_marked" alt="" coords="877,121,987,147"/>
+</map>

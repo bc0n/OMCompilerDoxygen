@@ -1,0 +1,7 @@
+<map id="Teuchos::TEUCHOS_UNIT_TEST" name="Teuchos::TEUCHOS_UNIT_TEST">
+<area shape="rect" id="node2" href="$d4/dba/class_teuchos_1_1_global_m_p_i_session.html#a0539813777c6cc22133dbbc11aff7511" title="Sum a set of integers across processes. " alt="" coords="280,5,501,32"/>
+<area shape="rect" id="node3" href="$d4/dba/class_teuchos_1_1_global_m_p_i_session.html#a0bffffa883a6c0b20ce5dfafcbe71f38" title="The rank of the calling process in MPI_COMM_WORLD. " alt="" coords="297,57,485,98"/>
+<area shape="rect" id="node4" href="$d4/dba/class_teuchos_1_1_global_m_p_i_session.html#a20f86b4773ad754560336a8c0611e2b5" title="The number of processes in MPI_COMM_WORLD. " alt="" coords="297,122,485,163"/>
+<area shape="rect" id="node5" href="$d3/d74/namespace_teuchos.html#a805a8ddf15a76f2e047b892652828967" title="Teuchos::TEST_EQUALITY" alt="" coords="297,188,484,215"/>
+<area shape="rect" id="node6" href="$d3/d74/namespace_teuchos.html#a8425c5bc4900700509f4966aa62a1d35" title="Teuchos::globalReduceSuccess" alt="" coords="285,239,496,265"/>
+</map>

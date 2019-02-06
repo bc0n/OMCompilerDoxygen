@@ -1,0 +1,12 @@
+<map id="GC_debug_malloc_atomic" name="GC_debug_malloc_atomic">
+<area shape="rect" id="node2" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#a9e2dcbafb1fbf4b68fce05cf255f49c8" title="GC_debug_strdup" alt="" coords="240,5,367,32"/>
+<area shape="rect" id="node3" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#a39920d9dc5adcd34c75d92cfb23819fc" title="GC_debug_strndup" alt="" coords="236,56,371,83"/>
+<area shape="rect" id="node6" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#ac8cfdf02979ffa59a0ed66fdfdbce6a4" title="GC_debug_wcsdup" alt="" coords="235,107,371,133"/>
+<area shape="rect" id="node7" href="$d3/dc5/build_2include_2omc_2c_2gc_8h.html#ac0fc85cd6aabd28cd9483c12d4e8514f" title="GC_debug_realloc" alt="" coords="239,224,368,251"/>
+<area shape="rect" id="node10" href="$d3/d7b/dbg__mlc_8c.html#ada673c25a47f93bafd2ba42d94aa01a3" title="GC_debug_generic_or\l_special_malloc" alt="" coords="228,158,379,199"/>
+<area shape="rect" id="node11" href="$da/d32/pcr__interface_8c.html#a7df9217185fafb9a1ddefbbce43e88de" title="GC_DebugAllocProc" alt="" coords="232,275,375,301"/>
+<area shape="rect" id="node4" href="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a1441c77c68f4a3023b01ac675442c2da" title="WinMain" alt="" coords="493,107,567,133"/>
+<area shape="rect" id="node5" href="$d4/d12/3rd_party_2gc_2tests_2test_8c.html#a99b2e9cc4d3b5790643181ca7da1ba02" title="thr_window" alt="" coords="681,107,769,133"/>
+<area shape="rect" id="node8" href="$d3/d7b/dbg__mlc_8c.html#a92bfe9ab938a109d9444b1f1a896b763" title="GC_debug_realloc_replacement" alt="" coords="427,199,633,225"/>
+<area shape="rect" id="node9" href="$da/d32/pcr__interface_8c.html#a728ae9b8f977bd2cf63c76c7d401df45" title="GC_DebugReallocProc" alt="" coords="451,249,609,276"/>
+</map>

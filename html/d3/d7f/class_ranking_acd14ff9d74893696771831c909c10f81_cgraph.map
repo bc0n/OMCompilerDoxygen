@@ -1,0 +1,9 @@
+<map id="Ranking::perfectRanking" name="Ranking::perfectRanking">
+<area shape="rect" id="node2" href="$d9/d01/class_i_sim_controller.html#ad3d6c6a5565c0750aecf283060295542" title="ISimController::initialize" alt="" coords="231,5,391,32"/>
+<area shape="rect" id="node3" href="$d3/d1b/netstream-main_8cpp.html#aed138f72d7301a9034a719a95c4903da" title="e" alt="" coords="292,56,331,83"/>
+<area shape="rect" id="node4" href="$d9/d01/class_i_sim_controller.html#a22e93a0978a7d804bfd2dfe3717b6400" title="ISimController::runReduced\lSimulation" alt="" coords="220,107,403,149"/>
+<area shape="rect" id="node5" href="$da/d45/class_reduction.html#a361c0e158eda7ce7b59a57150334344e" title="Reduction::getError" alt="" coords="244,173,379,200"/>
+<area shape="rect" id="node6" href="$da/dfe/class_modelica_simulation_error.html#ad2fd4b0edafdfbdb5203752bc8c832b2" title="ModelicaSimulationError\l::isSuppressed" alt="" coords="230,225,393,266"/>
+<area shape="rect" id="node7" href="$d7/dcd/group__core_utils.html#gad00c636e0d505f1cb0a35f629d220383" title="error_id_string" alt="" coords="603,232,707,259"/>
+<area shape="rect" id="node8" href="$d7/dcd/group__core_utils.html#gae96ea32d345a03e80604a3a6166724e0" title="add_error_info" alt="" coords="451,257,555,284"/>
+</map>

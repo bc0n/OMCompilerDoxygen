@@ -1,0 +1,12 @@
+<map id="Belos::StatusTestUserOutput::setChild" name="Belos::StatusTestUserOutput::setChild">
+<area shape="rect" id="node2" href="$da/d4d/disclaim__test_8c.html#a6ae700ffc476697bf81afed662593501" title="test" alt="" coords="311,106,355,133"/>
+<area shape="rect" id="node3" href="$de/d98/class_belos_1_1_status_test_combo.html#ae45d6f3602fd6f717eb92f679864e022" title="Return the vector of status tests. " alt="" coords="248,157,417,199"/>
+<area shape="rect" id="node11" href="$de/d98/class_belos_1_1_status_test_combo.html#a575317dca355cd0d81aabd85fa8fea9b" title="Return the type of combination (OR, AND, or SEQ). " alt="" coords="248,223,417,264"/>
+<area shape="rect" id="node4" href="$de/d98/class_belos_1_1_status_test_combo.html#adee79deb6ac6083ec276cb0aab82913b" title="Output formatted description of stopping test to output stream. " alt="" coords="465,59,635,100"/>
+<area shape="rect" id="node5" href="$d7/d74/serializer_8cpp.html#a189eba34a209327583f582f69ce4dfe4" title="indent" alt="" coords="721,7,779,34"/>
+<area shape="rect" id="node7" href="$de/d98/class_belos_1_1_status_test_combo.html#a9ff4e8b4d34f767f67e6f63f14c96ad6" title="Use this for checkStatus when this is an OR type combo. Updates status. " alt="" coords="465,124,635,165"/>
+<area shape="rect" id="node8" href="$de/d98/class_belos_1_1_status_test_combo.html#a390f03c81555d6e874572378ae40e7c1" title="Use this for checkStatus when this is an AND type combo. Updates status. " alt="" coords="465,189,635,231"/>
+<area shape="rect" id="node9" href="$de/d98/class_belos_1_1_status_test_combo.html#a08d52ecf705191a60389052edb1aebb6" title="Use this for checkStatus when this is a sequential AND type combo. Updates status. " alt="" coords="465,255,635,296"/>
+<area shape="rect" id="node10" href="$de/d98/class_belos_1_1_status_test_combo.html#aa3a00a7cd9ba7784aa20abb334fca618" title="Belos::StatusTestCombo\l::isSafe" alt="" coords="465,344,635,385"/>
+<area shape="rect" id="node6" href="$db/dea/class_belos_1_1_status_test.html#afb74d8db2f62029cd5bdb64cdd17a36b" title="Output the result of the most recent CheckStatus call. " alt="" coords="683,59,817,100"/>
+</map>
