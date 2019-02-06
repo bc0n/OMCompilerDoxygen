@@ -1,0 +1,6 @@
+<map id="zmq::i_pipe_events::~i_pipe_events" name="zmq::i_pipe_events::~i_pipe_events">
+<area shape="rect" id="node2" href="$d0/db6/structzmq_1_1i__pipe__events.html#a43c43a330b2a6eec4e2d9177f6bcceed" title="zmq::i_pipe_events\l::read_activated" alt="" coords="188,5,323,47"/>
+<area shape="rect" id="node3" href="$d0/db6/structzmq_1_1i__pipe__events.html#ac2038421defe6d1f03c792cf27849403" title="zmq::i_pipe_events\l::write_activated" alt="" coords="188,71,323,112"/>
+<area shape="rect" id="node4" href="$d0/db6/structzmq_1_1i__pipe__events.html#a97b4c5a0c03fd02040673793fc452b52" title="zmq::i_pipe_events\l::hiccuped" alt="" coords="188,136,323,177"/>
+<area shape="rect" id="node5" href="$d0/db6/structzmq_1_1i__pipe__events.html#a5b4062f1d90e49f25cd68fdc249c69df" title="zmq::i_pipe_events\l::pipe_terminated" alt="" coords="188,201,323,243"/>
+</map>

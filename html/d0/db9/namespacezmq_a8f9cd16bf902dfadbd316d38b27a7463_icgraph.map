@@ -1,0 +1,5 @@
+<map id="zmq::tcp_read" name="zmq::tcp_read">
+<area shape="rect" id="node2" href="$de/db4/classzmq_1_1socks__choice__decoder__t.html#a5ae9f20a2c199cf45add15a29d546c16" title="zmq::socks_choice_decoder\l_t::input" alt="" coords="159,5,347,47"/>
+<area shape="rect" id="node4" href="$dc/dad/classzmq_1_1socks__response__decoder__t.html#a56195dcd5947bc9eff1d87aa1b297a56" title="zmq::socks_response\l_decoder_t::input" alt="" coords="177,71,328,112"/>
+<area shape="rect" id="node3" href="$d4/db4/classzmq_1_1socks__connecter__t.html#a0c674bdb7a75ad447ec6641875bb4491" title="zmq::socks_connecter\l_t::~socks_connecter_t" alt="" coords="395,39,553,80"/>
+</map>

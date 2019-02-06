@@ -1,0 +1,77 @@
+<map id="OMCompiler/3rdParty/FMIL/src/Util/include/FMI2/fmi2_types.h" name="OMCompiler/3rdParty/FMIL/src/Util/include/FMI2/fmi2_types.h">
+<area shape="rect" id="node2" href="$dc/d0a/fmi2__capi_8h.html" title="Public interfaces for the FMI CAPI library. " alt="" coords="3451,317,3609,373"/>
+<area shape="rect" id="node4" href="$d3/d80/fmi2__capi__impl_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/CAPI/src/FMI2\l/fmi2_capi_impl.h" alt="" coords="3410,421,3581,477"/>
+<area shape="rect" id="node7" href="$d3/df2/fmi2__import_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI2/fmi2_import.c" alt="" coords="2885,651,3033,707"/>
+<area shape="rect" id="node8" href="$d0/de2/fmi2__import__capi_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI2/fmi2_import_capi.c" alt="" coords="3771,651,3942,707"/>
+<area shape="rect" id="node9" href="$d9/de4/fmi__import__context_8h.html" title="Import context is the entry point to the library. It is used to initialize, unzip, get FMI version and start parsing. " alt="" coords="1973,109,2148,165"/>
+<area shape="rect" id="node40" href="$d6/d11/fmi2__import_8h.html" title="Public interface to the FMI import C&#45;library. " alt="" coords="2417,421,2581,477"/>
+<area shape="rect" id="node50" href="$db/d55/fmi2__import__capi_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/include\l/FMI2/fmi2_import_capi.h" alt="" coords="2717,317,2887,373"/>
+<area shape="rect" id="node53" href="$db/d08/fmi2__functions_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/Util/include\l/FMI2/fmi2_functions.h" alt="" coords="3040,213,3196,269"/>
+<area shape="rect" id="node55" href="$d8/d60/fmi2__xml__model__description_8h.html" title="Public interface to the FMI XML C&#45;library. " alt="" coords="4637,421,4873,477"/>
+<area shape="rect" id="node3" href="$d4/d12/fmi2__capi__cs_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/CAPI/src/FMI2\l/fmi2_capi_cs.c" alt="" coords="3738,533,3909,589"/>
+<area shape="rect" id="node6" href="$d4/da0/fmi2__capi__me_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/CAPI/src/FMI2\l/fmi2_capi_me.c" alt="" coords="3543,533,3714,589"/>
+<area shape="rect" id="node5" href="$d2/d69/fmi2__capi_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/CAPI/src/FMI2\l/fmi2_capi.c" alt="" coords="3349,533,3519,589"/>
+<area shape="rect" id="node10" href="$db/d4e/fmilib_8h.html" title="Include file to be used in client applications of the FMI Library. " alt="" coords="1881,540,2067,581"/>
+<area shape="rect" id="node22" href="$d2/d2f/fmi1__import_8h.html" title="Public interface to the FMI import C&#45;library. " alt="" coords="1297,421,1461,477"/>
+<area shape="rect" id="node35" href="$da/d33/fmi1__import__variable_8h.html" title="Public interface to the FMI import C&#45;library. Handling of model variables. " alt="" coords="1119,213,1309,269"/>
+<area shape="rect" id="node37" href="$d6/dfc/fmi1__import__capi_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/include\l/FMI1/fmi1_import_capi.h" alt="" coords="1417,317,1587,373"/>
+<area shape="rect" id="node38" href="$d6/d66/fmi1__import__convenience_8h.html" title="Public interface to the FMI import C&#45;library. Convenience functions. " alt="" coords="1533,213,1751,269"/>
+<area shape="rect" id="node39" href="$de/de5/fmi1__import__cosim_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/include\l/FMI1/fmi1_import_cosim.h" alt="" coords="1775,213,1957,269"/>
+<area shape="rect" id="node48" href="$d1/da2/fmi2__import__variable_8h.html" title="Public interface to the FMI import C&#45;library. Handling of model variables. " alt="" coords="2032,213,2223,269"/>
+<area shape="rect" id="node51" href="$d7/d98/fmi2__import__convenience_8h.html" title="Public interface to the FMI import C&#45;library. Convenience functions. " alt="" coords="2474,317,2693,373"/>
+<area shape="rect" id="node52" href="$dd/d3b/fmi__import__context_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI/fmi_import_context.c" alt="" coords="2299,213,2473,269"/>
+<area shape="rect" id="node11" href="$df/d24/_f_m_i_impl_8c.html" title="OMCompiler/Compiler\l/runtime/FMIImpl.c" alt="" coords="2059,659,2209,700"/>
+<area shape="rect" id="node13" href="$d7/d39/_f_m_i_common_8h.html" title="OMCompiler/SimulationRuntime\l/c/fmi/FMICommon.h" alt="" coords="2233,659,2443,700"/>
+<area shape="rect" id="node12" href="$df/d35/_f_m_i__omc_8c.html" title="OMCompiler/Compiler\l/runtime/FMI_omc.c" alt="" coords="1773,770,1924,811"/>
+<area shape="rect" id="node14" href="$d3/d64/_f_m_i1_common_8h.html" title="OMCompiler/SimulationRuntime\l/c/fmi/FMI1Common.h" alt="" coords="2537,770,2747,811"/>
+<area shape="rect" id="node16" href="$d5/d4a/_f_m_i1_co_simulation_8c.html" title="OMCompiler/SimulationRuntime\l/c/fmi/FMI1CoSimulation.c" alt="" coords="2313,881,2523,923"/>
+<area shape="rect" id="node17" href="$db/d07/_f_m_i1_model_exchange_8c.html" title="OMCompiler/SimulationRuntime\l/c/fmi/FMI1ModelExchange.c" alt="" coords="2780,881,2989,923"/>
+<area shape="rect" id="node18" href="$d7/d17/_f_m_i2_common_8h.html" title="OMCompiler/SimulationRuntime\l/c/fmi/FMI2Common.h" alt="" coords="1948,770,2157,811"/>
+<area shape="rect" id="node20" href="$de/d1d/_f_m_i2_model_exchange_8c.html" title="OMCompiler/SimulationRuntime\l/c/fmi/FMI2ModelExchange.c" alt="" coords="2080,881,2289,923"/>
+<area shape="rect" id="node21" href="$d1/de4/_f_m_i_common_8c.html" title="OMCompiler/SimulationRuntime\l/c/fmi/FMICommon.c" alt="" coords="2233,770,2443,811"/>
+<area shape="rect" id="node15" href="$de/dca/_f_m_i1_common_8c.html" title="OMCompiler/SimulationRuntime\l/c/fmi/FMI1Common.c" alt="" coords="2547,881,2756,923"/>
+<area shape="rect" id="node19" href="$de/dda/_f_m_i2_common_8c.html" title="OMCompiler/SimulationRuntime\l/c/fmi/FMI2Common.c" alt="" coords="1847,881,2056,923"/>
+<area shape="rect" id="node23" href="$d8/d74/fmi1__import__impl_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI1/fmi1_import_impl.h" alt="" coords="1006,533,1177,589"/>
+<area shape="rect" id="node34" href="$dd/d33/fmi1__import__variable__list__impl_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI1/fmi1_import_variable\l_list_impl.h" alt="" coords="408,525,588,596"/>
+<area shape="rect" id="node24" href="$da/d13/fmi1__import_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI1/fmi1_import.c" alt="" coords="424,651,572,707"/>
+<area shape="rect" id="node25" href="$df/d8f/fmi1__import__capabilities_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI1/fmi1_import_capabilities.c" alt="" coords="986,651,1197,707"/>
+<area shape="rect" id="node26" href="$d2/ddd/fmi1__import__capi_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI1/fmi1_import_capi.c" alt="" coords="1221,651,1391,707"/>
+<area shape="rect" id="node27" href="$dc/d11/fmi1__import__convenience_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI1/fmi1_import_convenience.c" alt="" coords="1415,651,1634,707"/>
+<area shape="rect" id="node28" href="$d5/d95/fmi1__import__cosim_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI1/fmi1_import_cosim.c" alt="" coords="1658,651,1839,707"/>
+<area shape="rect" id="node29" href="$dd/dd9/fmi1__import__type_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI1/fmi1_import_type.c" alt="" coords="1863,651,2034,707"/>
+<area shape="rect" id="node30" href="$dd/d32/fmi1__import__unit_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI1/fmi1_import_unit.c" alt="" coords="596,651,763,707"/>
+<area shape="rect" id="node31" href="$d2/d8e/fmi1__import__variable_8c.html" title="Methods to handle fmi1_import_variable_t. " alt="" coords="5,651,196,707"/>
+<area shape="rect" id="node32" href="$d0/d91/fmi1__import__variable__list_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI1/fmi1_import_variable\l_list.c" alt="" coords="220,644,400,715"/>
+<area shape="rect" id="node33" href="$db/d4e/fmi1__import__vendor__annotations_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI1/fmi1_import_vendor\l_annotations.c" alt="" coords="787,644,961,715"/>
+<area shape="rect" id="node36" href="$dd/d89/fmi1__import__variable__list_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of variable lists. " alt="" coords="1076,317,1291,373"/>
+<area shape="rect" id="node41" href="$d2/dd7/fmi2__import__impl_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI2/fmi2_import_impl.h" alt="" coords="3053,533,3223,589"/>
+<area shape="rect" id="node47" href="$da/dd3/fmi2__import__variable__list__impl_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI2/fmi2_import_variable\l_list_impl.h" alt="" coords="2472,525,2652,596"/>
+<area shape="rect" id="node42" href="$de/d3e/fmi2__import__convenience_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI2/fmi2_import_convenience.c" alt="" coords="3445,651,3663,707"/>
+<area shape="rect" id="node43" href="$db/d39/fmi2__import__type_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI2/fmi2_import_type.c" alt="" coords="3058,651,3229,707"/>
+<area shape="rect" id="node44" href="$da/d5e/fmi2__import__unit_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI2/fmi2_import_unit.c" alt="" coords="3253,651,3420,707"/>
+<area shape="rect" id="node45" href="$d7/d5f/fmi2__import__variable_8c.html" title="Methods to handle fmi2_import_variable_t. " alt="" coords="2467,651,2657,707"/>
+<area shape="rect" id="node46" href="$d4/d63/fmi2__import__variable__list_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Import/src\l/FMI2/fmi2_import_variable\l_list.c" alt="" coords="2681,644,2861,715"/>
+<area shape="rect" id="node49" href="$da/d11/fmi2__import__variable__list_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of variable lists. " alt="" coords="2083,317,2297,373"/>
+<area shape="rect" id="node54" href="$da/dfa/fmi2__enums_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/Util/src/FMI2\l/fmi2_enums.c" alt="" coords="3013,317,3172,373"/>
+<area shape="rect" id="node56" href="$d8/d30/fmi2__xml__capabilities_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/XML/include\l/FMI2/fmi2_xml_capabilities.h" alt="" coords="5159,533,5355,589"/>
+<area shape="rect" id="node57" href="$dc/d0b/fmi2__xml__cosim_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/XML/include\l/FMI2/fmi2_xml_cosim.h" alt="" coords="5379,533,5545,589"/>
+<area shape="rect" id="node58" href="$d6/d34/fmi2__xml__type_8h.html" title="Public interface to the FMI XML C&#45;library: variable types handling. " alt="" coords="4979,533,5135,589"/>
+<area shape="rect" id="node59" href="$da/d95/fmi2__xml__variable_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of model variables. " alt="" coords="5005,651,5181,707"/>
+<area shape="rect" id="node62" href="$d5/d19/fmi2__xml__unit_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of variable units. " alt="" coords="4383,533,4538,589"/>
+<area shape="rect" id="node63" href="$df/d50/fmi2__xml__model__structure_8h.html" title="Public interface to the FMI XML C&#45;library. Handling of vendor annotations. " alt="" coords="4085,533,4309,589"/>
+<area shape="rect" id="node67" href="$da/d37/fmi2__xml__model__description__impl_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/XML/src/FMI2\l/fmi2_xml_model_description\l_impl.h" alt="" coords="4587,867,4777,937"/>
+<area shape="rect" id="node73" href="$d5/d64/fmi2__xml__unit__impl_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/XML/src/FMI2\l/fmi2_xml_unit_impl.h" alt="" coords="4954,763,5119,819"/>
+<area shape="rect" id="node74" href="$d0/de5/fmi2__xml__parser_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/XML/src/FMI2\l/fmi2_xml_parser.h" alt="" coords="4613,533,4778,589"/>
+<area shape="rect" id="node75" href="$df/da3/fmi2__xml__type__impl_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/XML/src/FMI2\l/fmi2_xml_type_impl.h" alt="" coords="4165,651,4330,707"/>
+<area shape="rect" id="node76" href="$d4/d3d/fmi2__xml__variable__impl_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/XML/src/FMI2\l/fmi2_xml_variable_impl.h" alt="" coords="4037,763,4210,819"/>
+<area shape="rect" id="node60" href="$da/d1c/fmi2__xml__query_8h.html" title="OMCompiler/3rdParty\l/FMIL/src/XML/src/FMI2\l/fmi2_xml_query.h" alt="" coords="5143,763,5309,819"/>
+<area shape="rect" id="node61" href="$d9/d3b/fmi2__xml__query_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/XML/src/FMI2\l/fmi2_xml_query.c" alt="" coords="5143,874,5309,930"/>
+<area shape="rect" id="node64" href="$d1/d18/fmi2__xml__model__structure__impl_8h.html" title="Private header file. Definitions for the model structure interface. " alt="" coords="4333,867,4511,937"/>
+<area shape="rect" id="node65" href="$dc/d54/fmi2__xml__model__description_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/XML/src/FMI2\l/fmi2_xml_model_description.c" alt="" coords="4175,985,4378,1041"/>
+<area shape="rect" id="node66" href="$d4/d3e/fmi2__xml__model__structure_8c.html" title="Implementation for the model structure interface. " alt="" coords="4403,985,4593,1041"/>
+<area shape="rect" id="node68" href="$d0/d8b/fmi2__xml__parser_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/XML/src/FMI2\l/fmi2_xml_parser.c" alt="" coords="4618,985,4783,1041"/>
+<area shape="rect" id="node69" href="$dd/d01/fmi2__xml__type_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/XML/src/FMI2\l/fmi2_xml_type.c" alt="" coords="5042,985,5207,1041"/>
+<area shape="rect" id="node70" href="$df/dae/fmi2__xml__unit_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/XML/src/FMI2\l/fmi2_xml_unit.c" alt="" coords="5231,985,5397,1041"/>
+<area shape="rect" id="node71" href="$d9/d01/fmi2__xml__variable_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/XML/src/FMI2\l/fmi2_xml_variable.c" alt="" coords="3986,985,4151,1041"/>
+<area shape="rect" id="node72" href="$dc/dd0/fmi2__xml__vendor__annotations_8c.html" title="OMCompiler/3rdParty\l/FMIL/src/XML/src/FMI2\l/fmi2_xml_vendor_annotations.c" alt="" coords="4807,985,5018,1041"/>
+</map>
