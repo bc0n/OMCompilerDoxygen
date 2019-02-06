@@ -1,0 +1,12 @@
+digraph "3rdParty/trilinos-nox/packages/teuchos/numerics/src/Teuchos_PolynomialTraits.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node25 [label="3rdParty/trilinos-nox\l/packages/teuchos/numerics\l/src/Teuchos_PolynomialTraits.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node25 -> Node26 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node26 [label="3rdParty/trilinos-nox\l/packages/teuchos/numerics\l/src/Teuchos_PolynomialDecl.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dfb/_teuchos___polynomial_decl_8hpp.html"];
+  Node26 -> Node27 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node27 [label="3rdParty/trilinos-nox\l/packages/teuchos/numerics\l/src/Teuchos_Polynomial.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d43/_teuchos___polynomial_8hpp.html"];
+  Node27 -> Node28 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node28 [label="3rdParty/trilinos-nox\l/packages/teuchos/numerics\l/test/Polynomial/Polynomial\l_UnitTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d5a/_polynomial___unit_test_8cpp.html"];
+}

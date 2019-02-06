@@ -1,0 +1,12 @@
+<map id="omc_System_getTerminalWidth" name="omc_System_getTerminalWidth">
+<area shape="rect" id="node2" href="$d3/db3/_flags_8c.html#ab6502c2366cac5436ba50cd8728215db" title="omc_Flags_printFlagOptionDesc" alt="" coords="261,64,473,91"/>
+<area shape="rect" id="node9" href="$d3/db3/_flags_8c.html#a775c894a9f6475d590a889dacbfe2d0f" title="omc_Flags_printValidOptions" alt="" coords="271,115,463,141"/>
+<area shape="rect" id="node10" href="$d3/db3/_flags_8c.html#ab20102123e4b96d1c66c8a3a91d4b228" title="omc_Flags_makeTopicString" alt="" coords="272,165,463,192"/>
+<area shape="rect" id="node11" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a9c198a136fbf539aaa99f411ac5de052" title="boxptr_System_getTerminal\lWidth" alt="" coords="275,217,460,258"/>
+<area shape="rect" id="node3" href="$d3/db3/_flags_8c.html#ab036cf42299ffd61c658c49754625cd5" title="boxptr_Flags_printFlagOptionDesc" alt="" coords="521,5,744,32"/>
+<area shape="rect" id="node4" href="$d3/db3/_flags_8c.html#a8ecab2d04d9070dc3df36a1b81a261ad" title="omc_Flags_printFlagValid\lOptionsDesc" alt="" coords="547,57,719,98"/>
+<area shape="rect" id="node5" href="$d3/db3/_flags_8c.html#a6ca417f23935b2fd5c3b5dab7765e06f" title="omc_Flags_printValidOptions\lSphinx" alt="" coords="537,122,729,163"/>
+<area shape="rect" id="node6" href="$d3/db3/_flags_8c.html#ab2aedf45436e263e00eddd7951a50eb9" title="omc_Flags_printConfigFlag\lSphinx" alt="" coords="792,122,973,163"/>
+<area shape="rect" id="node7" href="$dd/ded/_flags_8h.html#ae4d5d4717f5e9f5a8a75005f08c304c5" title="omc_Flags_printUsageSphinxAll" alt="" coords="1021,129,1232,156"/>
+<area shape="rect" id="node8" href="$dd/ded/_flags_8h.html#a2f15290d2379e9c1c09b82867370ea3b" title="omc_Flags_printHelp" alt="" coords="1280,129,1425,156"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="omc_System_removeDirectory" name="omc_System_removeDirectory">
+<area shape="rect" id="node2" href="$d1/d95/_system_8c.html#a4c8ea26c2996ab17e12d3d709ac0679e" title="omc_System_removeDirectory\l__dispatch" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node4" href="$d1/d95/_system_8c.html#ab4261551580fc07778c15d3b0cb0cdfd" title="omc_System_os" alt="" coords="297,71,417,98"/>
+<area shape="rect" id="node6" href="$d7/deb/build_2include_2omc_2c_2util_2modelica__string_8c.html#a751007abc59e9ca7978f2af10a0c814f" title="stringAppend" alt="" coords="308,122,407,149"/>
+<area shape="rect" id="node7" href="$d1/d95/_system_8c.html#a55a22a55e5b2adc4ec659a233eb42caa" title="omc_System_systemCall" alt="" coords="271,173,443,199"/>
+<area shape="rect" id="node3" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#af441dbf02b367c7b9e0d8a4aa70fc6bc" title="SystemImpl__removeDirectory" alt="" coords="507,13,709,39"/>
+<area shape="rect" id="node5" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a967ce96198372dc665f235bb728adb6f" title="System_os" alt="" coords="564,71,652,98"/>
+<area shape="rect" id="node8" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a3752a225b0efdb88b9786e6b9c8aba31" title="SystemImpl__systemCall" alt="" coords="522,173,694,199"/>
+</map>

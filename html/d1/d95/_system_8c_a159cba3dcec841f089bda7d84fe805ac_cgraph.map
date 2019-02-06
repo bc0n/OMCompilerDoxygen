@@ -1,0 +1,11 @@
+<map id="omc_System_popen" name="omc_System_popen">
+<area shape="rect" id="node2" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#ae9b6741ea127f648f285b2bd33fa3bd5" title="System_popen" alt="" coords="195,183,304,209"/>
+<area shape="rect" id="node3" href="$d4/d98/g_09_09malloc_8c.html#a49f789e614e57e410f598885b800c2df" title="fprintf" alt="" coords="404,5,459,32"/>
+<area shape="rect" id="node4" href="$d6/d4f/shell_8c.html#a31dd4384020447c7d99d0e4aace6f17a" title="popen" alt="" coords="403,56,460,83"/>
+<area shape="rect" id="node5" href="$db/def/_print_8h.html#afbd06f69772f11802874118538c5e3cb" title="Print_saveAndClearBuf" alt="" coords="352,107,511,133"/>
+<area shape="rect" id="node6" href="$db/def/_print_8h.html#a4e09b57c2e6549226f6669ca20a3cf07" title="Print_printBuf" alt="" coords="381,157,482,184"/>
+<area shape="rect" id="node7" href="$d6/d4f/shell_8c.html#a92e41b535f1505676ed8cbe5896606d5" title="pclose" alt="" coords="401,208,461,235"/>
+<area shape="rect" id="node8" href="$d1/db0/errno_8cpp.html#ab24cd3e7230776b966d761a401486350" title="strerror" alt="" coords="400,259,463,285"/>
+<area shape="rect" id="node9" href="$db/def/_print_8h.html#adc535a7680da761472c50a3613eba8d7" title="Print_getString" alt="" coords="377,309,485,336"/>
+<area shape="rect" id="node10" href="$db/def/_print_8h.html#a30efd8fc4a8cb13b594cb63bcac9407c" title="Print_restoreBuf" alt="" coords="373,360,489,387"/>
+</map>

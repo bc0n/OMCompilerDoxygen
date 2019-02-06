@@ -1,0 +1,5 @@
+<map id="omc_System_readEnv" name="omc_System_readEnv">
+<area shape="rect" id="node2" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#aeb00678c7263d51c5a33589439e239d7" title="System_readEnv" alt="" coords="208,31,331,57"/>
+<area shape="rect" id="node3" href="$d7/dcd/group__core_utils.html#gaeccaa0b46edead0608a6982dddb917ec" title="Allocate memory for a Modelica string which is used as return argument of an external Modelica functi..." alt="" coords="379,5,533,32"/>
+<area shape="rect" id="node4" href="$d6/d84/3rd_party_2open62541_2open62541_8h.html#aa383452fe445bfae989358c9d7d96f4f" title="strlen" alt="" coords="429,56,483,83"/>
+</map>

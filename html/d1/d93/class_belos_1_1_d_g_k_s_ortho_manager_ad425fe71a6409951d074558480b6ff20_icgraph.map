@@ -1,0 +1,4 @@
+<map id="Belos::DGKSOrthoManager::normalize" name="Belos::DGKSOrthoManager::normalize">
+<area shape="rect" id="node2" href="$d1/d93/class_belos_1_1_d_g_k_s_ortho_manager.html#a5e0e34d257c068f2c953f04bafd68941" title="This method calls project(X,Teuchos::null,C,Q); see documentation for that function. " alt="" coords="236,5,419,47"/>
+<area shape="rect" id="node3" href="$d1/d93/class_belos_1_1_d_g_k_s_ortho_manager.html#abea4d08406eccf73e6a48f3228572a5c" title="This method calls normalize(X,Teuchos::null,B); see documentation for that function. " alt="" coords="236,71,419,112"/>
+</map>

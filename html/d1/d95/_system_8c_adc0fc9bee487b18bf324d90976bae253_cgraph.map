@@ -1,0 +1,5 @@
+<map id="omc_System_realtimeTick" name="omc_System_realtimeTick">
+<area shape="rect" id="node2" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a3c8a41a10a815111034aad7f71a0786d" title="System_realtimeTick" alt="" coords="231,5,376,32"/>
+<area shape="rect" id="node3" href="$d7/d28/rtclock_8c.html#a3f601ddb8ffcd5269c769bad9b92544d" title="rt_tick" alt="" coords="424,5,483,32"/>
+<area shape="rect" id="node4" href="$d7/d28/rtclock_8c.html#a666efa9b7e18683d189fb7be4dd0ed7a" title="RDTSC" alt="" coords="531,5,600,32"/>
+</map>

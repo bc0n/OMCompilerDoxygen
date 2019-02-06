@@ -1,0 +1,22 @@
+<map id="omc_System_getCurrentDateTime" name="omc_System_getCurrentDateTime">
+<area shape="rect" id="node2" href="$dd/d90/_util_8h.html#a2e7907ac3f1af1ecc23bcf9502ec08e1" title="omc_Util_getCurrentDateTime" alt="" coords="277,142,476,169"/>
+<area shape="rect" id="node21" href="$d8/d28/_compiler_2boot_2build_2system_8h.html#a3ae03a19e421550cacb9263b58a6eea1" title="boxptr_System_getCurrent\lDateTime" alt="" coords="287,193,466,235"/>
+<area shape="rect" id="node3" href="$d5/da2/_codegen_cpp_init_8h.html#a5136f596d165611f5cf0ace1e5675a66" title="omc_CodegenCppInit\l_fmiModelDescriptionAttributes" alt="" coords="524,36,728,77"/>
+<area shape="rect" id="node7" href="$de/dac/_codegen_f_m_u1_8h.html#af6c4cdf803b32dad57020858678817e0" title="omc_CodegenFMU1_fmiModel\lDescriptionAttributes" alt="" coords="525,167,727,208"/>
+<area shape="rect" id="node16" href="$d4/d4c/_codegen_f_m_u2_8h.html#a1cefbe365d06ee66aa277a8666dbe2ee" title="omc_CodegenFMU2_fmiModel\lDescriptionAttributes" alt="" coords="525,101,727,143"/>
+<area shape="rect" id="node18" href="$d9/daa/_serialize_init_x_m_l_8h.html#aed63afa685eca6c4c49d2a0dc143d89a" title="omc_SerializeInitXML\l_simulationInitFileReturnBool" alt="" coords="530,232,722,273"/>
+<area shape="rect" id="node4" href="$dc/d2f/_codegen_cpp_init_8c.html#a801330c40eb3f7cea2816f708d19dc5b" title="omc_CodegenCppInit\l_fun__50" alt="" coords="803,36,951,77"/>
+<area shape="rect" id="node5" href="$d5/da2/_codegen_cpp_init_8h.html#ac257973af37928f36c34a4cafa0b34e2" title="omc_CodegenCppInit\l_fmiDescriptionAttributes" alt="" coords="1036,5,1205,47"/>
+<area shape="rect" id="node6" href="$dc/d2f/_codegen_cpp_init_8c.html#a63902d709ec9594c7c97a0a365680316" title="boxptr_CodegenCppInit\l_fun__50" alt="" coords="1041,71,1200,112"/>
+<area shape="rect" id="node8" href="$de/dac/_codegen_f_m_u1_8h.html#a67e53a1cf7188bfe6615835b10f7e028" title="omc_CodegenFMU1_fmiModel\lDescription" alt="" coords="776,167,979,208"/>
+<area shape="rect" id="node9" href="$de/dab/_codegen_f_m_u_8c.html#ad839862d643bffb62d70b39e163f37e0" title="omc_CodegenFMU_fun__49" alt="" coords="1027,139,1215,166"/>
+<area shape="rect" id="node10" href="$d8/da1/_codegen_f_m_u_8h.html#ab406ca74d55a23a140f7154156caaaeb" title="omc_CodegenFMU_fmuModelDescriptionFile" alt="" coords="1263,114,1549,141"/>
+<area shape="rect" id="node15" href="$de/dab/_codegen_f_m_u_8c.html#a5ad87987e9b564d36a88c5dd78990def" title="boxptr_CodegenFMU_fun__49" alt="" coords="1307,165,1505,191"/>
+<area shape="rect" id="node11" href="$d8/da1/_codegen_f_m_u_8h.html#a486a01f4defbf1db43fd8fdd71e82656" title="omc_CodegenFMU_translate\lModel" alt="" coords="1607,77,1799,119"/>
+<area shape="rect" id="node12" href="$de/df5/_codegen_f_m_u_cpp_8c.html#aa38e658cee6875c488b5859a6f65bb37" title="omc_CodegenFMUCpp_fun__47" alt="" coords="1597,143,1809,170"/>
+<area shape="rect" id="node13" href="$d5/d4c/_codegen_f_m_u_cpp_8h.html#a1fc774045fbfd7b6dc9872f8b61ccdad" title="omc_CodegenFMUCpp_translate\lModel" alt="" coords="1857,103,2073,144"/>
+<area shape="rect" id="node14" href="$de/df5/_codegen_f_m_u_cpp_8c.html#a550674c710d12e1c9c428b6ad3566e7d" title="boxptr_CodegenFMUCpp\l_fun__47" alt="" coords="1880,168,2051,209"/>
+<area shape="rect" id="node17" href="$d4/d4c/_codegen_f_m_u2_8h.html#aaa1761820abd6669ab97539368130e5e" title="omc_CodegenFMU2_fmiModel\lDescription" alt="" coords="776,101,979,143"/>
+<area shape="rect" id="node19" href="$d9/daa/_serialize_init_x_m_l_8h.html#ad27befc2b062eb54e51c4239f0dcc6ad" title="boxptr_SerializeInitXML\l_simulationInitFileReturnBool" alt="" coords="781,297,973,339"/>
+<area shape="rect" id="node20" href="$d9/daa/_serialize_init_x_m_l_8h.html#aec76466049211bae482ca0b1d35a2f29" title="omc_SerializeInitXML\l_simulationInitFile" alt="" coords="803,232,952,273"/>
+</map>

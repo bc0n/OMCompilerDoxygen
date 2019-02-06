@@ -1,0 +1,11 @@
+<map id="MLAPI::LinearCombinationAdd::Set" name="MLAPI::LinearCombinationAdd::Set">
+<area shape="rect" id="node2" href="$d5/d12/class_m_l_a_p_i_1_1_linear_combination_mixed.html#a88445735b3a731347d688efcc921f79d" title="MLAPI::LinearCombination\lMixed::LinearCombinationMixed" alt="" coords="237,5,445,47"/>
+<area shape="rect" id="node3" href="$d3/d82/class_m_l_a_p_i_1_1_linear_combination_scaled.html#a7b7d894b8ac6b3e90629b56623f7a5dd" title="MLAPI::LinearCombination\lScaled::LinearCombinationScaled" alt="" coords="232,71,451,112"/>
+<area shape="rect" id="node4" href="$d4/d7e/class_m_l_a_p_i_1_1_multi_vector_scaled.html#ac35d78650fabe2c8ca61afc8dec3066f" title="MLAPI::MultiVectorScaled\l::GetScalar" alt="" coords="253,136,429,177"/>
+<area shape="rect" id="node6" href="$d1/d50/class_m_l_a_p_i_1_1_multi_vector_combination.html#abf5cba5099ad72ccc6b985dbd01f7336" title="MLAPI::MultiVectorCombination\l::GetRightScalar" alt="" coords="237,201,446,243"/>
+<area shape="rect" id="node7" href="$dd/df3/class_m_l_a_p_i_1_1_base_operator_times_multi_vector.html#a07d1b8de608a010807f8dd181881292c" title="MLAPI::BaseOperatorTimes\lMultiVector::GetMultiVector" alt="" coords="248,267,435,308"/>
+<area shape="rect" id="node10" href="$d2/d15/class_m_l_a_p_i_1_1_residual.html#ac2b3fabe10e951e0622710d6f1ea68e6" title="MLAPI::Residual::Residual" alt="" coords="251,333,431,359"/>
+<area shape="rect" id="node5" href="$d8/dc5/namespace_m_l_a_p_i.html#a67aae181510b908a4bc7241f201a09fd" title="Creates a new MultiVector, defined as alpha * x + beta * y. " alt="" coords="499,143,624,170"/>
+<area shape="rect" id="node8" href="$d8/dc5/namespace_m_l_a_p_i.html#a417990acd4e8ed720ff15934ea3e0758" title="Creates a new MultiVector, defined as alpha * x + A * y. " alt="" coords="499,249,624,275"/>
+<area shape="rect" id="node9" href="$d8/dc5/namespace_m_l_a_p_i.html#a1d875f7b716eccdd6c8deac17999e4a2" title="Creates a new MultiVector, defined as x &#45; A * y. " alt="" coords="501,299,622,326"/>
+</map>
